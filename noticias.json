@@ -1,11 +1,5 @@
 [
-  {
-    "titulo": "Parceria entre Iphan e Ufba restaura imagens sacras na Bahia",
-    "data": "16/01/2025",
-    "resumo": "16/01/2025\n                                        \n                                         - \n                                        As primeiras peças concluídas foram entregues neste mês de janeiro, em Igatu, na Chapada Diamantina",
-    "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/parceria-entre-iphan-e-ufba-restaura-imagens-sacras-na-bahia/restauracao-igatu.jpg/@@images/image",
-    "fonte": "www.gov.br"
-  },
+  
   {
     "titulo": "Brasil e Benin instalam comitê para fortalecimento da cultura dos dois países",
     "data": "10/01/2025",
@@ -62,25 +56,5 @@
     "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250117090148_201a6876d0e80a692cae847cc996e58eabe9e20bd73b6e721baff7c20d36eede.webp?w=3840&q=75",
     "fonte": "www.brasil247.com"
   },
-  {
-    "titulo": "Fernanda Torres brilha no ‘Jimmy Kimmel Live!’ e exalta \"Ainda Estou Aqui\" (vídeo)",
-    "data": "Sem data",
-    "resumo": "O filme, dirigido por Walter Salles, estreia nesta sexta-feira nos cinemas americanos e já acumula críticas positivas",
-    "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250117090112_170af75742bf5f44d5a6c3b0a26b3caba42c7643a25eb2ffbc3bc4db0fa18401.webp?w=3840&q=75",
-    "fonte": "www.brasil247.com"
-  },
-  {
-    "titulo": "Criador de 'Twin Peaks', cineasta David Lynch morre aos 78 anos",
-    "data": "Sem data",
-    "resumo": "Lynch foi considerado um mestre do surrealismo e um dos cineastas mais inovadores de sua geração",
-    "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025011616014_355e7430c1aa99441aa7ce9243a9ef0c5e774d4d4ced9a5494acfbf4892c9d43.webp?w=3840&q=75",
-    "fonte": "www.brasil247.com"
-  },
-  {
-    "titulo": "Como “Emilia Pérez”, rival de “Ainda Estou Aqui” no Oscar, foi de queridinho da crítica a filme mais debochado do ano",
-    "data": "Sem data",
-    "resumo": "Apesar dos elogios, \"Emilia Pérez\" também enfrenta críticas severas",
-    "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250116070156_a3d105782ca3ada1d5ae1056244adfb97a1547553979c2cdf4b071f2f106875c.webp?w=3840&q=75",
-    "fonte": "www.brasil247.com"
-  }
+ 
 ]
