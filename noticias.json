@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "titulo": "Parceria entre Iphan e Ufba restaura imagens sacras na Bahia",
+    "data": "16/01/2025",
+    "resumo": "16/01/2025\n                                        \n                                         - \n                                        As primeiras peças concluídas foram entregues neste mês de janeiro, em Igatu, na Chapada Diamantina",
+    "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/parceria-entre-iphan-e-ufba-restaura-imagens-sacras-na-bahia/restauracao-igatu.jpg/@@images/image",
+    "fonte": "www.gov.br/iphan"
+  },
+  {
+    "titulo": "Brasil e Benin instalam comitê para fortalecimento da cultura dos dois países",
+    "data": "10/01/2025",
+    "resumo": "10/01/2025\n                                        \n                                         - \n                                        A medida amplia a cooperação mútua no campo das artes, audiovisual e Patrimônio Cultural",
+    "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/brasil-e-benin-instalam-comite-para-fortalecimento-da-cultura-dos-dois-paises/beninreunio1.jpg/@@images/image",
+    "fonte": "www.gov.br/iphan"
+  },
+  {
+    "titulo": "Fazenda Colubandê, em São Gonçalo (RJ), é restaurada",
+    "data": "10/01/2025",
+    "resumo": "10/01/2025\n                                        \n                                         - \n                                        Fundada no século XVIII, construção é considerada uma das mais importantes do período colonial",
+    "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/fazenda-colubande-em-sao-goncalo-rj-e-restaurada/WhatsAppImage20241220at10.46.031.jpeg/@@images/image",
+    "fonte": "www.gov.br/iphan"
+  },
+  {
+    "titulo": "Petrobras inicia parceria com cinema histórico de São Paulo",
+    "data": "Sem data",
+    "resumo": "Espaço Petrobras de Cinema será inaugurado com celebração ao audiovisual nacional na Rua Augusta",
+    "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250118060132_48036c18-9bca-4862-85f8-e08ef38a5bb3.webp?w=3840&q=75",
+    "fonte": "www.brasil247.com"
+  },
+  {
+    "titulo": "Inquérito de violência psicológica contra Marcius Melhem chega ao fim",
+    "data": "Sem data",
+    "resumo": "A Vara Criminal do Rio de Janeiro atendeu a um pedido feito pelo Ministério Público",
+    "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20201024171032_9161ac075d65a38c7e72fc45110089fb238a4cffc2e14add7790094a906bebb3.webp?w=3840&q=75",
+    "fonte": "www.brasil247.com"
+  },
+  {
+    "titulo": "Editora Thieme está com chamada de trabalho aberta para janeiro",
+    "data": "09/01/2025",
+    "resumo": "09/01/2025 -\n                Serão aceitos artigos sobre catálise de metais de transição de primeira linha para síntese orgânica",
+    "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Thieme.png",
+    "fonte": "www.periodicos.capes.gov.br"
+  },
+  {
+    "titulo": "Emerald abre chamadas para dezembro de 2024 e janeiro de 2025",
+    "data": "30/12/2024",
+    "resumo": "30/12/2024 -\n                As produções poderão ser enviadas até 30 e 31 de dezembro, e 15, 16 e 31 de janeiro",
+    "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Matria_Emerald.png",
+    "fonte": "www.periodicos.capes.gov.br"
+  },
+  {
+    "titulo": "Entenda o que muda na nova interface do Portal de Periódicos",
+    "data": "03/12/2024",
+    "resumo": "03/12/2024 -\n                A partir de agora, os usuários têm acesso a novas funcionalidades, nova organização e melhorias na acessibilidade do site",
+    "imagem": "https://www.periodicos.capes.gov.br/images/news/Nova_Interface.png",
+    "fonte": "www.periodicos.capes.gov.br"
+  }
+]
