@@ -1,6 +1,26 @@
 {
   "noticias_sites": [
-   
+    {
+      "titulo": "Teatros da Amazônia avançam na candidatura a Patrimônio Mundial",
+      "data": "31/01/2025",
+      "resumo": "31/01/2025\n                                        \n                                         - \n                                        Foi entregue à Unesco dossiê que será avaliado para reconhecimento internacional do Teatro Amazonas e do Teatro da Paz",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/teatros-da-amazonia-avancam-na-candidatura-a-patrimonio-mundial/destaqueteatros.png/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
+      "titulo": "Comitê Gestor do Iphan se reúne em Brasília (DF) para alinhamento das ações até 2028",
+      "data": "31/01/2025",
+      "resumo": "31/01/2025\n                                        \n                                         - \n                                        Recriado em 2023, o comitê é fundamental para o planejamento do Instituto",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/comite-gestor-do-iphan-se-reune-em-brasilia-df-para-alinhamento-das-acoes-ate-2028/whatsapp-image-2025-01-28-at-17-39-16-1-2.jpeg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
+      "titulo": "Iphan moderniza Banco de Bens Culturais Procurados",
+      "data": "31/01/2025",
+      "resumo": "31/01/2025\n                                        \n                                         - \n                                        O principal banco de dados sobre objetos tombados desaparecidos possui mais de 1,8 mil bens cadastrados",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-moderniza-banco-de-bens-culturais-procurados/design-sem-nome-13.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
     {
       "titulo": "Comissão de Anistia do Brasil apoia série 'Operação Condor' e reforça compromisso com a memória histórica",
       "data": "Sem data",
