@@ -1,54 +1,58 @@
-{
-  "noticias_sites": [
-    {
-      "titulo": "Iphan moderniza Banco de Bens Culturais Procurados",
-      "data": "31/01/2025",
-      "resumo": "31/01/2025\n                                        \n                                         - \n                                        O principal banco de dados sobre objetos tombados desaparecidos possui mais de 1,8 mil bens cadastrados",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-moderniza-banco-de-bens-culturais-procurados/design-sem-nome-13.jpg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Iphan recebe honraria pela preservação do Patrimônio Cultural em Rondônia",
-      "data": "29/01/2025",
-      "resumo": "29/01/2025\n                                        \n                                         - \n                                        A Comenda Madeira-Mamoré reconhece o trabalho em prol da Estrada de Ferro Madeira-Mamoré, em Porto Velho",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-honraria-pela-preservacao-do-patrimonio-cultural-em-rondonia/banner-ro.jpg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Aberta consulta pública sobre Kene Kuĩ, grafismos do povo Huni Kuĩ",
-      "data": "22/01/2025",
-      "resumo": "22/01/2025\n                                        \n                                         - \n                                        Sociedade tem até 21 de fevereiro para se manifestar sobre o pedido de registro do bem cultural",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/aberta-consulta-publica-sobre-kene-kui-grafismos-do-povo-huni-kui/2011-oficina-jordao-deborah-castor-1.jpg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Comissão de Anistia do Brasil apoia série 'Operação Condor' e reforça compromisso com a memória histórica",
-      "data": "Sem data",
-      "resumo": "Produção dirigida por Cleonildo Cruz e Luiz Gonzaga Belluzzo contará com Jamil Chade e Heleno Araújo como consultores latino-americanos",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20180629180612_dc51038ac9780dc1245dcb6f81e01d36a6ed78a30bfdba65e7a73d43e35ee934.webp?w=3840&q=75",
-      "fonte": "www.brasil247.com"
-    },
-    {
-      "titulo": "Karla Sofía, estrela do filme Emilia Pérez, corre o risco ser banida do Oscar 2025",
-      "data": "Sem data",
-      "resumo": "Karla revelou estar sendo \"bombardeada\" por fãs de Fernanda Torres",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250116070156_a3d105782ca3ada1d5ae1056244adfb97a1547553979c2cdf4b071f2f106875c.webp?w=3840&q=75",
-      "fonte": "www.brasil247.com"
-    },
-    {
-      "titulo": "Editora Thieme está com chamada de trabalho aberta para janeiro",
-      "data": "09/01/2025",
-      "resumo": "09/01/2025 -\n                Serão aceitos artigos sobre catálise de metais de transição de primeira linha para síntese orgânica",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Thieme.png",
-      "fonte": "www.periodicos.capes.gov.br"
-    },
-    {
-      "titulo": "Emerald abre chamadas para dezembro de 2024 e janeiro de 2025",
-      "data": "30/12/2024",
-      "resumo": "30/12/2024 -\n                As produções poderão ser enviadas até 30 e 31 de dezembro, e 15, 16 e 31 de janeiro",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Matria_Emerald.png",
-      "fonte": "www.periodicos.capes.gov.br"
-    }
-  ],
-  "noticias_escritorio": []
-}
+[
+  {
+    "titulo": "Comitê Gestor do Iphan se reúne em Brasília (DF) para alinhamento das ações até 2028",
+    "data": "31/01/2025",
+    "resumo": "31/01/2025\n                                        \n                                         - \n                                        Recriado em 2023, o comitê é fundamental para o planejamento do Instituto",
+    "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/comite-gestor-do-iphan-se-reune-em-brasilia-df-para-alinhamento-das-acoes-ate-2028/whatsapp-image-2025-01-28-at-17-39-16-1-2.jpeg/@@images/image",
+    "fonte": "www.gov.br/iphan"
+  },
+  {
+    "titulo": "Iphan moderniza Banco de Bens Culturais Procurados",
+    "data": "31/01/2025",
+    "resumo": "31/01/2025\n                                        \n                                         - \n                                        O principal banco de dados sobre objetos tombados desaparecidos possui mais de 1,8 mil bens cadastrados",
+    "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-moderniza-banco-de-bens-culturais-procurados/design-sem-nome-13.jpg/@@images/image",
+    "fonte": "www.gov.br/iphan"
+  },
+  {
+    "titulo": "Iphan recebe honraria pela preservação do Patrimônio Cultural em Rondônia",
+    "data": "29/01/2025",
+    "resumo": "29/01/2025\n                                        \n                                         - \n                                        A Comenda Madeira-Mamoré reconhece o trabalho em prol da Estrada de Ferro Madeira-Mamoré, em Porto Velho",
+    "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-honraria-pela-preservacao-do-patrimonio-cultural-em-rondonia/banner-ro.jpg/@@images/image",
+    "fonte": "www.gov.br/iphan"
+  },
+  {
+    "titulo": "Comissão de Anistia do Brasil apoia série 'Operação Condor' e reforça compromisso com a memória histórica",
+    "data": "Sem data",
+    "resumo": "Produção dirigida por Cleonildo Cruz e Luiz Gonzaga Belluzzo contará com Jamil Chade e Heleno Araújo como consultores latino-americanos",
+    "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20180629180612_dc51038ac9780dc1245dcb6f81e01d36a6ed78a30bfdba65e7a73d43e35ee934.webp?w=3840&q=75",
+    "fonte": "www.brasil247.com"
+  },
+  {
+    "titulo": "Karla Sofía, estrela do filme Emilia Pérez, corre o risco ser banida do Oscar 2025",
+    "data": "Sem data",
+    "resumo": "Karla revelou estar sendo \"bombardeada\" por fãs de Fernanda Torres",
+    "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250116070156_a3d105782ca3ada1d5ae1056244adfb97a1547553979c2cdf4b071f2f106875c.webp?w=3840&q=75",
+    "fonte": "www.brasil247.com"
+  },
+  {
+    "titulo": "Editora Thieme está com chamada de trabalho aberta para janeiro",
+    "data": "09/01/2025",
+    "resumo": "09/01/2025 -\n                Serão aceitos artigos sobre catálise de metais de transição de primeira linha para síntese orgânica",
+    "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Thieme.png",
+    "fonte": "www.periodicos.capes.gov.br"
+  },
+  {
+    "titulo": "Emerald abre chamadas para dezembro de 2024 e janeiro de 2025",
+    "data": "30/12/2024",
+    "resumo": "30/12/2024 -\n                As produções poderão ser enviadas até 30 e 31 de dezembro, e 15, 16 e 31 de janeiro",
+    "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Matria_Emerald.png",
+    "fonte": "www.periodicos.capes.gov.br"
+  },
+  {
+    "titulo": "Entenda o que muda na nova interface do Portal de Periódicos",
+    "data": "03/12/2024",
+    "resumo": "03/12/2024 -\n                A partir de agora, os usuários têm acesso a novas funcionalidades, nova organização e melhorias na acessibilidade do site",
+    "imagem": "https://www.periodicos.capes.gov.br/images/news/Nova_Interface.png",
+    "fonte": "www.periodicos.capes.gov.br"
+  }
+]
