@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enviar Notícia</title>
+  <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+  <style>
+    /* Estilo Dark Responsivo */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #121212;
+      color: #e0e0e0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px;
+      margin: 0;
+    }
+    
+    .container {
+      position: relative; /* Necessário para posicionar o overlay */
+      background-color: #1e1e1e;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+      width: 100%;
+      max-width: 500px;
+      text-align: center;
+    }
+    
+    h2 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #ffffff;
+    }
+    
+    label {
+      font-weight: bold;
+      margin-bottom: 5px;
+      display: block;
+      text-align: left;
+      width: 90%;
+      margin: auto;
+    }
+    
+    input,
+    textarea {
+      width: 90%;
+      padding: 10px;
+      margin-bottom: 10px;
+      background-color: #2a2a2a;
+      border: 1px solid #444;
+      border-radius: 5px;
+      color: #ffffff;
+      outline: none;
+      transition: 0.3s;
+      text-align: center;
+      display: block;
+      margin: auto;
+    }
+    
+    input:focus,
+    textarea:focus {
+      border-color: #1db954;
+    }
+    
+    textarea {
+      resize: none;
+      height: 100px;
+    }
+    
+    .character-count {
+      font-size: 12px;
+      text-align: right;
+      color: #aaa;
+      width: 90%;
+      margin: auto;
+      display: block;
+    }
+    
+    button {
+      width: 100%;
+      padding: 10px;
+      background-color: #1db954;
+      border: none;
+      color: white;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    
+    button:hover {
+      background-color: #16a34a;
+    }
+    
+    button:disabled {
+      background-color: #444;
+      cursor: not-allowed;
+    }
+    
+    /* Miniatura da imagem */
+    .preview-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 5px;
+    }
+    
+    #imagePreview {
+      display: none;
+      max-width: 120px;
+      max-height: 120px;
+      border-radius: 5px;
+      border: 2px solid #1db954;
+      margin-top: 5px;
+    }
+    
+    /* Loading Overlay */
+    .loading-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.7);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      border-radius: 8px;
+      z-index: 10;
+      visibility: hidden;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+    
+    .loading-overlay.active {
+      visibility: visible;
+      opacity: 1;
+    }
+    
+    .spinner {
+      border: 4px solid #f3f3f3;
+      border-top: 4px solid #1db954;
+      border-radius: 50%;
+      width: 40px;
+      height: 40px;
+      animation: spin 1s linear infinite;
+    }
+    
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    
+    .loading-message {
+      margin-top: 10px;
+      color: #fff;
+      font-size: 14px;
+    }
+    
+    /* Responsividade */
+    @media (max-width: 600px) {
+      .container {
+        padding: 15px;
+        max-width: 90%;
+      }
+      
+      textarea {
+        height: 80px;
+      }
+      
+      button {
+        font-size: 14px;
+        padding: 8px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Enviar Notícia do Escritório</h2>
+    <form id="noticiaForm">
+      <label for="titulo">Título (máx. 60 caracteres)</label>
+      <input type="text" id="titulo" maxlength="60" required>
+      <span id="charCountTitulo">0/60</span>
+
+      <label for="data">Data</label>
+      <input type="text" id="data" required>
+
+      <label for="resumo">Resumo (máx. 135 caracteres)</label>
+      <textarea id="resumo" maxlength="135" required></textarea>
+      <span id="charCountResumo">0/135</span>
+
+      <label for="imagem">Imagem</label>
+      <input type="file" id="imagem" accept="image/*" required>
+      <div class="preview-container">
+        <img id="imagePreview" alt="Pré-visualização">
+      </div>
+
+      <label for="fonte">Fonte</label>
+      <input type="email" id="fonte" value="escritoriosaoraimun@iphan.gov.br" readonly>
+
+      <button type="submit">Enviar Notícia</button>
+    </form>
+
+    <!-- Overlay de loading -->
+    <div id="loadingOverlay" class="loading-overlay">
+      <div class="spinner"></div>
+      <div class="loading-message">Enviando notícia...</div>
+    </div>
+  </div>
+
+  <script>
+    // --- Funções utilitárias de Loading ---
+    function showLoading() {
+      document.getElementById('loadingOverlay').classList.add('active');
+    }
+    function hideLoading() {
+      document.getElementById('loadingOverlay').classList.remove('active');
+    }
+
+    // --- Preview da imagem ---
+    document.getElementById('imagem').addEventListener('change', function (event) {
+      const file = event.target.files[0];
+      if (file) {
+        const reader = new FileReader();
+        reader.onload = function (e) {
+          const imagePreview = document.getElementById('imagePreview');
+          imagePreview.src = e.target.result;
+          imagePreview.style.display = "block";
+        };
+        reader.readAsDataURL(file);
+      }
+    });
+
+    // --- Manipulação do envio do formulário ---
+    document.getElementById('noticiaForm').addEventListener('submit', async function (event) {
+      event.preventDefault();
+      showLoading();
+
+      const submitButton = this.querySelector('button[type="submit"]');
+      submitButton.disabled = true; // Evita cliques repetidos
+
+      const titulo = document.getElementById('titulo').value.trim();
+      const dataNoticia = document.getElementById('data').value.trim();
+      const resumo = document.getElementById('resumo').value.trim();
+      const fonte = document.getElementById('fonte').value;
+      const imagemInput = document.getElementById('imagem').files[0];
+
+      if (!imagemInput) {
+        alert("Por favor, selecione uma imagem.");
+        hideLoading();
+        submitButton.disabled = false;
+        return;
+      }
+
+      const reader = new FileReader();
+      reader.readAsDataURL(imagemInput);
+      reader.onload = async function () {
+        // Extrai apenas a parte em Base64 (sem o header "data:image/...")
+        const base64Image = reader.result.split(',')[1];
+        const fileName = imagemInput.name;
+
+        // Cria o payload para enviar para a função serverless
+        const payload = {
+          titulo,
+          data: dataNoticia,
+          resumo,
+          fonte,
+          imagem: base64Image,
+          fileName
+        };
+
+        try {
+          const response = await fetch('/.netlify/functions/submit-noticia', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(payload)
+          });
+          const data = await response.json();
+          if (response.ok) {
+            alert(data.message);
+            location.reload();
+          } else {
+            alert(data.error || 'Erro ao enviar notícia');
+          }
+        } catch (err) {
+          console.error(err);
+          alert('Erro ao enviar notícia');
+        } finally {
+          hideLoading();
+          submitButton.disabled = false;
+        }
+      };
+    });
+
+    // --- Atualização dos contadores de caracteres ---
+    document.getElementById('titulo').addEventListener('input', function () {
+      document.getElementById('charCountTitulo').innerText = `${this.value.length}/60`;
+    });
+    document.getElementById('resumo').addEventListener('input', function () {
+      document.getElementById('charCountResumo').innerText = `${this.value.length}/135`;
+    });
+
+    // --- Configuração do Flatpickr ---
+    flatpickr("#data", { dateFormat: "d/m/Y" });
+  </script>
+</body>
+</html>
