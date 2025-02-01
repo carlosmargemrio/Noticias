@@ -51,18 +51,12 @@
     }
   ],
   "noticias_escritorio": [
+    
     {
       "titulo": "1Âº SimpÃ³sio de GestÃ£o Ambiental do Nordeste e da Caatinga",
       "data": "09/01/2025",
       "resumo": "26 a 29 de marÃ§o, o 1Âº SimpÃ³sio Ambiental Nordeste/Caatinga reÃºne especialistas que debatem clima, socioeconÃ´mia e biodiversidade.",
       "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/cap.jpg",
-      "fonte": "escritoriosaoraimun@iphan.gov.br"
-    },
-    {
-      "titulo": "Novembro foi mês de fiscalizações aos sítios arqueológicos",
-      "data": "14/11/2024",
-      "resumo": "Um parágrafo Um parágrafo Um parágrafo Um parágrafo Um parágrafo Um parágrafo Um parágrafo Um parágrafo Um parágrafo Um parágrafo Um parágrafo Um pa",
-      "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/_051c6f20-c497-4903-9b6c-b540c664ebf9.jpg",
       "fonte": "escritoriosaoraimun@iphan.gov.br"
     }
   ]
