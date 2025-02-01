@@ -78,6 +78,13 @@
       "resumo": "// Configuração do Flatpickr para o campo data\n    flatpickr(\"#data\", { dateFormat: \"d/m/Y\" });// Configuração do Flatpickr para o camp",
       "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/DSCF3200.JPG",
       "fonte": "escritoriosaoraimun@iphan.gov.br"
+    },
+    {
+      "titulo": "ASas",
+      "data": "06/02/2025",
+      "resumo": "asASaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/Brucce02.jpg",
+      "fonte": "escritoriosaoraimun@iphan.gov.br"
     }
   ]
 }
