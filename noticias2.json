@@ -57,34 +57,6 @@
       "resumo": "26 a 29 de março, o 1º Simpósio Ambiental Nordeste/Caatinga reúne especialistas que debatem clima, socioeconômia e biodiversidade.",
       "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/cap.jpg",
       "fonte": "escritoriosaoraimun@iphan.gov.br"
-    },
-    {
-      "titulo": "Novembro foi mês de fiscalizações aos sítios arqueológicos",
-      "data": "21/11/2024",
-      "resumo": "Lorem ipsum odor amet, consectetuer adipiscing elit. Ultrices convallis sed inceptos quis blandit habitasse nam iaculis. Sed vestibulum tincidunt feug",
-      "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/_051c6f20-c497-4903-9b6c-b540c664ebf9.jpg",
-      "fonte": "escritoriosaoraimun@iphan.gov.br"
-    },
-    {
-      "titulo": "Fiscalização de Sítios arqueológicos SICG",
-      "data": "03/02/2025",
-      "resumo": "Lorem ipsum odor amet, consectetuer adipiscing elit. Ultrices convallis sed inceptos quis blandit habitasse nam iaculis. Sed vestibulum tincidunt feug",
-      "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/jumento.jpg",
-      "fonte": "escritoriosaoraimun@iphan.gov.br"
-    },
-    {
-      "titulo": "Fiscalização de Sítios arqueológicos SICG3",
-      "data": "15/02/2025",
-      "resumo": "// Configuração do Flatpickr para o campo data\n    flatpickr(\"#data\", { dateFormat: \"d/m/Y\" });// Configuração do Flatpickr para o camp",
-      "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/DSCF3200.JPG",
-      "fonte": "escritoriosaoraimun@iphan.gov.br"
-    },
-    {
-      "titulo": "ASas",
-      "data": "06/02/2025",
-      "resumo": "asASaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-      "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/Brucce02.jpg",
-      "fonte": "escritoriosaoraimun@iphan.gov.br"
     }
   ]
 }
