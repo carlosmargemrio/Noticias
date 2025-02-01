@@ -51,6 +51,12 @@
     }
   ],
   "noticias_escritorio": [
-    
+    {
+      "titulo": "Fiscalização de Sítios arqueológicos",
+      "data": "23/01/2025",
+      "resumo": "12321321321321321333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333",
+      "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/TimePhoto_20241126_090623.jpg",
+      "fonte": "escritoriosaoraimun@iphan.gov.br"
+    }
   ]
 }
