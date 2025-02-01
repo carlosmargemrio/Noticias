@@ -71,6 +71,13 @@
       "resumo": "Lorem ipsum odor amet, consectetuer adipiscing elit. Ultrices convallis sed inceptos quis blandit habitasse nam iaculis. Sed vestibulum tincidunt feug",
       "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/jumento.jpg",
       "fonte": "escritoriosaoraimun@iphan.gov.br"
+    },
+    {
+      "titulo": "Fiscalização de Sítios arqueológicos SICG3",
+      "data": "15/02/2025",
+      "resumo": "// Configuração do Flatpickr para o campo data\n    flatpickr(\"#data\", { dateFormat: \"d/m/Y\" });// Configuração do Flatpickr para o camp",
+      "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/DSCF3200.JPG",
+      "fonte": "escritoriosaoraimun@iphan.gov.br"
     }
   ]
 }
