@@ -71,6 +71,13 @@
       "resumo": "/* Estilo Dark Responsivo para o Formulário */\n        body {\n            font-family: Arial, sans-serif;\n            background-color: #121212;\n            color: #e0e0e0;\n            displ",
       "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/_051c6f20-c497-4903-9b6c-b540c664ebf9.jpg",
       "fonte": "escritoriosaoraimun@iphan.gov.br"
+    },
+    {
+      "titulo": "1º Simpósio de Gestão Ambiental do Nordeste e da Caatinga",
+      "data": "31/01/2025",
+      "resumo": "De 26 a 29/03/2025, o 1º Simpósio Ambiental do Nordeste e Caatinga reúne especialistas para debater clima, impactos socioeconômicos e biodiversidade",
+      "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/cap.jpg",
+      "fonte": "escritoriosaoraimun@iphan.gov.br"
     }
   ]
 }
