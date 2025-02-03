@@ -71,6 +71,13 @@
       "resumo": "asdasdasdasdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
       "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/Guarani02.jpg",
       "fonte": "escritoriosaoraimun@iphan.gov.br"
+    },
+    {
+      "titulo": "Novembro foi mês de fiscalizações aos sítios arqueológicos",
+      "data": "03/02/2025",
+      "resumo": "Um resumo da notícia que não deverá ter mais que 135 caracteres.",
+      "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/Guarani01.jpg",
+      "fonte": "escritoriosaoraimun@iphan.gov.br"
     }
   ]
 }
