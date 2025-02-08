@@ -1,5 +1,55 @@
 {
-  "noticias_sites": [],
+  "noticias_sites": [
+    {
+      "titulo": "Bastião nas Terras de São Saruê: Teatro de Bonecos ganha livro ilustrado",
+      "data": "07/02/2025",
+      "resumo": "07/02/2025\n                                        \n                                         - \n                                        Em Brasília (DF), sede do Iphan será palco do lançamento da publicação no dia 12 de fevereiro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/bastiao-nas-terras-de-sao-sarue-teatro-de-bonecos-ganha-livro-ilustrado/lancamentolivro_bastiao_banner-site.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
+      "titulo": "Evento debate a salvaguarda da Capoeira no Espírito Santo (ES)",
+      "data": "04/02/2025",
+      "resumo": "04/02/2025\n                                        \n                                         - \n                                        Encontro foi marcado pela consolidação do plano de salvaguarda estadual do bem registrado",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/evento-debate-a-salvaguarda-da-capoeira-no-espirito-santo-es/xxxWhatsAppImage20250204at10.38.1311.png/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
+      "titulo": "Publicações sobre o Patrimônio Cultural em Roraima trazem tradução em línguas indígenas e jogos interativos",
+      "data": "04/02/2025",
+      "resumo": "04/02/2025\n                                        \n                                         - \n                                        Os materiais estão disponíveis para download gratuito na página do Iphan",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/publicacoes-sobre-o-patrimonio-cultural-em-roraima-trazem-traducao-em-linguas-indigenas-e-jogos-interativos/PatrimnioCulturaldeRoraimaFolder.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
+      "titulo": "“Emilia Pérez” vence “Ainda Estou Aqui” no Critics' Choice Awards de 2025",
+      "data": "Sem data",
+      "resumo": "\"Emilia Pérez\" conta a história de um chefe de cartel mexicano que contrata uma advogada para ajudá-lo a desaparecer e realizar sua transição de gênero",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250208120224_7be84531e2d3cec11af676225a418d2c91ee84d8c972c49cf7e214ec88af1b1e.webp?w=3840&q=75",
+      "fonte": "www.brasil247.com"
+    },
+    {
+      "titulo": "Atriz Karla Sofia Gascón diz que ficará em silêncio para ajudar filme \"Emilia Pérez\" no Oscar",
+      "data": "Sem data",
+      "resumo": "Em publicações antigas no X, atriz fez comentários supostamente depreciativos sobre vários grupos",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250208090224_d2bd7c11ca5a61abf41e8cfb5e1d3908dcb8132c2dc81fd9f6b38333ea723bf8.webp?w=3840&q=75",
+      "fonte": "www.brasil247.com"
+    },
+    {
+      "titulo": "Editora Thieme está com chamada de trabalho aberta para janeiro",
+      "data": "09/01/2025",
+      "resumo": "09/01/2025 -\n                Serão aceitos artigos sobre catálise de metais de transição de primeira linha para síntese orgânica",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Thieme.png",
+      "fonte": "www.periodicos.capes.gov.br"
+    },
+    {
+      "titulo": "Emerald abre chamadas para dezembro de 2024 e janeiro de 2025",
+      "data": "30/12/2024",
+      "resumo": "30/12/2024 -\n                As produções poderão ser enviadas até 30 e 31 de dezembro, e 15, 16 e 31 de janeiro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Matria_Emerald.png",
+      "fonte": "www.periodicos.capes.gov.br"
+    }
+  ],
   "noticias_escritorio": [
     {
       "titulo": "1º Simpósio de Gestão Ambiental do Nordeste e da Caatinga",
