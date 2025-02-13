@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan monta força-tarefa para atuar no caso da Igreja de São Francisco, em Salvador",
+      "data": "12/02/2025",
+      "resumo": "12/02/2025\n                                        \n                                         - \n                                        Além de dar suporte à contratação de obras emergenciais na Igreja, equipe ajudará em decisões sobre o Convento e outros imóveis no Centro Histórico da capital baiana.",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-monta-forca-tarefa-para-atuar-no-caso-da-igreja-de-sao-francisco-em-salvador/bannersite.png/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Iphan reforça diálogo com municípios no Encontro de Novos Prefeitos e Prefeitas",
       "data": "12/02/2025",
       "resumo": "12/02/2025\n                                        \n                                         - \n                                        Em Brasília, Instituto dialoga com gestores municipais sobre Novo PAC, PNAB e outros instrumentos de preservação e fomento do Patrimônio.",
@@ -15,24 +22,17 @@
       "fonte": "www.gov.br/iphan"
     },
     {
-      "titulo": "Evento debate a salvaguarda da Capoeira no Espírito Santo (ES)",
-      "data": "04/02/2025",
-      "resumo": "04/02/2025\n                                        \n                                         - \n                                        Encontro foi marcado pela consolidação do plano de salvaguarda estadual do bem registrado",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/evento-debate-a-salvaguarda-da-capoeira-no-espirito-santo-es/xxxWhatsAppImage20250204at10.38.1311.png/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
       "titulo": "Martinho da Vila: 87 anos de um legado inigualável para a música e a cultura brasileira",
       "data": "Sem data",
       "resumo": "Cantor, compositor, escritor e intelectual do povo, Martinho ultrapassou as barreiras da música para se tornar um verdadeiro símbolo da identidade nacional",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20190530150544_9500aaaa98ceddf7a700d72b8c48e5fd2337332d472a460981a8926c7dc3e507.webp?w=3840&q=75",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20190530150544_9500aaaa98ceddf7a700d72b8c48e5fd2337332d472a460981a8926c7dc3e507.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
       "titulo": "Com festa e carinho, Preta Gil é recebida em casa após tratamento contra tumor no intestino (vídeo)",
       "data": "Sem data",
       "resumo": "A artista, que enfrenta um câncer, passou por uma cirurgia de mais de 20 horas no Hospital Sírio-Libanês",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2022010217014_179b6345-d2d9-43ad-886f-3adb4c974837.webp?w=3840&q=75",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2022010217014_179b6345-d2d9-43ad-886f-3adb4c974837.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
