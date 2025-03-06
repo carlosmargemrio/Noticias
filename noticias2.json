@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan inicia ciclo de oficinas de elaboração de projetos em defesa do Patrimônio Cultural",
+      "data": "05/03/2025",
+      "resumo": "05/03/2025\n                                        \n                                         - \n                                        No próximo dia 11/03, Recife recebe a primeira de uma série de oficinas que vão acontecer por todo o País ao longo de 2025; inscrições estão abertas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-ciclo-de-oficinas-de-elaboracao-de-projetos-em-defesa-do-patrimonio-cultural/oficina_projetosculturais_bannersite-1.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Evento promove debate sobre saúde ocupacional das Paneleiras de Goiabeiras, no Espírito Santo",
       "data": "28/02/2025",
       "resumo": "28/02/2025\n                                        \n                                         - \n                                        Iniciativa incluiu exibição de documentário que aborda desafios socioambientais enfrentados por populações tradicionais",
@@ -15,24 +22,17 @@
       "fonte": "www.gov.br/iphan"
     },
     {
-      "titulo": "Pela primeira vez, a Pequena África (RJ) recebe desfile de blocos de afoxé no pré-carnaval carioca",
-      "data": "27/02/2025",
-      "resumo": "27/02/2025\n                                        \n                                         - \n                                        Evento aconteceu no sábado (22/2), com apoio institucional do Iphan",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/pela-primeira-vez-a-pequena-africa-rj-recebe-desfile-de-blocos-de-afoxe-no-pre-carnaval-carioca/copy_of_xWhatsAppImage20250226at18.12.1811.png/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Escola campeã do carnaval do Rio será conhecida nesta quarta",
+      "titulo": "'Seu telefonema honra toda a equipe que esteve à frente e atrás das câmeras', diz Walter Salles a Lula",
       "data": "Sem data",
-      "resumo": "As notas serão anunciadas na tarde desta quarta-feira de cinzas (5)",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2024021415024_635a625825b6aaf779b428305b14e5f93a8e4d1c585901667a5c2d9fef253aeb.webp?w=3840&q=90",
+      "resumo": "Presidente parabeniza cineasta e equipe de 'Ainda Estou Aqui' pelo Oscar de Melhor Filme Internacional",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250306050312_6f9d24178acaa6e99cc369a307c7d767bb838201e5d944a3684cd7e25ea3b983.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
-      "titulo": "Em ligação, Lula parabeniza Walter Salles: \"você lavou a alma do povo brasileiro\" (vídeo)",
+      "titulo": "Milton Nascimento foi diagnosticado com Parkinson, revela filho do cantor",
       "data": "Sem data",
-      "resumo": "Segundo Lula, o filme fez “história” e é “um orgulho para o Brasil“",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250224200236_30ec63db-ff6f-4ae1-9b2f-220162a73d57.webp?w=3840&q=90",
+      "resumo": "'A doença vem trazendo limitações', afirmou Augusto Nascimento em referência ao seu pai",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20221026081052_ca7d224d20ade6ce34e8183f0bdd060fc3cebca4dd07e61613c1e0400cb238f5.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
