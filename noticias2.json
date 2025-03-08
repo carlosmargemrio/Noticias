@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Centro de Documentação do Patrimônio oferece assessoria técnica para arquivos públicos e comunitários",
+      "data": "07/03/2025",
+      "resumo": "07/03/2025\n                                        \n                                         - \n                                        O novo serviço prestado pela unidade especial do Iphan auxilia na formação de marcos legais, captação de recursos e capacitação de profissionais da área",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-de-documentacao-do-patrimonio-oferece-assessoria-tecnica-para-arquivos-publicos-e-comunitarios/img_9890-1.png/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Iphan abre inscrições para minicurso sobre a gestão de documentos à luz do Direito",
       "data": "07/03/2025",
       "resumo": "07/03/2025\n                                        \n                                         - \n                                        Com o tema “A Interdisciplinaridade entre Direito e Arquivologia”, o evento é aberto ao público e será transmitido pelo YouTube oficial do Instituto",
@@ -15,24 +22,17 @@
       "fonte": "www.gov.br/iphan"
     },
     {
-      "titulo": "Evento promove debate sobre saúde ocupacional das Paneleiras de Goiabeiras, no Espírito Santo",
-      "data": "28/02/2025",
-      "resumo": "28/02/2025\n                                        \n                                         - \n                                        Iniciativa incluiu exibição de documentário que aborda desafios socioambientais enfrentados por populações tradicionais",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/evento-promove-debate-sobre-saude-ocupacional-das-paneleiras-de-goiabeiras-no-espirito-santo/WhatsAppImage20250228at11.53.373.jpeg/@@images/image",
-      "fonte": "www.gov.br/iphan"
+      "titulo": "Novo livro de Marcelo Rubens Paiva continua saga autobiográfica iniciada em 'Ainda Estou Aqui'",
+      "data": "Sem data",
+      "resumo": "\"O Novo Agora\" é o terceiro livro autobiográfico do escritor",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20200601180628_196a94cf-f091-44d9-b8e6-2a9e8d0e645d.webp?w=3840&q=90",
+      "fonte": "www.brasil247.com"
     },
     {
       "titulo": "Vitória da Beija-Flor no Carnaval do Rio gera polêmica e protestos",
       "data": "Sem data",
       "resumo": "Título da escola de Nilópolis, conquistado com nota máxima em todas as categorias, divide opiniões e levanta questionamentos sobre o julgamento",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250305220352_519bd466-5143-4668-862f-ada8960531e4.webp?w=3840&q=90",
-      "fonte": "www.brasil247.com"
-    },
-    {
-      "titulo": "Racionais MC's recebem título de doutor honoris causa pela Unicamp",
-      "data": "Sem data",
-      "resumo": "Grupo icônico do rap nacional é reconhecido como intelectual público e referência no pensamento social brasileiro",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220413150456_3e715395-f210-477f-8841-ec288ffef419.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250305220352_d19e2be5-c6cb-4272-8130-832be0be0c74.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
