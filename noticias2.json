@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Paço Imperial celebra 40 anos com nova programação de exposições",
+      "data": "13/03/2025",
+      "resumo": "13/03/2025\n                                        \n                                         - \n                                        Com abertura no dia 15 de março, roteiro dá início às celebrações, que incluem seminários, workshops e concertos",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/paco-imperial-celebra-40-anos-com-nova-programacao-de-exposicoes/Pao12.png/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Iphan celebra conclusão de restauro do Complexo Ferroviário de Caxias (MA)",
       "data": "13/03/2025",
       "resumo": "13/03/2025\n                                        \n                                         - \n                                        Inaugurada no ano de 1895, a estação sediará o Instituto Histórico e Geográfico de Caxias, além de teatro, cursos profissionalizantes e aulas de artesanato",
@@ -12,13 +19,6 @@
       "data": "12/03/2025",
       "resumo": "12/03/2025\n                                        \n                                         - \n                                        Construída em 1926, a Estação Ferroviária de Teresina servirá de sede para o Iphan e abrigará exposições e eventos culturais",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inaugura-nova-superintendencia-em-estacao-ferroviaria-restaurada-no-piaui-1/mg_5494-3.jpg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Iphan destina R$ 1,3 milhão para Igreja de São Francisco, ao fim de um mês com 140 vistorias realizadas",
-      "data": "11/03/2025",
-      "resumo": "11/03/2025\n                                        \n                                         - \n                                        Experiência na capital baiana servirá como piloto para maior aproximação com outros órgãos em defesa do patrimônio",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-destina-r-1-3-milhao-para-igreja-de-sao-francisco-ao-fim-de-um-mes-com-140-vistorias-realizadas/copy_of_fotoigrejaSoFrancisco.jpg/@@images/image",
       "fonte": "www.gov.br/iphan"
     },
     {
