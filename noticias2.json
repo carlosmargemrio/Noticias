@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan assina protocolo de intenções com a Universidade Federal do Vale do São Francisco (UNIVASF)",
+      "data": "14/03/2025",
+      "resumo": "14/03/2025\n                                        \n                                         - \n                                        Documento visa a construção do Centro de Arqueologia do campus Serra da Capivara, em São Raimundo Nonato, no Piauí",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-assina-protocolo-de-intencoes-com-a-universidade-federal-do-vale-do-sao-francisco-univasf/mg_6509-1.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Tombamento de quilombos é tema de roda de conversa em Santa Catarina",
       "data": "14/03/2025",
       "resumo": "14/03/2025\n                                        \n                                         - \n                                        Iphan, lideranças quilombolas e parceiros estarão reunidos no dia 21 de março; faça sua inscrição",
@@ -12,13 +19,6 @@
       "data": "13/03/2025",
       "resumo": "13/03/2025\n                                        \n                                         - \n                                        Com abertura no dia 15 de março, roteiro dá início às celebrações, que incluem seminários, workshops e concertos",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/paco-imperial-celebra-40-anos-com-nova-programacao-de-exposicoes/Pao12.png/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Iphan celebra conclusão de restauro do Complexo Ferroviário de Caxias (MA)",
-      "data": "13/03/2025",
-      "resumo": "13/03/2025\n                                        \n                                         - \n                                        Inaugurada no ano de 1895, a estação sediará o Instituto Histórico e Geográfico de Caxias, além de teatro, cursos profissionalizantes e aulas de artesanato",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-celebra-conclusao-de-restauro-do-complexo-ferroviario-de-caxias-ma/mg_6095-1.jpg/@@images/image",
       "fonte": "www.gov.br/iphan"
     },
     {
