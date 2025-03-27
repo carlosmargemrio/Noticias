@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Em Goiânia, Iphan promove projeto cultural com exposição, lançamento de livro e roda de conversa",
+      "data": "27/03/2025",
+      "resumo": "27/03/2025\n                                        \n                                         - \n                                        Evento busca valorizar memórias e tradições do sertão goiano",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-goiania-iphan-promove-projeto-cultural-com-exposicao-lancamento-de-livro-e-roda-de-conversa/thumb_site.png/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Iphan promove seminário sobre gestão do patrimônio ferroviário em Goiás",
       "data": "27/03/2025",
       "resumo": "27/03/2025\n                                        \n                                         - \n                                        “Nos trilhos do patrimônio” reúne gestores para debater valorização e preservação do acervo histórico",
@@ -12,13 +19,6 @@
       "data": "27/03/2025",
       "resumo": "27/03/2025\n                                        \n                                         - \n                                        Os que tiveram seus recursos deferidos prosseguem para a segunda etapa",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/publicada-retificacao-do-resultado-da-primeira-etapa-do-mestrado-profissional-2025-para-ampla-concorrenci/74a1d85e194c4d2398fe4fa38d8867bc.jpeg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Iphan lança site que orienta sobre uso da PNAB para o Patrimônio Cultural",
-      "data": "27/03/2025",
-      "resumo": "27/03/2025\n                                        \n                                         - \n                                        Nova página facilita o acesso de municípios aos recursos da Política Nacional Aldir Blanc para implementação de projetos culturais em diversas regiões do País",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-site-que-orienta-sobre-uso-da-pnab-para-o-patrimonio-cultural/pnab-banner-1.png/@@images/image",
       "fonte": "www.gov.br/iphan"
     },
     {
