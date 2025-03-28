@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Mesa-redonda debate a preservação de terreiros de religiões de matriz africana",
+      "data": "28/03/2025",
+      "resumo": "28/03/2025\n                                        \n                                         - \n                                        Evento promoveu reflexão sobre a história e a cultura dos templos religiosos e o reconhecimento oficial como patrimônio cultural",
+      "imagem": "",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Sede do Escritório Técnico do Iphan na Costa Verde (RJ) é restaurada",
       "data": "27/03/2025",
       "resumo": "27/03/2025\n                                        \n                                         - \n                                        Imóvel do século XVIII fica localizado no Centro Histórico de Paraty",
@@ -12,13 +19,6 @@
       "data": "27/03/2025",
       "resumo": "27/03/2025\n                                        \n                                         - \n                                        Evento busca valorizar memórias e tradições do sertão goiano",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-goiania-iphan-promove-projeto-cultural-com-exposicao-lancamento-de-livro-e-roda-de-conversa/thumb_site.png/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Iphan promove seminário sobre gestão do patrimônio ferroviário em Goiás",
-      "data": "27/03/2025",
-      "resumo": "27/03/2025\n                                        \n                                         - \n                                        “Nos trilhos do patrimônio” reúne gestores para debater valorização e preservação do acervo histórico",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-seminario-sobre-gestao-do-patrimonio-ferroviario-em-goias/design-sem-nome-26.jpg/@@images/image",
       "fonte": "www.gov.br/iphan"
     },
     {
