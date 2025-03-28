@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Sede do Escritório Técnico do Iphan na Costa Verde (RJ) é restaurada",
+      "data": "27/03/2025",
+      "resumo": "27/03/2025\n                                        \n                                         - \n                                        Imóvel do século XVIII fica localizado no Centro Histórico de Paraty",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sede-do-escritorio-tecnico-do-iphan-na-costa-verde-rj-e-restaurada/000WhatsAppImage20250327at15.13.401.png/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Em Goiânia, Iphan promove projeto cultural com exposição, lançamento de livro e roda de conversa",
       "data": "27/03/2025",
       "resumo": "27/03/2025\n                                        \n                                         - \n                                        Evento busca valorizar memórias e tradições do sertão goiano",
@@ -11,28 +18,21 @@
       "titulo": "Iphan promove seminário sobre gestão do patrimônio ferroviário em Goiás",
       "data": "27/03/2025",
       "resumo": "27/03/2025\n                                        \n                                         - \n                                        “Nos trilhos do patrimônio” reúne gestores para debater valorização e preservação do acervo histórico",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-seminario-sobre-gestao-do-patrimonio-ferroviario-em-goias-1/design-sem-nome-26.jpg/@@images/image",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-seminario-sobre-gestao-do-patrimonio-ferroviario-em-goias/design-sem-nome-26.jpg/@@images/image",
       "fonte": "www.gov.br/iphan"
     },
     {
-      "titulo": "Publicada retificação do resultado da primeira etapa do Mestrado Profissional 2025 para ampla concorrência",
-      "data": "27/03/2025",
-      "resumo": "27/03/2025\n                                        \n                                         - \n                                        Os que tiveram seus recursos deferidos prosseguem para a segunda etapa",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/publicada-retificacao-do-resultado-da-primeira-etapa-do-mestrado-profissional-2025-para-ampla-concorrenci/74a1d85e194c4d2398fe4fa38d8867bc.jpeg/@@images/image",
-      "fonte": "www.gov.br/iphan"
+      "titulo": "Morre Bida Nascimento, filho de Léa Garcia e Abdias do Nascimento",
+      "data": "Sem data",
+      "resumo": "Artista estava internado há um mês após sofrer AVC e faleceu aos 71 anos no Rio",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250328070352_55df9a3b-3bed-4dee-bc13-8f243efec94c.webp?w=3840&q=90",
+      "fonte": "www.brasil247.com"
     },
     {
       "titulo": "Marieta Severo volta à comédia e cobra governo Lula: “falta azeitar a cultura no Brasil”",
       "data": "Sem data",
       "resumo": "Atriz celebra 60 anos de carreira com novo filme e afirma que, apesar de avanços, ainda faltam medidas efetivas para fortalecer o setor cultural",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220422220440_978827e7-975c-43f1-b37b-a44bcd9865ae.webp?w=3840&q=90",
-      "fonte": "www.brasil247.com"
-    },
-    {
-      "titulo": "Gérard Depardieu afirma em julgamento que mão nas nádegas não é agressão sexual",
-      "data": "Sem data",
-      "resumo": "\"Agressão sexual é algo mais sério do que isso... Mas uma mão nas nádegas de alguém, não é ... (isso)\", afirmou o ator",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250326200348_5b34b026bb64d945f91a1153e7e27a885d8c82455de548a9ff1ee798af98fe4d.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220422220440_0410f49f-1668-4c25-8136-37d2d1072569.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
