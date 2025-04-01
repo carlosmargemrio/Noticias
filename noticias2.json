@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan lança Acervo Nosso Sagrado em parceria com a UniRio e lideranças religiosas",
+      "data": "01/04/2025",
+      "resumo": "01/04/2025\n                                        \n                                         - \n                                        Projeto busca aprofundar o conhecimento sobre objetos sagrados de religiões de matriz africana, promovendo pesquisa e gestão participativa",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-acervo-nosso-sagrado-em-parceria-com-a-unirio-e-liderancas-religiosas/design-sem-nome-28.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Iphan integra conselho deliberativo da Reserva Extrativista de Itapetininga (MA)",
       "data": "01/04/2025",
       "resumo": "01/04/2025\n                                        \n                                         - \n                                        O título subsidia o órgão na preservação dos saberes e modos de fazer de comunidades quilombolas do norte maranhense",
@@ -12,13 +19,6 @@
       "data": "31/03/2025",
       "resumo": "31/03/2025\n                                        \n                                         - \n                                        O território da Caatinga foi o foco do evento realizado entre os dias 27 e 28 de março, em São Raimundo Nonato",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-sobre-patrimonio-cultural-e-acoes-climaticas-no-piaui/etapacaatinga-1.jpg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Iphan realiza Simpósio de Arqueologia, Bioantropologia e Patrimônio, em Campo Grande (MS)",
-      "data": "31/03/2025",
-      "resumo": "31/03/2025\n                                        \n                                         - \n                                        O evento, realizado em parceria com a UFMS, reuniu pesquisadores e especialistas da América Latina e da Península Ibérica",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-simposio-de-arqueologia-bioantropologia-e-patrimonio-em-campo-grande-ms/banner-simposio.jpg/@@images/image",
       "fonte": "www.gov.br/iphan"
     },
     {
