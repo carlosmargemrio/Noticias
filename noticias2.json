@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Liberada escavação de antigo cemitério de escravizados em Salvador",
+      "data": "01/04/2025",
+      "resumo": "01/04/2025\n                                        \n                                         - \n                                        Iphan fará acompanhamento técnico de pesquisa do local, onde podem estar sepultados integrantes da Revolta dos Malês",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/liberada-escavacao-de-antigo-cemiterio-de-escravizados-em-salvador/mapa_vilhena_-reproduzindo-mapa-de-1714.png/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Iphan lança Acervo Nosso Sagrado em parceria com a UniRio e lideranças religiosas",
       "data": "01/04/2025",
       "resumo": "01/04/2025\n                                        \n                                         - \n                                        Projeto busca aprofundar o conhecimento sobre objetos sagrados de religiões de matriz africana, promovendo pesquisa e gestão participativa",
@@ -15,24 +22,17 @@
       "fonte": "www.gov.br/iphan"
     },
     {
-      "titulo": "Iphan promove oficina sobre patrimônio cultural e ações climáticas no Piauí",
-      "data": "31/03/2025",
-      "resumo": "31/03/2025\n                                        \n                                         - \n                                        O território da Caatinga foi o foco do evento realizado entre os dias 27 e 28 de março, em São Raimundo Nonato",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-sobre-patrimonio-cultural-e-acoes-climaticas-no-piaui/etapacaatinga-1.jpg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "BC notifica Anitta por atraso em declaração de bens no exterior",
+      "titulo": "Fióti rebate irmão emicida e nega crime envolvendo milhões",
       "data": "Sem data",
-      "resumo": "Cantora tem um prazo de 30 dias para apresentar sua defesa",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025030911038_d5c29e2b708b1e1387d1f890e2ecff5777dfcfe91a21ed87386f673be3478bb0.webp?w=3840&q=90",
+      "resumo": "A ruptura entre os irmãos se tornou pública na última sexta-feira",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250402070412_9b990f3220b0c95d970d8b345184b4834a9bc55b61b6cb3e17ce1e36ad0b0937.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
-      "titulo": "Ruptura entre Emicida e Fióti: irmãos travam disputa judicial após fim de parceria",
+      "titulo": "Val Kilmer, astro de \"The Doors\" e \"Batman Eternamente\", morre aos 65 anos",
       "data": "Sem data",
-      "resumo": "O anúncio oficial da separação ocorreu em 28 de março de 2025",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220904210936_73a59dd8-4389-4ae1-b6d5-138ce137feea.webp?w=3840&q=90",
+      "resumo": "Mesmo afastado das grandes produções nos últimos anos devido a problemas de saúde, Kilmer permaneceu como uma figura admirada pelo público",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250402060432_be8054f2-eeee-4c27-afe1-6e58bdf2798e.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
