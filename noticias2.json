@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove formação sobre normas de proteção aos quilombos em Pernambuco",
+      "data": "04/04/2025",
+      "resumo": "04/04/2025\n                                        \n                                         - \n                                        Ação foi voltada para alunos de projeto de extensão da UFPE",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-formacao-sobre-normas-de-protecao-aos-quilombos-em-pernambuco/xWhatsAppImage20250403at11.41.432.png/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Iphan promove visita mediada ao seu Arquivo Central, em Brasília",
       "data": "03/04/2025",
       "resumo": "03/04/2025\n                                        \n                                         - \n                                        Com o tema “Um Pedacinho de Pernambuco”, a visitação é para professores, historiadores, estudantes e comunidade em geral",
@@ -12,13 +19,6 @@
       "data": "01/04/2025",
       "resumo": "01/04/2025\n                                        \n                                         - \n                                        Iphan fará acompanhamento técnico de pesquisa do local, onde podem estar sepultados integrantes da Revolta dos Malês",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/liberada-escavacao-de-antigo-cemiterio-de-escravizados-em-salvador/mapa_vilhena_-reproduzindo-mapa-de-1714.png/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Iphan lança Acervo Nosso Sagrado em parceria com a UniRio e lideranças religiosas",
-      "data": "01/04/2025",
-      "resumo": "01/04/2025\n                                        \n                                         - \n                                        Projeto busca aprofundar o conhecimento sobre objetos sagrados de religiões de matriz africana, promovendo pesquisa e gestão participativa",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-acervo-nosso-sagrado-em-parceria-com-a-unirio-e-liderancas-religiosas/design-sem-nome-28.jpg/@@images/image",
       "fonte": "www.gov.br/iphan"
     },
     {
