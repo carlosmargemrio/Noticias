@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Andanças do Patrimônio: conheça novo projeto do Iphan",
+      "data": "08/04/2025",
+      "resumo": "08/04/2025\n                                        \n                                         - \n                                        Gestores públicos e a sociedade civil interessada poderão contribuir com a construção do 1º Plano Nacional Setorial do Patrimônio Cultural",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/andancas-do-patrimonio-conheca-novo-projeto-do-iphan/banner-andancas-3.png/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Primeiro Encontro Regional do Comitê Gestor do Iphan apresenta boas práticas de gestões estaduais",
       "data": "07/04/2025",
       "resumo": "07/04/2025\n                                        \n                                         - \n                                        Reunião segue até terça-feira (8) e conta com participantes de três estados e Distrito Federal",
@@ -12,13 +19,6 @@
       "data": "07/04/2025",
       "resumo": "07/04/2025\n                                        \n                                         - \n                                        Em março, expedição iniciou busca a possíveis vestígios do Forte de Santa Maria de Guaxenduba, do início do século XVII",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-pesquisa-sitio-historico-que-remonta-ao-inicio-da-colonizacao-no-maranhao/whatsapp-image-2025-04-07-at-08-32-48-1.jpeg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Edifícios tombados pelo Iphan são retratados na exposição “Mini Arquiteturas”, em Curitiba",
-      "data": "04/04/2025",
-      "resumo": "04/04/2025\n                                        \n                                         - \n                                        A abertura será neste sábado (05/04), às 14h, e a mostra ficará aberta ao público até 6 de junho na superintendência do Iphan no Paraná",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/edificios-tombados-pelo-iphan-sao-retratados-na-exposicao-201cmini-arquiteturas201d-em-curitiba/exposicao_miniarquiteturas_bannersite-2.jpg/@@images/image",
       "fonte": "www.gov.br/iphan"
     },
     {
