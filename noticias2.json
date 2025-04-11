@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Certificação gratuita e online em Educação Patrimonial disponível para jornalistas",
+      "data": "10/04/2025",
+      "resumo": "10/04/2025\n                                        \n                                         - \n                                        Iphan e Enap oferecem nove cursos que podem ser feitos por profissionais da imprensa",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/certificacao-gratuita-e-online-em-educacao-patrimonial-disponivel-para-jornalistas/bannersite-1.png/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Inscrições abertas para seminário sobre educação patrimonial em SC",
       "data": "10/04/2025",
       "resumo": "10/04/2025\n                                        \n                                         - \n                                        Evento on-line é voltado para professores e aberto a interessados na temática",
@@ -15,24 +22,17 @@
       "fonte": "www.gov.br/iphan"
     },
     {
-      "titulo": "Andanças do Patrimônio: conheça novo projeto do Iphan",
-      "data": "08/04/2025",
-      "resumo": "08/04/2025\n                                        \n                                         - \n                                        Gestores públicos e a sociedade civil interessada poderão contribuir com a construção do 1º Plano Nacional Setorial do Patrimônio Cultural",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/andancas-do-patrimonio-conheca-novo-projeto-do-iphan/banner-andancas-3.png/@@images/image",
-      "fonte": "www.gov.br/iphan"
+      "titulo": "Claudio Gatti lança livro com fotos inéditas de personalidades retratadas durante a pandemia",
+      "data": "Sem data",
+      "resumo": "“Reflexões no isolamento” traz retratos e depoimentos de 53 lideranças, entre diretores de empresas e organizações sociais durante a fase aguda da pandemia",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250410190420_6024d07464624bd163e7cfe4e142b08a9995927170f6d0da87e3b01431ceb608.webp?w=3840&q=90",
+      "fonte": "www.brasil247.com"
     },
     {
       "titulo": "Foz do Iguaçu recebe final do Talentos Fenae/Apcef",
       "data": "Sem data",
       "resumo": "Mais de 220 participantes participam do evento, que acontece em Foz do Iguaçu, no Paraná",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250410110412_1788ac40-0686-4036-bf3b-d237e22b7778.webp?w=3840&q=90",
-      "fonte": "www.brasil247.com"
-    },
-    {
-      "titulo": "'O Agente Secreto', de Kleber Mendonça Filho, é selecionado para disputar a Palma de Ouro em Cannes",
-      "data": "Sem data",
-      "resumo": "Thriller com Wagner Moura se passa durante a ditadura militar e marca o retorno do diretor à principal mostra do festival francês",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025041009048_e2e9ae55-2dad-4d6b-83d9-db8cc5704707.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250410110412_0779b85a61dc24de27f74c3122fa7bff9ec1a692b169c9a878e447ecb36f7df1.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
