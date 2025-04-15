@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan inicia fiscalização conjunta em prédios centenários do Centro de Manaus (AM)",
+      "data": "15/04/2025",
+      "resumo": "15/04/2025\n                                        \n                                         - \n                                        Defesa Civil, Corpo de Bombeiros e governo do AM participaram da vistoria técnica conjunta",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-fiscalizacao-conjunta-em-predios-centenarios-do-centro-de-manaus-am/whatsapp-image-2025-04-15-at-15-33-31-2.jpeg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Sede da Superintendência do Iphan em Alagoas é reinaugurada",
       "data": "15/04/2025",
       "resumo": "15/04/2025\n                                        \n                                         - \n                                        Imóvel integra conjunto ferroviário do Pátio Terminal de Jaraguá, em Maceió (AL)",
@@ -12,13 +19,6 @@
       "data": "15/04/2025",
       "resumo": "15/04/2025\n                                        \n                                         - \n                                        Instituto analisou e autorizou a captação de R$ 10 milhões para realização do festival",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-do-lancamento-do-58o-festival-folclorico-de-parintins-am/design-sem-nome.png/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Iphan publica resultado da segunda etapa da seleção para ampla concorrência",
-      "data": "14/04/2025",
-      "resumo": "14/04/2025\n                                        \n                                         - \n                                        Num total de 276 inscrições, 184 candidatos foram habilitados para a segunda fase do edital do Mestrado Profissional de 2025",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-publica-resultado-da-segunda-etapa-da-selecao-para-ampla-concorrencia/d9b261e90e52427ab86074ac42641010.jpeg/@@images/image",
       "fonte": "www.gov.br/iphan"
     },
     {
@@ -36,17 +36,17 @@
       "fonte": "www.brasil247.com"
     },
     {
+      "titulo": "Cronograma de Treinamentos da Editora Elsevier aborda diversos temas",
+      "data": "15/04/2025",
+      "resumo": "15/04/2025 -\n                A agenda disponível abrange diversos temas a serem explorados ao longo do ano",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/matria_Elsevier_treinamentos.png",
+      "fonte": "www.periodicos.capes.gov.br"
+    },
+    {
       "titulo": "Portal de Periódicos promove cinco treinamentos na segunda quinzena de abril",
       "data": "11/04/2025",
       "resumo": "11/04/2025 -\n                Ciclo de conferências oferece práticas de pesquisa e debates sobre mudanças climáticas e neurociência",
       "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_abril.png",
-      "fonte": "www.periodicos.capes.gov.br"
-    },
-    {
-      "titulo": "American Chemical Society promove curso sobre Terapia do Câncer",
-      "data": "07/04/2025",
-      "resumo": "07/04/2025 -\n                A sessão única acontecerá no dia 23 de abril, das 14h às 15h, com transmissão ao vivo pelo Webex",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Imagem_matria_Terapia_do_cncer_ACS.png",
       "fonte": "www.periodicos.capes.gov.br"
     }
   ],
