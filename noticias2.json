@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan anuncia restauro da Praça dos Três Poderes e de monumentos históricos em Brasília",
+      "data": "22/04/2025",
+      "resumo": "22/04/2025\n                                        \n                                         - \n                                        Obras serão viabilizadas com recursos do Novo PAC",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-anuncia-restauro-da-praca-dos-tres-poderes-e-de-monumentos-historicos-em-brasilia-4/whatsapp-image-2025-04-22-at-16-47-18-2.jpeg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Centro Lucio Costa promove bancas de defesa do Mestrado Profissional do Iphan",
       "data": "17/04/2025",
       "resumo": "17/04/2025\n                                        \n                                         - \n                                        Dissertações serão defendidas nos dias 24 e 25 de abril",
@@ -12,13 +19,6 @@
       "data": "17/04/2025",
       "resumo": "17/04/2025\n                                        \n                                         - \n                                        Entrega de obras e exposição sobre memória regional valorizam o patrimônio cultural da Chapada Diamantina",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-acoes-de-preservacao-em-rio-de-contas-ba/design-sem-nome-30.jpg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Publicada norma de preservação do Conjunto Arquitetônico e Urbanístico de Sobral (CE)",
-      "data": "17/04/2025",
-      "resumo": "17/04/2025\n                                        \n                                         - \n                                        Portaria do Iphan define regras de intervenção para garantir o equilíbrio entre crescimento urbano e proteção cultural",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/publicada-norma-de-preservacao-do-conjunto-arquitetonico-e-urbanistico-de-sobral-ce/2019_ce_sobral_museu-do-eclipse_-fotografo-desconhecido_acervo-da-prefeitura-6-1.jpg/@@images/image",
       "fonte": "www.gov.br/iphan"
     },
     {
