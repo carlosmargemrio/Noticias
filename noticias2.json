@@ -1,7 +1,7 @@
 {
   "noticias_sites": [
     {
-      "titulo": "Livro A Invenção da Superquadra é relançado em Brasília (DF)",
+      "titulo": "Livro A invenção da Superquadra é relançado em Brasília (DF)",
       "data": "23/04/2025",
       "resumo": "23/04/2025\n                                        \n                                         - \n                                        A publicação é uma das principais referências sobre o Conjunto Urbanístico de Brasília (CUB)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/livro-a-invencao-da-superquadra-e-relancado-em-brasilia-df/2025_df_brasilia_sesilabcasadecha_marianaalves-61-1.jpg/@@images/image",
@@ -36,17 +36,17 @@
       "fonte": "www.brasil247.com"
     },
     {
+      "titulo": "Parceria entre Portal de Periódicos, Emerge e CAS promove workshop sobre empreendedorismo científico",
+      "data": "23/04/2025",
+      "resumo": "23/04/2025 -\n                Sessão será realizada no dia 29 de abril e abordará a transição da pesquisa acadêmica para o mercado",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_ACS_e_Emerge.png",
+      "fonte": "www.periodicos.capes.gov.br"
+    },
+    {
       "titulo": "Cronograma de Treinamentos da Editora Elsevier aborda diversos temas",
       "data": "15/04/2025",
       "resumo": "15/04/2025 -\n                A agenda disponível abrange diversos temas a serem explorados ao longo do ano",
       "imagem": "https://www.periodicos.capes.gov.br/images/news/matria_Elsevier_treinamentos.png",
-      "fonte": "www.periodicos.capes.gov.br"
-    },
-    {
-      "titulo": "Portal de Periódicos promove cinco treinamentos na segunda quinzena de abril",
-      "data": "11/04/2025",
-      "resumo": "11/04/2025 -\n                Ciclo de conferências oferece práticas de pesquisa e debates sobre mudanças climáticas e neurociência",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_abril.png",
       "fonte": "www.periodicos.capes.gov.br"
     }
   ],
