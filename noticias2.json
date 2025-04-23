@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Livro A Invenção da Superquadra é relançado em Brasília (DF)",
+      "data": "23/04/2025",
+      "resumo": "23/04/2025\n                                        \n                                         - \n                                        A publicação é uma das principais referências sobre o Conjunto Urbanístico de Brasília (CUB)",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/livro-a-invencao-da-superquadra-e-relancado-em-brasilia-df/2025_df_brasilia_sesilabcasadecha_marianaalves-61-1.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Iphan anuncia restauro da Praça dos Três Poderes e de monumentos históricos em Brasília",
       "data": "22/04/2025",
       "resumo": "22/04/2025\n                                        \n                                         - \n                                        Obras serão viabilizadas com recursos do Novo PAC",
@@ -12,13 +19,6 @@
       "data": "17/04/2025",
       "resumo": "17/04/2025\n                                        \n                                         - \n                                        Dissertações serão defendidas nos dias 24 e 25 de abril",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-lucio-costa-promove-bancas-de-defesa-do-mestrado-profissional-do-iphan-2/2d0c8a0eacff4622b4b4e3b83b847411.jpeg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Iphan realiza ações de preservação em Rio de Contas (BA)",
-      "data": "17/04/2025",
-      "resumo": "17/04/2025\n                                        \n                                         - \n                                        Entrega de obras e exposição sobre memória regional valorizam o patrimônio cultural da Chapada Diamantina",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-acoes-de-preservacao-em-rio-de-contas-ba/design-sem-nome-30.jpg/@@images/image",
       "fonte": "www.gov.br/iphan"
     },
     {
