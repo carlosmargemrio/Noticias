@@ -1,16 +1,37 @@
 {
   "noticias_sites": [
     {
-      "titulo": "Lula lamenta a morte de Cristina Buarque e destaca legado no samba",
+      "titulo": "Em Fortaleza, Iphan celebra 10 anos de registro do Teatro de Bonecos Popular do Nordeste",
+      "data": "24/04/2025",
+      "resumo": "24/04/2025\n                                        \n                                         - \n                                        Evento será nos dias 29 e 30 de abril, no complexo Vila das Artes; inscrições vão até segunda-feira (28/04)",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-fortaleza-iphan-celebra-10-anos-de-registro-do-teatro-de-bonecos-popular-do-nordeste/whatsapp-image-2025-04-23-at-18-02-42-1.jpeg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
+      "titulo": "No Dia Nacional do Choro, Iphan realiza encontro de detentores do bem cultural em São Paulo (SP)",
+      "data": "24/04/2025",
+      "resumo": "24/04/2025\n                                        \n                                         - \n                                        Evento na sede da Superintendência do Instituto na capital teve entrega do Certificado de Registro do Choro como Patrimônio Cultural do Brasil",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-dia-nacional-do-choro-iphan-realiza-encontro-de-detentores-do-bem-cultural-em-sao-paulo-sp/whatsapp-image-2025-04-23-at-21-26-26-4.jpeg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
+      "titulo": "Iphan lança coletânea de artigos vencedores do Prêmio Luiz de Castro Faria",
+      "data": "24/04/2025",
+      "resumo": "24/04/2025\n                                        \n                                         - \n                                        Textos trazem reflexões sobre o tema da preservação do patrimônio arqueológico brasileiro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-coletanea-de-artigos-vencedores-do-premio-luiz-de-castro-faria/acervo-iphan_pintura-rupestre-no-parque-nacional-serra-da-capivara_51345929096_o-2-1.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
+      "titulo": "Atriz Lúcia Alves, de 'Irmãos Coragem' e 'O Cravo e a Rosa' morre aos 76 anos",
       "data": "Sem data",
-      "resumo": "Irmã de Chico Buarque e filha de Sérgio Buarque de Holanda, cantora construiu trajetória marcada pela discrição e devoção ao samba carioca",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250420110428_cc3d1d7b17547ac81fb0183020a1fc2e23717689fa262ef3f6f6d486b72f5e45.webp?w=3840&q=90",
+      "resumo": "A artista tinha 60 anos de carreira",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250424210412_0d038c334ba0b8a8afc39f4763d4d1f5c7c5da36a69e40d846f103c00ae2c419.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
-      "titulo": "Morre Cristina Buarque, cantora e irmã de Chico Buarque",
+      "titulo": "Lula lamenta a morte de Cristina Buarque e destaca legado no samba",
       "data": "Sem data",
-      "resumo": "Irmã de Chico Buarque e filha do sociólogo Sérgio Buarque de Holanda, artista morreu aos 74 anos e foi homenageada com emoção pelo filho nas redes sociais",
+      "resumo": "Irmã de Chico Buarque e filha de Sérgio Buarque de Holanda, cantora construiu trajetória marcada pela discrição e devoção ao samba carioca",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250420110428_16ba37cdf8f8ae05b392ccd3956b6c09b34539b5ca3526ab26387f7d24ecc0d3.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
