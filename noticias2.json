@@ -1,10 +1,17 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Livro Gabriel em Brasília, a cidade com asas é relançado pelo Iphan",
+      "data": "25/04/2025",
+      "resumo": "25/04/2025\n                                        \n                                         - \n                                        Escola Parque 308 Sul recebeu 300 cópias dos novos exemplares",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/livro-gabriel-em-brasilia-a-cidade-com-asas-e-relancado-pelo-iphan/2025_df_brasilia_relancamentolivrogabriel_marianaalves-48-1.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Iphan repassa recursos para elaboração de projeto de restauro da antiga fábrica de laticínios do Piauí",
       "data": "25/04/2025",
       "resumo": "25/04/2025\n                                        \n                                         - \n                                        O imóvel é testemunho da ocupação do interior do Brasil nos séculos XVIII e XIX",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-repassa-recursos-para-elaboracao-de-projeto-de-restauro-da-antiga-fabrica-de-laticinios-do-piaui/whatsapp-image-2025-04-25-at-14-14-08-2.jpeg/@@images/image",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-repassa-recursos-para-elaboracao-de-projeto-de-restauro-da-antiga-fabrica-de-laticinios-do-piaui/whatsapp-image-2025-04-25-at-14-14-08-4.jpeg/@@images/image",
       "fonte": "www.gov.br/iphan"
     },
     {
@@ -12,13 +19,6 @@
       "data": "24/04/2025",
       "resumo": "24/04/2025\n                                        \n                                         - \n                                        Evento será nos dias 29 e 30 de abril, no complexo Vila das Artes; inscrições vão até segunda-feira (28/04)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-fortaleza-iphan-celebra-10-anos-de-registro-do-teatro-de-bonecos-popular-do-nordeste/whatsapp-image-2025-04-23-at-18-02-42-1.jpeg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "No Dia Nacional do Choro, Iphan realiza encontro de detentores do bem cultural em São Paulo (SP)",
-      "data": "24/04/2025",
-      "resumo": "24/04/2025\n                                        \n                                         - \n                                        Evento na sede da Superintendência do Instituto na capital teve entrega do Certificado de Registro do Choro como Patrimônio Cultural do Brasil",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-dia-nacional-do-choro-iphan-realiza-encontro-de-detentores-do-bem-cultural-em-sao-paulo-sp/whatsapp-image-2025-04-23-at-21-26-26-4.jpeg/@@images/image",
       "fonte": "www.gov.br/iphan"
     },
     {
