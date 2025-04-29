@@ -1,6 +1,20 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan lança grupo de trabalho com povos do Xingu e entrega certificados a detentores da Viola de Cocho",
+      "data": "29/04/2025",
+      "resumo": "29/04/2025\n                                        \n                                         - \n                                        Instituto também anunciou obras em Cuiabá com recursos do Novo PAC",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-grupo-de-trabalho-com-povos-do-xingu-e-entrega-certificados-a-detentores-da-viola-de-cocho/mg_9841.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
+      "titulo": "Estação Ferroviária de Três Rios (RJ) é incluída na Lista do Patrimônio Cultural Ferroviário",
+      "data": "29/04/2025",
+      "resumo": "29/04/2025\n                                        \n                                         - \n                                        Reconhecimento destaca a Casa de Pedra como símbolo da memória ferroviária local",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/estacao-ferroviaria-de-tres-rios-rj-e-incluida-na-lista-do-patrimonio-cultural-ferroviario/TrsRios2.png/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Iphan anuncia restauração de imóveis históricos em Cuiabá com recursos do Novo PAC",
       "data": "28/04/2025",
       "resumo": "28/04/2025\n                                        \n                                         - \n                                        Investimentos somam mais de R$ 7 milhões para a Casa 7 de Setembro e Casa de Bem-Bem",
@@ -8,31 +22,17 @@
       "fonte": "www.gov.br/iphan"
     },
     {
-      "titulo": "Jongo no Rio de Janeiro (RJ) ganha Plano de Salvaguarda",
-      "data": "28/04/2025",
-      "resumo": "28/04/2025\n                                        \n                                         - \n                                        O documento define os objetivos e planejamento de ações a serem desenvolvidas",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/jongo-no-rio-de-janeiro-rj-ganha-plano-de-salvaguarda/2017_jongo-no-sudeste_oscar-liberal-3.jpg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Mapeamento em 67 aldeias visa a salvaguarda de línguas indígenas faladas no Oiapoque (AP)",
-      "data": "25/04/2025",
-      "resumo": "25/04/2025\n                                        \n                                         - \n                                        Projeto foi tema de evento realizado na superintendência do Iphan no Amapá, nos dias 22 e 23/4",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mapeamento-em-67-aldeias-visa-a-salvaguarda-de-linguas-indigenas-faladas-no-oiapoque-ap/bannersite.png/@@images/image",
-      "fonte": "www.gov.br/iphan"
+      "titulo": "Câmara aprova projeto sobre repasses da Lei Aldir Blanc para estados e municípios",
+      "data": "Sem data",
+      "resumo": "Proposta prevê uma diferenciação do percentual de execução de recursos anteriormente repassados para o recebimento de novas verbas",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250429110428_1bb5e8622a873ee819a8814561dc43c4e3b0aa7f09b2ed899f36b5ddc09c4666.webp?w=3840&q=90",
+      "fonte": "www.brasil247.com"
     },
     {
       "titulo": "Justiça penhora escritório de Joelma, da banda Calypso, em ação trabalhista de R$1,2 milhão",
       "data": "Sem data",
       "resumo": "Cantora e ex-marido Ximbinha foram condenados por vínculo empregatício não reconhecido com ex-empresário da Banda Calypso",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240321090328_a10355fccceb5f2c550734347e49151fa857c910af07e3e6b44220a75528fd23.webp?w=3840&q=90",
-      "fonte": "www.brasil247.com"
-    },
-    {
-      "titulo": "'Ainda Estou Aqui' e Fernanda Torres vencem prêmio Platino",
-      "data": "Sem data",
-      "resumo": "O cineasta Walter Salles levou o prêmio de melhor direção",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240724080724_0c7f611b1b9c56eba50f0a2addc12cdd533e4e4674652939fe6e55dab85fc2ff.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240321090328_273a4c7c9899f119e6b5891e1053dc2e34051eedb997fc26daba866763c73b87.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
