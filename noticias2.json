@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Inscrições abertas para formação em educação patrimonial para professores de SC",
+      "data": "30/04/2025",
+      "resumo": "30/04/2025\n                                        \n                                         - \n                                        As aulas mensais ocorrem nas quartas-feiras, de maio a novembro deste ano",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-abertas-para-formacao-em-educacao-patrimonial-para-professores-de-sc/whatsapp-image-2025-04-03-at-12-49-53-2-2-1.jpeg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Natividade e Porto Nacional (TO) são contempladas no Novo PAC Seleções",
       "data": "29/04/2025",
       "resumo": "29/04/2025\n                                        \n                                         - \n                                        Investimentos somam mais de R$ 426 mil para elaboração de projetos de requalificação urbana e restauração de edificações históricas",
@@ -15,24 +22,17 @@
       "fonte": "www.gov.br/iphan"
     },
     {
-      "titulo": "Iphan lança grupo de trabalho com povos do Xingu e entrega certificados a detentores da Viola de Cocho",
-      "data": "29/04/2025",
-      "resumo": "29/04/2025\n                                        \n                                         - \n                                        Instituto também anunciou obras em Cuiabá com recursos do Novo PAC",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-grupo-de-trabalho-com-povos-do-xingu-e-entrega-certificados-a-detentores-da-viola-de-cocho/mg_9841.jpg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "BNDES lança edital com Consórcio Viva Pequena África para apoiar cultura afro-brasileira no Rio",
+      "titulo": "Senado aprova lei que torna Política Nacional Aldir Blanc permanente",
       "data": "Sem data",
-      "resumo": "Iniciativa selecionará projetos voltados à memória e herança africana na Zona Portuária do Rio; lançamento será no Cais do Valongo, no dia 5 de maio",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250430140436_30bf0674-dd88-45b1-8a07-a0d1a10a6cf8.webp?w=3840&q=90",
+      "resumo": "Projeto prevê repasses de R$ 15 bilhões a estados e municípios, amplia alcance do Recine e fortalece fundos locais com planos plurianuais a partir de 2027",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025050206050_138b39ee6b79bcc7f48aa0da8e4e333f301dc5b4d6b5f5f72427f0a003b75488.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
-      "titulo": "Marcelo Rubens Paiva e Juliana Dal Piva são os convidados do Clube de Leitura no CCBB, com Ainda Estou Aqui e Crimes sem Castigo",
+      "titulo": "Morre aos 84 anos a cantora Nana Caymmi, uma das maiores vozes da MPB",
       "data": "Sem data",
-      "resumo": "Um dos objetivos de um Clube de Leitura é incentivar a leitura de livros que conectem o público e sensibilizem sobre a realidade do país e do mundo",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20200601180628_8a359029-c0e4-4cd7-b1bd-e00ad143acc9.webp?w=3840&q=90",
+      "resumo": "Nana Caymmi, uma das vozes mais expressivas da MPB, estava internada na Clínica São José, no bairro de Botafogo, desde agosto de 2024",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250501190512_e1a8196950008821c11f402f738871748773724951f4e9436079bb0cee280d6e.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
