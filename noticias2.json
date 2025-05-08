@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan realiza 1ª fiscalização integrada em imóveis de Campo Grande (MS)",
+      "data": "08/05/2025",
+      "resumo": "08/05/2025\n                                        \n                                         - \n                                        Ao todo, cinco imóveis da capital foram vistoriados, com a participação da Secult, da Planurb, do Corpo de Bombeiros Militar do Estado e do CAU-MS",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-1a-fiscalizacao-integrada-em-imoveis-de-campo-grande-ms/banner-fiscalozacao-ms.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Iphan integra fiscalizações em imóveis de cidades históricas do Tocantins",
       "data": "08/05/2025",
       "resumo": "08/05/2025\n                                        \n                                         - \n                                        Depois de Porto Nacional, no último 30 de abril, a próxima fiscalização será em 13 de maio, no conjunto urbano de Natividade",
@@ -12,13 +19,6 @@
       "data": "08/05/2025",
       "resumo": "08/05/2025\n                                        \n                                         - \n                                        Interessados no tema podem participar, enviando sugestões e comentários até 15 de maio",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/contribua-com-a-carta-do-patrimonio-cultural-e-mudancas-climaticas/2024_df_brasilia_g20enap_marianaalves-40-1.jpg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "MinC e Iphan apresentam restauração do Palácio Gustavo Capanema, ícone da arquitetura modernista brasileira",
-      "data": "06/05/2025",
-      "resumo": "06/05/2025\n                                        \n                                         - \n                                        Com investimento de R$ 84,3 milhões via Novo PAC, edifício será reinaugurado como espaço vivo, aberto ao público e à cena cultural",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/minc-e-iphan-apresentam-restauracao-do-palacio-gustavo-capanema-icone-da-arquitetura-modernista-brasileira-1/2025_rj_riodejaneiro_palaciocapanemavisita_marianaalves-94-4.jpg/@@images/image",
       "fonte": "www.gov.br/iphan"
     },
     {
