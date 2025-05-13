@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Projeto Andanças do Patrimônio estará em Corumbá (MS) em 15 e 16 de maio",
+      "data": "12/05/2025",
+      "resumo": "12/05/2025\n                                        \n                                         - \n                                        Iniciativa de escuta participativa do Iphan ocorrerá dentro da programação do 18º Festival América do Sul",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-andancas-do-patrimonio-estara-em-corumba-ms-em-15-e-16-de-maio/avisopauta_bannersite-3.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Iphan e CAU/TO realizam o 1º Seminário ATHIS e Patrimônio Cultural no Tocantins",
       "data": "12/05/2025",
       "resumo": "12/05/2025\n                                        \n                                         - \n                                        Evento inédito discutiu assistência técnica a edificações tombadas no estado, por meio dos canteiros-modelo de conservação",
@@ -15,24 +22,17 @@
       "fonte": "www.gov.br/iphan"
     },
     {
-      "titulo": "Iphan dá continuidade ao trabalho de preservação do Centro Histórico de Antonina (PR)",
-      "data": "09/05/2025",
-      "resumo": "09/05/2025\n                                        \n                                         - \n                                        Ações têm a Igreja Matriz, o Salão Paroquial e a Igreja de São Benedito como foco",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-da-continuidade-ao-trabalho-de-preservacao-do-centro-historico-de-antonina-pr/acoes-igrejas-antonina-pr.jpeg/@@images/image",
-      "fonte": "www.gov.br/iphan"
+      "titulo": "Gérard Depardieu é condenado a 18 meses de prisão por agressões sexuais na França",
+      "data": "Sem data",
+      "resumo": "A condenação está relacionada a dois episódios ocorridos durante as gravações do filme Les Volets Verts",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250326200348_7bb206fabcf91bf5b6dd7ff504b2b84a89154b5758fe8b6f9acec16842917ec4.webp?w=3840&q=90",
+      "fonte": "www.brasil247.com"
     },
     {
       "titulo": "Orquestra Petrobras Sinfônica comemora 50 anos com concerto no Rio",
       "data": "Sem data",
       "resumo": "Grupo tem compromisso com a cultura nacional",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250509180512_5db4b6f4637b73926f2f4e614cb8ad724fbbd47b4405b8c636f46c0785e89f92.webp?w=3840&q=90",
-      "fonte": "www.brasil247.com"
-    },
-    {
-      "titulo": "Antes de morrer, Rita Lee escreveu carta íntima à família que vem a público pela primeira vez",
-      "data": "Sem data",
-      "resumo": "A cantora Rita Lee escreveu uma carta comovente ao marido, Roberto de Carvalho, e aos três filhos, Beto, João (Juca) e Antônio (Tui)",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20230509140552_491c47b8cfda610a263622605f78f8313956be79b7cd085cb517afde6c26df1f.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250509180512_64623728eca335c05286eedd1246b629c105668f5b4c94664ca70e21ec9282c2.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
