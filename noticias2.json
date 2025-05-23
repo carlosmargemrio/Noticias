@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa de reunião da Unesco sobre prevenção e combate ao tráfico ilícito de bens culturais",
+      "data": "23/05/2025",
+      "resumo": "23/05/2025\n                                        \n                                         - \n                                        Encontros debateram temas importantes sobre conscientização e combate ao tráfico ilícito, dentre outros temas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-reuniao-da-unesco-sobre-prevencao-e-combate-ao-trafico-ilicito-de-bens-culturais/design-sem-nome-1.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Ofício das Baianas de Acarajé é tema de encontro no Espírito Santo",
       "data": "22/05/2025",
       "resumo": "22/05/2025\n                                        \n                                         - \n                                        Evento visou fortalecer o diálogo do Iphan com as detentoras desse saber cultural",
@@ -15,24 +22,17 @@
       "fonte": "www.gov.br/iphan"
     },
     {
-      "titulo": "Andanças do Patrimônio em Corumbá (MS) tem ampla participação social",
-      "data": "21/05/2025",
-      "resumo": "21/05/2025\n                                        \n                                         - \n                                        Ação ocorreu durante o 18º Festival da América do Sul, com apoio da Fundação de Cultura do Mato Grosso do Sul",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/andancas-do-patrimonio-em-corumba-ms-tem-ampla-participacao-social/whatsapp-image-2025-05-16-at-09-48-09-2.jpeg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
-      "titulo": "Quem era Sebastião Salgado, o maior fotógrafo brasileiro",
+      "titulo": "Gleisi homenageia Sebastião Salgado: \"um brasileiro que serviu ao mundo\"",
       "data": "Sem data",
-      "resumo": "Salgado morreu nesta sexta-feira em Paris aos 81 anos, vítima de complicações causadas por malária adquirida nos anos 1990",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250523120556_846179af0bcb104035627bb480a4b549cd8d8f6d651ed98885b8299b4018de8f.webp?w=3840&q=90",
+      "resumo": "Ministra destacou nas redes o papel do fotógrafo como denunciante das injustiças e defensor dos mais vulneráveis",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250523130532_611249bd65c0676731b708c8708d914da7a158a61817366da5bdce90ebfb6cee.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
-      "titulo": "Morre o fotógrafo Sebastião Salgado, aos 81 anos",
+      "titulo": "Morte de Sebastião Salgado, mestre da fotografia documental, repercute na imprensa internacional",
       "data": "Sem data",
-      "resumo": "Fotógrafo mineiro faleceu em Paris; sua obra percorreu mais de 100 países",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20190923180952_52c95257-45e4-4e7f-bf3d-fb1f57c1ce7c.webp?w=3840&q=90",
+      "resumo": "Academia de Belas Artes da França também lamentou a morte do fotógrafo brasileiro, expressando \"profundo pesar\" pela morte de seu \"colega\"",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250523130520_e7c33d6b949812a206ab03e08052e76dfed441c145999b0942ebcaaae882e70e.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
