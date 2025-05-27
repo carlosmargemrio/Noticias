@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Entenda o Rolezinho do Andanças do Patrimônio e saiba como organizar o seu",
+      "data": "26/05/2025",
+      "resumo": "26/05/2025\n                                        \n                                         - \n                                        Modalidade inserida no projeto visa ampliar a participação social na construção no PNSPC e do Marco Regulatório do SNPC",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/entenda-o-rolezinho-do-andancas-do-patrimonio-e-saiba-como-organizar-o-seu/54521543788_15f5d35ec6_k-1.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Iphan participa da 11ª Reunião da Governança Geral do Território Indígena Xingu",
       "data": "23/05/2025",
       "resumo": "23/05/2025\n                                        \n                                         - \n                                        Plano de trabalho para proteger patrimônio indígena foi apresentado às comunidades",
@@ -15,24 +22,17 @@
       "fonte": "www.gov.br/iphan"
     },
     {
-      "titulo": "Ofício das Baianas de Acarajé é tema de encontro no Espírito Santo",
-      "data": "22/05/2025",
-      "resumo": "22/05/2025\n                                        \n                                         - \n                                        Evento visou fortalecer o diálogo do Iphan com as detentoras desse saber cultural",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oficio-das-baianas-de-acaraje-e-tema-de-encontro-no-espirito-santo/xxxWhatsAppImage20250519at12.49.152.png/@@images/image",
-      "fonte": "www.gov.br/iphan"
+      "titulo": "Entidades do audiovisual propõem alíquota de 6% sobre streaming para fortalecer setor",
+      "data": "Sem data",
+      "resumo": "Documento defende que cobrança mais alta inviabilizaria projeto no Congresso e estima arrecadação anual de R$ 1,5 bilhão para o setor",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20231215161224_486197ada8c2a1b8b1d475f3fc94c2bfd20e81558e7abeb64ee78f17c5ba9208.webp?w=3840&q=90",
+      "fonte": "www.brasil247.com"
     },
     {
       "titulo": "'Ainda Estou Aqui' entra em lista de melhores filmes do New York Times",
       "data": "Sem data",
       "resumo": "A matéria, assinada pela crítica de cinema Alissa Wilkinson, destaca a força dramática da produção estrelada por Fernanda Torres",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20241209171220_ee583f7a39e1cc4c0eaefcb82b56196ad0bb3087d2aed4e6a832fc9efc80935e.webp?w=3840&q=90",
-      "fonte": "www.brasil247.com"
-    },
-    {
-      "titulo": "Dilma celebra prêmios de 'O Agente Secreto' em Cannes: \"Vitória da cultura brasileira\"",
-      "data": "Sem data",
-      "resumo": "Ex-presidente associou a força da obra a um alerta contra o autoritarismo",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250518140532_f0dc7001-e293-4571-8c73-3540cbcb31b1.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20241209171220_e0f06de5b5039a4a4d85e42f76e1e901f571ba0117b1b3e8edf8c2466b273ef7.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
