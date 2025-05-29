@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Palacete do Parque Lage (RJ) passa por primeira grande restauração em cem anos",
+      "data": "29/05/2025",
+      "resumo": "29/05/2025\n                                        \n                                         - \n                                        Intervenções contam com o acompanhamento técnico do Iphan",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/palacete-do-parque-lage-rj-passa-por-primeira-grande-restauracao-em-cem-anos/xxxvisitebg1.png/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Em Urussanga (SC), Iphan entrega Casa Cancellier restaurada",
       "data": "28/05/2025",
       "resumo": "28/05/2025\n                                        \n                                         - \n                                        Concluída em 2024, obra recebeu investimento de mais de R$ 350 mil de emenda parlamentar",
@@ -15,13 +22,6 @@
       "fonte": "www.gov.br/iphan"
     },
     {
-      "titulo": "Iphan identifica e doa arma bélica francesa do século 19 a museu em Macapá (AP)",
-      "data": "28/05/2025",
-      "resumo": "28/05/2025\n                                        \n                                         - \n                                        Objeto foi encontrado em Calçoene (AP), município que detém sítio arqueológico reconhecido pelo Instituto",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/copy_of_iphan-identifica-e-doa-arma-belica-francesa-do-seculo-19-a-museu-em-macapa-ap/WhatsAppImage20250528at13.44.57.jpeg/@@images/image",
-      "fonte": "www.gov.br/iphan"
-    },
-    {
       "titulo": "Justiça anula contrato de show de leonardo por R$ 750 mil em cidade de apenas 8,6 mil habitantes",
       "data": "Sem data",
       "resumo": "Prefeitura de Gaúcha do Norte (MT) terá R$ 300 mil devolvidos após constatação de superfaturamento",
@@ -29,10 +29,10 @@
       "fonte": "www.brasil247.com"
     },
     {
-      "titulo": "\"Os Corretores\": novo filme de fernanda torres aposta em humor ácido e crítica social",
+      "titulo": "BNDES aprova R$ 25 milhões para Paris Filmes expandir distribuição no Brasil e no exterior",
       "data": "Sem data",
-      "resumo": "Atriz retorna ao cinema com “Os Corretores”, comédia trágica sobre o mercado imobiliário anunciada durante o Rio2C",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240109050124_c25b6c6422ec9d6648f888d092723921856ce223da7efb4ea4fb425336f8c1cc.webp?w=3840&q=90",
+      "resumo": "Empresa quer alcançar novos mercados na América Latina e em países lusófonos com apoio de linha de crédito do programa BNDES FSA Audiovisual",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250430170416_89903e34d5468d8fcb8299b97fc76385f3de4fd891d4e40b7960a95dbf8ce572.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
