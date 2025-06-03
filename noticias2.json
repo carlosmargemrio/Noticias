@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan apresenta processo de tombamento dos quilombos a comunidades do Tocantins",
+      "data": "03/06/2025",
+      "resumo": "03/06/2025\n                                        \n                                         - \n                                        Iniciativa valoriza os povos remanescentes de quilombos, assegurando proteção e reconhecimento de seus territórios",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-processo-de-tombamento-dos-quilombos-a-comunidades-do-tocantins/design-sem-nome-37.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Edital destinará R$ 800 mil para projetos de patrimônio cultural no Sítio Santo Antônio (SP)",
       "data": "03/06/2025",
       "resumo": "03/06/2025\n                                        \n                                         - \n                                        Ação conjunta entre Iphan e CAU-SP visa a preservação do patrimônio cultural do Brasil",
@@ -15,24 +22,17 @@
       "fonte": "www.gov.br/iphan"
     },
     {
-      "titulo": "Iphan lança nova identidade visual nas redes sociais",
-      "data": "03/06/2025",
-      "resumo": "03/06/2025\n                                        \n                                         - \n                                        Mudanças promovem maior acessibilidade e proximidade com a população",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-nova-identidade-visual-nas-redes-1/whatsapp-image-2025-06-02-at-17-56-51-1.jpeg/@@images/image",
-      "fonte": "www.gov.br/iphan"
+      "titulo": "Chico Buarque passa por cirurgia no crânio",
+      "data": "Sem data",
+      "resumo": "Cantor foi operado pelo neurocirurgião Paulo Niemeyer para aliviar pressão intracraniana e já se recupera bem no Hospital Copa Star, no Rio de Janeiro",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240618130612_c49567854b9fe7b9009c607ecb6cb7735d54aedde60affc1e27a2dabdaf03ed9.webp?w=3840&q=90",
+      "fonte": "www.brasil247.com"
     },
     {
       "titulo": "Justiça manda soltar o MC Poze do Rodo. Cantor precisará cumprir medidas cautelares",
       "data": "Sem data",
       "resumo": "O funkeiro precisará comparecer mensalmente em juízo até o dia 10 de cada mês",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250530160552_7796cbc0-4efb-4db3-afda-6ddcc828191b.webp?w=3840&q=90",
-      "fonte": "www.brasil247.com"
-    },
-    {
-      "titulo": "Chico Buarque surpreende ao cantar \"Cálice\" com Gilberto Gil em apresentação histórica no Rio (vídeo)",
-      "data": "Sem data",
-      "resumo": "Dueto inédito emocionou o público na Marina da Glória e celebrou resistência, meio século após censura da canção no regime militar",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250602070644_e038de3714916003c3092fe8bb7195d6a65398ab86d43c2655db9d5f4ef0556f.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250530160552_80c618c1-82c8-4372-9059-f81a8822a85c.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
