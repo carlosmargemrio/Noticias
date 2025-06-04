@@ -50,5 +50,13 @@
       "fonte": "www.periodicos.capes.gov.br"
     }
   ],
-  "noticias_escritorio": []
+  "noticias_escritorio": [
+    {
+      "titulo": "Morre Niède Guidon, arqueóloga que reescreveu a história dos primeiros habitantes da América",
+      "data": "04/06/2025",
+      "resumo": "Seus estudos contribuíram para a criação do Parque da Capivara, preservando vestígios da presença humana nas Américas.",
+      "imagem": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/imagens/Niède.jpg",
+      "fonte": "escritoriosaoraimun@iphan.gov.br"
+    }
+  ]
 }
