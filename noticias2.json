@@ -1,6 +1,13 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan lança livro “Mapeamento da Capoeira no Rio Grande do Sul”",
+      "data": "09/06/2025",
+      "resumo": "09/06/2025\n                                        \n                                         - \n                                        O produto é resultado do Módulo 1 do projeto de mapear a prática no estado, que passou pela capital gaúcha e cidades da região metropolitana",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-livro-201cmapeamento-da-capoeira-no-rio-grande-do-sul201d/programacao-2.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
       "titulo": "Iphan e UFMA realizam seminário estadual para o enfrentamento das mudanças climáticas",
       "data": "09/06/2025",
       "resumo": "09/06/2025\n                                        \n                                         - \n                                        Evento antecede a realização da COP30, em novembro deste ano",
@@ -15,24 +22,17 @@
       "fonte": "www.gov.br/iphan"
     },
     {
-      "titulo": "Inédito: Iphan e Obec realizam pesquisa sobre patrimônio, economia e sustentabilidade",
-      "data": "09/06/2025",
-      "resumo": "09/06/2025\n                                        \n                                         - \n                                        Levantamento abrange 12 bens culturais brasileiros reconhecidos internacionalmente",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inedito-iphan-e-obec-realizam-pesquisa-sobre-patrimonio-economia-e-sustentabilidade/banner-pesquisa-economia-1.png/@@images/image",
-      "fonte": "www.gov.br/iphan"
+      "titulo": "Escritor indígena lança em São Paulo livro contra o silenciamento histórico dos povos originários",
+      "data": "Sem data",
+      "resumo": "Givanildo Giva lança nesta terça-feira (10), no Al Janiah, o livro \"Sangue de Terra. Sangue na Terra: O Rastro do Colono-Capitalismo em Pindorama\"",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250610060632_54d1ad5b-57bf-4bcb-9435-f7390d0fa2e4.webp?w=3840&q=90",
+      "fonte": "www.brasil247.com"
     },
     {
       "titulo": "Caetano Veloso será indenizado por usuário do Twitter que o chamou de 'pedaço de merda'",
       "data": "Sem data",
       "resumo": "defesa do artista considerou se tratar de um claro \"exercício de ódio\", o que foi acatado pela Justiça, em decisão da 22ª Vara Cível",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220807060812_e508cc35620dd6a5a2aa9bd366ed3849df4d35cf21734033248862005c43e730.webp?w=3840&q=90",
-      "fonte": "www.brasil247.com"
-    },
-    {
-      "titulo": "Morador do Rio entra na Justiça para investigar possível paternidade de Chico Buarque",
-      "data": "Sem data",
-      "resumo": "Aos 64 anos, homem afirma que mãe revelou identidade do pai antes de morrer; cantor de 80 anos passou por cirurgia dias atrás",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20190528150516_f5c76da45c36effe42528675e5a21c4a7c15955811ca972e1942b14e85903185.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220807060812_aa13054c78033e4a6ec7c37a0f9334b92e2b5d3013c8b725325a0dbf515ac660.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
