@@ -1,0 +1,31 @@
+name: Scraping IPHAN Notícias
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Instalar dependências
+        run: npm install jsdom node-fetch
+
+      - name: Rodar script de scraping
+        run: node scripts/scraper-iphan.js
+
+      - name: Commitar e enviar alterações, se existirem
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          if [[ `git status --porcelain` ]]; then
+            git add noticias_iphan.json
+            git commit -m "Atualização automática de notícias IPHAN"
+            git push
+          else
+            echo "✅ Nenhuma mudança detectada. Nenhum commit feito."
+          fi
