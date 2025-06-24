@@ -20,7 +20,8 @@ jobs:
       - name: Instalar dependências e rodar scraping
         run: |
           npm install axios jsdom
-          node scraping-iphan.js
+          node scripts/scraping-iphan.js
+
 
       - name: Commit se houver mudança
         run: |
