@@ -1,46 +1,63 @@
-const fs = require('fs');
-const fetch = require('node-fetch');
-const { JSDOM } = require('jsdom');
-const path = 'noticias_iphan.json';
+// scripts/scraper-iphan.js
+const fs = require("fs");
+const fetch = require("node-fetch");
+const { JSDOM } = require("jsdom");
+const https = require("https");
 
+const OUT = "noticias_iphan.json";
+const URL = "https://www.gov.br/iphan/pt-br/assuntos/noticias";
+
+/* ---------- scraper ---------- */
 async function scrapeIphanNoticias() {
-  const URL = 'https://www.gov.br/iphan/pt-br/assuntos/noticias';
-  try {
-    const res = await fetch(URL);
-    const html = await res.text();
-    const dom = new JSDOM(html);
-    const doc = dom.window.document;
+  // proxy-less: ignora certificados quebrados
+  const res = await fetch(URL, {
+    agent: new https.Agent({ rejectUnauthorized: false }),
+    headers: { "user-agent": "Mozilla/5.0 (GitHub-Actions)" }
+  });
+  const html = await res.text();
+  const { window } = new JSDOM(html);
+  const doc = window.document;
 
-    const items = Array.from(doc.querySelectorAll("li")).slice(0, 3);
-    const noticias = items.map(li => {
-      const titulo = li.querySelector("h2.titulo a")?.textContent.trim() || "";
-      const link = li.querySelector("h2.titulo a")?.href || "";
-      const data = li.querySelector(".descricao .data")?.textContent.trim() || "";
-      const resumo = li.querySelector(".descricao")?.textContent.trim().replace(/\s+/g, " ") || "";
-      const imagem = li.querySelector("img")?.src?.replace("/mini", "") || "";
-      return { titulo, data, resumo, imagem, link };
-    });
+  // pega só 3 <li> dentro da lista principal
+  const itens = Array
+    .from(doc.querySelectorAll("ul.noticias.listagem-noticias-com-foto li"))
+    .slice(0, 3);
 
-    const novoJson = {
-      atualizado_em: new Date().toISOString(),
-      noticias_iphan: noticias
-    };
+  const noticias = itens.map(li => {
+    const titulo = li.querySelector("h2.titulo a")?.textContent.trim() || "";
+    const link   = li.querySelector("h2.titulo a")?.href               || "";
+    const data   = li.querySelector("span.data")?.textContent.trim()   || "";
 
-    if (fs.existsSync(path)) {
-      const anterior = JSON.parse(fs.readFileSync(path, 'utf8'));
-      const semAtualizado = (obj) => JSON.stringify({ noticias_iphan: obj.noticias_iphan });
-      if (semAtualizado(anterior) === semAtualizado(novoJson)) {
-        console.log("🔁 Nenhuma mudança nas notícias. Nada a fazer.");
-        return;
-      }
+    // span.descricao = data + “ - ” + resumo  → removemos o prefixo
+    let resumo = li.querySelector("span.descricao")?.textContent.trim() || "";
+    resumo = resumo.replace(data, "").replace(/^[-–]\s*/, "").trim();
+
+    const imagem = (li.querySelector("img")?.src || "").replace("/mini", "");
+
+    return { titulo, data, resumo, imagem, link };
+  });
+
+  const novoJson = {
+    atualizado_em: new Date().toISOString(),
+    noticias_iphan: noticias
+  };
+
+  /* ---------- salva só se mudou ---------- */
+  if (fs.existsSync(OUT)) {
+    const anterior = JSON.parse(fs.readFileSync(OUT, "utf8"));
+    const strip = o => JSON.stringify(o.noticias_iphan);
+    if (strip(anterior) === strip(novoJson)) {
+      console.log("🔁 Nenhuma mudança nas notícias – nada a salvar.");
+      return;
     }
-
-    fs.writeFileSync(path, JSON.stringify(novoJson, null, 2));
-    console.log("✅ Notícias IPHAN atualizadas.");
-  } catch (error) {
-    console.error("❌ Erro ao scrapear IPHAN:", error);
-    process.exit(1);
   }
+
+  fs.writeFileSync(OUT, JSON.stringify(novoJson, null, 2));
+  console.log("✅ noticias_iphan.json atualizado.");
 }
 
-scrapeIphanNoticias();
+/* run */
+scrapeIphanNoticias().catch(err => {
+  console.error("❌ Erro ao scrapear IPHAN:", err);
+  process.exit(1);
+});
