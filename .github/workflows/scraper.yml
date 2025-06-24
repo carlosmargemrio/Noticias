@@ -1,46 +1,46 @@
-name: Scraping IPHAN Notícias
+# .github/workflows/scraper.yml (ou scraper-iphan.yml)
 
+name: Scraping IPHAN Notícias
 on:
-  schedule:                # roda a cada 30 min
-    - cron:  '*/30 * * * *'
-  workflow_dispatch:       # permite executar manualmente
+  schedule:
+    - cron:  "*/30 * * * *"      # a cada 30 min
+  workflow_dispatch:
 
 permissions:
-  contents: write          # autoriza o push pelo bot
+  contents: write                # necessário p/ push
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
-      # 1) Clonar o repositório
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0   # necessário para poder dar push
+    # 1) checkout **com fetch-depth 0** para ter o histórico completo
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
 
-      # 2) Preparar Node.js
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
+    # 2) Node
+    - uses: actions/setup-node@v4
+      with:
+        node-version: 20
 
-      # 3) Instalar dependências declaradas no package.json
-      - name: Instalar dependências
-        run: |
-          npm install --no-audit --no-fund
+    # 3) dependências
+    - name: Instalar dependências
+      run: npm install --no-audit --no-fund
 
-      # 4) Executar o scraper
-      - name: Rodar script de scraping
-        env:
-          NODE_TLS_REJECT_UNAUTHORIZED: "0"   # <- ignora TLS do site
-        run: |
-          node scripts/scraper-iphan.js
+    # 4) run scraper (TLS off só p/ IPHAN)
+    - name: Rodar script de scraping
+      env:
+        NODE_TLS_REJECT_UNAUTHORIZED: "0"
+      run: node scripts/scraper-iphan.js
 
-      # 5) Commitar & push se houver mudança no JSON
-      - name: Commit e enviar alterações
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: 'noticias_iphan.json'
-          default_author: github_actions
-          message: 'chore: atualizar noticias_iphan.json'
+    # 5) commit + push (faz pull --rebase antes)
+    - name: Commit e enviar alterações, se existirem
+      uses: EndBug/add-and-commit@v9
+      with:
+        add:      'noticias_iphan.json'
+        default_author: github_actions
+        message:  'chore: atualizar noticias_iphan.json'
+        pull:     '--rebase'          # <-- evita non-fast-forward
+        # se preferir forçar:
+        # push: '--force'
