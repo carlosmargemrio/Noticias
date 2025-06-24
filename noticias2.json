@@ -1,31 +1,31 @@
 {
   "noticias_sites": [
     {
-      "titulo": "Nando Reis fala sobre sua luta contra o alcoolismo e defende que a dependência seja tratada sem preconceito",
+      "titulo": "Com boi-bumbá de Parintins e festas de São João, Petrobras reforça patrocínio a festivais populares no Norte e Nordeste",
       "data": "Sem data",
-      "resumo": "O ex-Titã relatou que, durante muitos anos, se apresentou em situações “lastimáveis”",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2021110707118_314487a1237d17b715adc28dbe892fbcc13a9776f466b40f8d65548cff6772fd.webp?w=3840&q=90",
+      "resumo": "A iniciativa reforça a atuação da estatal como apoiadora da cultura brasileira",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250424170428_0e1d79ce12e6bf3e618b4ec07e7490c8793eee42b2d687d04b5a31c1c1086e87.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
-      "titulo": "Francisco Cuoco é velado em São Paulo e fãs se despedem do ator aos 91 anos",
+      "titulo": "Nando Reis fala sobre sua luta contra o alcoolismo e defende que a dependência seja tratada sem preconceito",
       "data": "Sem data",
-      "resumo": "Cerimônia aberta ao público foi marcada por emoção de admiradores e será seguida por enterro reservado à família nesta tarde na capital paulista",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025062010064_fef4c677-c8ca-4f8f-bed8-fa9845a671fe.webp?w=3840&q=90",
+      "resumo": "O ex-Titã relatou que, durante muitos anos, se apresentou em situações “lastimáveis”",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2021110707118_8913c72b31a4c29263692778030cdc968d48af9004f0de8c83351cbe9531d252.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
+    },
+    {
+      "titulo": "CAPES e Royal Society Publishing firmam novo acordo",
+      "data": "23/06/2025",
+      "resumo": "23/06/2025 -\n                Usuários de 260 instituições terão acesso para leitura e publicação em dez títulos da editora mais longeva do mundo de forma contínua",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Acordo_RSP.png",
+      "fonte": "www.periodicos.capes.gov.br"
     },
     {
       "titulo": "Quatro treinamentos estão na agenda da 2ª quinzena de junho",
       "data": "16/06/2025",
       "resumo": "16/06/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos terá como um dos temas a publicação de artigo científico em acesso aberto",
       "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "fonte": "www.periodicos.capes.gov.br"
-    },
-    {
-      "titulo": "CAPES firma contrato com sociedade centenária de Biologia Vegetal",
-      "data": "16/06/2025",
-      "resumo": "16/06/2025 -\n                Pelo acordo, usuários vinculados a 119 instituições terão acesso a dois periódicos de alto impacto: Plant Physiology e The Plant Cell",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Imagem_Treinamento_Mendeley_e_EndNote.png",
       "fonte": "www.periodicos.capes.gov.br"
     }
   ],
