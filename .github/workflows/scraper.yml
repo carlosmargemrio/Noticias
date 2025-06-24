@@ -1,40 +1,44 @@
 name: Scraping IPHAN Notícias
 
 on:
-  schedule:                       # roda a cada 30 min
+  schedule:                # roda a cada 30 min
     - cron:  '*/30 * * * *'
-  workflow_dispatch:              # permite rodar manualmente
+  workflow_dispatch:       # permite executar manualmente
 
 permissions:
-  contents: write      # permite push
+  contents: write          # autoriza o push pelo bot
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Clona o repositório
-      - uses: actions/checkout@v4
-  with:
-    fetch-depth: 0     # obrigatório para push
+      # 1) Clonar o repositório
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # necessário para poder dar push
 
-      # 2. Prepara o Node
-      - uses: actions/setup-node@v4
+      # 2) Preparar Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      # 3. Instala dependências declaradas no package.json
+      # 3) Instalar dependências declaradas no package.json
       - name: Instalar dependências
-        run: npm install --no-audit --no-fund
+        run: |
+          npm install --no-audit --no-fund
 
-      # 4. EXECUTA o scraper
-      #    --> aqui desligamos a verificação TLS *apenas* para este processo
+      # 4) Executar o scraper
       - name: Rodar script de scraping
         env:
-          NODE_TLS_REJECT_UNAUTHORIZED: "0"   # <-- **SOLUÇÃO 1**
-        run: node scripts/scraper-iphan.js
+          NODE_TLS_REJECT_UNAUTHORIZED: "0"   # <- ignora TLS do site
+        run: |
+          node scripts/scraper-iphan.js
 
-      # 5. Se o JSON mudou, faz commit e push
-      - name: Commit e enviar alterações, se existirem
+      # 5) Commitar & push se houver mudança no JSON
+      - name: Commit e enviar alterações
         uses: EndBug/add-and-commit@v9
         with:
           add: 'noticias_iphan.json'
