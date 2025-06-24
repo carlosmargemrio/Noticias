@@ -11,7 +11,7 @@ async function scrapeIphanNoticias() {
     const dom = new JSDOM(html);
     const doc = dom.window.document;
 
-    const items = Array.from(doc.querySelectorAll("li")).slice(0, 5);
+    const items = Array.from(doc.querySelectorAll("li")).slice(0, 3);
     const noticias = items.map(li => {
       const titulo = li.querySelector("h2.titulo a")?.textContent.trim() || "";
       const link = li.querySelector("h2.titulo a")?.href || "";
