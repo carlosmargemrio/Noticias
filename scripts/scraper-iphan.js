@@ -1,63 +1,69 @@
-// scripts/scraper-iphan.js
-const fs = require("fs");
-const fetch = require("node-fetch");
-const { JSDOM } = require("jsdom");
-const https = require("https");
+/* eslint-disable no-console */
+const fs   = require('fs');
+const path = require('path');
+const fetch = require('node-fetch');
+const { JSDOM } = require('jsdom');
 
-const OUT = "noticias_iphan.json";
-const URL = "https://www.gov.br/iphan/pt-br/assuntos/noticias";
+const URL          = 'https://www.gov.br/iphan/pt-br/assuntos/noticias';
+const JSON_FILE    = path.join(__dirname, '..', 'noticias_iphan.json');
+const MAX_NOTICIAS = 3;
 
-/* ---------- scraper ---------- */
-async function scrapeIphanNoticias() {
-  // proxy-less: ignora certificados quebrados
-  const res = await fetch(URL, {
-    agent: new https.Agent({ rejectUnauthorized: false }),
-    headers: { "user-agent": "Mozilla/5.0 (GitHub-Actions)" }
-  });
-  const html = await res.text();
-  const { window } = new JSDOM(html);
-  const doc = window.document;
+(async function scrapeIphan() {
+  try {
+    // --- faz download do HTML -------------------------------------------------
+    console.log('🔎  Buscando página do IPHAN…');
+    const res  = await fetch(URL, { timeout: 15_000 });
+    const html = await res.text();
 
-  // pega só 3 <li> dentro da lista principal
-  const itens = Array
-    .from(doc.querySelectorAll("ul.noticias.listagem-noticias-com-foto li"))
-    .slice(0, 3);
+    // --- parse DOM ------------------------------------------------------------
+    const dom = new JSDOM(html);
+    const doc = dom.window.document;
 
-  const noticias = itens.map(li => {
-    const titulo = li.querySelector("h2.titulo a")?.textContent.trim() || "";
-    const link   = li.querySelector("h2.titulo a")?.href               || "";
-    const data   = li.querySelector("span.data")?.textContent.trim()   || "";
+    const items = Array.from(
+      doc.querySelectorAll('li .conteudo')   // pega somente o bloco <div class="conteudo">
+    ).slice(0, MAX_NOTICIAS);
 
-    // span.descricao = data + “ - ” + resumo  → removemos o prefixo
-    let resumo = li.querySelector("span.descricao")?.textContent.trim() || "";
-    resumo = resumo.replace(data, "").replace(/^[-–]\s*/, "").trim();
+    const noticias = items.map(div => {
+      const tituloEl = div.querySelector('h2.titulo a');
+      const dataEl   = div.querySelector('.descricao .data');
+      const descEl   = div.querySelector('.descricao');
+      const imgEl    = div.parentElement.querySelector('img.newsImage'); // fora do .conteudo
 
-    const imagem = (li.querySelector("img")?.src || "").replace("/mini", "");
+      return {
+        titulo : tituloEl?.textContent.trim()         || '',
+        data   : dataEl?.textContent.trim()           || '',
+        resumo : (descEl?.textContent || '')
+                   .replace(/\s+/g, ' ')
+                   .replace(dataEl?.textContent || '', '')
+                   .replace(/^ - /, '')
+                   .trim(),
+        imagem : (imgEl?.src || '').replace('/mini', ''),
+        link   : tituloEl?.href                      || ''
+      };
+    });
 
-    return { titulo, data, resumo, imagem, link };
-  });
+    // --- monta objeto final ---------------------------------------------------
+    const novoJson = {
+      atualizado_em : new Date().toISOString(),
+      noticias_iphan: noticias
+    };
 
-  const novoJson = {
-    atualizado_em: new Date().toISOString(),
-    noticias_iphan: noticias
-  };
+    // --- se o arquivo existir, compara conteúdo ------------------------------
+    if (fs.existsSync(JSON_FILE)) {
+      const anterior = JSON.parse(fs.readFileSync(JSON_FILE, 'utf8'));
+      const strip = obj => JSON.stringify(obj.noticias_iphan);
 
-  /* ---------- salva só se mudou ---------- */
-  if (fs.existsSync(OUT)) {
-    const anterior = JSON.parse(fs.readFileSync(OUT, "utf8"));
-    const strip = o => JSON.stringify(o.noticias_iphan);
-    if (strip(anterior) === strip(novoJson)) {
-      console.log("🔁 Nenhuma mudança nas notícias – nada a salvar.");
-      return;
+      if (strip(anterior) === strip(novoJson)) {
+        console.log('🔁  Nenhuma mudança. Arquivo permanece igual.');
+        process.exit(0);           // encerra sem erro; Action não fará commit
+      }
     }
+
+    // --- grava arquivo --------------------------------------------------------
+    fs.writeFileSync(JSON_FILE, JSON.stringify(novoJson, null, 2));
+    console.log('✅  Notícias IPHAN atualizadas em', JSON_FILE);
+  } catch (err) {
+    console.error('❌  Erro ao scrapear IPHAN:', err.message);
+    process.exit(1);               // força falha na Action
   }
-
-  fs.writeFileSync(OUT, JSON.stringify(novoJson, null, 2));
-  console.log("✅ noticias_iphan.json atualizado.");
-}
-
-/* run */
-scrapeIphanNoticias().catch(err => {
-  console.error("❌ Erro ao scrapear IPHAN:", err);
-  process.exit(1);
-});
+})();
