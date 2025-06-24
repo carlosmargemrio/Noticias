@@ -1,1 +1,32 @@
+name: Scraping IPHAN Notícias
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # A cada 30 minutos
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repositório
+        uses: actions/checkout@v3
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Instalar dependências e rodar scraping
+        run: |
+          npm install axios jsdom
+          node scraping-iphan.js
+
+      - name: Commit se houver mudança
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add noticias_iphan.json
+          git diff --cached --quiet || git commit -m "Atualiza notícias IPHAN automaticamente"
+          git push
 
