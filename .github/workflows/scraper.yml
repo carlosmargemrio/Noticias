@@ -1,45 +1,96 @@
-name: Scraping IPHAN Notícias
+/* eslint-disable no-console */
+const fs    = require('fs');
+const path  = require('path');
+const fetch = require('node-fetch');
+const { JSDOM } = require('jsdom');
+const AbortController = require('abort-controller');
 
-on:
-  schedule:
-    - cron:  '*/30 * * * *'      # a cada 30 min
-  workflow_dispatch:
+const URL           = 'https://www.gov.br/iphan/pt-br/assuntos/noticias';
+const JSON_FILE     = path.join(__dirname, '..', 'noticias_iphan.json');
+const MAX_NOTICIAS  = 3;
+const TIMEOUT_MS    = 30_000;   // 30 s
+const MAX_TENTATIVAS = 3;
 
-permissions:
-  contents: write                # necessário para fazer push
+/* -------------------------------------------------------------------------- */
+/* util: tenta baixar com timeout + retries                                   */
+/* -------------------------------------------------------------------------- */
+async function fetchWithRetry(url, tentativas = MAX_TENTATIVAS) {
+  for (let i = 1; i <= tentativas; i++) {
+    const controller = new AbortController();
+    const id = setTimeout(() => controller.abort(), TIMEOUT_MS);
 
-jobs:
-  scrape:
-    runs-on: ubuntu-latest
+    try {
+      const res = await fetch(url, {
+        signal: controller.signal,
+        headers: { 'user-agent': 'Mozilla/5.0 (GitHubActions scraper)' }
+      });
+      clearTimeout(id);
 
-    steps:
-      # 1) clona o repositório (fetch-depth 0 → permite push)
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: true   # mantém o GITHUB_TOKEN configurado
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return await res.text();                // 👍  sucesso
+    } catch (err) {
+      clearTimeout(id);
+      console.warn(`⚠️  tentativa ${i}/${tentativas} falhou: ${err.message}`);
+      if (i === tentativas) throw err;        // esgotou tentativas
+      await new Promise(r => setTimeout(r, 3_000)); // pequena espera
+    }
+  }
+}
 
-      # 2) prepara o Node
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
+/* -------------------------------------------------------------------------- */
+(async () => {
+  try {
+    console.log('🔎  Buscando página do IPHAN…');
+    const html = await fetchWithRetry(URL);
 
-      # 3) instala dependências declaradas no package.json
-      - name: Instalar dependências
-        run: npm install --no-audit --no-fund
+    /* ---- parse DOM -------------------------------------------------------- */
+    const dom = new JSDOM(html);
+    const doc = dom.window.document;
 
-      # 4) executa o scraper (desliga validação TLS p/ certificados gov.br)
-      - name: Rodar script de scraping
-        env:
-          NODE_TLS_REJECT_UNAUTHORIZED: "0"   # aceita cert. cadeia incompleta
-        run: node scripts/scraper-iphan.js
+    const itens = Array.from(
+      doc.querySelectorAll('li > .conteudo')
+    ).slice(0, MAX_NOTICIAS);
 
-      # 5) commita e envia SE o arquivo mudou
-      - name: Commit e push (se houver alterações)
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'chore: atualizar noticias_iphan.json'
-          file_pattern:   'noticias_iphan.json'
-          commit_user_name:  github-actions
-          commit_user_email: github-actions[bot]@users.noreply.github.com
-          push_options: '--force-with-lease'
+    const noticias = itens.map(div => {
+      const tituloEl = div.querySelector('h2.titulo a');
+      const dataEl   = div.querySelector('.descricao .data');
+      const descEl   = div.querySelector('.descricao');
+      const imgEl    = div.parentElement.querySelector('img.newsImage');
+
+      return {
+        titulo : tituloEl?.textContent.trim()      || '',
+        data   : dataEl?.textContent.trim()        || '',
+        resumo : (descEl?.textContent || '')
+                   .replace(/\s+/g, ' ')
+                   .replace(dataEl?.textContent || '', '')
+                   .replace(/^ - /, '')
+                   .trim(),
+        imagem : (imgEl?.src || '').replace('/mini', ''),
+        link   : tituloEl?.href || ''
+      };
+    });
+
+    const novoJson = {
+      atualizado_em : new Date().toISOString(),
+      noticias_iphan: noticias
+    };
+
+    /* ---- compara com arquivo anterior ------------------------------------ */
+    if (fs.existsSync(JSON_FILE)) {
+      const anterior = JSON.parse(fs.readFileSync(JSON_FILE, 'utf8'));
+      const strip = o => JSON.stringify(o.noticias_iphan);
+      if (strip(anterior) === strip(novoJson)) {
+        console.log('🔁  Nenhuma mudança detectada.');
+        process.exit(0);
+      }
+    }
+
+    fs.writeFileSync(JSON_FILE, JSON.stringify(novoJson, null, 2));
+    console.log('✅  Arquivo atualizado.');
+  } catch (err) {
+    // Falhou todas as tentativas → apenas loga e sai “sucesso” para
+    // evitar marcar o workflow como failed (não há o que commitar)
+    console.error('❌  IPHAN indisponível:', err.message);
+    process.exit(0);
+  }
+})();
