@@ -19,7 +19,8 @@ jobs:
           node-version: 20
 
       # 3. Instala dependências declaradas no package.json
-      - run: npm ci
+      - name: Instalar dependências
+        run: npm install --no-audit --no-fund
 
       # 4. EXECUTA o scraper
       #    --> aqui desligamos a verificação TLS *apenas* para este processo
