@@ -123,8 +123,12 @@ const noticiasManuais = [
     console.log('🔁  Nenhuma mudança real — JSON mantido.');
     return;
   }
+/* ---- salva ---- */
+fs.writeFileSync(
+  OUT_FILE,
+  JSON.stringify(novo , null , 2)
+);
+console.log('✅  JSON atualizado:', OUT_FILE);
 
-  /* ---- salva ---- */
-  fs.writeFileSync(OUT_FILE, JSON.stringify(novo));
-  console.log('✅  JSON atualizado:', OUT_FILE);
+    
 })();
