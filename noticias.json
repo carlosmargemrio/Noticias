@@ -1,14 +1,3 @@
 {
-  "atualizado_em": "2025-06-24T18:00:00.000Z",
-  "noticias_sites": [         
-    { "titulo": "...", "data": "..." }
-  ],
-  "noticias_fixas": [          
-      "titulo" : "Reunião do Conselho Consultivo",
-      "data"   : "25/06/2025",
-      "resumo" : "O Conselho se reúne para deliberar sobre novos tombamentos.",
-      "imagem" : "https://…/conselho.jpeg",
-      "fonte"  : "escritório"
-    }
-  ]
+  
 }
