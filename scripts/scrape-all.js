@@ -11,8 +11,8 @@ const path = require('path');
 const fetch = require('node-fetch');
 const { JSDOM } = require('jsdom');
 
-const OUT_FILE = 'noticias2.json';          // <-- mesmo arquivo que o front consome
-const MAX_POR_SITE = 3;                     // limitar por site
+const OUT_FILE = 'noticias.json';          
+const MAX_POR_SITE = 3;                     
 const TIMEOUT_MS   = 25_000;
 
 /* ---------- util simples de fetch com timeout ---------- */
