@@ -3,7 +3,7 @@ const fs    = require('fs');
 const path  = require('path');
 const fetch = require('node-fetch');
 const { JSDOM } = require('jsdom');
-const AbortController = require('abort-controller');
+
 
 const URL           = 'https://www.gov.br/iphan/pt-br/assuntos/noticias';
 const JSON_FILE     = path.join(__dirname, '..', 'noticias_iphan.json');
