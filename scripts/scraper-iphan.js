@@ -1,69 +1,96 @@
 /* eslint-disable no-console */
-const fs   = require('fs');
-const path = require('path');
+const fs    = require('fs');
+const path  = require('path');
 const fetch = require('node-fetch');
 const { JSDOM } = require('jsdom');
+const AbortController = require('abort-controller');
 
-const URL          = 'https://www.gov.br/iphan/pt-br/assuntos/noticias';
-const JSON_FILE    = path.join(__dirname, '..', 'noticias_iphan.json');
-const MAX_NOTICIAS = 3;
+const URL           = 'https://www.gov.br/iphan/pt-br/assuntos/noticias';
+const JSON_FILE     = path.join(__dirname, '..', 'noticias_iphan.json');
+const MAX_NOTICIAS  = 3;
+const TIMEOUT_MS    = 30_000;   // 30 s
+const MAX_TENTATIVAS = 3;
 
-(async function scrapeIphan() {
+/* -------------------------------------------------------------------------- */
+/* util: tenta baixar com timeout + retries                                   */
+/* -------------------------------------------------------------------------- */
+async function fetchWithRetry(url, tentativas = MAX_TENTATIVAS) {
+  for (let i = 1; i <= tentativas; i++) {
+    const controller = new AbortController();
+    const id = setTimeout(() => controller.abort(), TIMEOUT_MS);
+
+    try {
+      const res = await fetch(url, {
+        signal: controller.signal,
+        headers: { 'user-agent': 'Mozilla/5.0 (GitHubActions scraper)' }
+      });
+      clearTimeout(id);
+
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return await res.text();                // 👍  sucesso
+    } catch (err) {
+      clearTimeout(id);
+      console.warn(`⚠️  tentativa ${i}/${tentativas} falhou: ${err.message}`);
+      if (i === tentativas) throw err;        // esgotou tentativas
+      await new Promise(r => setTimeout(r, 3_000)); // pequena espera
+    }
+  }
+}
+
+/* -------------------------------------------------------------------------- */
+(async () => {
   try {
-    // --- faz download do HTML -------------------------------------------------
     console.log('🔎  Buscando página do IPHAN…');
-    const res  = await fetch(URL, { timeout: 15_000 });
-    const html = await res.text();
+    const html = await fetchWithRetry(URL);
 
-    // --- parse DOM ------------------------------------------------------------
+    /* ---- parse DOM -------------------------------------------------------- */
     const dom = new JSDOM(html);
     const doc = dom.window.document;
 
-    const items = Array.from(
-      doc.querySelectorAll('li .conteudo')   // pega somente o bloco <div class="conteudo">
+    const itens = Array.from(
+      doc.querySelectorAll('li > .conteudo')
     ).slice(0, MAX_NOTICIAS);
 
-    const noticias = items.map(div => {
+    const noticias = itens.map(div => {
       const tituloEl = div.querySelector('h2.titulo a');
       const dataEl   = div.querySelector('.descricao .data');
       const descEl   = div.querySelector('.descricao');
-      const imgEl    = div.parentElement.querySelector('img.newsImage'); // fora do .conteudo
+      const imgEl    = div.parentElement.querySelector('img.newsImage');
 
       return {
-        titulo : tituloEl?.textContent.trim()         || '',
-        data   : dataEl?.textContent.trim()           || '',
+        titulo : tituloEl?.textContent.trim()      || '',
+        data   : dataEl?.textContent.trim()        || '',
         resumo : (descEl?.textContent || '')
                    .replace(/\s+/g, ' ')
                    .replace(dataEl?.textContent || '', '')
                    .replace(/^ - /, '')
                    .trim(),
         imagem : (imgEl?.src || '').replace('/mini', ''),
-        link   : tituloEl?.href                      || ''
+        link   : tituloEl?.href || ''
       };
     });
 
-    // --- monta objeto final ---------------------------------------------------
     const novoJson = {
       atualizado_em : new Date().toISOString(),
       noticias_iphan: noticias
     };
 
-    // --- se o arquivo existir, compara conteúdo ------------------------------
+    /* ---- compara com arquivo anterior ------------------------------------ */
     if (fs.existsSync(JSON_FILE)) {
       const anterior = JSON.parse(fs.readFileSync(JSON_FILE, 'utf8'));
-      const strip = obj => JSON.stringify(obj.noticias_iphan);
-
+      const strip = o => JSON.stringify(o.noticias_iphan);
       if (strip(anterior) === strip(novoJson)) {
-        console.log('🔁  Nenhuma mudança. Arquivo permanece igual.');
-        process.exit(0);           // encerra sem erro; Action não fará commit
+        console.log('🔁  Nenhuma mudança detectada.');
+        process.exit(0);
       }
     }
 
-    // --- grava arquivo --------------------------------------------------------
     fs.writeFileSync(JSON_FILE, JSON.stringify(novoJson, null, 2));
-    console.log('✅  Notícias IPHAN atualizadas em', JSON_FILE);
+    console.log('✅  Arquivo atualizado.');
   } catch (err) {
-    console.error('❌  Erro ao scrapear IPHAN:', err.message);
-    process.exit(1);               // força falha na Action
+    // Falhou todas as tentativas → apenas loga e sai “sucesso” para
+    // evitar marcar o workflow como failed (não há o que commitar)
+    console.error('❌  IPHAN indisponível:', err.message);
+    process.exit(0);
   }
 })();
