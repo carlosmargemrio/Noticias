@@ -1,11 +1,23 @@
 {
-  "name": "noticias-iphan-scraper",
-  "version": "1.0.0",
-  "description": "Scraper de notícias do IPHAN executado via GitHub Actions",
-  "main": "scripts/scraper-iphan.js",
-  "type": "commonjs",
+  "name": "noticias-scraper",
+  "version": "1.1.0",
+  "description": "Scrapers de notícias (IPHAN, Brasil247, CAPES…) executados por GitHub Actions",
+  "type": "commonjs",          
+  "main": "scripts/scrape-all.js",
+
+  "scripts": {
+    "scrape": "node scripts/scrape-all.js" 
+  },
+
   "dependencies": {
     "jsdom": "^24.0.0",
-    "node-fetch": "^2.6.11"
-  }
+    "node-fetch": "^2.6.11"    
+  },
+
+  "engines": {
+    "node": ">=20"            
+  },
+
+  "author": "Seu Nome",
+  "license": "MIT"
 }
