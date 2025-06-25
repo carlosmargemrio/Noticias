@@ -1,31 +1,31 @@
 {
   "noticias_sites": [
     {
-      "titulo": "Com boi-bumbá de Parintins e festas de São João, Petrobras reforça patrocínio a festivais populares no Norte e Nordeste",
+      "titulo": "Gilmar Mendes é eleito para a Academia Brasiliense de Letras (ABrL)",
       "data": "Sem data",
-      "resumo": "A iniciativa reforça a atuação da estatal como apoiadora da cultura brasileira",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250424170428_0e1d79ce12e6bf3e618b4ec07e7490c8793eee42b2d687d04b5a31c1c1086e87.webp?w=3840&q=90",
+      "resumo": "'Agradeço os 27 votos que me foram confiados', escreveu o ministro do STF",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2023052421050_1ca5119a4bd91bed56bb012b995e68c84fdc818698f68c3eee8f66fbe761881b.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
     },
     {
-      "titulo": "Nando Reis fala sobre sua luta contra o alcoolismo e defende que a dependência seja tratada sem preconceito",
+      "titulo": "São João com segurança: saiba que cuidados tomar para evitar acidentes",
       "data": "Sem data",
-      "resumo": "O ex-Titã relatou que, durante muitos anos, se apresentou em situações “lastimáveis”",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2021110707118_8913c72b31a4c29263692778030cdc968d48af9004f0de8c83351cbe9531d252.webp?w=3840&q=90",
+      "resumo": "De fogueiras a rede elétrica, especialista orienta sobre regras",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250620170632_92d28e7e-5f90-4440-8109-8b180fe90dbc.webp?w=3840&q=90",
       "fonte": "www.brasil247.com"
+    },
+    {
+      "titulo": "Usuários têm até o dia 2 para sugerir temas de treinamentos",
+      "data": "24/06/2025",
+      "resumo": "24/06/2025 -\n                Sugestões também abrangem palestrantes. Capacitações são on-line, gratuitas e interativas, abrangendo todas as áreas do conhecimento",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Sugestes_Temas.png",
+      "fonte": "www.periodicos.capes.gov.br"
     },
     {
       "titulo": "CAPES e Royal Society Publishing firmam novo acordo",
       "data": "23/06/2025",
       "resumo": "23/06/2025 -\n                Usuários de 260 instituições terão acesso para leitura e publicação em dez títulos da editora mais longeva do mundo de forma contínua",
       "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
-      "fonte": "www.periodicos.capes.gov.br"
-    },
-    {
-      "titulo": "Quatro treinamentos estão na agenda da 2ª quinzena de junho",
-      "data": "16/06/2025",
-      "resumo": "16/06/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos terá como um dos temas a publicação de artigo científico em acesso aberto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
       "fonte": "www.periodicos.capes.gov.br"
     }
   ],
