@@ -1,6 +1,22 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove oficina sobre norma de preservação do Conjunto Arquitetônico e Urbanístico de Sobral (CE)",
+      "data": "26/06/2025",
+      "resumo": "26/06/2025 - Interessados devem se inscrever em formulário on-line. As vagas são limitadas.",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-sobre-norma-de-preservacao-do-conjunto-arquitetonico-e-urbanistico-de-sobral-ce/whatsapp-image-2025-06-05-at-11-47-49-2-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-sobre-norma-de-preservacao-do-conjunto-arquitetonico-e-urbanistico-de-sobral-ce",
+      "fonte": "IPHAN"
+    },
+    {
+      "titulo": "Escritório técnico do Iphan em Pirenópolis recebe exposição “Minha Alma, Meu Registro”, de Juliane Pina",
+      "data": "26/06/2025",
+      "resumo": "26/06/2025 - Mostra apresenta obras produzidas com técnica de pinturas com pedras",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/escritorio-tecnico-do-iphan-em-pirenopolis-recebe-exposicao-201cminha-alma-meu-registro201d-de-juliane-pina/design-sem-nome-44.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/escritorio-tecnico-do-iphan-em-pirenopolis-recebe-exposicao-201cminha-alma-meu-registro201d-de-juliane-pina",
+      "fonte": "IPHAN"
+    },
+    {
       "titulo": "Concurso Sílvio Romero de Monografias 2025: inscrições abertas até julho",
       "data": "26/06/2025",
       "resumo": "26/06/2025 - A premiação contempla os três primeiros colocados",
@@ -9,26 +25,18 @@
       "fonte": "IPHAN"
     },
     {
-      "titulo": "Iphan recebe delegação do Benin para tratar de cooperação bilateral",
-      "data": "26/06/2025",
-      "resumo": "26/06/2025 - Preservação e salvaguarda do patrimônio cultural foram temas debatidos nesta quarta-feira (25) na sede, em Brasília (DF)",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-delegacao-do-benin-para-tratar-de-cooperacao-bilateral/20250625_115547-1-1-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-delegacao-do-benin-para-tratar-de-cooperacao-bilateral",
-      "fonte": "IPHAN"
-    },
-    {
-      "titulo": "Em Fernando de Noronha (PE), Iphan apresenta ações de preservação do patrimônio histórico",
-      "data": "25/06/2025",
-      "resumo": "25/06/2025 - Arquipélago receberá intervenções com investimentos do Novo PAC",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-visita-fernando-de-noronha-pe-e-apresenta-acoes-de-preservacao-do-patrimonio-historico/WhatsAppImage20250623at10.51.303.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-visita-fernando-de-noronha-pe-e-apresenta-acoes-de-preservacao-do-patrimonio-historico",
-      "fonte": "IPHAN"
+      "titulo": "Armazém da Utopia, no Rio, comemora aniversário de Marx",
+      "data": "",
+      "resumo": "No sábado (28) realiza-se o DIA M, em homenagem ao grande pensador revolucionário alemão",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220814090820_80c94dbfc46ef462bd80b7de134e8c146fb188459023725a34117ad2c2a5cfb6.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "BNDES abre edital para selecionar 160 espetáculos musicais gratuitos no Rio",
       "data": "",
       "resumo": "Edital contempla artistas de diversos gêneros e categorias, com cachês entre R$ 18 mil e R$ 60 mil para apresentações no Espaço Cultural do Banco",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250226130228_b9204fc8-e2fc-4769-8252-eb699aa378a9.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250226130228_415ee469-3d0f-44f1-b022-f9808c32c4a8.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "'Agradeço os 27 votos que me foram confiados', escreveu o ministro do STF",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2023052421050_08ee93342cbac4195c158d4309ad5b7e898ae22ff2702f796fa41027241bcf95.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "São João com segurança: saiba que cuidados tomar para evitar acidentes",
-      "data": "",
-      "resumo": "De fogueiras a rede elétrica, especialista orienta sobre regras",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250620170632_92d28e7e-5f90-4440-8109-8b180fe90dbc.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
