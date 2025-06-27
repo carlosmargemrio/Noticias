@@ -38,7 +38,7 @@ function scrapeIphan (html) {
     resumo : li.querySelector('.descricao')?.textContent.trim().replace(/\s+/g,' ') || '',
     imagem : li.querySelector('img')?.src.replace('/mini','') || '',
     link   : li.querySelector('.titulo a')?.href || '',
-    fonte  : 'IPHAN'
+    fonte  : 'https://www.gov.br/iphan/pt-br/assuntos/noticias'
   }));
 }
 
