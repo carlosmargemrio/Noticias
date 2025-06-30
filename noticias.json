@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Exposição indígena na Sala do Artista Popular será inaugurada quinta-feira (03/07)",
+      "data": "30/06/2025",
+      "resumo": "30/06/2025 - Evento também conta com pré-estreia de filme da mesma temática",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/exposicao-indigena-na-sala-do-artista-popular-sera-inaugurada-quinta-feira-03-07/banner-site-hamxop-tut-xop-as-maes-das-nossas-coisas-cnfcp-2.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/exposicao-indigena-na-sala-do-artista-popular-sera-inaugurada-quinta-feira-03-07",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan entrega certificados de reconhecimento a bois-bumbás do Complexo Cultural do Boi Bumbá do Médio Amazonas e Parintins",
       "data": "30/06/2025",
       "resumo": "30/06/2025 - Além do Garantido e Caprichoso, o Amazonas tem mais uma dezena de bois-bumbás reconhecidos como patrimônio cultural brasileiro",
@@ -14,14 +22,6 @@
       "resumo": "27/06/2025 - Estudos e visitas às comunidades quilombolas guiaram a atuação, que reconhece e protege esses territórios como patrimônio cultural brasileiro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/consultoras-do-prodoc-apresentaram-avancos-na-implementacao-da-portaria-de-tombamento-dos-quilombos/design-sem-nome-46.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/consultoras-do-prodoc-apresentaram-avancos-na-implementacao-da-portaria-de-tombamento-dos-quilombos",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Em Manaus (AM), Iphan entrega Igreja de Nossa Senhora dos Remédios reformada",
-      "data": "27/06/2025",
-      "resumo": "27/06/2025 - Recursos vêm do Instituto por meio de emenda da bancada federal",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-manaus-am-iphan-entrega-igreja-de-nossa-senhora-dos-remedios-reformada/whatsapp-image-2025-05-29-at-14-37-32-2-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-manaus-am-iphan-entrega-igreja-de-nossa-senhora-dos-remedios-reformada",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
