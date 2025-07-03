@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Edital Arqueologia viva tem suas inscrições prorrogadas",
+      "data": "03/07/2025",
+      "resumo": "03/07/2025 - Interessados têm até dia 16 de julho para submeterem propostas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/edital-arqueologia-viva-tem-suas-inscricoes-prorrogadas/banner-arqueologia-viva.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/edital-arqueologia-viva-tem-suas-inscricoes-prorrogadas",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan, UFMG e Prefeitura de Congonhas firmam acordo para criação do Centro de Estudos da Pedra",
       "data": "01/07/2025",
       "resumo": "01/07/2025 - Parceria busca integrar ensino, pesquisa e extensão para preservação de bens em rocha",
@@ -14,14 +22,6 @@
       "resumo": "30/06/2025 - Sob a coordenação do Dafe/Iphan, o GT terá duração de 120 dias",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-cria-grupo-de-trabalho-focado-no-patrimonio-cultural-lgbtqiapn/2025_df_brasilia_premiorodrigo_marianaalves-102-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-cria-grupo-de-trabalho-focado-no-patrimonio-cultural-lgbtqiapn",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Exposição indígena na Sala do Artista Popular será inaugurada quinta-feira (03/07)",
-      "data": "30/06/2025",
-      "resumo": "30/06/2025 - Evento também conta com pré-estreia de filme da mesma temática",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/exposicao-indigena-na-sala-do-artista-popular-sera-inaugurada-quinta-feira-03-07/banner-site-hamxop-tut-xop-as-maes-das-nossas-coisas-cnfcp-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/exposicao-indigena-na-sala-do-artista-popular-sera-inaugurada-quinta-feira-03-07",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
