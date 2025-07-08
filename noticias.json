@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Revista do Patrimônio: prazo para envio de contribuições é prorrogado; veja nova data",
+      "data": "08/07/2025",
+      "resumo": "08/07/2025 - Interessados podem acessar o site revistadopatrimonio.iphan.gov.br para saber mais sobre as chamadas abertas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/revista-do-patrimonio-prazo-para-envio-de-contribuicoes-e-prorrogado-veja-nova-data/img_0600-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/revista-do-patrimonio-prazo-para-envio-de-contribuicoes-e-prorrogado-veja-nova-data",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan abre 5 vagas para a sociedade civil participar da criação do 1º PNSPC",
       "data": "07/07/2025",
       "resumo": "07/07/2025 - Grupo Executivo será responsável pela construção do Plano Nacional Setorial de Patrimônio Cultural e do Marco Regulatório do SNPC",
@@ -14,14 +22,6 @@
       "resumo": "07/07/2025 - A ação faz parte o Projeto de Sinalização Turística do Patrimônio Mundial do Brasil",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-sinalizacao-turistica-valoriza-o-patrimonio-de-sao-miguel-das-missoes-rs/design-sem-nome-47.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-sinalizacao-turistica-valoriza-o-patrimonio-de-sao-miguel-das-missoes-rs",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Arquiteta do Iphan lança livro no Maranhão sobre o Patrimônio Industrial",
-      "data": "04/07/2025",
-      "resumo": "04/07/2025 - Obra é resultado de pesquisa desenvolvida durante o Mestrado Profissional em Preservação do Patrimônio Cultural do Instituto",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/arquiteta-do-iphan-lanca-livro-no-maranhao-sobre-o-patrimonio-industrial-1/whatsapp-image-2025-07-04-at-16-36-23-3-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/arquiteta-do-iphan-lanca-livro-no-maranhao-sobre-o-patrimonio-industrial-1",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
