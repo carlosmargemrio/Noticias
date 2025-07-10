@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan convida a sociedade a participar do Mês do Patrimônio",
+      "data": "10/07/2025",
+      "resumo": "10/07/2025 - Eventos vão refletir a diversidade de experiências e de contextos no Brasil",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-a-sociedade-a-participar-do-mes-do-patrimonio/whatsapp-image-2025-07-10-at-17-13-28-4.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-a-sociedade-a-participar-do-mes-do-patrimonio",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Revista do Patrimônio: prazo para envio de contribuições é prorrogado; veja nova data",
       "data": "08/07/2025",
       "resumo": "08/07/2025 - Interessados podem acessar o site revistadopatrimonio.iphan.gov.br para saber mais sobre as chamadas abertas",
@@ -14,14 +22,6 @@
       "resumo": "07/07/2025 - Grupo Executivo será responsável pela construção do Plano Nacional Setorial de Patrimônio Cultural e do Marco Regulatório do SNPC",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-5-vagas-para-a-sociedade-civil-participar-da-criacao-do-1o-pnscp/whatsapp-image-2025-07-07-at-17-09-36-2.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-5-vagas-para-a-sociedade-civil-participar-da-criacao-do-1o-pnscp",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Nova sinalização turística valoriza o patrimônio de São Miguel das Missões (RS)",
-      "data": "07/07/2025",
-      "resumo": "07/07/2025 - A ação faz parte o Projeto de Sinalização Turística do Patrimônio Mundial do Brasil",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-sinalizacao-turistica-valoriza-o-patrimonio-de-sao-miguel-das-missoes-rs/design-sem-nome-47.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-sinalizacao-turistica-valoriza-o-patrimonio-de-sao-miguel-das-missoes-rs",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
