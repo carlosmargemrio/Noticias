@@ -1,6 +1,22 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Geoglifos do Acre são destaque no 5º Simpósio Internacional de Arqueologia em Rio Branco",
+      "data": "11/07/2025",
+      "resumo": "11/07/2025 - Figuras geométricas escavadas no solo são patrimônio que revelam parte da história de povos que habitaram a Amazônia Ocidental há cerca de 2,5 mil anos",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/geoglifos-do-acre-sao-destaque-no-5o-simposio-internacional-de-arqueologia-em-rio-branco/whatsapp-image-2025-07-11-at-15-56-32-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/geoglifos-do-acre-sao-destaque-no-5o-simposio-internacional-de-arqueologia-em-rio-branco",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan e UFPE realizam estudos técnicos especializados para a conservação do Sítio Histórico de Olinda",
+      "data": "11/07/2025",
+      "resumo": "11/07/2025 - Resultado da parceria vai subsidiar a revisão da norma federal que protege patrimônio tombado no município pernambucano",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufpe-realizam-estudos-tecnicos-especializados-para-a-conservacao-do-sitio-historico-de-olinda/whatsapp-image-2025-07-11-at-17-04-18-3-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufpe-realizam-estudos-tecnicos-especializados-para-a-conservacao-do-sitio-historico-de-olinda",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Após oficina no Iphan, Carta do Patrimônio parte para sistematização final",
       "data": "11/07/2025",
       "resumo": "11/07/2025 - Evento realizado pelo Comitê de Mudanças Climáticas e Patrimônio do Icomos Brasil e Icom Brasil contou com ampla e diversa participação social",
@@ -9,26 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Banho de São João de Corumbá e Ladário ganha Plano de Salvaguarda",
-      "data": "11/07/2025",
-      "resumo": "11/07/2025 - O documento define os objetivos e planejamento de ações a serem desenvolvidas para proteção do bem",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/banho-de-sao-joao-de-corumba-e-ladario-ganha-plano-de-salvaguarda/whatsapp-image-2025-07-11-at-11-03-37-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/banho-de-sao-joao-de-corumba-e-ladario-ganha-plano-de-salvaguarda",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan convida a sociedade a participar do Mês do Patrimônio",
-      "data": "10/07/2025",
-      "resumo": "10/07/2025 - Eventos vão refletir a diversidade de experiências e de contextos no Brasil",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-a-sociedade-a-participar-do-mes-do-patrimonio/whatsapp-image-2025-07-10-at-17-13-28-4.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-a-sociedade-a-participar-do-mes-do-patrimonio",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Variety aposta em Wagner Moura para o Emmy e o Oscar com papéis de destaque no cinema e na TV",
+      "data": "",
+      "resumo": "Ator brasileiro é cotado pela revista em duas listas de previsões por “Ladrões de Drogas”, da Apple TV+, e “O Agente Secreto”, de Kleber Mendonça Filho",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250518140532_d84f2d22-460d-4ef6-9a4a-faa8bccb8d5e.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Lula celebra eleição de Ana Maria Gonçalves, primeira mulher negra imortal da Academia Brasileira de Letras",
       "data": "",
       "resumo": "Presidente destaca importância da obra da escritora para a compreensão da história do Brasil e lembra sua leitura durante período de prisão",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250710180720_23557bec6e56cae2afb5087a974a85655167b3b1f572c59e8affba5c460f5b92.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250710180720_f168106c-69ba-4e10-be4e-ad00cc556f11.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "Atriz critica desigualdade fiscal no Brasil ao comparar carga tributária de personagens da novela e declara apoio à taxação dos super-ricos",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250522110552_2c61e46e-cf6f-4338-bc62-0d939d7c43c4.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "ABL elege Ana Maria Gonçalves, primeira mulher negra a virar imortal",
-      "data": "",
-      "resumo": "Livro da nova acadêmica venceu o Prêmio Casa de las Américas",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250710180720_f168106c-69ba-4e10-be4e-ad00cc556f11.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
