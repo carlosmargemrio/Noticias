@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan divulga resultado da 3ª etapa da seleção para ampla concorrência",
+      "data": "14/07/2025",
+      "resumo": "14/07/2025 - De 276 inscrições, 62 candidatos prosseguiram para a etapa de entrevistas do Mestrado Profissional de 2025",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-3a-etapa-da-selecao-para-ampla-concorrencia/da1f53d8-5ffe-40d2-8102-7136ac49a4bf.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-3a-etapa-da-selecao-para-ampla-concorrencia",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Geoglifos do Acre são destaque no 5º Simpósio Internacional de Arqueologia em Rio Branco",
       "data": "11/07/2025",
       "resumo": "11/07/2025 - Figuras geométricas escavadas no solo são patrimônio que revelam parte da história de povos que habitaram a Amazônia Ocidental há cerca de 2,5 mil anos",
@@ -14,14 +22,6 @@
       "resumo": "11/07/2025 - Resultado da parceria vai subsidiar a revisão da norma federal que protege patrimônio tombado no município pernambucano",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufpe-realizam-estudos-tecnicos-especializados-para-a-conservacao-do-sitio-historico-de-olinda/whatsapp-image-2025-07-11-at-17-04-18-3-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufpe-realizam-estudos-tecnicos-especializados-para-a-conservacao-do-sitio-historico-de-olinda",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Após oficina no Iphan, Carta do Patrimônio parte para sistematização final",
-      "data": "11/07/2025",
-      "resumo": "11/07/2025 - Evento realizado pelo Comitê de Mudanças Climáticas e Patrimônio do Icomos Brasil e Icom Brasil contou com ampla e diversa participação social",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/apos-oficina-no-iphan-carta-do-patrimonio-parte-para-sistematizacao-final/design-sem-nome-5.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/apos-oficina-no-iphan-carta-do-patrimonio-parte-para-sistematizacao-final",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
