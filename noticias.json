@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Semana do Patrimônio Cultural do Tocantins promove debates e parcerias para a preservação do patrimônio",
+      "data": "14/07/2025",
+      "resumo": "14/07/2025 - Evento acontece de 18 a 22 de agosto de 2025 e integra as celebrações do Mês do Patrimônio",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/semana-do-patrimonio-cultural-do-tocantins-promove-debates-e-parcerias-para-a-preservacao-do-patrimonio/bannersite_1150x500.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/semana-do-patrimonio-cultural-do-tocantins-promove-debates-e-parcerias-para-a-preservacao-do-patrimonio",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Visita técnica ao Sítio Roberto Burle Marx é apresentada em reunião do Comitê do Patrimônio Mundial da Unesco",
       "data": "14/07/2025",
       "resumo": "14/07/2025 - 47ª Sessão do Comitê acontece entre 6 e 16 de julho, em Paris",
@@ -14,14 +22,6 @@
       "resumo": "14/07/2025 - De 276 inscrições, 62 candidatos prosseguiram para a etapa de entrevistas do Mestrado Profissional de 2025",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-3a-etapa-da-selecao-para-ampla-concorrencia/da1f53d8-5ffe-40d2-8102-7136ac49a4bf.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-3a-etapa-da-selecao-para-ampla-concorrencia",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Geoglifos da Amazônia são destaque no 5º Simpósio Internacional de Arqueologia em Rio Branco",
-      "data": "11/07/2025",
-      "resumo": "11/07/2025 - Figuras geométricas escavadas no solo são patrimônio que revelam parte da história de povos que habitaram a Amazônia Ocidental há cerca de 2,5 mil anos",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/geoglifos-do-acre-sao-destaque-no-5o-simposio-internacional-de-arqueologia-em-rio-branco/whatsapp-image-2025-07-11-at-15-56-32-2.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/geoglifos-do-acre-sao-destaque-no-5o-simposio-internacional-de-arqueologia-em-rio-branco",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
