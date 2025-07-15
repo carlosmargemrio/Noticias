@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "38ª edição do Prêmio Rodrigo tem o maior número de inscrições da história",
+      "data": "15/07/2025",
+      "resumo": "15/07/2025 - Foram 876 ações inscritas no concurso de 2025, ultrapassando 320% do total de inscrições em 2024",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/38a-edicao-do-premio-rodrigo-tem-o-maior-numero-de-inscricoes-da-historia/prmfa25_banner-noticia-capoeirista.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/38a-edicao-do-premio-rodrigo-tem-o-maior-numero-de-inscricoes-da-historia",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Semana do Patrimônio Cultural do Tocantins promove debates e parcerias para a preservação do patrimônio",
       "data": "14/07/2025",
       "resumo": "14/07/2025 - Evento acontece de 18 a 22 de agosto de 2025 e integra as celebrações do Mês do Patrimônio",
@@ -14,14 +22,6 @@
       "resumo": "14/07/2025 - 47ª Sessão do Comitê acontece entre 6 e 16 de julho, em Paris",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/visita-tecnica-ao-sitio-roberto-burle-marx-e-apresentada-em-reuniao-do-comite-do-patrimonio-mundial-da-unesco/1000190687.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/visita-tecnica-ao-sitio-roberto-burle-marx-e-apresentada-em-reuniao-do-comite-do-patrimonio-mundial-da-unesco",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan divulga resultado da 3ª etapa da seleção para ampla concorrência",
-      "data": "14/07/2025",
-      "resumo": "14/07/2025 - De 276 inscrições, 62 candidatos prosseguiram para a etapa de entrevistas do Mestrado Profissional de 2025",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-3a-etapa-da-selecao-para-ampla-concorrencia/da1f53d8-5ffe-40d2-8102-7136ac49a4bf.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-3a-etapa-da-selecao-para-ampla-concorrencia",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
