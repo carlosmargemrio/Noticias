@@ -1,14 +1,6 @@
 {
   "noticias_sites": [
     {
-      "titulo": "Visita técnica ao Sítio Roberto Burle Marx é apresentada em reunião do Comitê do Patrimônio Mundial da Unesco",
-      "data": "15/07/2025",
-      "resumo": "15/07/2025 - 47ª Sessão do Comitê acontece entre 6 e 16 de julho, em Paris",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/visita-tecnica-ao-sitio-roberto-burle-marx-e-apresentada-em-reuniao-do-comite-do-patrimonio-mundial-da-unesco-1/21fd5ec7-8b82-4121-bcc6-baf85f9e58a5.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/visita-tecnica-ao-sitio-roberto-burle-marx-e-apresentada-em-reuniao-do-comite-do-patrimonio-mundial-da-unesco-1",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
       "titulo": "38ª edição do Prêmio Rodrigo tem o maior número de inscrições da história",
       "data": "15/07/2025",
       "resumo": "15/07/2025 - Foram 876 ações inscritas no concurso de 2025, ultrapassando 320% do total de inscrições em 2024",
@@ -22,6 +14,14 @@
       "resumo": "14/07/2025 - Evento acontece de 18 a 22 de agosto de 2025 e integra as celebrações do Mês do Patrimônio",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/semana-do-patrimonio-cultural-do-tocantins-promove-debates-e-parcerias-para-a-preservacao-do-patrimonio/bannersite_1150x500.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/semana-do-patrimonio-cultural-do-tocantins-promove-debates-e-parcerias-para-a-preservacao-do-patrimonio",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Visita técnica ao Sítio Roberto Burle Marx é apresentada em reunião do Comitê do Patrimônio Mundial da Unesco",
+      "data": "14/07/2025",
+      "resumo": "14/07/2025 - 47ª Sessão do Comitê acontece entre 6 e 16 de julho, em Paris",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/visita-tecnica-ao-sitio-roberto-burle-marx-e-apresentada-em-reuniao-do-comite-do-patrimonio-mundial-da-unesco/21fd5ec7-8b82-4121-bcc6-baf85f9e58a5.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/visita-tecnica-ao-sitio-roberto-burle-marx-e-apresentada-em-reuniao-do-comite-do-patrimonio-mundial-da-unesco",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
