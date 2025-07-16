@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Equipe do Sítio Roberto Burle Marx realiza intercâmbio técnico no Instituto Inhotim",
+      "data": "16/07/2025",
+      "resumo": "16/07/2025 - Profissionais das duas instituições trocaram experiências sobre conservação botânica, paisagismo e o ofício do jardineiro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/equipe-do-sitio-roberto-burle-marx-realiza-intercambio-tecnico-no-instituto-inhotim/design-sem-nome-48.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/equipe-do-sitio-roberto-burle-marx-realiza-intercambio-tecnico-no-instituto-inhotim",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "38ª edição do Prêmio Rodrigo tem o maior número de inscrições da história",
       "data": "15/07/2025",
       "resumo": "15/07/2025 - Foram 876 ações inscritas no concurso de 2025, ultrapassando 320% do total de inscrições em 2024",
@@ -14,14 +22,6 @@
       "resumo": "14/07/2025 - Evento acontece de 18 a 22 de agosto de 2025 e integra as celebrações do Mês do Patrimônio",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/semana-do-patrimonio-cultural-do-tocantins-promove-debates-e-parcerias-para-a-preservacao-do-patrimonio/bannersite_1150x500.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/semana-do-patrimonio-cultural-do-tocantins-promove-debates-e-parcerias-para-a-preservacao-do-patrimonio",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Visita técnica ao Sítio Roberto Burle Marx é apresentada em reunião do Comitê do Patrimônio Mundial da Unesco",
-      "data": "14/07/2025",
-      "resumo": "14/07/2025 - 47ª Sessão do Comitê acontece entre 6 e 16 de julho, em Paris",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/visita-tecnica-ao-sitio-roberto-burle-marx-e-apresentada-em-reuniao-do-comite-do-patrimonio-mundial-da-unesco/21fd5ec7-8b82-4121-bcc6-baf85f9e58a5.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/visita-tecnica-ao-sitio-roberto-burle-marx-e-apresentada-em-reuniao-do-comite-do-patrimonio-mundial-da-unesco",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -49,6 +49,14 @@
       "fonte": "Brasil 247"
     },
     {
+      "titulo": "Portal de Periódicos será migrado para a nuvem",
+      "data": "16/07/2025",
+      "resumo": "16/07/2025 -\n                Site poderá ficar temporariamente indisponível",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Comunicado_migrao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4218-portal-de-periodicos-sera-migrado-para-a-nuvem.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
       "titulo": "Atualização do Portal de Periódicos",
       "data": "14/07/2025",
       "resumo": "14/07/2025 -\n                Criação de novos usuários ficará temporariamente indisponível entre 14 e 16 de julho",
@@ -62,14 +70,6 @@
       "resumo": "10/07/2025 -\n                Documento está disponível no Portal de Periódicos e apresenta temas como o financiamento de taxas de publicação de artigos",
       "imagem": "https://www.periodicos.capes.gov.br/images/Matria_relatrio_acesso_aberto.png",
       "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4215-capes-publica-relatorio-de-trabalho-sobre-acesso-aberto.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Editora de Química abre chamada para publicação de trabalhos",
-      "data": "10/07/2025",
-      "resumo": "10/07/2025 -\n                ACS Omega está produzindo fascículo especial para comemorar acordo transformativo com a CAPES. Prazo vai até 31 de agosto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4214-editora-de-quimica-abre-chamada-para-publicacao-de-trabalhos.html",
       "fonte": "Periódicos CAPES"
     }
   ],
