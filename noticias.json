@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove ações de educação patrimonial com escolas municipais de Campo Grande (MS)",
+      "data": "16/07/2025",
+      "resumo": "16/07/2025 - \"Que Patrimônio é Esse?\" aproxima estudantes da cultura e da memória local",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-acoes-de-educacao-patrimonial-com-escolas-municipais-de-campo-grande-ms/banner.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-acoes-de-educacao-patrimonial-com-escolas-municipais-de-campo-grande-ms",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "No Triângulo Mineiro, Iphan realiza assessoria técnica para arquivos",
       "data": "16/07/2025",
       "resumo": "16/07/2025 - Autarquia e parceiros realizaram, na semana passada, minicursos e mesas redondas, além de assessoria técnica no campo da arquivologia",
@@ -14,14 +22,6 @@
       "resumo": "16/07/2025 - Profissionais das duas instituições trocaram experiências sobre conservação botânica, paisagismo e o ofício do jardineiro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/equipe-do-sitio-roberto-burle-marx-realiza-intercambio-tecnico-no-instituto-inhotim/design-sem-nome-48.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/equipe-do-sitio-roberto-burle-marx-realiza-intercambio-tecnico-no-instituto-inhotim",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "38ª edição do Prêmio Rodrigo tem o maior número de inscrições da história",
-      "data": "15/07/2025",
-      "resumo": "15/07/2025 - Foram 876 ações inscritas no concurso de 2025, ultrapassando 320% do total de inscrições em 2024",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/38a-edicao-do-premio-rodrigo-tem-o-maior-numero-de-inscricoes-da-historia/prmfa25_banner-noticia-capoeirista.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/38a-edicao-do-premio-rodrigo-tem-o-maior-numero-de-inscricoes-da-historia",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
