@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Documentário com imagens inéditas de Cazuza chega aos cinemas",
+      "data": "",
+      "resumo": "O diretor do longa-metragem, Nilo Romero, foi o baixista de Cazuza a partir da turnê de Exagerado",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025071719070_8cbca5b4-3ffe-4116-944d-be3a202b92d1.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Wagner Moura é ignorado pelo Emmy e revolta fãs com possível preconceito contra latinos",
       "data": "",
       "resumo": "Ator brasileiro era forte candidato por seu papel em Ladrões de Drogas, mas ficou de fora da premiação",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220124120112_2d4bdaf52925228e0cf56aeef6e30dc3b7dd5012ae77372c0dc105dcdb687c50.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220124120112_dcb4117afc04c3de2db0f437c7b642893484166567ec3d02119097b70c2b526a.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Empresário de Wesley Safadão bancou campanha de parlamentar investigado pela PF",
-      "data": "",
-      "resumo": "A doação chegou em forma de um carro de luxo e foi entregue ao deputado Júnior Mano após um show do cantor",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2022122319128_c61e96d6f75667a42c252f3337eff30088cc62918aa2481a8545daf6a96b63cb.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Portal de Periódicos promove treinamentos em reunião da SBPC",
+      "data": "17/07/2025",
+      "resumo": "17/07/2025 -\n                Capacitação ocorre todos os dias na ExpoT&C até 18 de julho",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_SBPC.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4219-portal-de-periodicos-promove-treinamentos-em-reuniao-da-sbpc.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos será migrado para a nuvem",
+      "data": "16/07/2025",
+      "resumo": "16/07/2025 -\n                Site poderá ficar temporariamente indisponível",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Comunicado_migrao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4218-portal-de-periodicos-sera-migrado-para-a-nuvem.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Atualização do Portal de Periódicos",
+      "data": "14/07/2025",
+      "resumo": "14/07/2025 -\n                Criação de novos usuários ficará temporariamente indisponível entre 14 e 17 de julho",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4217-atualizacao-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
