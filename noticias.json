@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan fala sobre patrimônio cultural na Política Nacional Aldir Blanc em live",
+      "data": "18/07/2025",
+      "resumo": "18/07/2025 - O evento está marcado para às 14h30, horário de Brasília, e será transmitido ao vivo no Youtube",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fala-sobre-patrimonio-cultural-na-politica-nacional-aldir-blanc-em-live/353ea13a-79df-4217-818f-510fb8899025-2.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fala-sobre-patrimonio-cultural-na-politica-nacional-aldir-blanc-em-live",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan participa das etapas municipais do 13º Congresso Estadual das Parteiras Tradicionais do Amapá",
       "data": "17/07/2025",
       "resumo": "17/07/2025 - Encontros preparatórios acontecem até agosto em todos os 16 municípios do estado",
@@ -14,14 +22,6 @@
       "resumo": "16/07/2025 - \"Que Patrimônio é Esse?\" aproxima estudantes da cultura e da memória local",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-acoes-de-educacao-patrimonial-com-escolas-municipais-de-campo-grande-ms/banner.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-acoes-de-educacao-patrimonial-com-escolas-municipais-de-campo-grande-ms",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "No Triângulo Mineiro, Iphan realiza assessoria técnica para arquivos",
-      "data": "16/07/2025",
-      "resumo": "16/07/2025 - Autarquia e parceiros realizaram, na semana passada, minicursos e mesas redondas, além de assessoria técnica no campo da arquivologia",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-triangulo-mineiro-iphan-realiza-assessoria-tecnica-para-arquivos/foto-03-acao-em-frutal-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-triangulo-mineiro-iphan-realiza-assessoria-tecnica-para-arquivos",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
