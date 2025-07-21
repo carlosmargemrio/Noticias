@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove encontro para qualificar práticas da Arqueologia Preventiva no RS",
+      "data": "21/07/2025",
+      "resumo": "21/07/2025 - Evento reuniu 46 arqueólogos em Porto Alegre (RS) para alinhamento técnico e fortalecimento das ações de proteção e socialização do patrimônio arqueológico",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-para-qualificar-praticas-da-arqueologia-preventiva-no-rs/design-sem-nome-49.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-para-qualificar-praticas-da-arqueologia-preventiva-no-rs",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Edital Arqueologia Viva registra ampla participação popular",
       "data": "21/07/2025",
       "resumo": "21/07/2025 - Primeira edição do certame somou quase 100 inscrições",
@@ -14,14 +22,6 @@
       "resumo": "21/07/2025 - Iphan vai se reunir com detentores de todas as regiões do Brasil",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-da-elaboracao-do-plano-de-salvaguarda-do-choro/53755094751_c50e5c8671_k-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-da-elaboracao-do-plano-de-salvaguarda-do-choro",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan fomenta a realização de estudos para preservar Fortaleza de N. Sra. dos Prazeres, no Paraná",
-      "data": "18/07/2025",
-      "resumo": "18/07/2025 - Iniciativa visa orientar ações de preservação no conjunto arquitetônico do século 19, única edificação militar do período colonial no estado",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fomenta-a-realizacao-de-estudos-para-preservar-fortaleza-de-n-sra-dos-prazeres-no-parana/5322372c-7ffd-423d-b450-c480f8adb2ef.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fomenta-a-realizacao-de-estudos-para-preservar-fortaleza-de-n-sra-dos-prazeres-no-parana",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250720200748_37abd047a4434e0feb12aaeb82ccab9f3c48b32264876c651be5e2b8212aa9a0.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Portal de Periódicos promove treinamentos em reunião da SBPC",
+      "data": "17/07/2025",
+      "resumo": "17/07/2025 -\n                Capacitação ocorre todos os dias na ExpoT&C até 18 de julho",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_SBPC.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4219-portal-de-periodicos-promove-treinamentos-em-reuniao-da-sbpc.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES publica relatório de trabalho sobre acesso aberto",
+      "data": "10/07/2025",
+      "resumo": "10/07/2025 -\n                Documento está disponível no Portal de Periódicos e apresenta temas como o financiamento de taxas de publicação de artigos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_relatrio_acesso_aberto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4215-capes-publica-relatorio-de-trabalho-sobre-acesso-aberto.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Editora de Química abre chamada para publicação de trabalhos",
+      "data": "10/07/2025",
+      "resumo": "10/07/2025 -\n                ACS Omega está produzindo fascículo especial para comemorar acordo transformativo com a CAPES. Prazo vai até 31 de agosto",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4214-editora-de-quimica-abre-chamada-para-publicacao-de-trabalhos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
