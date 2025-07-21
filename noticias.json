@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Edital Arqueologia Viva registra ampla participação popular",
+      "data": "21/07/2025",
+      "resumo": "21/07/2025 - Primeira edição do certame somou quase 100 inscrições",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/edital-arqueologia-viva-registra-ampla-participacao-popular-3/455bd3ce-9f2e-4e52-9805-874366cbddc1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/edital-arqueologia-viva-registra-ampla-participacao-popular-3",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Participe da elaboração do Plano de Salvaguarda do Choro",
       "data": "21/07/2025",
       "resumo": "21/07/2025 - Iphan vai se reunir com detentores de todas as regiões do Brasil",
@@ -14,14 +22,6 @@
       "resumo": "18/07/2025 - Iniciativa visa orientar ações de preservação no conjunto arquitetônico do século 19, única edificação militar do período colonial no estado",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fomenta-a-realizacao-de-estudos-para-preservar-fortaleza-de-n-sra-dos-prazeres-no-parana/5322372c-7ffd-423d-b450-c480f8adb2ef.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fomenta-a-realizacao-de-estudos-para-preservar-fortaleza-de-n-sra-dos-prazeres-no-parana",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Sociedade e governo constroem plano de preservação dos Teatros da Amazônia",
-      "data": "18/07/2025",
-      "resumo": "18/07/2025 - Escuta social garantirá que as vozes locais sejam consideradas no processo e nas diretrizes de preservação e valorização desses espaços",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sociedade-e-governo-constroem-plano-de-preservacao-dos-teatros-da-amazonia/teatrosamazonia_card-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sociedade-e-governo-constroem-plano-de-preservacao-dos-teatros-da-amazonia",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
