@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Processo de registro da pesca colaborativa com botos avança no Iphan",
+      "data": "22/07/2025",
+      "resumo": "22/07/2025 - Reunião no RS ficou marcada pela troca rica de saberes tradicionais e científicos entre pescadores e pesquisadores",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/processo-de-registro-da-pesca-colaborativa-com-botos-avanca-no-iphan/2019_sc_laguna_pesca-com-botos_barbara-kahena-2-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/processo-de-registro-da-pesca-colaborativa-com-botos-avanca-no-iphan",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan divulga resultado da 4ª etapa da seleção para ampla concorrência",
       "data": "22/07/2025",
       "resumo": "22/07/2025 - Candidatos autodeclarados negros foram avaliados por comissão de heteroidentificação",
@@ -14,14 +22,6 @@
       "resumo": "21/07/2025 - Evento reuniu 46 arqueólogos em Porto Alegre (RS) para alinhamento técnico e fortalecimento das ações de proteção e socialização do patrimônio arqueológico",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-para-qualificar-praticas-da-arqueologia-preventiva-no-rs/design-sem-nome-49.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-para-qualificar-praticas-da-arqueologia-preventiva-no-rs",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Edital Arqueologia Viva registra ampla participação popular",
-      "data": "21/07/2025",
-      "resumo": "21/07/2025 - Primeira edição do certame somou quase 100 inscrições",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/edital-arqueologia-viva-registra-ampla-participacao-popular-3/455bd3ce-9f2e-4e52-9805-874366cbddc1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/edital-arqueologia-viva-registra-ampla-participacao-popular-3",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
