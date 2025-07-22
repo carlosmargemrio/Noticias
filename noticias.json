@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Última pergunta, mensagem de famosos e 'sem dor': os últimos momentos de Preta Gil, rodeada de amigos",
+      "data": "",
+      "resumo": "Mesmo longe do Brasil, Preta esteve cercada por pessoas próximas até seus últimos momentos",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025072022070_64304f69a393722544163d3570ce611cbe83b7b023b4ba67d233e146f3284016.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "BNDES aprova R$ 18 milhões para impulsionar produções da Boutique Filmes",
       "data": "",
       "resumo": "Investimento do Fundo Setorial do Audiovisual vai acelerar projetos da produtora e ampliar presença internacional do conteúdo brasileiro",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250430170416_45971f2ac28949807835bc67259f461776f89c86e7f40d34454f1f09c3814c8e.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250430170416_89903e34d5468d8fcb8299b97fc76385f3de4fd891d4e40b7960a95dbf8ce572.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240618200632_4c7b8800eebacb214455b1130bcd8a17eb52582725b4268dd5a0006757b77a79.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Preta Gil se preparava para voltar ao Brasil neste domingo, mas morreu a caminho do aeroporto",
-      "data": "",
-      "resumo": "A cantora Preta Gil morreu neste domingo (20), aos 50 anos, nos Estados Unidos",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250720200748_37abd047a4434e0feb12aaeb82ccab9f3c48b32264876c651be5e2b8212aa9a0.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Portal de Periódicos promove treinamentos em reunião da SBPC",
-      "data": "17/07/2025",
-      "resumo": "17/07/2025 -\n                Capacitação ocorre todos os dias na ExpoT&C até 18 de julho",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_SBPC.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4219-portal-de-periodicos-promove-treinamentos-em-reuniao-da-sbpc.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES publica relatório de trabalho sobre acesso aberto",
-      "data": "10/07/2025",
-      "resumo": "10/07/2025 -\n                Documento está disponível no Portal de Periódicos e apresenta temas como o financiamento de taxas de publicação de artigos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_relatrio_acesso_aberto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4215-capes-publica-relatorio-de-trabalho-sobre-acesso-aberto.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Editora de Química abre chamada para publicação de trabalhos",
-      "data": "10/07/2025",
-      "resumo": "10/07/2025 -\n                ACS Omega está produzindo fascículo especial para comemorar acordo transformativo com a CAPES. Prazo vai até 31 de agosto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4214-editora-de-quimica-abre-chamada-para-publicacao-de-trabalhos.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
