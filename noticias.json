@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Família sobre a morte de Ozzy Osbourne: 'ele estava cercado de amor'",
+      "data": "",
+      "resumo": "O cantor morreu semanas após subir ao palco pela última vez ao lado dos colegas do Black Sabbath",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250722160728_2520ca475d5dd34974f173dcb877cf55190c9422e713d8c595b6252b72e1d015.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Morre Ozzy Osbourne, ícone do rock britânico, aos 76 anos",
       "data": "",
       "resumo": "Nos últimos anos, o artista vinha enfrentando sérios problemas de saúde",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20200121160144_e1f2419fb2f091eba8e1d37fa51f6ab11579a91331647f10673499c841abe85a.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20200121160144_7101ba72575577c30c4be47cde2dbd4e1c1b5da2494c6943e753df6260bd4041.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Prefeitura do Rio cria circuito de carnaval em homenagem a Preta Gil",
-      "data": "",
-      "resumo": "Cantora criou o Bloco da Preta, em 2009, no centro da cidade",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250722120732_094c69f1-01a1-40c6-b703-1a9bf1365320.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Portal de Periódicos promove treinamentos em reunião da SBPC",
+      "data": "17/07/2025",
+      "resumo": "17/07/2025 -\n                Capacitação ocorre todos os dias na ExpoT&C até 18 de julho",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_SBPC.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4219-portal-de-periodicos-promove-treinamentos-em-reuniao-da-sbpc.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES publica relatório de trabalho sobre acesso aberto",
+      "data": "10/07/2025",
+      "resumo": "10/07/2025 -\n                Documento está disponível no Portal de Periódicos e apresenta temas como o financiamento de taxas de publicação de artigos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_relatrio_acesso_aberto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4215-capes-publica-relatorio-de-trabalho-sobre-acesso-aberto.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Editora de Química abre chamada para publicação de trabalhos",
+      "data": "10/07/2025",
+      "resumo": "10/07/2025 -\n                ACS Omega está produzindo fascículo especial para comemorar acordo transformativo com a CAPES. Prazo vai até 31 de agosto",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4214-editora-de-quimica-abre-chamada-para-publicacao-de-trabalhos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
