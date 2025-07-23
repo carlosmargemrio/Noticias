@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove eficiência na avaliação de impacto a bens culturais no licenciamento ambiental",
+      "data": "23/07/2025",
+      "resumo": "23/07/2025 - Adoção de sistema automatizado em âmbitos estadual e municipal proporciona ações tecnicamente embasadas e mais rápidas por parte do Instituto",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-eficiencia-na-avaliacao-de-impacto-a-bens-culturais-no-licenciamento-ambiental/licenciamento.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-eficiencia-na-avaliacao-de-impacto-a-bens-culturais-no-licenciamento-ambiental",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Acervo do Arquivo Central do Rio de Janeiro volta ao Palácio Gustavo Capanema",
       "data": "23/07/2025",
       "resumo": "23/07/2025 - O processo de mudança precisou ser planejado e executado com extremo cuidado para garantir a integridade do material histórico",
@@ -14,14 +22,6 @@
       "resumo": "22/07/2025 - Organizações da Sociedade Civil e Organizações Sociais atuantes no setor cultural poderão participar dos encontros, que acontecerão de forma presencial ou virtual",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-para-reunioes-de-trabalho-sobre-gestao-cultural-do-capanema-ja-estao-abertas/2025_rj_riodejaneiro_palaciogustavocapanema_marianaalves-87-2.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-para-reunioes-de-trabalho-sobre-gestao-cultural-do-capanema-ja-estao-abertas",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Processo de registro da pesca colaborativa com botos avança no Iphan",
-      "data": "22/07/2025",
-      "resumo": "22/07/2025 - Reunião no RS ficou marcada pela troca rica de saberes tradicionais e científicos entre pescadores e pesquisadores",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/processo-de-registro-da-pesca-colaborativa-com-botos-avanca-no-iphan/2019_sc_laguna_pesca-com-botos_barbara-kahena-2-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/processo-de-registro-da-pesca-colaborativa-com-botos-avanca-no-iphan",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
