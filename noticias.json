@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Príncipe das Trevas contra Trump: relembre as críticas afiadas de Ozzy ao presidente dos EUA",
+      "data": "",
+      "resumo": "Ozzy Osbourne fez declarações públicas contra o presidente dos EUA, Donald Trump",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250722150728_9097e917a42ec17d119025f69721a7d7380df0aab7ce6e43ed8236c286739353.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Visitante come banana de obra avaliada em US$ 6 milhões e artista reage: \"confundiu a fruta com a obra de arte\"",
       "data": "",
       "resumo": "Obra de Maurizio Cattelan volta a ser comida em museu. Italiano ironiza o ato e diz que visitante deveria ter ingerido também a casca e a fita",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250723070720_06ccf482-9cc0-4a42-b18d-83aea179c014.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250723070720_f54f4a12-0906-45de-87ce-573cda58ea5e.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "O legado global de Ozzy Osbourne eterniza o heavy metal no coração da cultura pop",
-      "data": "",
-      "resumo": "De símbolo da marginalidade britânica a ícone mundial, vocalista do Black Sabbath moldou o heavy metal e influenciou gerações",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20200121160144_7101ba72575577c30c4be47cde2dbd4e1c1b5da2494c6943e753df6260bd4041.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Portal de Periódicos promove treinamentos em reunião da SBPC",
+      "data": "17/07/2025",
+      "resumo": "17/07/2025 -\n                Capacitação ocorre todos os dias na ExpoT&C até 18 de julho",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_SBPC.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4219-portal-de-periodicos-promove-treinamentos-em-reuniao-da-sbpc.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES publica relatório de trabalho sobre acesso aberto",
+      "data": "10/07/2025",
+      "resumo": "10/07/2025 -\n                Documento está disponível no Portal de Periódicos e apresenta temas como o financiamento de taxas de publicação de artigos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_relatrio_acesso_aberto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4215-capes-publica-relatorio-de-trabalho-sobre-acesso-aberto.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Editora de Química abre chamada para publicação de trabalhos",
+      "data": "10/07/2025",
+      "resumo": "10/07/2025 -\n                ACS Omega está produzindo fascículo especial para comemorar acordo transformativo com a CAPES. Prazo vai até 31 de agosto",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4214-editora-de-quimica-abre-chamada-para-publicacao-de-trabalhos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
