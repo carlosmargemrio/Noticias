@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan abre consulta pública sobre normas de preservação para o entorno de bens tombados no Bairro da Luz (SP)",
+      "data": "23/07/2025",
+      "resumo": "23/07/2025 - Contribuições vão ajudar a aperfeiçoar o regulamento de um dos bairros mais icônicos da capital paulista",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-consulta-publica-sobre-normas-de-preservacao-para-o-entorno-de-bens-tombados-no-bairro-da-luz-sp/x.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-consulta-publica-sobre-normas-de-preservacao-para-o-entorno-de-bens-tombados-no-bairro-da-luz-sp",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan promove eficiência na avaliação de impacto a bens culturais no licenciamento ambiental",
       "data": "23/07/2025",
       "resumo": "23/07/2025 - Adoção de sistema automatizado em âmbitos estadual e municipal proporciona ações tecnicamente embasadas e mais rápidas por parte do Instituto",
@@ -14,14 +22,6 @@
       "resumo": "23/07/2025 - O processo de mudança precisou ser planejado e executado com extremo cuidado para garantir a integridade do material histórico",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/acervo-do-arquivo-central-do-rio-de-janeiro-volta-ao-palacio-gustavo-capanema/2025_rj_riodejaneiro_palaciogustavocapanema_marianaalves-76-2.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/acervo-do-arquivo-central-do-rio-de-janeiro-volta-ao-palacio-gustavo-capanema",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Inscrições para reuniões de trabalho sobre gestão cultural do Capanema já estão abertas",
-      "data": "22/07/2025",
-      "resumo": "22/07/2025 - Organizações da Sociedade Civil e Organizações Sociais atuantes no setor cultural poderão participar dos encontros, que acontecerão de forma presencial ou virtual",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-para-reunioes-de-trabalho-sobre-gestao-cultural-do-capanema-ja-estao-abertas/2025_rj_riodejaneiro_palaciogustavocapanema_marianaalves-87-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-para-reunioes-de-trabalho-sobre-gestao-cultural-do-capanema-ja-estao-abertas",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
