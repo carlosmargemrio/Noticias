@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa de oficina para construção da Casa Tradicional do Seringueiro, no Acre",
+      "data": "24/07/2025",
+      "resumo": "24/07/2025 - Local servirá de apoio ao atendimento de turistas que visitam a Reserva Extrativista Chico Mendes, no município de Xapuri",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-oficina-para-construcao-da-casa-tradicional-do-seringueiro-no-acre/whatsapp-image-2025-07-24-at-15-01-08-3.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-oficina-para-construcao-da-casa-tradicional-do-seringueiro-no-acre",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan lista possíveis ações de identificação, preservação e salvaguarda via Política Nacional Aldir Blanc",
       "data": "24/07/2025",
       "resumo": "24/07/2025 - Veja algumas possibilidades de como Estados, Distrito Federal e municípios podem destinar recursos para o patrimônio cultural nos territórios",
@@ -14,14 +22,6 @@
       "resumo": "23/07/2025 - Organizações da Sociedade Civil e Organizações Sociais atuantes no setor cultural poderão participar dos encontros, que acontecerão de forma presencial ou virtual",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-para-reunioes-de-trabalho-sobre-gestao-cultural-do-capanema-ja-estao-abertas/23269337-d23b-46d0-bf9c-40fef78f828c.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-para-reunioes-de-trabalho-sobre-gestao-cultural-do-capanema-ja-estao-abertas",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan abre consulta pública sobre normas de preservação para o entorno de bens tombados no Bairro da Luz (SP)",
-      "data": "23/07/2025",
-      "resumo": "23/07/2025 - Contribuições vão ajudar a aperfeiçoar o regulamento de um dos bairros mais icônicos da capital paulista",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-consulta-publica-sobre-normas-de-preservacao-para-o-entorno-de-bens-tombados-no-bairro-da-luz-sp/x.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-consulta-publica-sobre-normas-de-preservacao-para-o-entorno-de-bens-tombados-no-bairro-da-luz-sp",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250723200748_9d930638-9a98-4c2a-9d77-9eb2e2b22e44.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Portal de Periódicos promove treinamentos em reunião da SBPC",
-      "data": "17/07/2025",
-      "resumo": "17/07/2025 -\n                Capacitação ocorre todos os dias na ExpoT&C até 18 de julho",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_SBPC.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4219-portal-de-periodicos-promove-treinamentos-em-reuniao-da-sbpc.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES publica relatório de trabalho sobre acesso aberto",
-      "data": "10/07/2025",
-      "resumo": "10/07/2025 -\n                Documento está disponível no Portal de Periódicos e apresenta temas como o financiamento de taxas de publicação de artigos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_relatrio_acesso_aberto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4215-capes-publica-relatorio-de-trabalho-sobre-acesso-aberto.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Editora de Química abre chamada para publicação de trabalhos",
-      "data": "10/07/2025",
-      "resumo": "10/07/2025 -\n                ACS Omega está produzindo fascículo especial para comemorar acordo transformativo com a CAPES. Prazo vai até 31 de agosto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4214-editora-de-quimica-abre-chamada-para-publicacao-de-trabalhos.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
