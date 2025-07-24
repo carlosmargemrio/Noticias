@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan e MDHC anunciam sinalização de lugares representativos da história do povo negro no Brasil",
+      "data": "24/07/2025",
+      "resumo": "24/07/2025 - Projeto prevê ações de educação e cultura em Direitos Humanos – incluindo educação patrimonial – em todo o território nacional",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-mdhc-anunciam-sinalizacao-de-lugares-representativos-da-historia-do-povo-negro-no-brasil/2eeeb8e8-d052-4516-9317-ddb6cc4cba2a-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-mdhc-anunciam-sinalizacao-de-lugares-representativos-da-historia-do-povo-negro-no-brasil",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan participa de oficina para construção da Casa Tradicional do Seringueiro, no Acre",
       "data": "24/07/2025",
       "resumo": "24/07/2025 - Local servirá de apoio ao atendimento de turistas que visitam a Reserva Extrativista Chico Mendes, no município de Xapuri",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Inscrições para reuniões de trabalho sobre gestão cultural do Capanema já estão abertas",
-      "data": "23/07/2025",
-      "resumo": "23/07/2025 - Organizações da Sociedade Civil e Organizações Sociais atuantes no setor cultural poderão participar dos encontros, que acontecerão de forma presencial ou virtual",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-para-reunioes-de-trabalho-sobre-gestao-cultural-do-capanema-ja-estao-abertas/23269337-d23b-46d0-bf9c-40fef78f828c.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-para-reunioes-de-trabalho-sobre-gestao-cultural-do-capanema-ja-estao-abertas",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Hulk Hogan, que ajudou a transformar a luta livre profissional em espetáculo de bilhões de dólares, morre aos 71 anos",
+      "data": "",
+      "resumo": "Gigante loiro e bronzeado como mogno tornou-se o rosto da luta livre profissional na década de 1980",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250724160744_ee8be0b9-09d2-48e4-b416-c25168df9eb0.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Gilberto Gil homenageia Preta: 'sempre tive orgulho e vou ter para sempre'",
       "data": "",
       "resumo": "Cantor publicou vídeo ao lado da filha e emocionou ao relembrar momentos da turnê com a família. Preta faleceu no último domingo (20)",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025072409070_24c3558264790a994e8ded4cb24cce1f22c770e6a1b5374f7209e74e5cc58492.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025072409070_2b71ff39-9d7e-479f-93a0-448b0ba0c90c.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "\"Emocionante\", disse o artista plástico Paulo, um dos responsável pelas homenagens à cantora",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250723200732_445cb81efc3478dffbed66414aa0ab62956044e7e4b93d4c72ce35b31b7e788e.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Atlas inédito sobre jornada 6x1 será lançado na Flip e denuncia rotina de exaustão de jovens trabalhadores no Brasil",
-      "data": "",
-      "resumo": "Publicação revela impactos da escala semanal em milhares de brasileiros, especialmente jovens negros periféricos; 70% relatam estresse",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250723200748_9d930638-9a98-4c2a-9d77-9eb2e2b22e44.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
