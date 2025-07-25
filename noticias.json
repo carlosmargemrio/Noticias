@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan lança editais 2025 do Mestrado Profissional para servidores",
+      "data": "25/07/2025",
+      "resumo": "25/07/2025 - São oferecidas vagas para servidores internos e externos",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-editais-2025-do-mestrado-profissional-para-servidores/3436feb2641a4478a925d2ed90e09d25.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-editais-2025-do-mestrado-profissional-para-servidores",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e MDHC anunciam sinalização de lugares representativos da história do povo negro no Brasil",
       "data": "24/07/2025",
       "resumo": "24/07/2025 - Projeto prevê ações de educação e cultura em Direitos Humanos – incluindo educação patrimonial – em todo o território nacional",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan lista possíveis ações de identificação, preservação e salvaguarda via Política Nacional Aldir Blanc",
-      "data": "24/07/2025",
-      "resumo": "24/07/2025 - Veja algumas possibilidades de como Estados, Distrito Federal e municípios podem destinar recursos para o patrimônio cultural nos territórios",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lista-possiveis-acoes-de-identificacao-preservacao-e-salvaguarda-via-politica-nacional-aldir-blanc/aldirblanc.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lista-possiveis-acoes-de-identificacao-preservacao-e-salvaguarda-via-politica-nacional-aldir-blanc",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Rio de Janeiro se despede de Preta Gil com velório aberto no Theatro Municipal",
+      "data": "",
+      "resumo": "Corpo da artista será cremado após cerimônia restrita. Cortejo homenageia sua atuação no carnaval de rua e luta antirracista",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250725100720_4b21d1cc57497941a4cd5353d0c21071bbe3e3b89297624815265d128b75e181.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Corpo de Preta Gil será velado hoje no Theatro Municipal e cortejado por circuito que leva seu nome",
       "data": "",
       "resumo": "Cerimônia será aberta ao público no Rio de Janeiro nesta sexta (25); cremação ocorrerá em evento reservado a familiares no fim da tarde",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250723200732_49e9048c55cc7d75f6d7bcfa54226e2fa3abf69315a5df54aba846a646cf2405.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250723200732_445cb81efc3478dffbed66414aa0ab62956044e7e4b93d4c72ce35b31b7e788e.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "De acordo com o MP-CE, o investimento representa valores desproporcionais considerando o atual quadro dos serviços públicos prestados à população",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2022042508040_e244aadb345733a3261fd47ecbb8dc3391392747634cf5dd2a21161a0e660200.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "'South Park' retrata Trump como namorado de Satanás, ironiza tarifas e cita caso Epstein",
-      "data": "",
-      "resumo": "Episódio mais recente do desenho animado gerou polêmica nos Estados Unidos",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250724170724_876013dd-e520-4474-8904-7a62905cfee2.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     }
