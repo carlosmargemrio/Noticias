@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Lula envia flores e Janja comparece ao velório de Preta Gil no Theatro Municipal do Rio",
+      "data": "",
+      "resumo": "Com agenda em São Paulo, presidente não compareceu à cerimônia, mas foi representado pela primeira-dama na despedida da cantora nesta sexta-feira",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250725110732_f4877c689c606013f3599d2e36804f5dac757bb839245c247c12079f29930070.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Rio de Janeiro se despede de Preta Gil com velório aberto no Theatro Municipal",
       "data": "",
       "resumo": "Corpo da artista será cremado após cerimônia restrita. Cortejo homenageia sua atuação no carnaval de rua e luta antirracista",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250725100720_4b21d1cc57497941a4cd5353d0c21071bbe3e3b89297624815265d128b75e181.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250725100720_ee9a33ee23a9ad86068eb379f12e1457be6b8a4e2063a8528883f1ce66d453e4.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250723200732_445cb81efc3478dffbed66414aa0ab62956044e7e4b93d4c72ce35b31b7e788e.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Justiça veta festival com Wesley Safadão após um pedido feito pelo Ministério Público",
-      "data": "",
-      "resumo": "De acordo com o MP-CE, o investimento representa valores desproporcionais considerando o atual quadro dos serviços públicos prestados à população",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2022042508040_e244aadb345733a3261fd47ecbb8dc3391392747634cf5dd2a21161a0e660200.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Portal de Periódicos promove treinamentos em reunião da SBPC",
-      "data": "17/07/2025",
-      "resumo": "17/07/2025 -\n                Capacitação ocorre todos os dias na ExpoT&C até 18 de julho",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_SBPC.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4219-portal-de-periodicos-promove-treinamentos-em-reuniao-da-sbpc.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES publica relatório de trabalho sobre acesso aberto",
-      "data": "10/07/2025",
-      "resumo": "10/07/2025 -\n                Documento está disponível no Portal de Periódicos e apresenta temas como o financiamento de taxas de publicação de artigos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_relatrio_acesso_aberto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4215-capes-publica-relatorio-de-trabalho-sobre-acesso-aberto.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Editora de Química abre chamada para publicação de trabalhos",
-      "data": "10/07/2025",
-      "resumo": "10/07/2025 -\n                ACS Omega está produzindo fascículo especial para comemorar acordo transformativo com a CAPES. Prazo vai até 31 de agosto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4214-editora-de-quimica-abre-chamada-para-publicacao-de-trabalhos.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
