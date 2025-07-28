@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Mãe de Emicida e Fióti, Dona Jacira morre aos 60 anos em SP",
+      "data": "",
+      "resumo": "Nascida na Zona Norte da capital paulista, ela foi enfermeira, mas abandonou a profissão por causa da saúde prejudicada. Foi escritora e artista plástica",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250728160740_d1dc0e7d590e71b5c858314ffd1cbd072bd8d6207445ef8bed88545d82417d31.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Preta Gil provoca comoção nacional e lidera buscas na internet após falecimento",
       "data": "",
       "resumo": "Cantora, empresária e símbolo da diversidade cultural brasileira, Preta morreu aos 50 anos e mobilizou milhões de internautas em homenagens e pesquisas",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025072022070_64304f69a393722544163d3570ce611cbe83b7b023b4ba67d233e146f3284016.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025072022070_fec8713e-2f90-4225-bbd2-af63accfb638.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Rio de Janeiro se despede de Preta Gil com velório aberto no Theatro Municipal",
-      "data": "",
-      "resumo": "Velório de Preta Gil reúne centenas de pessoas no Rio",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025072515078_66e0818e89cb103afb8d56fc99e52e3053beb6e886416f35ca93f02bc96da574.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Portal de Periódicos promove treinamentos em reunião da SBPC",
+      "data": "17/07/2025",
+      "resumo": "17/07/2025 -\n                Capacitação ocorre todos os dias na ExpoT&C até 18 de julho",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_SBPC.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4219-portal-de-periodicos-promove-treinamentos-em-reuniao-da-sbpc.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES publica relatório de trabalho sobre acesso aberto",
+      "data": "10/07/2025",
+      "resumo": "10/07/2025 -\n                Documento está disponível no Portal de Periódicos e apresenta temas como o financiamento de taxas de publicação de artigos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_relatrio_acesso_aberto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4215-capes-publica-relatorio-de-trabalho-sobre-acesso-aberto.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Editora de Química abre chamada para publicação de trabalhos",
+      "data": "10/07/2025",
+      "resumo": "10/07/2025 -\n                ACS Omega está produzindo fascículo especial para comemorar acordo transformativo com a CAPES. Prazo vai até 31 de agosto",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4214-editora-de-quimica-abre-chamada-para-publicacao-de-trabalhos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
