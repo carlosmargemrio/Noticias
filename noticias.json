@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Em Salvador, Iphan promove debate sobre metodologias na arqueologia brasileira",
+      "data": "29/07/2025",
+      "resumo": "29/07/2025 - Evento celebrou o Dia do Arqueólogo com reflexões sobre práticas e o papel social da arqueologia no Brasil",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-salvador-iphan-promove-debate-sobre-metodologias-na-arqueologia-brasileira/design-sem-nome-51.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-salvador-iphan-promove-debate-sobre-metodologias-na-arqueologia-brasileira",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Fotografias retratam rotina de descendentes de imigrantes ucranianos no interior paranaense",
       "data": "28/07/2025",
       "resumo": "28/07/2025 - Projeto mostra a simplicidade, o apego à terra e a fé católica que atravessa gerações nas antigas colônias de Prudentópolis",
@@ -14,14 +22,6 @@
       "resumo": "28/07/2025 - Foram 31 selecionados para diversas áreas de atuação. Remunerações chegam a R$ 9 mil",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convoca-aprovados-em-concurso-para-contratacao-temporaria/e2cdb976-cb4b-4208-96c3-40beb2216722.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convoca-aprovados-em-concurso-para-contratacao-temporaria",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Lavagem do Cais do Valongo (RJ) celebra a ancestralidade africana",
-      "data": "28/07/2025",
-      "resumo": "28/07/2025 - Além do ritual religioso, o evento também contou com atrações musicais e debate sobre a preservação da Pequena África",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/lavagem-do-cais-do-valongo-rj-celebra-a-ancestralidade-africana/rrrr20250726_134047056_iOS2.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/lavagem-do-cais-do-valongo-rj-celebra-a-ancestralidade-africana",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
