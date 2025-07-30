@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Trump avalia conceder perdão presidencial a Sean 'Diddy' Combs, figura central de escândalo sexual",
+      "data": "",
+      "resumo": "Aliados de Diddy pressionam o presidente dos EUA por perdão antes da sentença, marcada para 3 de outubro",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2024100211100_4903671c6e2f14dcaac9a804ed7ec972baf8b8fe7fd826670dbb8f679442dc02.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Filho de Deolane é acusado de ameaçar mulher com arma para forçá-la a manter relação sexual",
       "data": "",
       "resumo": "Giliard Santos foi alvo de medida protetiva após empresária denunciá-lo por ameaça com arma em apartamento de luxo na zona leste de SP",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025073007074_364ac1dda771b06db9151ccc3e20881eea8ec1f08acd7f4a48dd5299fe5daf0d.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025073007074_bdc3ed192af9bbcda92636660489e0116a338677b99524bd2ee6699eb42f083c.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Ator em coma após tirar tumor fez novela na Globo e peça polêmica por nudez",
-      "data": "",
-      "resumo": "Com passagens pela Globo e Record, artista também se destacou no teatro e nas redes sociais",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250729060752_fd150f11e8a3b8f02d310255e572e60b0c90d0c4a0c3c71f1c31aaeb8e3b898f.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Portal de Periódicos migra para nuvem",
+      "data": "29/07/2025",
+      "resumo": "29/07/2025 -\n                Mudança visa dar maior velocidade do tempo de resposta durante as pesquisas, com foco na segurança e disponibilidade do serviço",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Migrao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4222-portal-de-periodicos-migra-para-nuvem.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Quatro treinamentos estão na agenda da 1ª quinzena de agosto",
+      "data": "29/07/2025",
+      "resumo": "29/07/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar acesso aberto, empreendedorismo e funcionalidades da ACS",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4221-quatro-treinamentos-estao-na-agenda-da-1-quinzena-de-agosto.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos promove treinamentos em reunião da SBPC",
+      "data": "17/07/2025",
+      "resumo": "17/07/2025 -\n                Capacitação ocorre todos os dias na ExpoT&C até 18 de julho",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_SBPC.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4219-portal-de-periodicos-promove-treinamentos-em-reuniao-da-sbpc.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
