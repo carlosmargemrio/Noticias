@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Obras no Palácio das Lágrimas seguem avançando em São Luís (MA)",
+      "data": "30/07/2025",
+      "resumo": "30/07/2025 - Imóvel histórico será transformado em espaço de cultura, inovação e extensão universitária",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/obras-no-palacio-das-lagrimas-seguem-avancando-em-sao-luis-ma/whatsapp-image-2025-07-30-at-16-58-29.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/obras-no-palacio-das-lagrimas-seguem-avancando-em-sao-luis-ma",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Rendeiras de Sergipe participam de oficinas de colorimetria promovidas pelo Iphan",
       "data": "30/07/2025",
       "resumo": "30/07/2025 - As ações fazem parte do Plano de Salvaguarda do Modo de Fazer Renda Irlandesa",
@@ -14,14 +22,6 @@
       "resumo": "30/07/2025 - Recursos podem ser enviados até o dia 1º de agosto",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-veja-a-lista-preliminar-de-habilitados-para-a-etapa-estadual/prmfa25_banner-noticia2.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-veja-a-lista-preliminar-de-habilitados-para-a-etapa-estadual",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Capoeiristas do DF promovem lançamento de livro sobre artes marciais angolanas",
-      "data": "29/07/2025",
-      "resumo": "29/07/2025 - O evento contará com a presença do autor angolano Kabwenha",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/capoeiristas-do-df-promovem-lancamento-de-livro-sobre-artes-marciais-angolanas/lancamentolivro_artes-marciais-de-angola_tela-espera-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/capoeiristas-do-df-promovem-lancamento-de-livro-sobre-artes-marciais-angolanas",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
