@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Rendeiras de Sergipe participam de oficinas de colorimetria promovidas pelo Iphan",
+      "data": "30/07/2025",
+      "resumo": "30/07/2025 - As ações fazem parte do Plano de Salvaguarda do Modo de Fazer Renda Irlandesa",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/rendeiras-de-sergipe-participam-de-oficinas-de-colorimetria-promovidas-pelo-iphan/banner.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/rendeiras-de-sergipe-participam-de-oficinas-de-colorimetria-promovidas-pelo-iphan",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Prêmio Rodrigo 2025: veja a lista preliminar de habilitados para a etapa estadual",
       "data": "30/07/2025",
       "resumo": "30/07/2025 - Recursos podem ser enviados até o dia 1º de agosto",
@@ -14,14 +22,6 @@
       "resumo": "29/07/2025 - O evento contará com a presença do autor angolano Kabwenha",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/capoeiristas-do-df-promovem-lancamento-de-livro-sobre-artes-marciais-angolanas/lancamentolivro_artes-marciais-de-angola_tela-espera-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/capoeiristas-do-df-promovem-lancamento-de-livro-sobre-artes-marciais-angolanas",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Em Salvador, Iphan promove debate sobre metodologias na arqueologia brasileira",
-      "data": "29/07/2025",
-      "resumo": "29/07/2025 - Evento celebrou o Dia do Arqueólogo com reflexões sobre práticas e o papel social da arqueologia no Brasil",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-salvador-iphan-promove-debate-sobre-metodologias-na-arqueologia-brasileira/design-sem-nome-51.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-salvador-iphan-promove-debate-sobre-metodologias-na-arqueologia-brasileira",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
