@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Divulgado o resultado dos candidatos autodeclarados pessoas com deficiência da seleção para ampla concorrência",
+      "data": "31/07/2025",
+      "resumo": "31/07/2025 - O prazo para envio de recursos vai até sexta-feira (1/8)",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-dos-candidatos-autodeclarados-quilombolas-indigenas-e-pessoas-com-deficiencia-da-selecao-para-ampla-concorrencia/3436feb2641a4478a925d2ed90e09d25.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-dos-candidatos-autodeclarados-quilombolas-indigenas-e-pessoas-com-deficiencia-da-selecao-para-ampla-concorrencia",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Centro Lucio Costa (CLC) retoma, gradualmente, suas atividades no Palácio Gustavo Capanema",
       "data": "31/07/2025",
       "resumo": "31/07/2025 - Atendimento ao público segue por e-mail durante processo de reinstalação",
@@ -14,14 +22,6 @@
       "resumo": "31/07/2025 - O entendimento da hipossuficiência em suas múltiplas dimensões e seus impactos na formulação de políticas públicas será um dos temas em debate",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ipea-promovem-seminario-sobre-hipossuficiencia-e-patrimonio-cultural/avisodepauta.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ipea-promovem-seminario-sobre-hipossuficiencia-e-patrimonio-cultural",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Obras no Palácio das Lágrimas seguem avançando em São Luís (MA)",
-      "data": "30/07/2025",
-      "resumo": "30/07/2025 - Imóvel histórico será transformado em espaço de cultura, inovação e extensão universitária",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/obras-no-palacio-das-lagrimas-seguem-avancando-em-sao-luis-ma/whatsapp-image-2025-07-30-at-16-58-29.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/obras-no-palacio-das-lagrimas-seguem-avancando-em-sao-luis-ma",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025072409070_2b71ff39-9d7e-479f-93a0-448b0ba0c90c.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Contrato da CAPES com editora ASM atende 260 instituições",
+      "data": "31/07/2025",
+      "resumo": "31/07/2025 -\n                Estudantes, pesquisadores e professores terão acesso a nove publicações relacionadas à microbiologia",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Contrato_ASM.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4224-contrato-da-capes-com-editora-asm-atende-260-instituicoes.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Atualização dos índices do Portal de Periódicos",
+      "data": "31/07/2025",
+      "resumo": "31/07/2025 -\n                Procedimento poderá ocasionar períodos curtos de instabilidade no sistema de busca por até 30 minutos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4223-atualizacao-dos-indices-do-portal-de-periodicos-8.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos migra para nuvem",
+      "data": "29/07/2025",
+      "resumo": "29/07/2025 -\n                Mudança visa dar maior velocidade do tempo de resposta durante as pesquisas, com foco na segurança e disponibilidade do serviço",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Migrao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4222-portal-de-periodicos-migra-para-nuvem.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
