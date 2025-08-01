@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Especialistas criticam \"excesso\" de acusações contra Oruam",
+      "data": "",
+      "resumo": "Advogados avaliam que rapper deve responder em liberdade e apontam exageros nas tipificações feitas pela polícia do Rio",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250722120740_3e7f6c319168e1537c5d00bcc10d2b10393fceeb738d4734fae878d5545d3e21.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Trump avalia conceder perdão presidencial a Sean 'Diddy' Combs, figura central de escândalo sexual",
       "data": "",
       "resumo": "Aliados de Diddy pressionam o presidente dos EUA por perdão antes da sentença, marcada para 3 de outubro",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2024100211100_4903671c6e2f14dcaac9a804ed7ec972baf8b8fe7fd826670dbb8f679442dc02.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2024100211100_eed99dffc931a5586b15c17a875e85cfec653d4f6e96a2bcb1a50e82f08fa75e.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Após morte de Preta, Gilberto Gil anuncia data para retomar sua turnê",
-      "data": "",
-      "resumo": "Turnê Tempo Rei será retomada em setembro, após adiamento causado pelo falecimento da filha do cantor",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025072409070_2b71ff39-9d7e-479f-93a0-448b0ba0c90c.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Contrato da CAPES com editora ASM atende 260 instituições",
+      "data": "31/07/2025",
+      "resumo": "31/07/2025 -\n                Estudantes, pesquisadores e professores terão acesso a nove publicações relacionadas à microbiologia",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Contrato_ASM.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4224-contrato-da-capes-com-editora-asm-atende-260-instituicoes.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos migra para nuvem",
+      "data": "29/07/2025",
+      "resumo": "29/07/2025 -\n                Mudança visa dar maior velocidade do tempo de resposta durante as pesquisas, com foco na segurança e disponibilidade do serviço",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Migrao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4222-portal-de-periodicos-migra-para-nuvem.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Quatro treinamentos estão na agenda da 1ª quinzena de agosto",
+      "data": "29/07/2025",
+      "resumo": "29/07/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar acesso aberto, empreendedorismo e funcionalidades da ACS",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4221-quatro-treinamentos-estao-na-agenda-da-1-quinzena-de-agosto.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
