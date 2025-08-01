@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "3º Encontro de Choro celebra o Patrimônio Cultural Brasileiro em Campo Grande (MS)",
+      "data": "01/08/2025",
+      "resumo": "01/08/2025 - O evento, realizado pela Confraria do Choro com apoio do Iphan, acontece neste sábado (02)",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/3o-encontro-de-choro-celebra-o-patrimonio-cultural-brasileiro-em-campo-grande-ms/banner-choro-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/3o-encontro-de-choro-celebra-o-patrimonio-cultural-brasileiro-em-campo-grande-ms",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan fiscaliza acervo arqueológico sob guarda da Reserva Técnica da UFMA",
       "data": "01/08/2025",
       "resumo": "01/08/2025 - O monitoramento é realizado periodicamente pelo Instituto para garantir integridade das peças",
@@ -14,14 +22,6 @@
       "resumo": "31/07/2025 - Cerimônia oficial ocorrerá na sexta-feira, dia 1º de agosto, às 18h",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/praca-sao-francisco-em-sao-cristovao-se-celebra-15-anos-como-patrimonio-mundial-cultural/banner-thiago-conceicao.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/praca-sao-francisco-em-sao-cristovao-se-celebra-15-anos-como-patrimonio-mundial-cultural",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Divulgado o resultado dos candidatos autodeclarados pessoas com deficiência da seleção para ampla concorrência",
-      "data": "31/07/2025",
-      "resumo": "31/07/2025 - O prazo para envio de recursos vai até sexta-feira (1/8)",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-dos-candidatos-autodeclarados-quilombolas-indigenas-e-pessoas-com-deficiencia-da-selecao-para-ampla-concorrencia/3436feb2641a4478a925d2ed90e09d25.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-dos-candidatos-autodeclarados-quilombolas-indigenas-e-pessoas-com-deficiencia-da-selecao-para-ampla-concorrencia",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
