@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan fiscaliza acervo arqueológico sob guarda da Reserva Técnica da UFMA",
+      "data": "01/08/2025",
+      "resumo": "01/08/2025 - O monitoramento é realizado periodicamente pelo Instituto para garantir integridade das peças",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-acervo-arqueologico-sob-guarda-da-reserva-tecnica-da-ufma/whatsapp-image-2025-08-01-at-11-49-34-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-acervo-arqueologico-sob-guarda-da-reserva-tecnica-da-ufma",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Praça São Francisco, em São Cristóvão (SE), celebra 15 anos como Patrimônio Mundial Cultural",
       "data": "31/07/2025",
       "resumo": "31/07/2025 - Cerimônia oficial ocorrerá na sexta-feira, dia 1º de agosto, às 18h",
@@ -14,14 +22,6 @@
       "resumo": "31/07/2025 - O prazo para envio de recursos vai até sexta-feira (1/8)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-dos-candidatos-autodeclarados-quilombolas-indigenas-e-pessoas-com-deficiencia-da-selecao-para-ampla-concorrencia/3436feb2641a4478a925d2ed90e09d25.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-dos-candidatos-autodeclarados-quilombolas-indigenas-e-pessoas-com-deficiencia-da-selecao-para-ampla-concorrencia",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Centro Lucio Costa (CLC) retoma, gradualmente, suas atividades no Palácio Gustavo Capanema",
-      "data": "31/07/2025",
-      "resumo": "31/07/2025 - Atendimento ao público segue por e-mail durante processo de reinstalação",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-lucio-costa-clc-retoma-gradualmente-suas-atividades-no-palacio-gustavo-capanema/xxx1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-lucio-costa-clc-retoma-gradualmente-suas-atividades-no-palacio-gustavo-capanema",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
