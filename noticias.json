@@ -9,19 +9,19 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Sítio Roberto Burle Marx promove colônia de férias para estudantes da rede pública",
-      "data": "01/08/2025",
-      "resumo": "01/08/2025 - Crianças tiveram a oportunidade de vivenciar novos aprendizados em meio à natureza",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-promove-colonia-de-ferias-para-estudantes-da-rede-publica/design-sem-nome-52.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-promove-colonia-de-ferias-para-estudantes-da-rede-publica",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
       "titulo": "3º Encontro de Choro celebra o Patrimônio Cultural Brasileiro em Campo Grande (MS)",
       "data": "01/08/2025",
       "resumo": "01/08/2025 - O evento, realizado pela Confraria do Choro com apoio do Iphan, acontece neste sábado (02)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/3o-encontro-de-choro-celebra-o-patrimonio-cultural-brasileiro-em-campo-grande-ms/banner-choro-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/3o-encontro-de-choro-celebra-o-patrimonio-cultural-brasileiro-em-campo-grande-ms",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan fiscaliza acervo arqueológico sob guarda da Reserva Técnica da UFMA",
+      "data": "01/08/2025",
+      "resumo": "01/08/2025 - O monitoramento é realizado periodicamente pelo Instituto para garantir integridade das peças",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-acervo-arqueologico-sob-guarda-da-reserva-tecnica-da-ufma/whatsapp-image-2025-08-01-at-11-49-34-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-acervo-arqueologico-sob-guarda-da-reserva-tecnica-da-ufma",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025073007074_bdc3ed192af9bbcda92636660489e0116a338677b99524bd2ee6699eb42f083c.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Contrato da CAPES com editora ASM atende 260 instituições",
-      "data": "31/07/2025",
-      "resumo": "31/07/2025 -\n                Estudantes, pesquisadores e professores terão acesso a nove publicações relacionadas à microbiologia",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Contrato_ASM.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4224-contrato-da-capes-com-editora-asm-atende-260-instituicoes.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos migra para nuvem",
-      "data": "29/07/2025",
-      "resumo": "29/07/2025 -\n                Mudança visa dar maior velocidade do tempo de resposta durante as pesquisas, com foco na segurança e disponibilidade do serviço",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Migrao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4222-portal-de-periodicos-migra-para-nuvem.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Quatro treinamentos estão na agenda da 1ª quinzena de agosto",
-      "data": "29/07/2025",
-      "resumo": "29/07/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar acesso aberto, empreendedorismo e funcionalidades da ACS",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4221-quatro-treinamentos-estao-na-agenda-da-1-quinzena-de-agosto.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
