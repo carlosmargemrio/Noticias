@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Mês do Patrimônio: confira a programação das atividades culturais em Cuiabá (MT)",
+      "data": "04/08/2025",
+      "resumo": "04/08/2025 - Arte, cultura e história no centro histórico",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mes-do-patrimonio-confira-a-programacao-das-atividades-culturais-em-cuiaba-mt/afed0dd7-ac03-4609-b914-db537e66919d.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mes-do-patrimonio-confira-a-programacao-das-atividades-culturais-em-cuiaba-mt",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan libera mais de R$ 20 milhões em investimentos no âmbito do Novo PAC para cidades históricas de Minas",
       "data": "01/08/2025",
       "resumo": "01/08/2025 - Representantes da autarquia percorreram as cidades mineiras de Congonhas, Mariana, Ouro Preto e a capital Belo Horizonte",
@@ -14,14 +22,6 @@
       "resumo": "01/08/2025 - O evento, realizado pela Confraria do Choro com apoio do Iphan, acontece neste sábado (02)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/3o-encontro-de-choro-celebra-o-patrimonio-cultural-brasileiro-em-campo-grande-ms/banner-choro-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/3o-encontro-de-choro-celebra-o-patrimonio-cultural-brasileiro-em-campo-grande-ms",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan fiscaliza acervo arqueológico sob guarda da Reserva Técnica da UFMA",
-      "data": "01/08/2025",
-      "resumo": "01/08/2025 - O monitoramento é realizado periodicamente pelo Instituto para garantir integridade das peças",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-acervo-arqueologico-sob-guarda-da-reserva-tecnica-da-ufma/whatsapp-image-2025-08-01-at-11-49-34-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-acervo-arqueologico-sob-guarda-da-reserva-tecnica-da-ufma",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
