@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Ruínas de Paricatuba (AM) serão cercadas e escoradas para segurança dos visitantes",
+      "data": "04/08/2025",
+      "resumo": "04/08/2025 - Medida foi solicitada após vistoria técnica do Iphan no local",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ruinas-de-paricatuba-am-serao-cercadas-e-escoradas-para-seguranca-dos-visitantes/whatsapp-image-2025-07-31-at-10-46-33-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ruinas-de-paricatuba-am-serao-cercadas-e-escoradas-para-seguranca-dos-visitantes",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Mês do Patrimônio: confira a programação das atividades culturais no Rio de Janeiro (RJ)",
       "data": "04/08/2025",
       "resumo": "04/08/2025 - Agenda inclui apresentações musicais, oficinas, rodas de conversa e outras atividades abertas ao público",
@@ -14,14 +22,6 @@
       "resumo": "04/08/2025 - Produzido em parceria com a EBC para o Mês do Patrimônio, videocast “Nosso Patrimônio” terá quatro episódios exibidos na TV aberta toda quinta-feira de agosto, às 19h30",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/novo-videocast-do-iphan-traz-conversas-com-ministras-e-convidados-sobre-patrimonio-cultural-brasileiro/2025_df_brasilia_nossopatrimonio_marianaalves-65-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/novo-videocast-do-iphan-traz-conversas-com-ministras-e-convidados-sobre-patrimonio-cultural-brasileiro",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Mês do Patrimônio: confira a programação das atividades culturais em Cuiabá (MT)",
-      "data": "04/08/2025",
-      "resumo": "04/08/2025 - Arte, cultura e história no centro histórico",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mes-do-patrimonio-confira-a-programacao-das-atividades-culturais-em-cuiaba-mt/afed0dd7-ac03-4609-b914-db537e66919d.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mes-do-patrimonio-confira-a-programacao-das-atividades-culturais-em-cuiaba-mt",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
