@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Mês do Patrimônio: confira a programação das atividades culturais no Rio de Janeiro (RJ)",
+      "data": "04/08/2025",
+      "resumo": "04/08/2025 - Agenda inclui apresentações musicais, oficinas, rodas de conversa e outras atividades abertas ao público",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mes-do-patrimonio-confira-a-programacao-das-atividades-culturais-no-rio-de-janeiro-rj/559978aacae04ee08a58427c1e98b309.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mes-do-patrimonio-confira-a-programacao-das-atividades-culturais-no-rio-de-janeiro-rj",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Novo videocast do Iphan traz conversas com ministras e convidados sobre patrimônio cultural brasileiro",
       "data": "04/08/2025",
       "resumo": "04/08/2025 - Produzido em parceria com a EBC para o Mês do Patrimônio, videocast “Nosso Patrimônio” terá quatro episódios exibidos na TV aberta toda quinta-feira de agosto, às 19h30",
@@ -14,14 +22,6 @@
       "resumo": "04/08/2025 - Arte, cultura e história no centro histórico",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mes-do-patrimonio-confira-a-programacao-das-atividades-culturais-em-cuiaba-mt/afed0dd7-ac03-4609-b914-db537e66919d.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mes-do-patrimonio-confira-a-programacao-das-atividades-culturais-em-cuiaba-mt",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan libera mais de R$ 20 milhões em investimentos no âmbito do Novo PAC para cidades históricas de Minas",
-      "data": "01/08/2025",
-      "resumo": "01/08/2025 - Representantes da autarquia percorreram as cidades mineiras de Congonhas, Mariana, Ouro Preto e a capital Belo Horizonte",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-libera-mais-de-r-20-milhoes-em-investimentos-no-ambito-do-novo-pac-para-cidades-historicas-de-minas-1/fotonenovianna_b-26-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-libera-mais-de-r-20-milhoes-em-investimentos-no-ambito-do-novo-pac-para-cidades-historicas-de-minas-1",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
