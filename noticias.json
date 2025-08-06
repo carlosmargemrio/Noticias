@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan lança Biblioteca Digital com rico acervo sobre patrimônio cultural",
+      "data": "06/08/2025",
+      "resumo": "06/08/2025 - A plataforma assume o papel de fonte de informação de referência e relevância sobre o patrimônio cultural brasileiro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-biblioteca-digital-com-rico-acervo-sobre-patrimonio-cultural/banner_site-biblioteca-digital.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-biblioteca-digital-com-rico-acervo-sobre-patrimonio-cultural",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan realiza vistoria técnica conjunta em obras de restauração do Museu Nacional do Mar (SC)",
       "data": "06/08/2025",
       "resumo": "06/08/2025 - Ação garante que a execução da obra esteja de acordo com o projeto aprovado pelo Instituto",
@@ -14,14 +22,6 @@
       "resumo": "06/08/2025 - Programação incluiu debates, oficinas e apresentações artísticas",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-celebra-a-literatura-de-cordel-na-23a-edicao-da-flip-em-paraty-rj/xxxx20250731_1938121.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-celebra-a-literatura-de-cordel-na-23a-edicao-da-flip-em-paraty-rj",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Restauro do Palácio Gustavo Capanema é destaque no Le Monde",
-      "data": "04/08/2025",
-      "resumo": "04/08/2025 - Jornalistas do veículo francês participaram de visita guiada em julho; Equipe do The New York Times também percorreu o edifício",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/restauro-do-palacio-gustavo-capanema-e-destaque-no-le-monde/xy20250709_132622849_iOS2.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/restauro-do-palacio-gustavo-capanema-e-destaque-no-le-monde",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
