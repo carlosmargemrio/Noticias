@@ -1,6 +1,22 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan divulga resultado final do processo seletivo de ampla concorrência ao Mestrado Profissional – Vagas Prioritárias",
+      "data": "07/08/2025",
+      "resumo": "07/08/2025 - Os selecionados em primeiro lugar devem manifestar interesse em assumir a vaga",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-final-do-processo-seletivo-de-ampla-concorrencia-ao-mestrado-profissional-2013-vagas-prioritarias/1c8bd41b041f4be1a3b877425f55ab2b.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-final-do-processo-seletivo-de-ampla-concorrencia-ao-mestrado-profissional-2013-vagas-prioritarias",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Seminário debate desafios para moradores de imóveis tombados no Brasil",
+      "data": "07/08/2025",
+      "resumo": "07/08/2025 - Evento promovido por Iphan e Ipea discute vulnerabilidade social, judicialização e acesso a políticas públicas de conservação do patrimônio histórico",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/seminario-debate-desafios-para-moradores-de-imoveis-tombados-no-brasil/design-sem-nome-53.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/seminario-debate-desafios-para-moradores-de-imoveis-tombados-no-brasil",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan lança Biblioteca Digital com rico acervo sobre patrimônio cultural",
       "data": "06/08/2025",
       "resumo": "06/08/2025 - A plataforma assume o papel de fonte de informação de referência e relevância sobre o patrimônio cultural brasileiro",
@@ -9,26 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan realiza vistoria técnica conjunta em obras de restauração do Museu Nacional do Mar (SC)",
-      "data": "06/08/2025",
-      "resumo": "06/08/2025 - Ação garante que a execução da obra esteja de acordo com o projeto aprovado pelo Instituto",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-vistoria-tecnica-conjunta-em-obras-de-restauracao-do-museu-nacional-do-mar-sc/whatsapp-image-2025-08-06-at-14-23-27-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-vistoria-tecnica-conjunta-em-obras-de-restauracao-do-museu-nacional-do-mar-sc",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan celebra a Literatura de Cordel na 23ª edição da Flip, em Paraty (RJ)",
-      "data": "06/08/2025",
-      "resumo": "06/08/2025 - Programação incluiu debates, oficinas e apresentações artísticas",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-celebra-a-literatura-de-cordel-na-23a-edicao-da-flip-em-paraty-rj/xxxx20250731_1938121.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-celebra-a-literatura-de-cordel-na-23a-edicao-da-flip-em-paraty-rj",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Em carta a Lula, mais de 750 artistas pedem regulamentação do streaming",
+      "data": "",
+      "resumo": "Entre os signatários estão nomes como Fernanda Torres, Wagner Moura, Walter Salles, Petra Costa e Kleber Mendonça Filho",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250521030556_596733ae-7053-409f-9bf6-2d0886250c5f.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Lula e Janja exibem \"O Agente Secreto\" no Alvorada com presença de Wagner Moura e Kleber Mendonça",
       "data": "",
       "resumo": "Filme premiado em Cannes será apresentado a ministros e convidados. Estreia nacional está marcada para 6 de novembro",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250518140532_d84f2d22-460d-4ef6-9a4a-faa8bccb8d5e.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250518140532_f0dc7001-e293-4571-8c73-3540cbcb31b1.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250805180832_52a27fc2-ee65-4e87-8983-00c4a6dc71c7.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Equipe de Milton Nascimento relata mensagens de ódio após processar o Cruzeiro",
-      "data": "",
-      "resumo": "O motivo do processo contra o clube foi o uso de uma canção que anunciou a contratação do atacante Gabigol",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250803180856_c67a8b09-3b97-4adb-b212-387ffa57e0ee.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Contrato da CAPES com editora ASM atende 260 instituições",
-      "data": "31/07/2025",
-      "resumo": "31/07/2025 -\n                Estudantes, pesquisadores e professores terão acesso a nove publicações relacionadas à microbiologia",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Contrato_ASM.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4224-contrato-da-capes-com-editora-asm-atende-260-instituicoes.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos migra para nuvem",
-      "data": "29/07/2025",
-      "resumo": "29/07/2025 -\n                Mudança visa dar maior velocidade do tempo de resposta durante as pesquisas, com foco na segurança e disponibilidade do serviço",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Migrao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4222-portal-de-periodicos-migra-para-nuvem.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Quatro treinamentos estão na agenda da 1ª quinzena de agosto",
-      "data": "29/07/2025",
-      "resumo": "29/07/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar acesso aberto, empreendedorismo e funcionalidades da ACS",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4221-quatro-treinamentos-estao-na-agenda-da-1-quinzena-de-agosto.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
