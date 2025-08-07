@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan oferece curso em educação patrimonial para professores na Ilha do Campeche (SC)",
+      "data": "07/08/2025",
+      "resumo": "07/08/2025 - Formação é promovida pelo Iphan, pelo Instituto Ilha do Campeche e pela Escola do Mar/Secretaria Municipal de Educação de Florianópolis",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-oferece-curso-em-educacao-patrimonial-para-professores-na-ilha-do-campeche-sc/whatsapp-image-2025-08-07-at-15-18-01-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-oferece-curso-em-educacao-patrimonial-para-professores-na-ilha-do-campeche-sc",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan divulga resultado final do processo seletivo de ampla concorrência ao Mestrado Profissional – Vagas Prioritárias",
       "data": "07/08/2025",
       "resumo": "07/08/2025 - Os selecionados em primeiro lugar devem manifestar interesse em assumir a vaga",
@@ -14,14 +22,6 @@
       "resumo": "07/08/2025 - Evento promovido por Iphan e Ipea discute vulnerabilidade social, judicialização e acesso a políticas públicas de conservação do patrimônio histórico",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/seminario-debate-desafios-para-moradores-de-imoveis-tombados-no-brasil/design-sem-nome-53.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/seminario-debate-desafios-para-moradores-de-imoveis-tombados-no-brasil",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan lança Biblioteca Digital com rico acervo sobre patrimônio cultural",
-      "data": "06/08/2025",
-      "resumo": "06/08/2025 - A plataforma assume o papel de fonte de informação de referência e relevância sobre o patrimônio cultural brasileiro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-biblioteca-digital-com-rico-acervo-sobre-patrimonio-cultural/banner_site-biblioteca-digital.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-biblioteca-digital-com-rico-acervo-sobre-patrimonio-cultural",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250805180832_52a27fc2-ee65-4e87-8983-00c4a6dc71c7.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Contrato da CAPES com editora ASM atende 260 instituições",
-      "data": "31/07/2025",
-      "resumo": "31/07/2025 -\n                Estudantes, pesquisadores e professores terão acesso a nove publicações relacionadas à microbiologia",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Contrato_ASM.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4224-contrato-da-capes-com-editora-asm-atende-260-instituicoes.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos migra para nuvem",
-      "data": "29/07/2025",
-      "resumo": "29/07/2025 -\n                Mudança visa dar maior velocidade do tempo de resposta durante as pesquisas, com foco na segurança e disponibilidade do serviço",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Migrao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4222-portal-de-periodicos-migra-para-nuvem.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Quatro treinamentos estão na agenda da 1ª quinzena de agosto",
-      "data": "29/07/2025",
-      "resumo": "29/07/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar acesso aberto, empreendedorismo e funcionalidades da ACS",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4221-quatro-treinamentos-estao-na-agenda-da-1-quinzena-de-agosto.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
