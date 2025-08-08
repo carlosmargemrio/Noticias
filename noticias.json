@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan publica nova norma sobre gestão de acervos arqueológicos",
+      "data": "08/08/2025",
+      "resumo": "08/08/2025 - Portaria define requisitos para aptidão e cadastro de Instituições de Guarda e Pesquisa (IGPs)",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-publica-nova-norma-sobre-gestao-de-acervos-arqueologicos/whatsapp-image-2025-08-08-at-15-49-06-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-publica-nova-norma-sobre-gestao-de-acervos-arqueologicos",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan realiza oficinas de escuta social sobre candidatura dos Teatros da Amazônia a Patrimônio Mundial Cultural",
       "data": "08/08/2025",
       "resumo": "08/08/2025 - Encontros em Belém mobilizam sociedade civil no processo de reconhecimento internacional",
@@ -14,14 +22,6 @@
       "resumo": "08/08/2025 - Atividade é acompanhada pelo Iphan, permitindo a continuidade dos trabalhos sem prejuízo à preservação do patrimônio",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-para-itens-arqueologicos-sao-encontrados-durante-obra-de-revitalizacao-da-praca-da-bandeira-em-belem/design-sem-nome-54.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-para-itens-arqueologicos-sao-encontrados-durante-obra-de-revitalizacao-da-praca-da-bandeira-em-belem",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan oferece curso em educação patrimonial para professores na Ilha do Campeche (SC)",
-      "data": "07/08/2025",
-      "resumo": "07/08/2025 - Formação é promovida pelo Iphan, pelo Instituto Ilha do Campeche e pela Escola do Mar/Secretaria Municipal de Educação de Florianópolis",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-oferece-curso-em-educacao-patrimonial-para-professores-na-ilha-do-campeche-sc/whatsapp-image-2025-08-07-at-15-18-01-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-oferece-curso-em-educacao-patrimonial-para-professores-na-ilha-do-campeche-sc",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
