@@ -1,6 +1,22 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan realiza oficinas de escuta social sobre candidatura dos Teatros da Amazônia a Patrimônio Mundial Cultural",
+      "data": "08/08/2025",
+      "resumo": "08/08/2025 - Encontros em Belém mobilizam sociedade civil no processo de reconhecimento internacional",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-oficinas-de-escuta-social-sobre-candidatura-dos-teatros-da-amazonia-a-patrimonio-mundial-cultural/design-sem-nome-55.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-oficinas-de-escuta-social-sobre-candidatura-dos-teatros-da-amazonia-a-patrimonio-mundial-cultural",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "No Pará, itens arqueológicos são encontrados durante obra de revitalização da Praça da Bandeira, em Belém",
+      "data": "08/08/2025",
+      "resumo": "08/08/2025 - Atividade é acompanhada pelo Iphan, permitindo a continuidade dos trabalhos sem prejuízo à preservação do patrimônio",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-para-itens-arqueologicos-sao-encontrados-durante-obra-de-revitalizacao-da-praca-da-bandeira-em-belem/design-sem-nome-54.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-para-itens-arqueologicos-sao-encontrados-durante-obra-de-revitalizacao-da-praca-da-bandeira-em-belem",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan oferece curso em educação patrimonial para professores na Ilha do Campeche (SC)",
       "data": "07/08/2025",
       "resumo": "07/08/2025 - Formação é promovida pelo Iphan, pelo Instituto Ilha do Campeche e pela Escola do Mar/Secretaria Municipal de Educação de Florianópolis",
@@ -9,26 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan divulga resultado final do processo seletivo de ampla concorrência ao Mestrado Profissional – Vagas Prioritárias",
-      "data": "07/08/2025",
-      "resumo": "07/08/2025 - Os selecionados em primeiro lugar devem manifestar interesse em assumir a vaga",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-final-do-processo-seletivo-de-ampla-concorrencia-ao-mestrado-profissional-2013-vagas-prioritarias/1c8bd41b041f4be1a3b877425f55ab2b.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-final-do-processo-seletivo-de-ampla-concorrencia-ao-mestrado-profissional-2013-vagas-prioritarias",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Seminário debate desafios para moradores de imóveis tombados no Brasil",
-      "data": "07/08/2025",
-      "resumo": "07/08/2025 - Evento promovido por Iphan e Ipea discute vulnerabilidade social, judicialização e acesso a políticas públicas de conservação do patrimônio histórico",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/seminario-debate-desafios-para-moradores-de-imoveis-tombados-no-brasil/design-sem-nome-53.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/seminario-debate-desafios-para-moradores-de-imoveis-tombados-no-brasil",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Arlindo Cruz, ícone do samba brasileiro, morre aos 66 anos no Rio",
+      "data": "",
+      "resumo": "Cantor e compositor deixou legado com mais de 550 músicas gravadas e marcou gerações",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250808150812_c79e0909f40c8c7ca7763d2b1ecce150d55ec8f4a0d06c7a7a05104590f5f7a7.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Wagner Moura e Kleber Mendonça Filho foram os convidados exclusivos do último \"Cine Alvorada\"",
       "data": "",
       "resumo": "Em cartaz: \"O Agente Secreto\"",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250808030832_72339de5-b849-4d5a-b073-96b5e49eaf7d.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250808030832_1667c3c9-cc6d-42f7-944c-a93ff2eac433.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Lula e Janja exibem \"O Agente Secreto\" no Alvorada com presença de Wagner Moura e Kleber Mendonça",
-      "data": "",
-      "resumo": "Filme premiado em Cannes será apresentado a ministros e convidados. Estreia nacional está marcada para 6 de novembro",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250518140532_f0dc7001-e293-4571-8c73-3540cbcb31b1.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Contrato da CAPES com editora ASM atende 260 instituições",
+      "data": "31/07/2025",
+      "resumo": "31/07/2025 -\n                Estudantes, pesquisadores e professores terão acesso a nove publicações relacionadas à microbiologia",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Contrato_ASM.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4224-contrato-da-capes-com-editora-asm-atende-260-instituicoes.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos migra para nuvem",
+      "data": "29/07/2025",
+      "resumo": "29/07/2025 -\n                Mudança visa dar maior velocidade do tempo de resposta durante as pesquisas, com foco na segurança e disponibilidade do serviço",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Migrao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4222-portal-de-periodicos-migra-para-nuvem.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Quatro treinamentos estão na agenda da 1ª quinzena de agosto",
+      "data": "29/07/2025",
+      "resumo": "29/07/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar acesso aberto, empreendedorismo e funcionalidades da ACS",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4221-quatro-treinamentos-estao-na-agenda-da-1-quinzena-de-agosto.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
