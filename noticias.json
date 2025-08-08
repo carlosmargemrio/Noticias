@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Confira a programação no Maranhão",
+      "data": "08/08/2025",
+      "resumo": "08/08/2025 - Tema deste ano é Participação Social, Territórios e Sustentabilidade",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/confira-a-programacao-no-maranhao/4f7ffbc5-bc57-4c3e-bd3e-a2b34f8d8dd8.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/confira-a-programacao-no-maranhao",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan publica nova norma sobre gestão de acervos arqueológicos",
       "data": "08/08/2025",
       "resumo": "08/08/2025 - Portaria define requisitos para aptidão e cadastro de Instituições de Guarda e Pesquisa (IGPs)",
@@ -14,14 +22,6 @@
       "resumo": "08/08/2025 - Encontros em Belém mobilizam sociedade civil no processo de reconhecimento internacional",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-oficinas-de-escuta-social-sobre-candidatura-dos-teatros-da-amazonia-a-patrimonio-mundial-cultural/design-sem-nome-55.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-oficinas-de-escuta-social-sobre-candidatura-dos-teatros-da-amazonia-a-patrimonio-mundial-cultural",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "No Pará, itens arqueológicos são encontrados durante obra de revitalização da Praça da Bandeira, em Belém",
-      "data": "08/08/2025",
-      "resumo": "08/08/2025 - Atividade é acompanhada pelo Iphan, permitindo a continuidade dos trabalhos sem prejuízo à preservação do patrimônio",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-para-itens-arqueologicos-sao-encontrados-durante-obra-de-revitalizacao-da-praca-da-bandeira-em-belem/design-sem-nome-54.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-para-itens-arqueologicos-sao-encontrados-durante-obra-de-revitalizacao-da-praca-da-bandeira-em-belem",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250521030556_988957c0-8bb1-4a1e-99c6-728857c745fb.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Contrato da CAPES com editora ASM atende 260 instituições",
-      "data": "31/07/2025",
-      "resumo": "31/07/2025 -\n                Estudantes, pesquisadores e professores terão acesso a nove publicações relacionadas à microbiologia",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Contrato_ASM.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4224-contrato-da-capes-com-editora-asm-atende-260-instituicoes.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos migra para nuvem",
-      "data": "29/07/2025",
-      "resumo": "29/07/2025 -\n                Mudança visa dar maior velocidade do tempo de resposta durante as pesquisas, com foco na segurança e disponibilidade do serviço",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Migrao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4222-portal-de-periodicos-migra-para-nuvem.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Quatro treinamentos estão na agenda da 1ª quinzena de agosto",
-      "data": "29/07/2025",
-      "resumo": "29/07/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar acesso aberto, empreendedorismo e funcionalidades da ACS",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4221-quatro-treinamentos-estao-na-agenda-da-1-quinzena-de-agosto.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
