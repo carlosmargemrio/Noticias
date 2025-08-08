@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Artistas lamentam a morte de Arlindo Cruz: 'deixa um legado eterno de música, poesia e alegria'",
+      "data": "",
+      "resumo": "Nomes como Walcyr Carrasco, Zeca Pagodinho e Dudu Nobre prestaram homenagens ao sambista",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025080818084_25f8ac94a411076e6807502d74adc4e65507c9820ce414ca409b988697b0f500.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Lula lamenta morte de Arlindo Cruz: “sambista perfeito”",
       "data": "",
       "resumo": "Artista morreu aos 66 anos no Rio; presidente destacou legado de poesia, talento e generosidade",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250808170820_625625adbbeeba6c41520649cb458c0f5e905d4cf27e5ff07e5f34d1d29765ba.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250808170820_3c8b0404b12141d0a129e506db8b0288a3b4cc1cf88dbce84a95fc42ff854b59.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250808150812_b3fd4865a565ef69d3a8e8759d990063bd48b47426124a0b770fa4ea83e657f8.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Wagner Moura e Kleber Mendonça Filho foram os convidados exclusivos do último \"Cine Alvorada\"",
-      "data": "",
-      "resumo": "Em cartaz: \"O Agente Secreto\"",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250808030832_1667c3c9-cc6d-42f7-944c-a93ff2eac433.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Contrato da CAPES com editora ASM atende 260 instituições",
-      "data": "31/07/2025",
-      "resumo": "31/07/2025 -\n                Estudantes, pesquisadores e professores terão acesso a nove publicações relacionadas à microbiologia",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Contrato_ASM.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4224-contrato-da-capes-com-editora-asm-atende-260-instituicoes.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos migra para nuvem",
-      "data": "29/07/2025",
-      "resumo": "29/07/2025 -\n                Mudança visa dar maior velocidade do tempo de resposta durante as pesquisas, com foco na segurança e disponibilidade do serviço",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Migrao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4222-portal-de-periodicos-migra-para-nuvem.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Quatro treinamentos estão na agenda da 1ª quinzena de agosto",
-      "data": "29/07/2025",
-      "resumo": "29/07/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar acesso aberto, empreendedorismo e funcionalidades da ACS",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4221-quatro-treinamentos-estao-na-agenda-da-1-quinzena-de-agosto.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
