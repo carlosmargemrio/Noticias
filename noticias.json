@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Nova sinalização turística do patrimônio mundial é inaugurada em Diamantina e Ouro Preto (MG)",
+      "data": "11/08/2025",
+      "resumo": "11/08/2025 - No total, foram instaladas 749 novas placas e totens, com QR codes, para valorizar o patrimônio e modernizar a experiência turística no Brasil",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-sinalizacao-turistica-do-patrimonio-mundial-e-inaugurada-em-diamantina-e-ouro-preto-mg/banner.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-sinalizacao-turistica-do-patrimonio-mundial-e-inaugurada-em-diamantina-e-ouro-preto-mg",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Com o Brasil na presidência do Mercosul, fortificações da Bacia do Prata podem ser declaradas patrimônio da região",
       "data": "08/08/2025",
       "resumo": "08/08/2025 - Agenda de reuniões da Comissão de Patrimônio Cultural do Mercosul iniciou nesta quinta (7/8) e pode culminar com o reconhecimento de fortes históricos da região.",
@@ -14,14 +22,6 @@
       "resumo": "08/08/2025 - Com apoio do Iphan, mostra faz parte de projeto que aborda o patrimônio cultural pernambucano",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/batalha-do-monte-das-tabocas-e-tema-de-exposicao-gratuita-em-vitoria-de-santo-antao-pe/xxxxWhatsAppImage20250808at12.36.581.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/batalha-do-monte-das-tabocas-e-tema-de-exposicao-gratuita-em-vitoria-de-santo-antao-pe",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Lei Rouanet Nordeste amplia oportunidades para ações de preservação do patrimônio cultural",
-      "data": "08/08/2025",
-      "resumo": "08/08/2025 - Programa lançado pelo MinC contempla ampla gama de iniciativas, incluindo patrimônio material e imaterial, com oficinas de capacitação para agentes culturais",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/lei-rouanet-nordeste-amplia-oportunidades-para-acoes-de-preservacao-do-patrimonio-cultural/54706934907_0dec3ced1f_k-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/lei-rouanet-nordeste-amplia-oportunidades-para-acoes-de-preservacao-do-patrimonio-cultural",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250810040828_0a1c624f251eb25d8659d22014de6b7d02d37fe85c8c739d028b1170f6aca0f6.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Contrato da CAPES com editora ASM atende 260 instituições",
-      "data": "31/07/2025",
-      "resumo": "31/07/2025 -\n                Estudantes, pesquisadores e professores terão acesso a nove publicações relacionadas à microbiologia",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Contrato_ASM.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4224-contrato-da-capes-com-editora-asm-atende-260-instituicoes.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos migra para nuvem",
-      "data": "29/07/2025",
-      "resumo": "29/07/2025 -\n                Mudança visa dar maior velocidade do tempo de resposta durante as pesquisas, com foco na segurança e disponibilidade do serviço",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Migrao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4222-portal-de-periodicos-migra-para-nuvem.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Quatro treinamentos estão na agenda da 1ª quinzena de agosto",
-      "data": "29/07/2025",
-      "resumo": "29/07/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar acesso aberto, empreendedorismo e funcionalidades da ACS",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4221-quatro-treinamentos-estao-na-agenda-da-1-quinzena-de-agosto.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
