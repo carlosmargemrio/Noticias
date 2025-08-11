@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Confira a programação do Mês do Patrimônio no Piauí",
+      "data": "11/08/2025",
+      "resumo": "11/08/2025 - Evento contará com ampla programação na Estação Ferroviária de Teresina",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-secretaria-de-cultura-do-piaui-articulam-parceria-para-celebrar-o-dia-do-patrimonio-em-teresina-1/4f7ffbc5-bc57-4c3e-bd3e-a2b34f8d8dd8.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-secretaria-de-cultura-do-piaui-articulam-parceria-para-celebrar-o-dia-do-patrimonio-em-teresina-1",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan descobre novo sítio arqueológico na proximidade da Terra Indígena Guajajara, no Maranhão",
       "data": "11/08/2025",
       "resumo": "11/08/2025 - Achado no povoado Santa Teresa, em Tufilândia, revela fragmentos cerâmicos de diferentes técnicas e estilos, ampliando o conhecimento sobre a ocupação humana na região",
@@ -14,14 +22,6 @@
       "resumo": "11/08/2025 - Tema deste ano é Participação Social, Territórios e Sustentabilidade",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mes-do-patrimonio-confira-a-programacao-no-amazonas-am/afed0dd7-ac03-4609-b914-db537e66919d.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mes-do-patrimonio-confira-a-programacao-no-amazonas-am",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Salão do Iphan em Cachoeira (BA) recebe a exposição Olhares de um povo que reexiste em nós",
-      "data": "11/08/2025",
-      "resumo": "11/08/2025 - Mostra apresenta a arte originária dos artistas Juvenal Payayá e Artur Soar",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/salao-do-iphan-em-cachoeira-ba-recebe-a-exposicao-olhares-de-um-povo-que-reexiste-em-nos/design-sem-nome-56.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/salao-do-iphan-em-cachoeira-ba-recebe-a-exposicao-olhares-de-um-povo-que-reexiste-em-nos",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
