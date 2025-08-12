@@ -1,9 +1,17 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Servidora do Iphan lança livro infantil sobre patrimônios de Fernando de Noronha (PE)",
+      "data": "12/08/2025",
+      "resumo": "12/08/2025 - Obra narra a trajetória de uma lagarta que, ao explorar o território, vai descobrindo a história do lugar",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/servidora-do-iphan-lanca-livro-infantil-sobre-patrimonios-de-fernando-de-noronha-pe/yyyWhatsAppImage20250811at09.40.432.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/servidora-do-iphan-lanca-livro-infantil-sobre-patrimonios-de-fernando-de-noronha-pe",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Nosso Patrimônio: ministra Anielle Franco e rapper GOG participam de videocast do Iphan",
       "data": "12/08/2025",
-      "resumo": "12/08/2025 - Em segundo episódio da série, Ministra da Igualdade Racial e artista brasiliense debatem patrimônios negro e indígena no Brasil",
+      "resumo": "12/08/2025 - Em segundo episódio da série, ministra da Igualdade Racial e artista brasiliense debatem patrimônios negro e indígena no Brasil",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nosso-patrimonio-ministra-anielle-franco-e-rapper-gog-participam-de-videocast-do-iphan/2025_df_brasilia_nossopatrimonio_marianaalves-12-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nosso-patrimonio-ministra-anielle-franco-e-rapper-gog-participam-de-videocast-do-iphan",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
@@ -14,14 +22,6 @@
       "resumo": "12/08/2025 - O prazo para envio de recursos é até 13 de agosto",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-primeira-etapa-da-vaga-reserva-da-selecao-para-ampla-concorrencia/7f7f5993a30c4884adc35db8f4c6a911.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-primeira-etapa-da-vaga-reserva-da-selecao-para-ampla-concorrencia",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Divulgado resultado preliminar do Edital Arqueologia Viva",
-      "data": "12/08/2025",
-      "resumo": "12/08/2025 - Candidatos têm até sexta-feira (15/08) para apresentarem recurso administrativo",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/divulgado-resultado-preliminar-do-edital-arqueologia-viva/banner_1150x500.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/divulgado-resultado-preliminar-do-edital-arqueologia-viva",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250810040828_0a1c624f251eb25d8659d22014de6b7d02d37fe85c8c739d028b1170f6aca0f6.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Agenda da segunda quinzena de agosto oferta três treinamentos",
+      "data": "12/08/2025",
+      "resumo": "12/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial e publicação em acesso aberto",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_treinamentos_2_quinzena.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4225-agenda-da-segunda-quinzena-de-agosto-oferta-tres-treinamentos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Contrato da CAPES com editora ASM atende 260 instituições",
+      "data": "31/07/2025",
+      "resumo": "31/07/2025 -\n                Estudantes, pesquisadores e professores terão acesso a nove publicações relacionadas à microbiologia",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Contrato_ASM.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4224-contrato-da-capes-com-editora-asm-atende-260-instituicoes.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos migra para nuvem",
+      "data": "29/07/2025",
+      "resumo": "29/07/2025 -\n                Mudança visa dar maior velocidade do tempo de resposta durante as pesquisas, com foco na segurança e disponibilidade do serviço",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Migrao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4222-portal-de-periodicos-migra-para-nuvem.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
