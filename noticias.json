@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Nosso Patrimônio: ministra Anielle Franco e rapper GOG participam de videocast do Iphan",
+      "data": "12/08/2025",
+      "resumo": "12/08/2025 - Em segundo episódio da série, Ministra da Igualdade Racial e artista brasiliense debatem patrimônios negro e indígena no Brasil",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nosso-patrimonio-ministra-anielle-franco-e-rapper-gog-participam-de-videocast-do-iphan/2025_df_brasilia_nossopatrimonio_marianaalves-12-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nosso-patrimonio-ministra-anielle-franco-e-rapper-gog-participam-de-videocast-do-iphan",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan divulga resultado da primeira etapa da vaga reserva da seleção para ampla concorrência",
       "data": "12/08/2025",
       "resumo": "12/08/2025 - O prazo para envio de recursos é até 13 de agosto",
@@ -14,14 +22,6 @@
       "resumo": "12/08/2025 - Candidatos têm até sexta-feira (15/08) para apresentarem recurso administrativo",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/divulgado-resultado-preliminar-do-edital-arqueologia-viva/banner_1150x500.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/divulgado-resultado-preliminar-do-edital-arqueologia-viva",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Prêmio Rodrigo 2025: divulgada lista definitiva de habilitados para a etapa estadual",
-      "data": "12/08/2025",
-      "resumo": "12/08/2025 - Na segunda etapa do concurso, serão selecionadas cinco ações em cada estado",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-divulgada-lista-definitiva-de-habilitados-para-a-etapa-estadual/prmfa25_banner-noticia3-indigena.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-divulgada-lista-definitiva-de-habilitados-para-a-etapa-estadual",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
