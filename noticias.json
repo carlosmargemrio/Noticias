@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan divulga resultado da primeira etapa da vaga reserva da seleção para ampla concorrência",
+      "data": "12/08/2025",
+      "resumo": "12/08/2025 - O prazo para envio de recursos é até 13 de agosto",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-primeira-etapa-da-vaga-reserva-da-selecao-para-ampla-concorrencia/7f7f5993a30c4884adc35db8f4c6a911.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-primeira-etapa-da-vaga-reserva-da-selecao-para-ampla-concorrencia",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Divulgado resultado preliminar do Edital Arqueologia Viva",
       "data": "12/08/2025",
       "resumo": "12/08/2025 - Candidatos têm até sexta-feira (15/08) para apresentarem recurso administrativo",
@@ -14,14 +22,6 @@
       "resumo": "12/08/2025 - Na segunda etapa do concurso, serão selecionadas cinco ações em cada estado",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-divulgada-lista-definitiva-de-habilitados-para-a-etapa-estadual/prmfa25_banner-noticia3-indigena.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-divulgada-lista-definitiva-de-habilitados-para-a-etapa-estadual",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Parceria entre Iphan e ICMBio mapeia cavernas com relevância arqueológica no Brasil",
-      "data": "12/08/2025",
-      "resumo": "12/08/2025 - Ação conjunta busca identificar e proteger cavidades naturais subterrâneas com valor histórico, cultural ou religioso",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/parceria-entre-iphan-e-icmbio-mapeia-cavernas-com-relevancia-arqueologica-no-brasil/design-sem-nome-57.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/parceria-entre-iphan-e-icmbio-mapeia-cavernas-com-relevancia-arqueologica-no-brasil",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
