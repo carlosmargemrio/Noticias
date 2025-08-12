@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Divulgado resultado preliminar do Edital Arqueologia Viva",
+      "data": "12/08/2025",
+      "resumo": "12/08/2025 - Candidatos têm até sexta-feira (15/08) para apresentarem recurso administrativo",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/divulgado-resultado-preliminar-do-edital-arqueologia-viva/banner_1150x500.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/divulgado-resultado-preliminar-do-edital-arqueologia-viva",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Prêmio Rodrigo 2025: divulgada lista definitiva de habilitados para a etapa estadual",
       "data": "12/08/2025",
       "resumo": "12/08/2025 - Na segunda etapa do concurso, serão selecionadas cinco ações em cada estado",
@@ -14,14 +22,6 @@
       "resumo": "12/08/2025 - Ação conjunta busca identificar e proteger cavidades naturais subterrâneas com valor histórico, cultural ou religioso",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/parceria-entre-iphan-e-icmbio-mapeia-cavernas-com-relevancia-arqueologica-no-brasil/design-sem-nome-57.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/parceria-entre-iphan-e-icmbio-mapeia-cavernas-com-relevancia-arqueologica-no-brasil",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Confira a programação do Mês do Patrimônio no Piauí",
-      "data": "11/08/2025",
-      "resumo": "11/08/2025 - Evento contará com ampla programação na Estação Ferroviária de Teresina",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-secretaria-de-cultura-do-piaui-articulam-parceria-para-celebrar-o-dia-do-patrimonio-em-teresina-1/4f7ffbc5-bc57-4c3e-bd3e-a2b34f8d8dd8.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-secretaria-de-cultura-do-piaui-articulam-parceria-para-celebrar-o-dia-do-patrimonio-em-teresina-1",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
