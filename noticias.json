@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan e Caixa Cultural celebram acordo para realização de atividades culturais",
+      "data": "14/08/2025",
+      "resumo": "14/08/2025 - Acervos de unidade especial do Iphan devem ocupar espaços culturais da Caixa",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-caixa-cultural-celebram-acordo-para-realizacao-de-atividades-culturais/whatsapp-image-2025-08-14-at-09-40-09-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-caixa-cultural-celebram-acordo-para-realizacao-de-atividades-culturais",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Servidora do Iphan lança livro infantil sobre patrimônios de Fernando de Noronha (PE)",
       "data": "12/08/2025",
       "resumo": "12/08/2025 - Obra narra a trajetória de uma lagartixa que, ao explorar o território, vai descobrindo a história do lugar",
@@ -14,14 +22,6 @@
       "resumo": "12/08/2025 - Em segundo episódio da série, ministra da Igualdade Racial e artista brasiliense debatem patrimônios negro e indígena no Brasil",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nosso-patrimonio-ministra-anielle-franco-e-rapper-gog-participam-de-videocast-do-iphan/2025_df_brasilia_nossopatrimonio_marianaalves-12-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nosso-patrimonio-ministra-anielle-franco-e-rapper-gog-participam-de-videocast-do-iphan",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan divulga resultado da primeira etapa da vaga reserva da seleção para ampla concorrência",
-      "data": "12/08/2025",
-      "resumo": "12/08/2025 - O prazo para envio de recursos é até 13 de agosto",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-primeira-etapa-da-vaga-reserva-da-selecao-para-ampla-concorrencia/7f7f5993a30c4884adc35db8f4c6a911.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-primeira-etapa-da-vaga-reserva-da-selecao-para-ampla-concorrencia",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250810180848_3aadc3b3d81787346b64217637fa48367073658d3a135a6ab3f78745a1445c2f.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Agenda da segunda quinzena de agosto oferta três treinamentos",
-      "data": "12/08/2025",
-      "resumo": "12/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial e publicação em acesso aberto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_treinamentos_2_quinzena.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4225-agenda-da-segunda-quinzena-de-agosto-oferta-tres-treinamentos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Contrato da CAPES com editora ASM atende 260 instituições",
-      "data": "31/07/2025",
-      "resumo": "31/07/2025 -\n                Estudantes, pesquisadores e professores terão acesso a nove publicações relacionadas à microbiologia",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Contrato_ASM.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4224-contrato-da-capes-com-editora-asm-atende-260-instituicoes.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos migra para nuvem",
-      "data": "29/07/2025",
-      "resumo": "29/07/2025 -\n                Mudança visa dar maior velocidade do tempo de resposta durante as pesquisas, com foco na segurança e disponibilidade do serviço",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Migrao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4222-portal-de-periodicos-migra-para-nuvem.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
