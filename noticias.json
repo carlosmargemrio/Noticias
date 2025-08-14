@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Sítio Roberto Burle Marx celebra aniversário com programação especial em agosto",
+      "data": "14/08/2025",
+      "resumo": "14/08/2025 - Música, literatura, artes visuais e cursos estão entre as atividades",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-celebra-aniversario-com-programacao-especial-em-agosto/design-sem-nome-58.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-celebra-aniversario-com-programacao-especial-em-agosto",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e Caixa Cultural celebram acordo para realização de atividades culturais",
       "data": "14/08/2025",
       "resumo": "14/08/2025 - Acervos de unidade especial do Iphan devem ocupar espaços culturais da Caixa",
@@ -14,14 +22,6 @@
       "resumo": "12/08/2025 - Obra narra a trajetória de uma lagartixa que, ao explorar o território, vai descobrindo a história do lugar",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/servidora-do-iphan-lanca-livro-infantil-sobre-patrimonios-de-fernando-de-noronha-pe/yyyWhatsAppImage20250811at09.40.432.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/servidora-do-iphan-lanca-livro-infantil-sobre-patrimonios-de-fernando-de-noronha-pe",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Nosso Patrimônio: ministra Anielle Franco e rapper GOG participam de videocast do Iphan",
-      "data": "12/08/2025",
-      "resumo": "12/08/2025 - Em segundo episódio da série, ministra da Igualdade Racial e artista brasiliense debatem patrimônios negro e indígena no Brasil",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nosso-patrimonio-ministra-anielle-franco-e-rapper-gog-participam-de-videocast-do-iphan/2025_df_brasilia_nossopatrimonio_marianaalves-12-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nosso-patrimonio-ministra-anielle-franco-e-rapper-gog-participam-de-videocast-do-iphan",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
