@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove seminário sobre a construção do Parque da Memória Ferroviária, em Recife (PE)",
+      "data": "15/08/2025",
+      "resumo": "15/08/2025 - Evento debateu diretrizes e propostas para a preservação do espaço, que ocupará o Pátio Ferroviário das Cinco Pontas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-seminario-sobre-a-construcao-do-parque-da-memoria-ferroviaria-em-recife-pe/WhatsAppImage20250812at12.22.13xxx.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-seminario-sobre-a-construcao-do-parque-da-memoria-ferroviaria-em-recife-pe",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Estudantes e comunidade gaúcha visitam obras do Memorial do RS",
       "data": "15/08/2025",
       "resumo": "15/08/2025 - Andamento da restauração, que contou com recursos do Iphan, poderá ser conferido pela população no sábado (16) e no domingo (17). Saiba mais informações",
@@ -14,14 +22,6 @@
       "resumo": "15/08/2025 - A pauta faz parte do processo de candidatura dos Teatros da Amazônia ao título de Patrimônio Mundial Cultural",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-secretaria-de-cultura-se-reunem-com-comerciantes-do-entorno-do-teatro-amazonas-am/whatsapp-image-2025-08-15-at-15-50-02-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-secretaria-de-cultura-se-reunem-com-comerciantes-do-entorno-do-teatro-amazonas-am",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Complexo Cultural do Bumba-meu-boi do Maranhão recebe certificado de Patrimônio Cultural Imaterial da Humanidade",
-      "data": "15/08/2025",
-      "resumo": "15/08/2025 - Celebração na Capela de São Pedro, marco das festas juninas na capital maranhense, reuniu Iphan, governos Federal e estadual, além da comunidade boieira",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/complexo-cultural-bumba-meu-boi-do-maranhao-recebe-certificado-de-patrimonio-cultural-imaterial-da-humanidade/whatsapp-image-2025-08-15-at-12-25-53-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/complexo-cultural-bumba-meu-boi-do-maranhao-recebe-certificado-de-patrimonio-cultural-imaterial-da-humanidade",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20191209211216_8994dd6a-30f3-4816-b437-0b1a92e8eeba.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "ACS Publications aborda saúde, clima e IA em treinamentos",
-      "data": "14/08/2025",
-      "resumo": "14/08/2025 -\n                Parceira da CAPES via Portal de Periódicos, editora promoverá sessões nos dias 20 de agosto, 3 de setembro e 19 de novembro",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4226-acs-publications-aborda-saude-clima-e-ia-em-treinamentos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Agenda da segunda quinzena de agosto oferta três treinamentos",
-      "data": "12/08/2025",
-      "resumo": "12/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial e publicação em acesso aberto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_treinamentos_2_quinzena.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4225-agenda-da-segunda-quinzena-de-agosto-oferta-tres-treinamentos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Contrato da CAPES com editora ASM atende 260 instituições",
-      "data": "31/07/2025",
-      "resumo": "31/07/2025 -\n                Estudantes, pesquisadores e professores terão acesso a nove publicações relacionadas à microbiologia",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Contrato_ASM.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4224-contrato-da-capes-com-editora-asm-atende-260-instituicoes.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
