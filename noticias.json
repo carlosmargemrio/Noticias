@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Participação social na gestão do Patrimônio Mundial é tema de dissertação",
+      "data": "15/08/2025",
+      "resumo": "15/08/2025 - Defesa será apresentada nesta segunda-feira (18/8)",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participacao-social-na-gestao-do-patrimonio-mundial-e-tema-de-dissertacao/9814df523afd432a90c3351e611d97ea.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participacao-social-na-gestao-do-patrimonio-mundial-e-tema-de-dissertacao",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Sítio Roberto Burle Marx celebra aniversário com programação especial em agosto",
       "data": "14/08/2025",
       "resumo": "14/08/2025 - Música, literatura, artes visuais e cursos estão entre as atividades",
@@ -14,14 +22,6 @@
       "resumo": "14/08/2025 - Acervos de unidade especial do Iphan devem ocupar espaços culturais da Caixa",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-caixa-cultural-celebram-acordo-para-realizacao-de-atividades-culturais/whatsapp-image-2025-08-14-at-09-40-09-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-caixa-cultural-celebram-acordo-para-realizacao-de-atividades-culturais",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Servidora do Iphan lança livro infantil sobre patrimônios de Fernando de Noronha (PE)",
-      "data": "12/08/2025",
-      "resumo": "12/08/2025 - Obra narra a trajetória de uma lagartixa que, ao explorar o território, vai descobrindo a história do lugar",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/servidora-do-iphan-lanca-livro-infantil-sobre-patrimonios-de-fernando-de-noronha-pe/yyyWhatsAppImage20250811at09.40.432.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/servidora-do-iphan-lanca-livro-infantil-sobre-patrimonios-de-fernando-de-noronha-pe",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20191209211216_8994dd6a-30f3-4816-b437-0b1a92e8eeba.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "ACS Publications aborda saúde, clima e IA em treinamentos",
+      "data": "14/08/2025",
+      "resumo": "14/08/2025 -\n                Parceira da CAPES via Portal de Periódicos, editora promoverá sessões nos dias 20 de agosto, 3 de setembro e 19 de novembro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4226-acs-publications-aborda-saude-clima-e-ia-em-treinamentos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Agenda da segunda quinzena de agosto oferta três treinamentos",
+      "data": "12/08/2025",
+      "resumo": "12/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial e publicação em acesso aberto",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_treinamentos_2_quinzena.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4225-agenda-da-segunda-quinzena-de-agosto-oferta-tres-treinamentos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Contrato da CAPES com editora ASM atende 260 instituições",
+      "data": "31/07/2025",
+      "resumo": "31/07/2025 -\n                Estudantes, pesquisadores e professores terão acesso a nove publicações relacionadas à microbiologia",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Contrato_ASM.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4224-contrato-da-capes-com-editora-asm-atende-260-instituicoes.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
