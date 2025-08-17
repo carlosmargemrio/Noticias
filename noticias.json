@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Luis Fernando Verissimo é internado em Porto Alegre",
+      "data": "",
+      "resumo": "Escritor tem quadro de princípio de pneumonia",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250817140856_74b0eba6-6089-4dbd-81ca-156cbcee5f0c.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Morre Perinho Albuquerque, produtor de “Álibi” e nome marcante da Tropicália, aos 79",
       "data": "",
       "resumo": "Produtor musical foi responsável por obras icônicas da MPB nos anos 1970 e preferiu viver os últimos anos afastado dos holofotes",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250816180816_4a5732eb0fdf96295140814fdeeea48d1c0ee0f60661cb87f6b563bd91f33e9f.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250816180816_d0df25ea5c2a8e640390e4040e7ae45a404d322f3946edce296bf26284a3d621.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Escritor Milton Hatoum é eleito para a Academia Brasileira de Letras",
-      "data": "",
-      "resumo": "Ele vai suceder a Cícero Sandroni, que morreu em junho deste ano",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025081419084_57d1a709-328f-4eae-a393-40df0e6e7350.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "ACS Publications aborda saúde, clima e IA em treinamentos",
+      "data": "14/08/2025",
+      "resumo": "14/08/2025 -\n                Parceira da CAPES via Portal de Periódicos, editora promoverá sessões nos dias 20 de agosto, 3 de setembro e 19 de novembro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4226-acs-publications-aborda-saude-clima-e-ia-em-treinamentos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Agenda da segunda quinzena de agosto oferta três treinamentos",
+      "data": "12/08/2025",
+      "resumo": "12/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial e publicação em acesso aberto",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_treinamentos_2_quinzena.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4225-agenda-da-segunda-quinzena-de-agosto-oferta-tres-treinamentos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Contrato da CAPES com editora ASM atende 260 instituições",
+      "data": "31/07/2025",
+      "resumo": "31/07/2025 -\n                Estudantes, pesquisadores e professores terão acesso a nove publicações relacionadas à microbiologia",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Contrato_ASM.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4224-contrato-da-capes-com-editora-asm-atende-260-instituicoes.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
