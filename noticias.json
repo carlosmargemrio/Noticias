@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove encontro sobre registro da pesca colaborativa com botos",
+      "data": "18/08/2025",
+      "resumo": "18/08/2025 - Em Laguna (SC), pescadores e comunidade receberão devolutiva da pesquisa do Dossiê de Registro do bem cultural",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-sobre-registro-da-pesca-colaborativa-com-botos/0y2a2381-2.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-sobre-registro-da-pesca-colaborativa-com-botos",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan promove seminário sobre a construção do Parque da Memória Ferroviária, em Recife (PE)",
       "data": "15/08/2025",
       "resumo": "15/08/2025 - Evento debateu diretrizes e propostas para a preservação do espaço, que ocupará o Pátio Ferroviário das Cinco Pontas",
@@ -14,14 +22,6 @@
       "resumo": "15/08/2025 - Andamento da restauração, que contou com recursos do Iphan, poderá ser conferido pela população no sábado (16) e no domingo (17). Saiba mais informações",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/estudantes-e-comunidade-gaucha-visitam-obras-do-memorial-do-rs/whatsapp-image-2025-08-15-at-15-39-21-2.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/estudantes-e-comunidade-gaucha-visitam-obras-do-memorial-do-rs",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e Secretaria de Cultura se reúnem com comerciantes do entorno do Teatro Amazonas (AM)",
-      "data": "15/08/2025",
-      "resumo": "15/08/2025 - A pauta faz parte do processo de candidatura dos Teatros da Amazônia ao título de Patrimônio Mundial Cultural",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-secretaria-de-cultura-se-reunem-com-comerciantes-do-entorno-do-teatro-amazonas-am/whatsapp-image-2025-08-15-at-15-50-02-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-secretaria-de-cultura-se-reunem-com-comerciantes-do-entorno-do-teatro-amazonas-am",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250817140856_01b9265f-6535-40eb-a0de-da8c1ce564c3.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "ACS Publications aborda saúde, clima e IA em treinamentos",
+      "data": "14/08/2025",
+      "resumo": "14/08/2025 -\n                Parceira da CAPES via Portal de Periódicos, editora promoverá sessões nos dias 20 de agosto, 3 de setembro e 19 de novembro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4226-acs-publications-aborda-saude-clima-e-ia-em-treinamentos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Agenda da segunda quinzena de agosto oferta três treinamentos",
+      "data": "12/08/2025",
+      "resumo": "12/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial e publicação em acesso aberto",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_treinamentos_2_quinzena.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4225-agenda-da-segunda-quinzena-de-agosto-oferta-tres-treinamentos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Contrato da CAPES com editora ASM atende 260 instituições",
+      "data": "31/07/2025",
+      "resumo": "31/07/2025 -\n                Estudantes, pesquisadores e professores terão acesso a nove publicações relacionadas à microbiologia",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Contrato_ASM.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4224-contrato-da-capes-com-editora-asm-atende-260-instituicoes.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
