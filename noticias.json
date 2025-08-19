@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan e Prefeitura de Mariana (MG) assinam ordem de serviço para restaurar capela",
+      "data": "19/08/2025",
+      "resumo": "19/08/2025 - As obras na Capela de Santana recebem um investimento total de R$ 1,56 milhão pelo Novo PAC e Prefeitura Municipal",
+      "imagem": "",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-prefeitura-de-mariana-mg-assinam-ordem-de-servico-para-restaurar-capela",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan identifica novo sítio arqueológico com gravuras rupestres no Maranhão",
       "data": "19/08/2025",
       "resumo": "19/08/2025 - Descoberta reforça o potencial arqueológico do estado e abre caminho para novas pesquisas científicas",
@@ -14,14 +22,6 @@
       "resumo": "19/08/2025 - A Instrução técnica de registro da celebração como patrimônio cultural imaterial foi entregue ao Instituto diante do atual reitor do Santuário do Rocio",
       "imagem": "",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/parana-processo-de-registro-da-festa-de-nossa-senhora-do-rocio-avanca-no-iphan",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan realiza “Ocupa Estação” em Teresina",
-      "data": "19/08/2025",
-      "resumo": "19/08/2025 - Evento celebrou cultura, memória e sustentabilidade na Estação Ferroviária da capital piauiense",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-201cocupa-estacao201d-em-no-piaui/estacao.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-201cocupa-estacao201d-em-no-piaui",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
