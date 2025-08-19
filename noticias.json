@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan identifica novo sítio arqueológico com gravuras rupestres no Maranhão",
+      "data": "19/08/2025",
+      "resumo": "19/08/2025 - Descoberta reforça o potencial arqueológico do estado e abre caminho para novas pesquisas científicas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-identifica-novo-sitio-arqueologico-com-gravuras-rupestres-no-maranhao-8/whatsapp-image-2025-08-18-at-17-21-23-3.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-identifica-novo-sitio-arqueologico-com-gravuras-rupestres-no-maranhao-8",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan realiza “Ocupa Estação” em Teresina",
       "data": "19/08/2025",
       "resumo": "19/08/2025 - Evento celebrou cultura, memória e sustentabilidade na Estação Ferroviária da capital piauiense",
@@ -14,14 +22,6 @@
       "resumo": "18/08/2025 - Atividade integrou o calendário do Mês do Patrimônio Cultural",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-de-educacao-patrimonial-para-professores-da-rede-publica-em-vitoria-es/WhatsAppImage20250818at14.04.4822.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-de-educacao-patrimonial-para-professores-da-rede-publica-em-vitoria-es",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan promove encontro sobre registro da pesca colaborativa com botos",
-      "data": "18/08/2025",
-      "resumo": "18/08/2025 - Em Laguna (SC), pescadores e comunidade receberão devolutiva da pesquisa do Dossiê de Registro do bem cultural",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-sobre-registro-da-pesca-colaborativa-com-botos/0y2a2381-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-sobre-registro-da-pesca-colaborativa-com-botos",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
