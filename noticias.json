@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan retomará atendimentos presenciais no Centro Histórico de Cuiabá (MT)",
+      "data": "20/08/2025",
+      "resumo": "20/08/2025 - O atendimento ao público será realizado a partir do dia 25/08, sempre às segundas-feiras, das 13h30 às 17h",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-retomara-atendimentos-presenciais-no-centro-historico-de-cuiaba-mt/2018_mt_cuiaba_museu-da-imagem-e-do-som_deborah-gouthier-85-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-retomara-atendimentos-presenciais-no-centro-historico-de-cuiaba-mt",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Educação patrimonial, música e cultura afro-brasileira marcam o “Mês do Patrimônio” no RJ",
       "data": "20/08/2025",
       "resumo": "20/08/2025 - Programação integrou uma agenda nacional promovida pelo Iphan",
@@ -14,14 +22,6 @@
       "resumo": "19/08/2025 - As obras na Capela de Santana recebem um investimento total de R$ 1,56 milhão pelo Novo PAC e Prefeitura Municipal",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-prefeitura-de-mariana-mg-assinam-ordem-de-servico-para-restaurar-capela/banner-marina_ana-maria-martins-da-costa-consultora-unesco.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-prefeitura-de-mariana-mg-assinam-ordem-de-servico-para-restaurar-capela",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan identifica novo sítio arqueológico com gravuras rupestres no Maranhão",
-      "data": "19/08/2025",
-      "resumo": "19/08/2025 - Descoberta reforça o potencial arqueológico do estado e abre caminho para novas pesquisas científicas",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-identifica-novo-sitio-arqueologico-com-gravuras-rupestres-no-maranhao-8/whatsapp-image-2025-08-18-at-17-21-23-3.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-identifica-novo-sitio-arqueologico-com-gravuras-rupestres-no-maranhao-8",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
