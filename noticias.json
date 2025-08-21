@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan divulga o resultado final para a vaga reserva da seleção para ampla concorrência",
+      "data": "21/08/2025",
+      "resumo": "21/08/2025 - A vaga reserva na Superintendência do Iphan no Maranhão não foi preenchida",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-o-resultado-final-para-a-vaga-reserva-da-selecao-para-ampla-concorrencia-mestrado-profissional/2fbcb72e01674d14a93e6f11ddf2506d.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-o-resultado-final-para-a-vaga-reserva-da-selecao-para-ampla-concorrencia-mestrado-profissional",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Nosso Patrimônio: ministra Margareth Menezes e diretor do Iphan conversam sobre vida em cidades patrimônios",
       "data": "21/08/2025",
       "resumo": "21/08/2025 - No podcast do Iphan os convidados debatem sobre a importância da relação de pertencimento e cuidado da população com os bens culturais",
@@ -14,14 +22,6 @@
       "resumo": "20/08/2025 - O atendimento ao público será realizado a partir do dia 25/08, sempre às segundas-feiras, das 13h30 às 17h",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-retomara-atendimentos-presenciais-no-centro-historico-de-cuiaba-mt/2018_mt_cuiaba_museu-da-imagem-e-do-som_deborah-gouthier-85-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-retomara-atendimentos-presenciais-no-centro-historico-de-cuiaba-mt",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Educação patrimonial, música e cultura afro-brasileira marcam o “Mês do Patrimônio” no RJ",
-      "data": "20/08/2025",
-      "resumo": "20/08/2025 - Programação integrou uma agenda nacional promovida pelo Iphan",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/educacao-patrimonial-musica-e-cultura-afro-brasileira-marcam-o-201cmes-do-patrimonio201d-no-rj/2DV5A9354copiar2.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/educacao-patrimonial-musica-e-cultura-afro-brasileira-marcam-o-201cmes-do-patrimonio201d-no-rj",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
