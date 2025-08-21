@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Capoeira no Rio Grande do Norte ganha Plano de Salvaguarda",
+      "data": "21/08/2025",
+      "resumo": "21/08/2025 - O documento define os objetivos e planejamento de ações a serem desenvolvidas para proteção do bem",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/capoeira-no-rio-grande-do-norte-ganha-plano-de-salvaguarda/fd-353-202-tradicional-roda-de-capoeira-na-praca-da-se-no-municipio-do-crato-regiao-do-cariri-ceara-05-08-2022-foto-jean-souza-dos-anjos-acervo-cnfcp-iphan-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/capoeira-no-rio-grande-do-norte-ganha-plano-de-salvaguarda",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan divulga resultado da primeira etapa dos editais de servidores para o mestrado",
       "data": "21/08/2025",
       "resumo": "21/08/2025 - Os aprovados seguem para a segunda fase",
@@ -14,14 +22,6 @@
       "resumo": "21/08/2025 - A vaga reserva na Superintendência do Iphan no Maranhão não foi preenchida",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-o-resultado-final-para-a-vaga-reserva-da-selecao-para-ampla-concorrencia-mestrado-profissional/2fbcb72e01674d14a93e6f11ddf2506d.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-o-resultado-final-para-a-vaga-reserva-da-selecao-para-ampla-concorrencia-mestrado-profissional",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Nosso Patrimônio: ministra Margareth Menezes e diretor do Iphan conversam sobre vida em cidades patrimônios",
-      "data": "21/08/2025",
-      "resumo": "21/08/2025 - No podcast do Iphan os convidados debatem sobre a importância da relação de pertencimento e cuidado da população com os bens culturais",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nosso-patrimonio-ministra-margareth-menezes-e-diretor-do-iphan-conversam-sobre-vida-em-cidades-patrimonios/design-sem-nome-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nosso-patrimonio-ministra-margareth-menezes-e-diretor-do-iphan-conversam-sobre-vida-em-cidades-patrimonios",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
