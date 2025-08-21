@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Documentário sobre o Parque Nacional da Serra da Capivara estreia hoje",
+      "data": "21/08/2025",
+      "resumo": "21/08/2025 - Episódio da série DOC.SGB, produzida pelo Serviço Geológico do Brasil (SGB), aborda curiosidades sobre o local tombado pelo Iphan",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/documentario-sobre-o-parque-nacional-da-serra-da-capivara-estreia-hoje/51345209362_824f9c3b71_b-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/documentario-sobre-o-parque-nacional-da-serra-da-capivara-estreia-hoje",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Capoeira no Rio Grande do Norte ganha Plano de Salvaguarda",
       "data": "21/08/2025",
       "resumo": "21/08/2025 - O documento define os objetivos e planejamento de ações a serem desenvolvidas para proteção do bem",
@@ -14,14 +22,6 @@
       "resumo": "21/08/2025 - Os aprovados seguem para a segunda fase",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-primeira-etapa-dos-editais-de-servidores-para-o-mestrado/2fbcb72e01674d14a93e6f11ddf2506d.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-primeira-etapa-dos-editais-de-servidores-para-o-mestrado",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan divulga o resultado final para a vaga reserva da seleção para ampla concorrência",
-      "data": "21/08/2025",
-      "resumo": "21/08/2025 - A vaga reserva na Superintendência do Iphan no Maranhão não foi preenchida",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-o-resultado-final-para-a-vaga-reserva-da-selecao-para-ampla-concorrencia-mestrado-profissional/2fbcb72e01674d14a93e6f11ddf2506d.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-o-resultado-final-para-a-vaga-reserva-da-selecao-para-ampla-concorrencia-mestrado-profissional",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
