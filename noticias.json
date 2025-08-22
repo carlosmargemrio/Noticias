@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan prorroga prazo para participação em consulta sobre normas de preservação no Bairro da Luz (SP)",
+      "data": "22/08/2025",
+      "resumo": "22/08/2025 - Sociedade terá até 5 de setembro para contribuir com diretrizes de preservação do entorno de bens tombados",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-prorroga-prazo-para-participacao-em-consulta-sobre-normas-de-preservacao-no-bairro-da-luz-sp/design-sem-nome-60.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-prorroga-prazo-para-participacao-em-consulta-sobre-normas-de-preservacao-no-bairro-da-luz-sp",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Documentário sobre o Parque Nacional da Serra da Capivara estreia hoje",
       "data": "21/08/2025",
       "resumo": "21/08/2025 - Episódio da série DOC.SGB, produzida pelo Serviço Geológico do Brasil (SGB), aborda curiosidades sobre o local tombado pelo Iphan",
@@ -14,14 +22,6 @@
       "resumo": "21/08/2025 - O documento define os objetivos e planejamento de ações a serem desenvolvidas para proteção do bem",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/capoeira-no-rio-grande-do-norte-ganha-plano-de-salvaguarda/fd-353-202-tradicional-roda-de-capoeira-na-praca-da-se-no-municipio-do-crato-regiao-do-cariri-ceara-05-08-2022-foto-jean-souza-dos-anjos-acervo-cnfcp-iphan-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/capoeira-no-rio-grande-do-norte-ganha-plano-de-salvaguarda",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan divulga resultado da primeira etapa dos editais de servidores para o mestrado",
-      "data": "21/08/2025",
-      "resumo": "21/08/2025 - Os aprovados seguem para a segunda fase",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-primeira-etapa-dos-editais-de-servidores-para-o-mestrado/2fbcb72e01674d14a93e6f11ddf2506d.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-primeira-etapa-dos-editais-de-servidores-para-o-mestrado",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
