@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Estéticas das Periferias celebra 15 anos e transforma batalhas em arte e resistência",
+      "data": "",
+      "resumo": "Mostra reúne MCs, poetas, dançarinos e coletivos de todo o Brasil em São Paulo e homenageia a potência criativa e a resiliência das quebradas",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250822080832_63115a80-1d10-4a04-ad33-3b6e343d1d17.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Semana do Cinema 2025 terá ingressos a R$ 10 entre 28 de agosto e 3 de setembro",
       "data": "",
       "resumo": "Ação nacional vale para sessões em todos os horários, com exceção de pré-estreias e especiais, e inclui combos com desconto; compra é pela Ingresso.com",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2020112608118_3da68863398eb91c7dfb2b89c207369ed82d6426d3200e2146ec00fe75216707.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2020112608118_e82832339284705cdf73b8140f516227f6960bbfcfc0e49baf8bb18193d5ad96.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Exposição de Ricardo Stuckert celebra povos indígenas no STJ",
-      "data": "",
-      "resumo": "Exposição de Ricardo Stuckert celebra povos indígenas no STJ",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025081813080_f2d2c698537ba3385264b4d80554e9f7c352733e5f2298ccde9aadc9061399bd.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "ACS promove curso de comunicação científica na Amazônia Legal",
+      "data": "20/08/2025",
+      "resumo": "20/08/2025 -\n                CAPES, UFPA e UFRA ajudaram editora na idealização do projeto, voltado para as instituições de ensino e pesquisa situadas na região",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Amazonia.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4227-acs-promove-curso-de-comunicacao-cientifica-na-amazonia-legal.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "ACS Publications aborda saúde, clima e IA em treinamentos",
+      "data": "14/08/2025",
+      "resumo": "14/08/2025 -\n                Parceira da CAPES via Portal de Periódicos, editora promoverá sessões nos dias 20 de agosto, 3 de setembro e 19 de novembro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4226-acs-publications-aborda-saude-clima-e-ia-em-treinamentos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Agenda da segunda quinzena de agosto oferta três treinamentos",
+      "data": "12/08/2025",
+      "resumo": "12/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial e publicação em acesso aberto",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_treinamentos_2_quinzena.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4225-agenda-da-segunda-quinzena-de-agosto-oferta-tres-treinamentos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
