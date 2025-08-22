@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan realiza oficina sobre registro do Beiradão como patrimônio cultural do Brasil",
+      "data": "22/08/2025",
+      "resumo": "22/08/2025 - Manifestação cultural típica da Amazônia reúne música, dança e modos de sociabilidade",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-oficina-sobre-registro-do-beiradao-como-patrimonio-cultural-do-brasil/whatsapp-image-2025-08-21-at-10-59-51-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-oficina-sobre-registro-do-beiradao-como-patrimonio-cultural-do-brasil",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan inicia restauração do Casarão Margarida Fonseca em Jaraguá (GO)",
       "data": "22/08/2025",
       "resumo": "22/08/2025 - Obra também prevê a construção de reserva técnica e laboratório de arqueologia, fortalecendo a preservação da memória local",
@@ -14,14 +22,6 @@
       "resumo": "22/08/2025 - Sociedade terá até 5 de setembro para contribuir com diretrizes de preservação do entorno de bens tombados",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-prorroga-prazo-para-participacao-em-consulta-sobre-normas-de-preservacao-no-bairro-da-luz-sp/design-sem-nome-60.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-prorroga-prazo-para-participacao-em-consulta-sobre-normas-de-preservacao-no-bairro-da-luz-sp",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Documentário sobre o Parque Nacional da Serra da Capivara estreia hoje",
-      "data": "21/08/2025",
-      "resumo": "21/08/2025 - Episódio da série DOC.SGB, produzida pelo Serviço Geológico do Brasil (SGB), aborda curiosidades sobre o local tombado pelo Iphan",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/documentario-sobre-o-parque-nacional-da-serra-da-capivara-estreia-hoje/51345209362_824f9c3b71_b-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/documentario-sobre-o-parque-nacional-da-serra-da-capivara-estreia-hoje",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
