@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Servidores do Iphan participam de capacitação sobre procedimentos de fiscalização do patrimônio edificado",
+      "data": "22/08/2025",
+      "resumo": "22/08/2025 - A Portaria Iphan nº 187/2010 foi o foco do encontro, que reuniu 67 participantes",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/servidores-do-iphan-participam-de-capacitacao-sobre-procedimentos-de-fiscalizacao-do-patrimonio-edificado/design-sem-nome-62.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/servidores-do-iphan-participam-de-capacitacao-sobre-procedimentos-de-fiscalizacao-do-patrimonio-edificado",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan realiza oficina sobre registro do Beiradão como patrimônio cultural do Brasil",
       "data": "22/08/2025",
       "resumo": "22/08/2025 - Manifestação cultural típica da Amazônia reúne música, dança e modos de sociabilidade",
@@ -14,14 +22,6 @@
       "resumo": "22/08/2025 - Obra também prevê a construção de reserva técnica e laboratório de arqueologia, fortalecendo a preservação da memória local",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-restauracao-do-casarao-margarida-fonseca-em-jaragua-go/design-sem-nome-61.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-restauracao-do-casarao-margarida-fonseca-em-jaragua-go",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan prorroga prazo para participação em consulta sobre normas de preservação no Bairro da Luz (SP)",
-      "data": "22/08/2025",
-      "resumo": "22/08/2025 - Sociedade terá até 5 de setembro para contribuir com diretrizes de preservação do entorno de bens tombados",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-prorroga-prazo-para-participacao-em-consulta-sobre-normas-de-preservacao-no-bairro-da-luz-sp/design-sem-nome-60.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-prorroga-prazo-para-participacao-em-consulta-sobre-normas-de-preservacao-no-bairro-da-luz-sp",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20230805110824_d1b85f11fd8dce917b1ae1625395d5bed7fa005ef3991342c2c5d9998fa3a73c.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "ACS promove curso de comunicação científica na Amazônia Legal",
-      "data": "20/08/2025",
-      "resumo": "20/08/2025 -\n                CAPES, UFPA e UFRA ajudaram editora na idealização do projeto, voltado para as instituições de ensino e pesquisa situadas na região",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Amazonia.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4227-acs-promove-curso-de-comunicacao-cientifica-na-amazonia-legal.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "ACS Publications aborda saúde, clima e IA em treinamentos",
-      "data": "14/08/2025",
-      "resumo": "14/08/2025 -\n                Parceira da CAPES via Portal de Periódicos, editora promoverá sessões nos dias 20 de agosto, 3 de setembro e 19 de novembro",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4226-acs-publications-aborda-saude-clima-e-ia-em-treinamentos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Agenda da segunda quinzena de agosto oferta três treinamentos",
-      "data": "12/08/2025",
-      "resumo": "12/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial e publicação em acesso aberto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_treinamentos_2_quinzena.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4225-agenda-da-segunda-quinzena-de-agosto-oferta-tres-treinamentos.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
