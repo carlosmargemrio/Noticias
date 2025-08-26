@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Sete em cada dez brasileiros das classes A, B e C consomem algum streaming de vídeo",
+      "data": "",
+      "resumo": "72% usam plataformas de vídeo, diz pesquisa Nexus",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220420110448_9331c96f-ccac-4be1-8317-71d6ca42e82e.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Morre Jaguar, cartunista fundador de “O Pasquim”, aos 93 anos",
       "data": "",
       "resumo": "O artista estava internado no hospital Copa D’Or, onde tratava de uma pneumonia",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250824150856_c8855c57000c49460b26ad409bedde1392f1c3aaa5982695d3a18d8fb7e196dd.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250824150856_fb77c212bb17d5620b381abccbb51a964c4082e0a983118b3478bd34dbfd52e5.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Secretário do MinC defende regulamentação de streaming e IA: \"é prioridade\"",
-      "data": "",
-      "resumo": "Márcio Tavares destaca cotas para produções nacionais, transparência em algoritmos e proteção a criadores como pontos para garantir a soberania cultural",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250822180840_bfa0752849fbca8e2f6d8dd360468f1d318cb2d3af6a887190e80e0feaad8579.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Cinco treinamentos estão na agenda da 1ª quinzena de setembro",
+      "data": "26/08/2025",
+      "resumo": "26/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como retratação na ciência, publicação em acesso aberto e Orcid",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4228-cinco-treinamentos-estao-na-agenda-da-1-quinzena-de-setembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "ACS promove curso de comunicação científica na Amazônia Legal",
+      "data": "20/08/2025",
+      "resumo": "20/08/2025 -\n                CAPES, UFPA e UFRA ajudaram editora na idealização do projeto, voltado para as instituições de ensino e pesquisa situadas na região",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Amazonia.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4227-acs-promove-curso-de-comunicacao-cientifica-na-amazonia-legal.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "ACS Publications aborda saúde, clima e IA em treinamentos",
+      "data": "14/08/2025",
+      "resumo": "14/08/2025 -\n                Parceira da CAPES via Portal de Periódicos, editora promoverá sessões nos dias 20 de agosto, 3 de setembro e 19 de novembro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4226-acs-publications-aborda-saude-clima-e-ia-em-treinamentos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
