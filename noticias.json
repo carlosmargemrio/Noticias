@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove Encontro do GT de Obras Raras em lives no YouTube",
+      "data": "27/08/2025",
+      "resumo": "27/08/2025 - Evento é aberto ao público e será nos dias 28 e 29 de agosto e 4 e 5 de setembro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-do-gt-de-obras-raras-em-lives-no-youtube/bibliotecasiphan_gt-obras-raras_telaespera-2.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-do-gt-de-obras-raras-em-lives-no-youtube",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Nosso Patrimônio: ministra Marina Silva e atriz Maria Paula Fidalgo fecham temporada de videocast do Iphan",
       "data": "27/08/2025",
       "resumo": "27/08/2025 - Em último episódio da série, Marina defende que licenciamento deve servir à proteção do patrimônio cultural e do meio ambiente: \"Leis são extremamente necessárias\"",
@@ -14,14 +22,6 @@
       "resumo": "27/08/2025 - Defesa acontece nesta sexta-feira (29/8), às 9h",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/protecao-do-patrimonio-arqueologico-no-planejamento-urbano-e-tema-de-dissertacao/copy_of_1c2ac5cfddc04b179f57afecece38437.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/protecao-do-patrimonio-arqueologico-no-planejamento-urbano-e-tema-de-dissertacao",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan entrega certificados de Patrimônio Cultural Brasileiro aos bois-bumbá de Manaus",
-      "data": "26/08/2025",
-      "resumo": "26/08/2025 - Reconhecimento fez parte das celebrações do Mês do Patrimônio no Amazonas",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-certificados-de-patrimonio-cultural-brasileiro-aos-bois-bumba-de-manaus/WhatsAppImage20250826at16.50.40.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-certificados-de-patrimonio-cultural-brasileiro-aos-bois-bumba-de-manaus",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025082411080_a168b2db7fe08cde7c121a4ba58ac7c5b4c5abbfbd14666626db1e79000bcf4f.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Cinco treinamentos estão na agenda da 1ª quinzena de setembro",
-      "data": "26/08/2025",
-      "resumo": "26/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como retratação na ciência, publicação em acesso aberto e Orcid",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4228-cinco-treinamentos-estao-na-agenda-da-1-quinzena-de-setembro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "ACS promove curso de comunicação científica na Amazônia Legal",
-      "data": "20/08/2025",
-      "resumo": "20/08/2025 -\n                CAPES, UFPA e UFRA ajudaram editora na idealização do projeto, voltado para as instituições de ensino e pesquisa situadas na região",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Amazonia.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4227-acs-promove-curso-de-comunicacao-cientifica-na-amazonia-legal.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "ACS Publications aborda saúde, clima e IA em treinamentos",
-      "data": "14/08/2025",
-      "resumo": "14/08/2025 -\n                Parceira da CAPES via Portal de Periódicos, editora promoverá sessões nos dias 20 de agosto, 3 de setembro e 19 de novembro",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4226-acs-publications-aborda-saude-clima-e-ia-em-treinamentos.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
