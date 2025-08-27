@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Corumbá sedia Seminário de Patrimônio Cultural de Mato Grosso do Sul",
+      "data": "27/08/2025",
+      "resumo": "27/08/2025 - O evento terá palestras e visitas guiadas a museus, igrejas e casarões históricos de Corumbá",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/corumba-sedia-seminario-de-patrimonio-cultural-de-mato-grosso-do-sul/banner-corumba.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/corumba-sedia-seminario-de-patrimonio-cultural-de-mato-grosso-do-sul",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan promove Encontro do GT de Obras Raras em lives no YouTube",
       "data": "27/08/2025",
       "resumo": "27/08/2025 - Evento é aberto ao público e será nos dias 28 e 29 de agosto e 4 e 5 de setembro",
@@ -14,14 +22,6 @@
       "resumo": "27/08/2025 - Em último episódio da série, Marina defende que licenciamento deve servir à proteção do patrimônio cultural e do meio ambiente: \"Leis são extremamente necessárias\"",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nosso-patrimonio-ministra-marina-silva-e-atriz-maria-paula-fidalgo-fecham-temporada-de-videocast-do-iphan/2025_df_brasilia_nossopatrimonio2_marianaalves-25-2.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nosso-patrimonio-ministra-marina-silva-e-atriz-maria-paula-fidalgo-fecham-temporada-de-videocast-do-iphan",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Proteção do patrimônio arqueológico no planejamento urbano é tema de dissertação",
-      "data": "27/08/2025",
-      "resumo": "27/08/2025 - Defesa acontece nesta sexta-feira (29/8), às 9h",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/protecao-do-patrimonio-arqueologico-no-planejamento-urbano-e-tema-de-dissertacao/copy_of_1c2ac5cfddc04b179f57afecece38437.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/protecao-do-patrimonio-arqueologico-no-planejamento-urbano-e-tema-de-dissertacao",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
