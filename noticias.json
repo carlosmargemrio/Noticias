@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan faz roda de conversa com tema do Prêmio Rodrigo 2025, em Ceilândia",
+      "data": "28/08/2025",
+      "resumo": "28/08/2025 - Ação é uma parceria com o Programa Jovem de Expressão e o grupo de pesquisa Capital e Periferia da UnB",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-faz-roda-de-conversa-com-tema-do-premio-rodrigo-2025-em-ceilandia/rodaconversa_alemdoeixo-1-1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-faz-roda-de-conversa-com-tema-do-premio-rodrigo-2025-em-ceilandia",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Retificada a lista de classificados na primeira etapa do edital para servidores externos, após fase recursal",
       "data": "28/08/2025",
       "resumo": "28/08/2025 - Candidatos seguem para a prova em unidades no Iphan",
@@ -14,14 +22,6 @@
       "resumo": "27/08/2025 - O evento terá palestras e visitas guiadas a museus, igrejas e casarões históricos de Corumbá",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/corumba-sedia-seminario-de-patrimonio-cultural-de-mato-grosso-do-sul/banner-corumba.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/corumba-sedia-seminario-de-patrimonio-cultural-de-mato-grosso-do-sul",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan promove Encontro do GT de Obras Raras em lives no YouTube",
-      "data": "27/08/2025",
-      "resumo": "27/08/2025 - Evento é aberto ao público e será nos dias 28 e 29 de agosto e 4 e 5 de setembro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-do-gt-de-obras-raras-em-lives-no-youtube/bibliotecasiphan_gt-obras-raras_telaespera-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-do-gt-de-obras-raras-em-lives-no-youtube",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
