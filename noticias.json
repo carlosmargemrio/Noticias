@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Divulgado resultado final do Edital Arqueologia Viva",
+      "data": "28/08/2025",
+      "resumo": "28/08/2025 - Doze propostas foram selecionadas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/divulgado-resultado-final-do-edital-arqueologia-viva-1/cfec1b03-01ee-4c81-84a4-6c7a283e92b0.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/divulgado-resultado-final-do-edital-arqueologia-viva-1",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan faz roda de conversa com tema do Prêmio Rodrigo 2025, em Ceilândia",
       "data": "28/08/2025",
       "resumo": "28/08/2025 - Ação é uma parceria com o Programa Jovem de Expressão e o grupo de pesquisa Capital e Periferia da UnB",
@@ -14,14 +22,6 @@
       "resumo": "28/08/2025 - Candidatos seguem para a prova em unidades no Iphan",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/retificada-a-lista-de-classificados-na-primeira-etapa-do-edital-para-servidores-externos-apos-fase-recursal/1c2ac5cfddc04b179f57afecece38437.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/retificada-a-lista-de-classificados-na-primeira-etapa-do-edital-para-servidores-externos-apos-fase-recursal",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Corumbá sedia Seminário de Patrimônio Cultural de Mato Grosso do Sul",
-      "data": "27/08/2025",
-      "resumo": "27/08/2025 - O evento terá palestras e visitas guiadas a museus, igrejas e casarões históricos de Corumbá",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/corumba-sedia-seminario-de-patrimonio-cultural-de-mato-grosso-do-sul/banner-corumba.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/corumba-sedia-seminario-de-patrimonio-cultural-de-mato-grosso-do-sul",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220420110448_764e2867-674f-4655-b78f-b43cd40d5114.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Cinco treinamentos estão na agenda da 1ª quinzena de setembro",
+      "data": "26/08/2025",
+      "resumo": "26/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como retratação na ciência, publicação em acesso aberto e Orcid",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4228-cinco-treinamentos-estao-na-agenda-da-1-quinzena-de-setembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "ACS promove curso de comunicação científica na Amazônia Legal",
+      "data": "20/08/2025",
+      "resumo": "20/08/2025 -\n                CAPES, UFPA e UFRA ajudaram editora na idealização do projeto, voltado para as instituições de ensino e pesquisa situadas na região",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Amazonia.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4227-acs-promove-curso-de-comunicacao-cientifica-na-amazonia-legal.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "ACS Publications aborda saúde, clima e IA em treinamentos",
+      "data": "14/08/2025",
+      "resumo": "14/08/2025 -\n                Parceira da CAPES via Portal de Periódicos, editora promoverá sessões nos dias 20 de agosto, 3 de setembro e 19 de novembro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4226-acs-publications-aborda-saude-clima-e-ia-em-treinamentos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
