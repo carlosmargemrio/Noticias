@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Centro Lucio Costa promove palestra sobre os limites da ideia de “cultura brasileira”, no RJ",
+      "data": "29/08/2025",
+      "resumo": "29/08/2025 - Atividade inaugura o módulo de aulas do Mestrado Profissional do Iphan",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-lucio-costa-promove-palestra-sobre-os-limites-da-ideia-de-201ccultura-brasileira201d-no-rj/CLC_MestradoProfissional_bannersite.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-lucio-costa-promove-palestra-sobre-os-limites-da-ideia-de-201ccultura-brasileira201d-no-rj",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e Obec: primeiro relatório de estudo inédito apresenta Pressupostos Teóricos e Revisão da Literatura",
       "data": "28/08/2025",
       "resumo": "28/08/2025 - Documento é produto da Pesquisa Patrimônio Cultural, Economia e Sustentabilidade",
@@ -14,14 +22,6 @@
       "resumo": "28/08/2025 - Doze propostas foram selecionadas",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/divulgado-resultado-final-do-edital-arqueologia-viva-1/cfec1b03-01ee-4c81-84a4-6c7a283e92b0.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/divulgado-resultado-final-do-edital-arqueologia-viva-1",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan faz roda de conversa com tema do Prêmio Rodrigo 2025, em Ceilândia",
-      "data": "28/08/2025",
-      "resumo": "28/08/2025 - Ação é uma parceria com o Programa Jovem de Expressão e o grupo de pesquisa Capital e Periferia da UnB",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-faz-roda-de-conversa-com-tema-do-premio-rodrigo-2025-em-ceilandia/rodaconversa_alemdoeixo-1-1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-faz-roda-de-conversa-com-tema-do-premio-rodrigo-2025-em-ceilandia",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
