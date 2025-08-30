@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Lula lamenta morte de Luis Fernando Veríssimo: \"soube usar a ironia para denunciar a ditadura e o autoritarismo\"",
+      "data": "",
+      "resumo": "Escritor faleceu aos 88 anos e deixa legado de humor, crítica social e defesa da democracia",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250822170824_a9e9d04c-50d6-4c77-8206-ded01c3ee16f.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Hospital divulga causa da morte do escritor Luís Fernando Veríssimo",
       "data": "",
-      "resumo": "Escritor e cronista faleceu na madrugada deste sábadoi, em Porto Alegre (RS)",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250830090824_5d01009d8d1e0f23e1a2a52380ef2dd34607e26a0f24ba5193a363860b8ae1f4.webp?w=3840&q=90",
+      "resumo": "Escritor e cronista faleceu na madrugada deste sábado, em Porto Alegre (RS)",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250830090824_a2b5af6cf760f97c3c32839c7cce5baaf5cf7792934af6fa25431307b34542d1.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Paulo Paim lamenta morte de Luís Fernando Veríssimo: 'humor refinado e um senso político inigualável'",
-      "data": "",
-      "resumo": "Escritor faleceu neste sábado em decorrência de complicações resultantes de uma pneumonia",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2024050714054_7087d98e36d7c0f3dee99e760f4de29550a16855ef2237b6ac6950be0d9d1a0c.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Cinco treinamentos estão na agenda da 1ª quinzena de setembro",
+      "data": "26/08/2025",
+      "resumo": "26/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como retratação na ciência, publicação em acesso aberto e Orcid",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4228-cinco-treinamentos-estao-na-agenda-da-1-quinzena-de-setembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "ACS promove curso de comunicação científica na Amazônia Legal",
+      "data": "20/08/2025",
+      "resumo": "20/08/2025 -\n                CAPES, UFPA e UFRA ajudaram editora na idealização do projeto, voltado para as instituições de ensino e pesquisa situadas na região",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Amazonia.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4227-acs-promove-curso-de-comunicacao-cientifica-na-amazonia-legal.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "ACS Publications aborda saúde, clima e IA em treinamentos",
+      "data": "14/08/2025",
+      "resumo": "14/08/2025 -\n                Parceira da CAPES via Portal de Periódicos, editora promoverá sessões nos dias 20 de agosto, 3 de setembro e 19 de novembro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4226-acs-publications-aborda-saude-clima-e-ia-em-treinamentos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
