@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan conclui segunda etapa de restauração do Parque Cemitério Nossa Senhora da Soledade, em Belém",
+      "data": "01/09/2025",
+      "resumo": "01/09/2025 - Primeiro cemitério histórico tombado pelo Instituto, o Soledade é um marco da memória, da arquitetura e do paisagismo da capital paraense",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-conclui-segunda-etapa-de-restauracao-do-parque-cemiterio-nossa-senhora-da-soledade-em-belem/design-sem-nome-66.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-conclui-segunda-etapa-de-restauracao-do-parque-cemiterio-nossa-senhora-da-soledade-em-belem",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan recebe pedido de registro dos desfiles das escolas de samba da Marquês de Sapucaí como Patrimônio Cultural do Brasil",
       "data": "29/08/2025",
       "resumo": "29/08/2025 - Documento foi entregue por representantes da Liga Independente das Escolas de Samba do Rio de Janeiro",
@@ -14,14 +22,6 @@
       "resumo": "29/08/2025 - Inscrições são gratuitas e já estão abertas",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/seminario-em-goias-discute-gestao-participativa-do-patrimonio-mundial/design-sem-nome-64.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/seminario-em-goias-discute-gestao-participativa-do-patrimonio-mundial",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Casa de Artesanato de Laranjeiras (SE) é reaberta com participação do Iphan",
-      "data": "29/08/2025",
-      "resumo": "29/08/2025 - Espaço reúne artesãos e fortalece a identidade cultural sergipana",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/casa-de-artesanato-de-laranjeiras-se-e-reaberta-com-participacao-do-iphan/whatsapp-image-2025-08-22-at-11-33-43.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/casa-de-artesanato-de-laranjeiras-se-e-reaberta-com-participacao-do-iphan",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
