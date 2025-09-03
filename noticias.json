@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan e CCBB RJ promovem atividades de educação patrimonial",
+      "data": "03/09/2025",
+      "resumo": "03/09/2025 - Programação faz parte de parceria firmada pelas instituições",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ccbb-rj-promovem-atividades-de-educacao-patrimonial/CorpoMoradaFotoMurilo.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ccbb-rj-promovem-atividades-de-educacao-patrimonial",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Nova programação de exposições é inaugurada no Paço Imperial (RJ)",
       "data": "02/09/2025",
       "resumo": "02/09/2025 - Com entrada gratuita, as mostras estarão abertas ao público a partir deste sábado (6/9)",
@@ -14,14 +22,6 @@
       "resumo": "02/09/2025 - Obras de restauro e requalificação foram aprovadas e acompanhadas pela equipe técnica do Iphan",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/museu-vassouras-rj-e-entregue-restaurado-a-populacao/xxxMUSEUVASSOURAS1.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/museu-vassouras-rj-e-entregue-restaurado-a-populacao",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan doa acervo de livros sobre cultura afro-brasileira à União dos Negros do Amapá (UNA)",
-      "data": "02/09/2025",
-      "resumo": "02/09/2025 - Iniciativa reforça compromisso do Instituto com a valorização da memória, identidade e ancestralidade do povo negro no estado",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-doa-acervo-de-livros-sobre-cultura-afro-brasileira-a-uniao-dos-negros-do-amapa-una/img-20250829-wa0052-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-doa-acervo-de-livros-sobre-cultura-afro-brasileira-a-uniao-dos-negros-do-amapa-una",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
