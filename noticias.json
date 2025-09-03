@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Ritual Yaokwa ganha Plano de Salvaguarda",
+      "data": "03/09/2025",
+      "resumo": "03/09/2025 - O documento define os objetivos e planejamento de ações a serem desenvolvidas para proteção do bem cultural",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ritual-yaokwa-ganha-plano-de-salvaguarda/2008_MT_RitualYaokwadopovoindgenaEnawenNaw_FotgrafoDesconhecido122_1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ritual-yaokwa-ganha-plano-de-salvaguarda",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e CCBB RJ promovem atividades de educação patrimonial",
       "data": "03/09/2025",
       "resumo": "03/09/2025 - Programação faz parte de parceria firmada pelas instituições",
@@ -14,14 +22,6 @@
       "resumo": "02/09/2025 - Com entrada gratuita, as mostras estarão abertas ao público a partir deste sábado (6/9)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-programacao-de-exposicoes-e-inaugurada-no-paco-imperial-rj/xxxIMG_67461.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-programacao-de-exposicoes-e-inaugurada-no-paco-imperial-rj",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Museu Vassouras (RJ) é entregue restaurado à população",
-      "data": "02/09/2025",
-      "resumo": "02/09/2025 - Obras de restauro e requalificação foram aprovadas e acompanhadas pela equipe técnica do Iphan",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/museu-vassouras-rj-e-entregue-restaurado-a-populacao/xxxMUSEUVASSOURAS1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/museu-vassouras-rj-e-entregue-restaurado-a-populacao",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250830120852_d060e60f-0853-4155-8444-95bcc0ee610b.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Cinco treinamentos estão na agenda da 1ª quinzena de setembro",
+      "data": "26/08/2025",
+      "resumo": "26/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como retratação na ciência, publicação em acesso aberto e Orcid",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4228-cinco-treinamentos-estao-na-agenda-da-1-quinzena-de-setembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "ACS promove curso de comunicação científica na Amazônia Legal",
+      "data": "20/08/2025",
+      "resumo": "20/08/2025 -\n                CAPES, UFPA e UFRA ajudaram editora na idealização do projeto, voltado para as instituições de ensino e pesquisa situadas na região",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Amazonia.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4227-acs-promove-curso-de-comunicacao-cientifica-na-amazonia-legal.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "ACS Publications aborda saúde, clima e IA em treinamentos",
+      "data": "14/08/2025",
+      "resumo": "14/08/2025 -\n                Parceira da CAPES via Portal de Periódicos, editora promoverá sessões nos dias 20 de agosto, 3 de setembro e 19 de novembro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_chamada_ACS.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4226-acs-publications-aborda-saude-clima-e-ia-em-treinamentos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
