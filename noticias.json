@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Ouro Preto (MG) celebra 45 anos como Patrimônio Mundial da Humanidade",
+      "data": "05/09/2025",
+      "resumo": "05/09/2025 - Cidade histórica mineira preserva legado do barroco e recebe investimentos do Novo PAC",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouro-preto-mg-celebra-45-anos-como-patrimonio-mundial-da-humanidade/dsc_7152-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouro-preto-mg-celebra-45-anos-como-patrimonio-mundial-da-humanidade",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Simpósio celebra 10 anos de programa de pós-graduação em parceria com o Iphan",
       "data": "05/09/2025",
       "resumo": "05/09/2025 - O evento contou com ampla participação de técnicos do Instituto e reuniu professores, pesquisadores, estudantes e profissionais de diferentes áreas",
@@ -14,14 +22,6 @@
       "resumo": "05/09/2025 - Inscrições seguem abertas até o dia 8 de setembro, por meio de formulário on-line",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/professores-de-taguatinga-df-terao-aula-on-line-sobre-educacao-patrimonial/gabriela-pires-207-2.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/professores-de-taguatinga-df-terao-aula-on-line-sobre-educacao-patrimonial",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Bolsa Oficial de Café — Museu do Café tem programação especial de aniversário",
-      "data": "05/09/2025",
-      "resumo": "05/09/2025 - Atividades acontecem nos dias 6 e 7 de setembro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/bolsa-oficial-de-cafe-2014-museu-do-cafe-tem-programacao-especial-de-aniversario/2019_SP_Santos_BolsaOficialdoCaf_Prego_VictorHugoMori1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/bolsa-oficial-de-cafe-2014-museu-do-cafe-tem-programacao-especial-de-aniversario",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
