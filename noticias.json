@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Professores de Taguatinga (DF) terão aula on-line sobre Educação Patrimonial",
+      "data": "05/09/2025",
+      "resumo": "05/09/2025 - Inscrições seguem abertas até o dia 8 de setembro, por meio de formulário on-line",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/professores-de-taguatinga-df-terao-aula-on-line-sobre-educacao-patrimonial/gabriela-pires-207-2.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/professores-de-taguatinga-df-terao-aula-on-line-sobre-educacao-patrimonial",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Bolsa Oficial de Café — Museu do Café tem programação especial de aniversário",
       "data": "05/09/2025",
       "resumo": "05/09/2025 - Atividades acontecem nos dias 6 e 7 de setembro",
@@ -14,14 +22,6 @@
       "resumo": "04/09/2025 - A ação será no sábado (06/09), na sede do Escritório Técnico do Instituto no município, das 9h às 13h",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-de-elaboracao-de-projetos-culturais-em-pirenopolis-go/2010_go_pirenopolis_praca-do-coreto_nubia-selen-3-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-de-elaboracao-de-projetos-culturais-em-pirenopolis-go",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Ritual Yaokwa ganha Plano de Salvaguarda",
-      "data": "03/09/2025",
-      "resumo": "03/09/2025 - O documento define os objetivos e planejamento de ações a serem desenvolvidas para proteção do bem cultural",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ritual-yaokwa-ganha-plano-de-salvaguarda/2008_MT_RitualYaokwadopovoindgenaEnawenNaw_FotgrafoDesconhecido122_1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ritual-yaokwa-ganha-plano-de-salvaguarda",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250904100952_9941cf954972fba16b7295e697c694f078894af3963a5a85e975b2cbd872fc03.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Webinário explica atendimento a pacientes com comorbidades",
+      "data": "04/09/2025",
+      "resumo": "04/09/2025 -\n                No dia 10, diretor clínico do BMJ Group falará sobre tratamento eficaz de sintomas agudos enquanto o médico lida com as outras questões",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_BMJ.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4234-webinario-explica-atendimento-a-pacientes-com-comorbidades.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Cinco treinamentos estão na agenda da 1ª quinzena de setembro",
+      "data": "26/08/2025",
+      "resumo": "26/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como retratação na ciência, publicação em acesso aberto e Orcid",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4228-cinco-treinamentos-estao-na-agenda-da-1-quinzena-de-setembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "ACS promove curso de comunicação científica na Amazônia Legal",
+      "data": "20/08/2025",
+      "resumo": "20/08/2025 -\n                CAPES, UFPA e UFRA ajudaram editora na idealização do projeto, voltado para as instituições de ensino e pesquisa situadas na região",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Amazonia.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4227-acs-promove-curso-de-comunicacao-cientifica-na-amazonia-legal.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
