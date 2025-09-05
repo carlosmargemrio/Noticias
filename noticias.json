@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Simpósio celebra 10 anos de programa de pós-graduação em parceria com o Iphan",
+      "data": "05/09/2025",
+      "resumo": "05/09/2025 - O evento contou com ampla participação de técnicos do Instituto e reuniu professores, pesquisadores, estudantes e profissionais de diferentes áreas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/simposio-celebra-10-anos-de-programa-de-pos-graduacao-em-parceria-com-o-iphan/banner-sjdr.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/simposio-celebra-10-anos-de-programa-de-pos-graduacao-em-parceria-com-o-iphan",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Professores de Taguatinga (DF) terão aula on-line sobre Educação Patrimonial",
       "data": "05/09/2025",
       "resumo": "05/09/2025 - Inscrições seguem abertas até o dia 8 de setembro, por meio de formulário on-line",
@@ -14,14 +22,6 @@
       "resumo": "05/09/2025 - Atividades acontecem nos dias 6 e 7 de setembro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/bolsa-oficial-de-cafe-2014-museu-do-cafe-tem-programacao-especial-de-aniversario/2019_SP_Santos_BolsaOficialdoCaf_Prego_VictorHugoMori1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/bolsa-oficial-de-cafe-2014-museu-do-cafe-tem-programacao-especial-de-aniversario",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan promove oficina de elaboração de projetos culturais em Pirenópolis (GO)",
-      "data": "04/09/2025",
-      "resumo": "04/09/2025 - A ação será no sábado (06/09), na sede do Escritório Técnico do Instituto no município, das 9h às 13h",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-de-elaboracao-de-projetos-culturais-em-pirenopolis-go/2010_go_pirenopolis_praca-do-coreto_nubia-selen-3-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-de-elaboracao-de-projetos-culturais-em-pirenopolis-go",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
