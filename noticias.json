@@ -1,9 +1,17 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Biblioteca Amadeu Amaral reabre no Rio de Janeiro",
+      "data": "08/09/2025",
+      "resumo": "08/09/2025 - Evento é gratuito e contará com lançamento de livro e espetáculo cultural",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/biblioteca-amadeu-amaral-reabre-no-rio-de-janeiro/1000794902-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/biblioteca-amadeu-amaral-reabre-no-rio-de-janeiro",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan avança na construção participativa do Parque da Memória Ferroviária",
       "data": "08/09/2025",
-      "resumo": "08/09/2025 - Segundo seminário consolidou as diretrizes para a elaboração do Plano de Gestão do espaço, que ocupará o Pátio Ferroviário das Cinco Pontas",
+      "resumo": "08/09/2025 - Segundo seminário consolidou as diretrizes para a elaboração do Plano de Gestão do espaço, que ocupará o Pátio Ferroviário das Cinco Pontas, em Recife (PE)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-avanca-na-construcao-participativa-do-parque-da-memoria-ferroviaria/WhatsAppImage20250908at14.43.46.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-avanca-na-construcao-participativa-do-parque-da-memoria-ferroviaria",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Ouro Preto (MG) celebra 45 anos como Patrimônio Mundial da Humanidade",
-      "data": "05/09/2025",
-      "resumo": "05/09/2025 - Cidade histórica mineira preserva legado do barroco e recebe investimentos do Novo PAC",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouro-preto-mg-celebra-45-anos-como-patrimonio-mundial-da-humanidade/dsc_7152-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouro-preto-mg-celebra-45-anos-como-patrimonio-mundial-da-humanidade",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "\"Amor, Meu Grande Amor\": o clássico de Angela Ro Ro",
+      "data": "",
+      "resumo": "Cantora e compositora Angela Ro Ro morreu aos 75 anos no Rio",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250908160952_3b82b03520b1abbeff80040722165b31fa6ad15afa47ce0f915a90a9c5dee2b4.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Morre Angela Ro Ro, ícone da MPB, aos 75 anos no Rio de Janeiro",
       "data": "",
       "resumo": "Cantora morreu no Rio e deixa legado de mais de dez discos e parcerias com nomes como Cazuza e Maria Bethânia",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20200619190612_36818dc0cafdb8263152caff51f5da74f0036099b2ff3c123ff15ff468b5a71d.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20200619190612_63b68c895a4dea8b8b016de0830838f77fe2d205f61385501d4ddbf6be7db1f0.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "No Dia da Independência, Green Day, Bad Religion, Capital Inicial e CPM 22 fizeram discursos contra fascismo, golpismo e desigualdade",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250908070932_a3143ca3aa306259b4174b1cc180348b7f133c5ecd0ad667f05b55368e8bc3b2.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "FLIM 2025 discute fatos, literatura e periferias em domingo de feriado da Independência",
-      "data": "",
-      "resumo": "MV Bill, Aline Midlej, Octavio Guedes e Leoni foram os grandes nomes que passaram pela festa literária para fechar o primeiro fim de semana",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250908060936_51a892dc01ed8f81573b131e943dcce6c0461cd7e3d2f98cad50754cdb236fb0.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
