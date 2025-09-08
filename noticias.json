@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan avança na construção participativa do Parque da Memória Ferroviária",
+      "data": "08/09/2025",
+      "resumo": "08/09/2025 - Segundo seminário consolidou as diretrizes para a elaboração do Plano de Gestão do espaço, que ocupará o Pátio Ferroviário das Cinco Pontas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-avanca-na-construcao-participativa-do-parque-da-memoria-ferroviaria/WhatsAppImage20250908at14.43.46.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-avanca-na-construcao-participativa-do-parque-da-memoria-ferroviaria",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Andanças do Patrimônio: nove estados realizaram escuta durante o mês de agosto",
       "data": "08/09/2025",
       "resumo": "08/09/2025 - Os encontros abordaram desafios e oportunidades para a preservação do patrimônio cultural",
@@ -14,14 +22,6 @@
       "resumo": "05/09/2025 - Cidade histórica mineira preserva legado do barroco e recebe investimentos do Novo PAC",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouro-preto-mg-celebra-45-anos-como-patrimonio-mundial-da-humanidade/dsc_7152-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouro-preto-mg-celebra-45-anos-como-patrimonio-mundial-da-humanidade",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Simpósio celebra 10 anos de programa de pós-graduação em parceria com o Iphan",
-      "data": "05/09/2025",
-      "resumo": "05/09/2025 - O evento contou com ampla participação de técnicos do Instituto e reuniu professores, pesquisadores, estudantes e profissionais de diferentes áreas",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/simposio-celebra-10-anos-de-programa-de-pos-graduacao-em-parceria-com-o-iphan/banner-sjdr.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/simposio-celebra-10-anos-de-programa-de-pos-graduacao-em-parceria-com-o-iphan",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
