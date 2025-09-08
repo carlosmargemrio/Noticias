@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Morre Angela Ro Ro, ícone da MPB, aos 75 anos no Rio de Janeiro",
+      "data": "",
+      "resumo": "Cantora morreu no Rio e deixa legado de mais de dez discos e parcerias com nomes como Cazuza e Maria Bethânia",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20200619190612_36818dc0cafdb8263152caff51f5da74f0036099b2ff3c123ff15ff468b5a71d.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "\"Sem anistia\", \"fascistas\": Artistas transformam palco do The Town em espaço de protesto político",
       "data": "",
       "resumo": "No Dia da Independência, Green Day, Bad Religion, Capital Inicial e CPM 22 fizeram discursos contra fascismo, golpismo e desigualdade",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250908070932_84df3666ed8925e88a207bc02647963a1364ae2723268a725682303e926c2535.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250908070932_a3143ca3aa306259b4174b1cc180348b7f133c5ecd0ad667f05b55368e8bc3b2.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Festa Literária Internacional de Maricá reúne discussões de negritude e show do Nação Zumbi",
-      "data": "",
-      "resumo": "Segundo dia do evento teve a participação, nas mesas, de Renato Noguera, Kiusam de Oliveira e artistas negros locais",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250907140936_fffe902583a19f5cebf09ecb4840b00ccf9b21793fdf0385a0cca902f4b47fac.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Webinário explica atendimento a pacientes com comorbidades",
+      "data": "04/09/2025",
+      "resumo": "04/09/2025 -\n                No dia 10, diretor clínico do BMJ Group falará sobre tratamento eficaz de sintomas agudos enquanto o médico lida com as outras questões",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_BMJ.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4234-webinario-explica-atendimento-a-pacientes-com-comorbidades.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Cinco treinamentos estão na agenda da 1ª quinzena de setembro",
+      "data": "26/08/2025",
+      "resumo": "26/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como retratação na ciência, publicação em acesso aberto e Orcid",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4228-cinco-treinamentos-estao-na-agenda-da-1-quinzena-de-setembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "ACS promove curso de comunicação científica na Amazônia Legal",
+      "data": "20/08/2025",
+      "resumo": "20/08/2025 -\n                CAPES, UFPA e UFRA ajudaram editora na idealização do projeto, voltado para as instituições de ensino e pesquisa situadas na região",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Amazonia.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4227-acs-promove-curso-de-comunicacao-cientifica-na-amazonia-legal.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
