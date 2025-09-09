@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Ouvidoria do Iphan recebe mais de 1,3 mil demandas em 2024 e amplia ações de transparência",
+      "data": "09/09/2025",
+      "resumo": "09/09/2025 - Relatório Institucional mostra aumento de 9,5% no total de manifestações e pedidos de acesso à informação em relação a 2023",
+      "imagem": "",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouvidoria-do-iphan-recebe-mais-de-1-3-mil-demandas-em-2024-e-amplia-acoes-de-transparencia",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Edital para candidaturas ao Programa Memória do Mundo da Unesco está com inscrições abertas",
       "data": "09/09/2025",
       "resumo": "09/09/2025 - Iphan faz parte do comitê de seleção que escolherá duas candidaturas brasileiras a serem enviadas para a avaliação da Unesco",
@@ -14,14 +22,6 @@
       "resumo": "09/09/2025 - Mostra traz 14 obras inéditas do artista e babalorixá Juracy Júnior",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/escritorio-tecnico-do-iphan-em-sao-cristovao-se-recebe-exposicao-afrotextura-2/whatsapp-image-2025-09-09-at-11-17-18-3.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/escritorio-tecnico-do-iphan-em-sao-cristovao-se-recebe-exposicao-afrotextura-2",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan recebe pedido de registro da Jurema Sagrada",
-      "data": "09/09/2025",
-      "resumo": "09/09/2025 - Religião de matriz indígena e afro-brasileira busca reconhecimento nacional",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-pedido-de-registro-da-jurema-sagrada/design-sem-nome-68.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-pedido-de-registro-da-jurema-sagrada",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
