@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Escritório Técnico do Iphan em São Cristóvão (SE) recebe exposição Afrotextura",
+      "data": "09/09/2025",
+      "resumo": "09/09/2025 - Mostra traz 14 obras inéditas do artista e babalorixá Juracy Júnior",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/escritorio-tecnico-do-iphan-em-sao-cristovao-se-recebe-exposicao-afrotextura-2/whatsapp-image-2025-09-09-at-11-17-18-3.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/escritorio-tecnico-do-iphan-em-sao-cristovao-se-recebe-exposicao-afrotextura-2",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan recebe pedido de registro da Jurema Sagrada",
       "data": "09/09/2025",
       "resumo": "09/09/2025 - Religião de matriz indígena e afro-brasileira busca reconhecimento nacional",
@@ -14,14 +22,6 @@
       "resumo": "08/09/2025 - Evento é gratuito e contará com lançamento de livro e espetáculo cultural",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/biblioteca-amadeu-amaral-reabre-no-rio-de-janeiro/1000794902-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/biblioteca-amadeu-amaral-reabre-no-rio-de-janeiro",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan avança na construção participativa do Parque da Memória Ferroviária",
-      "data": "08/09/2025",
-      "resumo": "08/09/2025 - Segundo seminário consolidou as diretrizes para a elaboração do Plano de Gestão do espaço, que ocupará o Pátio Ferroviário das Cinco Pontas, em Recife (PE)",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-avanca-na-construcao-participativa-do-parque-da-memoria-ferroviaria/WhatsAppImage20250908at14.43.46.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-avanca-na-construcao-participativa-do-parque-da-memoria-ferroviaria",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250908070932_a3143ca3aa306259b4174b1cc180348b7f133c5ecd0ad667f05b55368e8bc3b2.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Webinário explica atendimento a pacientes com comorbidades",
+      "data": "04/09/2025",
+      "resumo": "04/09/2025 -\n                No dia 10, diretor clínico do BMJ Group falará sobre tratamento eficaz de sintomas agudos enquanto o médico lida com as outras questões",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_BMJ.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4234-webinario-explica-atendimento-a-pacientes-com-comorbidades.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Cinco treinamentos estão na agenda da 1ª quinzena de setembro",
+      "data": "26/08/2025",
+      "resumo": "26/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como retratação na ciência, publicação em acesso aberto e Orcid",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4228-cinco-treinamentos-estao-na-agenda-da-1-quinzena-de-setembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "ACS promove curso de comunicação científica na Amazônia Legal",
+      "data": "20/08/2025",
+      "resumo": "20/08/2025 -\n                CAPES, UFPA e UFRA ajudaram editora na idealização do projeto, voltado para as instituições de ensino e pesquisa situadas na região",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Amazonia.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4227-acs-promove-curso-de-comunicacao-cientifica-na-amazonia-legal.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
