@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Edital para candidaturas ao Programa Memória do Mundo da Unesco está com inscrições abertas",
+      "data": "09/09/2025",
+      "resumo": "09/09/2025 - Iphan faz parte do comitê de seleção que escolherá duas candidaturas brasileiras a serem enviadas para a avaliação da Unesco",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/edital-para-candidaturas-ao-programa-memoria-do-mundo-da-unesco-esta-com-inscricoes-abertas/memory-of-the-world_hub_triangle-frame-pattern-tumblr-banner-png-jpg.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/edital-para-candidaturas-ao-programa-memoria-do-mundo-da-unesco-esta-com-inscricoes-abertas",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Escritório Técnico do Iphan em São Cristóvão (SE) recebe exposição Afrotextura",
       "data": "09/09/2025",
       "resumo": "09/09/2025 - Mostra traz 14 obras inéditas do artista e babalorixá Juracy Júnior",
@@ -14,14 +22,6 @@
       "resumo": "09/09/2025 - Religião de matriz indígena e afro-brasileira busca reconhecimento nacional",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-pedido-de-registro-da-jurema-sagrada/design-sem-nome-68.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-pedido-de-registro-da-jurema-sagrada",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Biblioteca Amadeu Amaral reabre no Rio de Janeiro",
-      "data": "08/09/2025",
-      "resumo": "08/09/2025 - Evento é gratuito e contará com lançamento de livro e espetáculo cultural",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/biblioteca-amadeu-amaral-reabre-no-rio-de-janeiro/1000794902-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/biblioteca-amadeu-amaral-reabre-no-rio-de-janeiro",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
