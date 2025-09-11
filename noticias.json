@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Oficina de educação patrimonial aproxima comunidade da restauração da Igreja do Bom Jesus de Matosinhos em Ouro Preto",
+      "data": "11/09/2025",
+      "resumo": "11/09/2025 - Promovida pela Prefeitura, atividade apresenta etapas do restauro conduzido pelo Iphan com recursos do Novo PAC",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oficina-de-educacao-patrimonial-aproxima-comunidade-da-restauracao-da-igreja-do-bom-jesus-de-matosinhos-em-ouro-preto-1/2025_mg_ouropreto_igrejabomjesusdematosinhos_marianaalves-74-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oficina-de-educacao-patrimonial-aproxima-comunidade-da-restauracao-da-igreja-do-bom-jesus-de-matosinhos-em-ouro-preto-1",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Prêmio Rodrigo 2025: divulgada lista preliminar de classificados para a etapa nacional",
       "data": "10/09/2025",
       "resumo": "10/09/2025 - Recursos podem ser enviados até o dia 12 de setembro",
@@ -14,14 +22,6 @@
       "resumo": "09/09/2025 - Relatório Institucional mostra aumento de 9,5% no total de manifestações e pedidos de acesso à informação em relação a 2023",
       "imagem": "",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouvidoria-do-iphan-recebe-mais-de-1-3-mil-demandas-em-2024-e-amplia-acoes-de-transparencia",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Edital para candidaturas ao Programa Memória do Mundo da Unesco está com inscrições abertas",
-      "data": "09/09/2025",
-      "resumo": "09/09/2025 - Iphan faz parte do comitê de seleção que escolherá duas candidaturas brasileiras a serem enviadas para a avaliação da Unesco",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/edital-para-candidaturas-ao-programa-memoria-do-mundo-da-unesco-esta-com-inscricoes-abertas/memory-of-the-world_hub_triangle-frame-pattern-tumblr-banner-png-jpg.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/edital-para-candidaturas-ao-programa-memoria-do-mundo-da-unesco-esta-com-inscricoes-abertas",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250908070932_a3143ca3aa306259b4174b1cc180348b7f133c5ecd0ad667f05b55368e8bc3b2.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Webinário explica atendimento a pacientes com comorbidades",
+      "data": "04/09/2025",
+      "resumo": "04/09/2025 -\n                No dia 10, diretor clínico do BMJ Group falará sobre tratamento eficaz de sintomas agudos enquanto o médico lida com as outras questões",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_BMJ.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4234-webinario-explica-atendimento-a-pacientes-com-comorbidades.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Cinco treinamentos estão na agenda da 1ª quinzena de setembro",
+      "data": "26/08/2025",
+      "resumo": "26/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como retratação na ciência, publicação em acesso aberto e Orcid",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4228-cinco-treinamentos-estao-na-agenda-da-1-quinzena-de-setembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "ACS promove curso de comunicação científica na Amazônia Legal",
+      "data": "20/08/2025",
+      "resumo": "20/08/2025 -\n                CAPES, UFPA e UFRA ajudaram editora na idealização do projeto, voltado para as instituições de ensino e pesquisa situadas na região",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Amazonia.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4227-acs-promove-curso-de-comunicacao-cientifica-na-amazonia-legal.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
