@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Rouanet Nordeste registra recorde de propostas sobre patrimônio cultural",
+      "data": "12/09/2025",
+      "resumo": "12/09/2025 - Número histórico de 325 propostas na área consolida trabalho realizado pelo Iphan em parceria com o MinC",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/rouanet-nordeste-registra-recorde-de-propostas-sobre-patrimonio-cultural/51342944506_86f1a76a03_b-2.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/rouanet-nordeste-registra-recorde-de-propostas-sobre-patrimonio-cultural",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Museologia de terreiro é tema de seminário no Rio de Janeiro",
       "data": "11/09/2025",
       "resumo": "11/09/2025 - Evento contou com o lançamento do primeiro mapeamento nacional de museus de terreiros",
@@ -14,14 +22,6 @@
       "resumo": "11/09/2025 - Os recursos podem ser enviados até o dia 12 de setembro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/divulgado-o-resultado-da-segunda-etapa-do-mestrado-profissional-para-servidores-publicos-externos/efee1652f6094cc69972b82aaed46135.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/divulgado-o-resultado-da-segunda-etapa-do-mestrado-profissional-para-servidores-publicos-externos",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Oficina de educação patrimonial aproxima comunidade da restauração da Igreja do Bom Jesus de Matosinhos em Ouro Preto",
-      "data": "11/09/2025",
-      "resumo": "11/09/2025 - Promovida pela Prefeitura, atividade apresenta etapas do restauro conduzido pelo Iphan com recursos do Novo PAC",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oficina-de-educacao-patrimonial-aproxima-comunidade-da-restauracao-da-igreja-do-bom-jesus-de-matosinhos-em-ouro-preto-1/2025_mg_ouropreto_igrejabomjesusdematosinhos_marianaalves-74-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oficina-de-educacao-patrimonial-aproxima-comunidade-da-restauracao-da-igreja-do-bom-jesus-de-matosinhos-em-ouro-preto-1",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250908070932_a3143ca3aa306259b4174b1cc180348b7f133c5ecd0ad667f05b55368e8bc3b2.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Agenda da 2ª quinzena de setembro tem oito treinamentos",
-      "data": "11/09/2025",
-      "resumo": "11/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como Orcid, inteligência artificial e produção científica",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_2025.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4235-agenda-da-2-quinzena-de-setembro-tem-oito-treinamentos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Webinário explica atendimento a pacientes com comorbidades",
-      "data": "04/09/2025",
-      "resumo": "04/09/2025 -\n                No dia 10, diretor clínico do BMJ Group falará sobre tratamento eficaz de sintomas agudos enquanto o médico lida com as outras questões",
-      "imagem": "https://www.periodicos.capes.gov.br/images/matria_BMJ.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4234-webinario-explica-atendimento-a-pacientes-com-comorbidades.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Cinco treinamentos estão na agenda da 1ª quinzena de setembro",
-      "data": "26/08/2025",
-      "resumo": "26/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como retratação na ciência, publicação em acesso aberto e Orcid",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4228-cinco-treinamentos-estao-na-agenda-da-1-quinzena-de-setembro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
