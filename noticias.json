@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Lula lamenta morte de Hermeto Pascoal",
+      "data": "",
+      "resumo": "Presidente destacou a criatividade do multi-instrumentista alagoano e pediu que brasileiros celebrem sua obra",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025091410094_6a489b33c9a3de35a1540123f03f0987e56441e8b487f41d2cb91b76ccb53451.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Hermeto Pascoal, ícone da música brasileira, morre aos 89 anos",
       "data": "",
       "resumo": "Música brasileira perde um de seus maiores gênios, referência mundial em criatividade sonora",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250913210936_b5023847ed91d5cc82018d1031c81579799b447ed099279c54a173b2ef12b2b3.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250913210936_2a39879b09ec5b26c07dcc393172480fa90794a90e02e854a05b5646168d3140.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250913140948_e72571ef975cf7b174221f361990a1539f54e71ed8dcd7e4b9bf17f3c2774b5b.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Movimentos culturais e sociais brasileiros realizam no próximo sábado (20) nova edição do show Mil Guitarras para Víctor Jara",
-      "data": "",
-      "resumo": "O evento é organizado pelo EntreLatinos, Movimento Dandô, MST e editora Expressão Popular, com apoio institucional da Fundación Víctor Jara, do Chile.",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250913080940_bc6fa4df2679416af2facb48373afcb4d606b4d2ab42f5bccfc1bcb700f768c9.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Agenda da 2ª quinzena de setembro tem oito treinamentos",
-      "data": "11/09/2025",
-      "resumo": "11/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como Orcid, inteligência artificial e produção científica",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_2025.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4235-agenda-da-2-quinzena-de-setembro-tem-oito-treinamentos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Webinário explica atendimento a pacientes com comorbidades",
-      "data": "04/09/2025",
-      "resumo": "04/09/2025 -\n                No dia 10, diretor clínico do BMJ Group falará sobre tratamento eficaz de sintomas agudos enquanto o médico lida com as outras questões",
-      "imagem": "https://www.periodicos.capes.gov.br/images/matria_BMJ.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4234-webinario-explica-atendimento-a-pacientes-com-comorbidades.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Cinco treinamentos estão na agenda da 1ª quinzena de setembro",
-      "data": "26/08/2025",
-      "resumo": "26/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como retratação na ciência, publicação em acesso aberto e Orcid",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4228-cinco-treinamentos-estao-na-agenda-da-1-quinzena-de-setembro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
