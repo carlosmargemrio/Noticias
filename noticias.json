@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Cultura afro-brasileira é celebrada em Paris com Lavagem de Madeleine",
+      "data": "",
+      "resumo": "Cortejo reuniu 60 mil pessoas e percorreu 4 quilômetros na capital francesa",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250915070916_32bcf5ecd6b788726522a318a2750f5e80ddd6f167b6449c4f0f8e94d81b6297.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Itamaraty agradece Argentina pela identificação do corpo de Tenório Júnior",
       "data": "",
       "resumo": "Músico brasileiro desapareceu em 1976, em Buenos Aires, durante a Operação Condor",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250913140948_953f37d5cc0fe75c19b0316992732ee0da68b61e7f31844c9353a2457bf1ab16.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250913140948_e72571ef975cf7b174221f361990a1539f54e71ed8dcd7e4b9bf17f3c2774b5b.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Hermeto Pascoal, ícone da música brasileira, morre aos 89 anos",
-      "data": "",
-      "resumo": "Música brasileira perde um de seus maiores gênios, referência mundial em criatividade sonora",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250913210936_2a39879b09ec5b26c07dcc393172480fa90794a90e02e854a05b5646168d3140.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Agenda da 2ª quinzena de setembro tem oito treinamentos",
+      "data": "11/09/2025",
+      "resumo": "11/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como Orcid, inteligência artificial e produção científica",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_2025.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4235-agenda-da-2-quinzena-de-setembro-tem-oito-treinamentos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Webinário explica atendimento a pacientes com comorbidades",
+      "data": "04/09/2025",
+      "resumo": "04/09/2025 -\n                No dia 10, diretor clínico do BMJ Group falará sobre tratamento eficaz de sintomas agudos enquanto o médico lida com as outras questões",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_BMJ.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4234-webinario-explica-atendimento-a-pacientes-com-comorbidades.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Cinco treinamentos estão na agenda da 1ª quinzena de setembro",
+      "data": "26/08/2025",
+      "resumo": "26/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como retratação na ciência, publicação em acesso aberto e Orcid",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4228-cinco-treinamentos-estao-na-agenda-da-1-quinzena-de-setembro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
