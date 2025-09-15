@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Estátua de Preta Gil ao lado do pai, Gilberto Gil, é inaugurada em Copacabana",
+      "data": "",
+      "resumo": "Fãs da artista haviam se mobilizado e pedido que ela também fosse lembrada no espaço",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250915190932_6c68bb21-62e3-45cd-8d1c-55925b666093.webp?w=3840&q=90",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Filme O Agente Secreto será o representante brasileiro no Oscar 2026",
       "data": "",
       "resumo": "Com direção de Kleber Mendonça Filho, filme tem Wagner Moura no elenco",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250915130928_ac858d26ef4e5188bd9f69aae46a0e8b395ccbeac0bc9d6fbd0dd6adb8e24d18.webp?w=3840&q=90",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250915130928_5f01c0770287a7287290b78512c0206a41a6973ba11dd146487fdc7cb16612d0.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20180418100432_44da9a8374b440b1c527d2b7317b2981360b0447aaaa1d739b389d14c98e09f5.webp?w=3840&q=90",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Cultura afro-brasileira é celebrada em Paris com Lavagem de Madeleine",
-      "data": "",
-      "resumo": "Cortejo reuniu 60 mil pessoas e percorreu 4 quilômetros na capital francesa",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250915070916_25e2dfe2496f9545e652afa3f534e142b1ea5fd58fb49caf210b55713760a24c.webp?w=3840&q=90",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Agenda da 2ª quinzena de setembro tem oito treinamentos",
-      "data": "11/09/2025",
-      "resumo": "11/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como Orcid, inteligência artificial e produção científica",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_2025.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4235-agenda-da-2-quinzena-de-setembro-tem-oito-treinamentos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Webinário explica atendimento a pacientes com comorbidades",
-      "data": "04/09/2025",
-      "resumo": "04/09/2025 -\n                No dia 10, diretor clínico do BMJ Group falará sobre tratamento eficaz de sintomas agudos enquanto o médico lida com as outras questões",
-      "imagem": "https://www.periodicos.capes.gov.br/images/matria_BMJ.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4234-webinario-explica-atendimento-a-pacientes-com-comorbidades.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Cinco treinamentos estão na agenda da 1ª quinzena de setembro",
-      "data": "26/08/2025",
-      "resumo": "26/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como retratação na ciência, publicação em acesso aberto e Orcid",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4228-cinco-treinamentos-estao-na-agenda-da-1-quinzena-de-setembro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
