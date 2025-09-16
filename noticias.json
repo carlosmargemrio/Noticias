@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Delegação do governo sul-africano visita Iphan para troca de experiências sobre tombamento e preservação",
+      "data": "16/09/2025",
+      "resumo": "16/09/2025 - Encontro aconteceu nesta terça-feira (16) e teve como destaque a gestão de patrimônios mundiais, como Brasília",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/elegacao-do-governo-sul-africano-visita-iphan-para-troca-de-experiencias-sobre-tombamento-e-preservacao/foto-mariana-alves-comitiva/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/elegacao-do-governo-sul-africano-visita-iphan-para-troca-de-experiencias-sobre-tombamento-e-preservacao",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan assina protocolo de intenções para candidatura do Forró a Patrimônio Cultural Imaterial da Humanidade",
       "data": "15/09/2025",
       "resumo": "15/09/2025 - Compromisso foi firmado no I Festival Internacional do Forró de Raiz, em Lille, na França, entre 11 e 14 de setembro.",
@@ -14,14 +22,6 @@
       "resumo": "12/09/2025 - Imóvel passa por obras de requalificação com investimentos do Novo PAC",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mercado-sao-jose-pe-completa-150-anos-de-historia/xxxx2025_PE_Recife_MercadoDeSaoJose_MarianaAlves362.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mercado-sao-jose-pe-completa-150-anos-de-historia",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Rouanet Nordeste registra recorde de propostas sobre patrimônio cultural",
-      "data": "12/09/2025",
-      "resumo": "12/09/2025 - Número histórico de 325 propostas na área consolida trabalho realizado pelo Iphan em parceria com o MinC",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/rouanet-nordeste-registra-recorde-de-propostas-sobre-patrimonio-cultural/51342944506_86f1a76a03_b-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/rouanet-nordeste-registra-recorde-de-propostas-sobre-patrimonio-cultural",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
