@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa de Caravana Federativa no Maranhão",
+      "data": "16/09/2025",
+      "resumo": "16/09/2025 - Evento fortaleceu o diálogo com gestores e aproximou a população das ações de preservação do patrimônio cultural.",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-caravana-federativa-no-maranhao/img-20250911-wa0050-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-caravana-federativa-no-maranhao",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Delegação do governo sul-africano visita Iphan para troca de experiências sobre tombamento e preservação",
       "data": "16/09/2025",
       "resumo": "16/09/2025 - Encontro aconteceu nesta terça-feira (16) e teve como destaque a gestão de patrimônios mundiais, como Brasília",
@@ -14,14 +22,6 @@
       "resumo": "15/09/2025 - Compromisso foi firmado no I Festival Internacional do Forró de Raiz, em Lille, na França, entre 11 e 14 de setembro.",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-assina-protocolo-de-intencoes-para-candidatura-do-forro-a-patrimonio-cultural-imaterial-da-humanidade/forro-ok.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-assina-protocolo-de-intencoes-para-candidatura-do-forro-a-patrimonio-cultural-imaterial-da-humanidade",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Mercado São José (PE) completa 150 anos de história",
-      "data": "12/09/2025",
-      "resumo": "12/09/2025 - Imóvel passa por obras de requalificação com investimentos do Novo PAC",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mercado-sao-jose-pe-completa-150-anos-de-historia/xxxx2025_PE_Recife_MercadoDeSaoJose_MarianaAlves362.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mercado-sao-jose-pe-completa-150-anos-de-historia",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
