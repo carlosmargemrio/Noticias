@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Jovens brasileiros da periferia lideram orquestra internacional pela paz em turnê na Ásia e no Vaticano",
+      "data": "",
+      "resumo": "Projeto social do Recife une músicos de países em guerra em apresentações diante do papa e em locais históricos",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025091716094_0ec768320bdb614208087fc9d4942eb8c6aa8297a4c10a611c5cf75266ca6ac5.webp?w=3840&q=80",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Robert Redford, ícone de Hollywood, morre aos 89",
       "data": "",
       "resumo": "Redford foi vencedor do Oscar e fundador do Festival de Sundance, referência no cinema independente",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250916090944_6c86fd43625c6043213d26c24ce3c3d3f84f9f6e20968216b72da415310419ba.webp?w=3840&q=80",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250916090944_609bcb32fb9d2d30ea2613cceb7c4d4907a50c8a6e3f93148756f5d8d64d9fa5.webp?w=3840&q=80",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Estátua de Preta Gil ao lado do pai, Gilberto Gil, é inaugurada em Copacabana",
-      "data": "",
-      "resumo": "Fãs da artista haviam se mobilizado e pedido que ela também fosse lembrada no espaço",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250915190932_2e037af6-e63c-428b-8fcb-93502fcf34ca.webp?w=3840&q=80",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Agenda da 2ª quinzena de setembro tem oito treinamentos",
+      "data": "11/09/2025",
+      "resumo": "11/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como Orcid, inteligência artificial e produção científica",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_2025.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4235-agenda-da-2-quinzena-de-setembro-tem-oito-treinamentos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Webinário explica atendimento a pacientes com comorbidades",
+      "data": "04/09/2025",
+      "resumo": "04/09/2025 -\n                No dia 10, diretor clínico do BMJ Group falará sobre tratamento eficaz de sintomas agudos enquanto o médico lida com as outras questões",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_BMJ.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4234-webinario-explica-atendimento-a-pacientes-com-comorbidades.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Cinco treinamentos estão na agenda da 1ª quinzena de setembro",
+      "data": "26/08/2025",
+      "resumo": "26/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como retratação na ciência, publicação em acesso aberto e Orcid",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4228-cinco-treinamentos-estao-na-agenda-da-1-quinzena-de-setembro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
