@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Brasil recebe especialista para avaliar candidatura dos Teatros da Amazônia a Patrimônio Mundial Cultural",
+      "data": "17/09/2025",
+      "resumo": "17/09/2025 - Entre os dias 7 e 14 de setembro, representação do Icomos visitou o Teatro Amazonas, em Manaus (AM), e o Theatro da Paz, em Belém (PA).",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/Brasil-recebe-especialista-para-avaliar-candidatura-dos-Teatros-da-Amazonia-a-Patrimonio-Mundial-Cultural/theatro-da-paz-foto-oscar-liberal-iphan-2/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/Brasil-recebe-especialista-para-avaliar-candidatura-dos-Teatros-da-Amazonia-a-Patrimonio-Mundial-Cultural",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Casa de José Lins do Rego e Pedra Fundamental da Capital são reconhecidos como Patrimônio Cultural",
       "data": "16/09/2025",
       "resumo": "16/09/2025 - 110ª Reunião do Conselho Consultivo do Iphan apreciou os dois processos de tombamento nesta terça-feira (16)",
@@ -14,14 +22,6 @@
       "resumo": "16/09/2025 - Conselho Consultivo do Patrimônio Cultural do Iphan decidiu pelo tombamento nesta terça (16); monumento de 103 anos está localizado no centro do país",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/pedra-fundamental-da-capital-federal-se-torna-patrimonio-cultural-do-brasil/110a-reuniao-do-conselho-consultivo/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/pedra-fundamental-da-capital-federal-se-torna-patrimonio-cultural-do-brasil",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan aprova tombamento definitivo do Conjunto Arquitetônico Engenho Corredor",
-      "data": "16/09/2025",
-      "resumo": "16/09/2025 - Local pertenceu à família de José Lins do Rêgo e remete à memória do escritor, bem como a uma época de importantes transformações no País",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-tombamento-definitivo-do-conjunto-arquitetonico-engenho-corredor/design-sem-nome-70.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-tombamento-definitivo-do-conjunto-arquitetonico-engenho-corredor",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250915200916_aae1142f9f975720432a7aa03ff03c5b86034021c1bf6bd25387f5ccf56f75b4.webp?w=3840&q=80",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Agenda da 2ª quinzena de setembro tem oito treinamentos",
-      "data": "11/09/2025",
-      "resumo": "11/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como Orcid, inteligência artificial e produção científica",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_2025.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4235-agenda-da-2-quinzena-de-setembro-tem-oito-treinamentos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Webinário explica atendimento a pacientes com comorbidades",
-      "data": "04/09/2025",
-      "resumo": "04/09/2025 -\n                No dia 10, diretor clínico do BMJ Group falará sobre tratamento eficaz de sintomas agudos enquanto o médico lida com as outras questões",
-      "imagem": "https://www.periodicos.capes.gov.br/images/matria_BMJ.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4234-webinario-explica-atendimento-a-pacientes-com-comorbidades.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Cinco treinamentos estão na agenda da 1ª quinzena de setembro",
-      "data": "26/08/2025",
-      "resumo": "26/08/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como retratação na ciência, publicação em acesso aberto e Orcid",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4228-cinco-treinamentos-estao-na-agenda-da-1-quinzena-de-setembro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
