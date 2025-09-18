@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Em Roraima, Iphan debaterá licenciamento ambiental com órgãos estaduais e municipais",
+      "data": "18/09/2025",
+      "resumo": "18/09/2025 - III Encontro Iphan Participa também sediará o lançamento de publicações sobre Educação Patrimonial; inscreva-se",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-roraima-iphan-debatera-licenciamento-ambiental-com-orgaos-estaduais-e-municipais/bannersite-2.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-roraima-iphan-debatera-licenciamento-ambiental-com-orgaos-estaduais-e-municipais",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan conclui etapa de conservação do acervo da antiga RFFSA em MG",
       "data": "18/09/2025",
       "resumo": "18/09/2025 - Mais de 1,6 mil peças passaram por tratamento de conservação preventiva",
@@ -14,14 +22,6 @@
       "resumo": "18/09/2025 - A ação será na quinta-feira 02/10, no ponto de cultura Ulisses Manaças, das 18h30 às 22h",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-para-preservacao-e-salvaguarda-do-patrimonio-em-boa-vista-rr/whatsapp-image-2025-09-04-at-15-20-28-1-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-para-preservacao-e-salvaguarda-do-patrimonio-em-boa-vista-rr",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Conselho do Iphan debate construção do Sistema Nacional do Patrimônio Cultural",
-      "data": "17/09/2025",
-      "resumo": "17/09/2025 - Nesta quarta-feira (17), o Conselho Consultivo do Patrimônio Cultural também promoveu o lançamento de manual no campo da gestão patrimonial",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/conselho-do-iphan-debate-construcao-do-sistema-nacional-do-patrimonio-cultural/design-sem-nome-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/conselho-do-iphan-debate-construcao-do-sistema-nacional-do-patrimonio-cultural",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
