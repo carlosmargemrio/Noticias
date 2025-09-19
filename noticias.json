@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa do Encontro de Culturas Tradicionais da Chapada dos Veadeiros (GO)",
+      "data": "19/09/2025",
+      "resumo": "19/09/2025 - Em diálogo entre saberes tradicionais, atores discutiram políticas públicas e estratégias de proteção",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-do-encontro-de-culturas-tradicionais-da-chapada-dos-veadeiros-go/whatsapp-image-2025-09-19-at-14-40-33.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-do-encontro-de-culturas-tradicionais-da-chapada-dos-veadeiros-go",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e Governo de Pernambuco assinam ordem de serviço para restauração da Igreja de São Pedro Mártir de Verona, em Olinda",
       "data": "19/09/2025",
       "resumo": "19/09/2025 - Obra será realizada com investimento de R$ 1,2 milhão do Novo PAC.",
@@ -14,14 +22,6 @@
       "resumo": "19/09/2025 - Os participantes relataram experiências e destacaram a política pública como instrumento de justiça social e valorização do patrimônio afro-brasileiro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-reune-quilombolas-para-debater-aplicacao-da-portaria-de-tombamento-dos-quilombos/2025_DF_Brasilia_PatrimonioCulturalQuilombola_MarianaAlves33.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-reune-quilombolas-para-debater-aplicacao-da-portaria-de-tombamento-dos-quilombos",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Em Roraima, Iphan debaterá licenciamento ambiental com órgãos estaduais e municipais",
-      "data": "18/09/2025",
-      "resumo": "18/09/2025 - III Encontro Iphan Participa também sediará o lançamento de publicações sobre Educação Patrimonial; inscreva-se",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-roraima-iphan-debatera-licenciamento-ambiental-com-orgaos-estaduais-e-municipais/bannersite-2.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-roraima-iphan-debatera-licenciamento-ambiental-com-orgaos-estaduais-e-municipais",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250916090944_609bcb32fb9d2d30ea2613cceb7c4d4907a50c8a6e3f93148756f5d8d64d9fa5.webp?w=3840&q=80",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Pesquisadores brasileiros publicaram 2,5 mil artigos em acesso aberto com os novos acordos da CAPES com editoras",
+      "data": "19/09/2025",
+      "resumo": "19/09/2025 -\n                Agência já firmou parceria com ACS, IEEE, Wiley e RSP, o que assegurou o pagamento dos textos publicados no último ano",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_APC_Capes.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/94-artigo/4269-pesquisadores-brasileiros-publicaram-2-5-mil-artigos-em-acesso-aberto-com-os-novos-acordos-da-capes-com-editoras.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Agenda da 2ª quinzena de setembro tem oito treinamentos",
+      "data": "11/09/2025",
+      "resumo": "11/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como Orcid, inteligência artificial e produção científica",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_2025.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4235-agenda-da-2-quinzena-de-setembro-tem-oito-treinamentos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Webinário explica atendimento a pacientes com comorbidades",
+      "data": "04/09/2025",
+      "resumo": "04/09/2025 -\n                No dia 10, diretor clínico do BMJ Group falará sobre tratamento eficaz de sintomas agudos enquanto o médico lida com as outras questões",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_BMJ.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4234-webinario-explica-atendimento-a-pacientes-com-comorbidades.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
