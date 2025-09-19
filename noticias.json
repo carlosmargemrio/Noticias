@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan e Icomos Brasil promovem primeiro encontro preparatório para o 8º Simpósio Científico",
+      "data": "19/09/2025",
+      "resumo": "19/09/2025 - Debate será feito virtualmente e terá como tema a gestão participativa do patrimônio.",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-icomos-brasil-promovem-primeiro-encontro-preparatorio-para-o-8o-simposio-cientifico/xxxxDesignsemnome3.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-icomos-brasil-promovem-primeiro-encontro-preparatorio-para-o-8o-simposio-cientifico",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan participa do Encontro de Culturas Tradicionais da Chapada dos Veadeiros (GO)",
       "data": "19/09/2025",
       "resumo": "19/09/2025 - Em diálogo entre saberes tradicionais, atores discutiram políticas públicas e estratégias de proteção",
@@ -14,14 +22,6 @@
       "resumo": "19/09/2025 - Obra será realizada com investimento de R$ 1,2 milhão do Novo PAC.",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-governo-de-pernambuco-assinam-ordem-de-servico-para-restauracao-da-igreja-de-sao-pedro-martir-de-verona-em-olinda/xxxxWhatsAppImage20250917at13.27.451.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-governo-de-pernambuco-assinam-ordem-de-servico-para-restauracao-da-igreja-de-sao-pedro-martir-de-verona-em-olinda",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan reúne quilombolas para debater aplicação da Portaria de Tombamento dos Quilombos",
-      "data": "19/09/2025",
-      "resumo": "19/09/2025 - Os participantes relataram experiências e destacaram a política pública como instrumento de justiça social e valorização do patrimônio afro-brasileiro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-reune-quilombolas-para-debater-aplicacao-da-portaria-de-tombamento-dos-quilombos/2025_DF_Brasilia_PatrimonioCulturalQuilombola_MarianaAlves33.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-reune-quilombolas-para-debater-aplicacao-da-portaria-de-tombamento-dos-quilombos",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
