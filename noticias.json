@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Ouro Preto (MG) sedia II Seminário de Prospecção em Bens Culturais",
+      "data": "23/09/2025",
+      "resumo": "23/09/2025 - Melhores estudos apresentados serão publicados em dossiê temático da Revista do Iphan",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouro-preto-mg-sedia-ii-seminario-de-prospeccao-em-bens-culturais/banner-ouro-preto.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouro-preto-mg-sedia-ii-seminario-de-prospeccao-em-bens-culturais",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Exposição apresenta fotografias vencedoras do Prêmio Mário de Andrade de 2024",
       "data": "23/09/2025",
       "resumo": "23/09/2025 - Prêmio visa difundir a documentação e valorização das culturas populares brasileiras",
@@ -14,14 +22,6 @@
       "resumo": "22/09/2025 - Evento discutiu os desafios e avanços da salvaguarda do bem cultural",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/reuniao-ampliada-da-salvaguarda-do-jongo-no-sudeste-reune-comunidades-jongueiras-no-rio-de-janeiro/dv5a1388-copiar-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/reuniao-ampliada-da-salvaguarda-do-jongo-no-sudeste-reune-comunidades-jongueiras-no-rio-de-janeiro",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Divulgado o resultado da segunda etapa do Mestrado Profissional para servidores do Iphan",
-      "data": "22/09/2025",
-      "resumo": "22/09/2025 - Os recursos podem ser enviados até o dia 23 de setembro.",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/divulgado-o-resultado-da-segunda-etapa-do-mestrado-profissional-para-servidores-do-iphan/copy_of_cbfcc22faac34bd085b4a3acede097e9.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/divulgado-o-resultado-da-segunda-etapa-do-mestrado-profissional-para-servidores-do-iphan",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
