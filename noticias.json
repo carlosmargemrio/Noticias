@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Moradores de Porto Nacional (TO) participam de diálogos sobre preservação do Centro Histórico",
+      "data": "24/09/2025",
+      "resumo": "24/09/2025 - Encontros integram Projeto Gestão Compartilhada do Patrimônio Cultural Brasileiro entre o Iphan e a sociedade",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/moradores-de-porto-nacional-to-participam-de-dialogos-sobre-preservacao-do-centro-historico/design-sem-nome-72.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/moradores-de-porto-nacional-to-participam-de-dialogos-sobre-preservacao-do-centro-historico",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Forte de Coimbra celebra 250 anos e recebe anúncio de obras de restauração",
       "data": "24/09/2025",
       "resumo": "24/09/2025 - Investimento de R$ 19 milhões será viabilizado pela Lei de Incentivo à Cultura",
@@ -14,14 +22,6 @@
       "resumo": "23/09/2025 - Melhores estudos apresentados serão publicados em dossiê temático da Revista do Iphan",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouro-preto-mg-sedia-ii-seminario-de-prospeccao-em-bens-culturais/banner-ouro-preto.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouro-preto-mg-sedia-ii-seminario-de-prospeccao-em-bens-culturais",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Exposição apresenta fotografias vencedoras do Prêmio Mário de Andrade de 2024",
-      "data": "23/09/2025",
-      "resumo": "23/09/2025 - Prêmio visa difundir a documentação e valorização das culturas populares brasileiras",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/exposicao-apresenta-fotografias-vencedoras-do-premio-mario-de-andrade-de-2024/0c6a9d8a-6ca7-45f6-8447-713f30ed283c-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/exposicao-apresenta-fotografias-vencedoras-do-premio-mario-de-andrade-de-2024",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
