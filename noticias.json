@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "19ª CineBH abre com homenagem a Carlos Francisco e exibição de “O Agente Secreto”",
+      "data": "",
+      "resumo": "O festival apresenta uma programação diversificada com 101 filmes entre longas, médias e curtas-metragens",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250924170940_43eb13ee-255a-4e51-ac8a-ab9c7c79d40d.webp?w=3840&q=80",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Gabriela Duarte diz que deu repost em postagem chamando Caetano e Gil de \"decadentes\" por engano",
       "data": "",
       "resumo": "O episódio ocorreu quando nomes como Gilberto Gil, Caetano Veloso, Djavan e Chico Buarque se apresentaram em um grande protesto em Copacabana",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20231009091036_7a204e730e08b4f521220fe5e1c11d2dbce7d55c2cd71b53046690b96d65abe4.webp?w=3840&q=80",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20231009091036_6657d6619ae6d7ec8df9610fdfb5dc27c58c0363fb88357e84f04134e4540882.webp?w=3840&q=80",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025092319094_8f15c55d-b9a8-4db0-8a43-67337f3453d8.webp?w=3840&q=80",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "\"Retomamos as ruas e a bandeira do Brasil\", diz João Cezar de Castro Rocha",
-      "data": "",
-      "resumo": "Em manifestação histórica em Copacabana, mais de 1 milhão de pessoas ocuparam a orla em defesa da democracia e contra a anistia a golpistas",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025092117098_5f376c9364d2a37397134ab98587a093c64a97ec73865667bc39ec68dc5052b7.webp?w=3840&q=80",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Pesquisadores brasileiros publicaram 2,5 mil artigos em acesso aberto com os novos acordos da CAPES com editoras",
-      "data": "19/09/2025",
-      "resumo": "19/09/2025 -\n                Agência já firmou parceria com ACS, IEEE, Wiley e RSP, o que assegurou o pagamento dos textos publicados no último ano",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_APC_Capes.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/94-artigo/4269-pesquisadores-brasileiros-publicaram-2-5-mil-artigos-em-acesso-aberto-com-os-novos-acordos-da-capes-com-editoras.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Agenda da 2ª quinzena de setembro tem oito treinamentos",
-      "data": "11/09/2025",
-      "resumo": "11/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como Orcid, inteligência artificial e produção científica",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_2025.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4235-agenda-da-2-quinzena-de-setembro-tem-oito-treinamentos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Webinário explica atendimento a pacientes com comorbidades",
-      "data": "04/09/2025",
-      "resumo": "04/09/2025 -\n                No dia 10, diretor clínico do BMJ Group falará sobre tratamento eficaz de sintomas agudos enquanto o médico lida com as outras questões",
-      "imagem": "https://www.periodicos.capes.gov.br/images/matria_BMJ.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4234-webinario-explica-atendimento-a-pacientes-com-comorbidades.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
