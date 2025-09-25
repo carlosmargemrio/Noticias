@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Projeto do Instituto Pretos Novos (RJ) ganha fôlego com apoio da Lei Rouanet",
+      "data": "25/09/2025",
+      "resumo": "25/09/2025 - Circuito Herança Africana foi aprovado e está sendo acompanhado pelo Iphan",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-do-instituto-pretos-novos-rj-ganha-folego-com-apoio-da-lei-rouanet/SDSDFAWhatsAppImage20250925at16.24.361.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-do-instituto-pretos-novos-rj-ganha-folego-com-apoio-da-lei-rouanet",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan promove oficina de elaboração de projetos culturais em Manaus (AM)",
       "data": "25/09/2025",
       "resumo": "25/09/2025 - Saiba como captar recursos para seu projeto cultural; inscreva-se",
@@ -14,14 +22,6 @@
       "resumo": "25/09/2025 - Ação busca garantir a preservação permanente de acervo indígena e arqueológico e fortalecer pesquisas no Vale do Jiquiriçá",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-visita-tecnica-ao-museu-do-territorio-de-santa-ines-ba-para-inclusao-no-cadastro-nacional-de-instituicoes-de-guarda-e-pesquisa/design-sem-nome-74.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-visita-tecnica-ao-museu-do-territorio-de-santa-ines-ba-para-inclusao-no-cadastro-nacional-de-instituicoes-de-guarda-e-pesquisa",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Prêmio Rodrigo 2025: veja a lista das ações classificadas para a etapa nacional",
-      "data": "25/09/2025",
-      "resumo": "25/09/2025 - Das 834 ações habilitadas, 175 estão na próxima fase do concurso",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-veja-a-lista-das-acoes-classificadas-para-a-etapa-nacional/prmfa25_banner-noticia2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-veja-a-lista-das-acoes-classificadas-para-a-etapa-nacional",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025092319094_8f15c55d-b9a8-4db0-8a43-67337f3453d8.webp?w=3840&q=80",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Pesquisadores brasileiros publicaram 2,5 mil artigos em acesso aberto com os novos acordos da CAPES com editoras",
+      "data": "19/09/2025",
+      "resumo": "19/09/2025 -\n                Agência já firmou parceria com ACS, IEEE, Wiley e RSP, o que assegurou o pagamento dos textos publicados no último ano",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_APC_Capes.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/94-artigo/4269-pesquisadores-brasileiros-publicaram-2-5-mil-artigos-em-acesso-aberto-com-os-novos-acordos-da-capes-com-editoras.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Agenda da 2ª quinzena de setembro tem oito treinamentos",
+      "data": "11/09/2025",
+      "resumo": "11/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como Orcid, inteligência artificial e produção científica",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_2025.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4235-agenda-da-2-quinzena-de-setembro-tem-oito-treinamentos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Webinário explica atendimento a pacientes com comorbidades",
+      "data": "04/09/2025",
+      "resumo": "04/09/2025 -\n                No dia 10, diretor clínico do BMJ Group falará sobre tratamento eficaz de sintomas agudos enquanto o médico lida com as outras questões",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_BMJ.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4234-webinario-explica-atendimento-a-pacientes-com-comorbidades.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
