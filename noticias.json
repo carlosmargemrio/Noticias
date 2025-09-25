@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Prêmio Rodrigo 2025: veja a lista das ações classificadas para a etapa nacional",
+      "data": "25/09/2025",
+      "resumo": "25/09/2025 - Das 834 ações habilitadas, 175 estão na próxima fase do concurso",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-veja-a-lista-das-acoes-classificadas-para-a-etapa-nacional/prmfa25_banner-noticia2.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-veja-a-lista-das-acoes-classificadas-para-a-etapa-nacional",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan firma parceria com UFRR para registro do ritual Areruya do povo Ingarikó",
       "data": "25/09/2025",
       "resumo": "25/09/2025 - As instituições vão reunir pesquisas, documentos e registros audiovisuais do bem cultural",
@@ -14,14 +22,6 @@
       "resumo": "24/09/2025 - Encontros integram Projeto Gestão Compartilhada do Patrimônio Cultural Brasileiro entre o Iphan e a sociedade",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/moradores-de-porto-nacional-to-participam-de-dialogos-sobre-preservacao-do-centro-historico/design-sem-nome-72.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/moradores-de-porto-nacional-to-participam-de-dialogos-sobre-preservacao-do-centro-historico",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Forte de Coimbra celebra 250 anos e recebe anúncio de obras de restauração",
-      "data": "24/09/2025",
-      "resumo": "24/09/2025 - Investimento de R$ 19 milhões será viabilizado pela Lei de Incentivo à Cultura",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/forte-de-coimbra-celebra-250-anos-e-recebe-anuncio-de-obras-de-restauracao/banner-forte-coimbra.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/forte-de-coimbra-celebra-250-anos-e-recebe-anuncio-de-obras-de-restauracao",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
