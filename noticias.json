@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan realiza visita técnica ao Museu do Território de Santa Inês (BA) para inclusão no Cadastro Nacional de Instituições de Guarda e Pesquisa",
+      "data": "25/09/2025",
+      "resumo": "25/09/2025 - Ação busca garantir a preservação permanente de acervo indígena e arqueológico e fortalecer pesquisas no Vale do Jiquiriçá",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-visita-tecnica-ao-museu-do-territorio-de-santa-ines-ba-para-inclusao-no-cadastro-nacional-de-instituicoes-de-guarda-e-pesquisa/design-sem-nome-73.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-visita-tecnica-ao-museu-do-territorio-de-santa-ines-ba-para-inclusao-no-cadastro-nacional-de-instituicoes-de-guarda-e-pesquisa",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Prêmio Rodrigo 2025: veja a lista das ações classificadas para a etapa nacional",
       "data": "25/09/2025",
       "resumo": "25/09/2025 - Das 834 ações habilitadas, 175 estão na próxima fase do concurso",
@@ -14,14 +22,6 @@
       "resumo": "25/09/2025 - As instituições vão reunir pesquisas, documentos e registros audiovisuais do bem cultural",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-firma-parceria-com-ufrr-para-registro-do-ritual-areruya-do-povo-ingariko/whatsapp-image-2025-09-24-at-19-17-08-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-firma-parceria-com-ufrr-para-registro-do-ritual-areruya-do-povo-ingariko",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Moradores de Porto Nacional (TO) participam de diálogos sobre preservação do Centro Histórico",
-      "data": "24/09/2025",
-      "resumo": "24/09/2025 - Encontros integram Projeto Gestão Compartilhada do Patrimônio Cultural Brasileiro entre o Iphan e a sociedade",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/moradores-de-porto-nacional-to-participam-de-dialogos-sobre-preservacao-do-centro-historico/design-sem-nome-72.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/moradores-de-porto-nacional-to-participam-de-dialogos-sobre-preservacao-do-centro-historico",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
