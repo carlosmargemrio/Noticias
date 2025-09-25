@@ -1,14 +1,6 @@
 {
   "noticias_sites": [
     {
-      "titulo": "Projeto do Instituto Pretos Novos (RJ) ganha fôlego com apoio da Lei Rouanet",
-      "data": "25/09/2025",
-      "resumo": "25/09/2025 - Circuito Herança Africana foi aprovado e está sendo acompanhado pelo Iphan",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-do-instituto-pretos-novos-rj-ganha-folego-com-apoio-da-lei-rouanet/SDSDFAWhatsAppImage20250925at16.24.361.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-do-instituto-pretos-novos-rj-ganha-folego-com-apoio-da-lei-rouanet",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
       "titulo": "Iphan promove oficina de elaboração de projetos culturais em Manaus (AM)",
       "data": "25/09/2025",
       "resumo": "25/09/2025 - Saiba como captar recursos para seu projeto cultural; inscreva-se",
@@ -22,6 +14,14 @@
       "resumo": "25/09/2025 - Ação busca garantir a preservação permanente de acervo indígena e arqueológico e fortalecer pesquisas no Vale do Jiquiriçá",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-visita-tecnica-ao-museu-do-territorio-de-santa-ines-ba-para-inclusao-no-cadastro-nacional-de-instituicoes-de-guarda-e-pesquisa/design-sem-nome-74.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-visita-tecnica-ao-museu-do-territorio-de-santa-ines-ba-para-inclusao-no-cadastro-nacional-de-instituicoes-de-guarda-e-pesquisa",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Prêmio Rodrigo 2025: veja a lista das ações classificadas para a etapa nacional",
+      "data": "25/09/2025",
+      "resumo": "25/09/2025 - Das 834 ações habilitadas, 175 estão na próxima fase do concurso",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-veja-a-lista-das-acoes-classificadas-para-a-etapa-nacional/prmfa25_banner-noticia2.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-veja-a-lista-das-acoes-classificadas-para-a-etapa-nacional",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
