@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan inicia 4ª etapa da seleção para servidores externos",
+      "data": "26/09/2025",
+      "resumo": "26/09/2025 - Lista de aprovados será divulgada no dia 1º de outubro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-4a-etapa-da-selecao-para-servidores-externos/3436feb2641a4478a925d2ed90e09d25.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-4a-etapa-da-selecao-para-servidores-externos",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Andanças do Patrimônio: Iphan coleta contribuições para as bases do SNPC",
       "data": "26/09/2025",
       "resumo": "26/09/2025 - Foram ouvidos a Associação Brasileira de Arqueologia Preventiva e o Fórum de Entidades em Defesa do Patrimônio Cultural Brasileiro",
@@ -14,14 +22,6 @@
       "resumo": "25/09/2025 - Investimentos se somam a outras intervenções para o patrimônio cultural na capital pernambucana, totalizando R$ 40 milhões",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-libera-r-15-milhoes-via-novo-pac-para-restaurar-monumentos-historicos-em-recife-1/whatsapp-image-2025-09-25-at-11-59-50-3.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-libera-r-15-milhoes-via-novo-pac-para-restaurar-monumentos-historicos-em-recife-1",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan promove oficina de elaboração de projetos culturais em Manaus (AM)",
-      "data": "25/09/2025",
-      "resumo": "25/09/2025 - Saiba como captar recursos para seu projeto cultural; inscreva-se",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-de-elaboracao-de-projetos-culturais-em-manaus-am/016_2025_iphan_cidadesplurais_200825_creditos-ranchocultural-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-de-elaboracao-de-projetos-culturais-em-manaus-am",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025092319094_8f15c55d-b9a8-4db0-8a43-67337f3453d8.webp?w=3840&q=80",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES realiza três treinamentos na 1ª quinzena de outubro",
-      "data": "26/09/2025",
-      "resumo": "26/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas com responsabilidade ambiental, escrita científica e cultura conectada",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4270-capes-realiza-tres-treinamentos-na-1-quinzena-de-outubro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Pesquisadores brasileiros publicaram 2,5 mil artigos em acesso aberto com os novos acordos da CAPES com editoras",
-      "data": "19/09/2025",
-      "resumo": "19/09/2025 -\n                Agência já firmou parceria com ACS, IEEE, Wiley e RSP, o que assegurou o pagamento dos textos publicados no último ano",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_APC_Capes.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/94-artigo/4269-pesquisadores-brasileiros-publicaram-2-5-mil-artigos-em-acesso-aberto-com-os-novos-acordos-da-capes-com-editoras.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Agenda da 2ª quinzena de setembro tem oito treinamentos",
-      "data": "11/09/2025",
-      "resumo": "11/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas como Orcid, inteligência artificial e produção científica",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_2025.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4235-agenda-da-2-quinzena-de-setembro-tem-oito-treinamentos.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
