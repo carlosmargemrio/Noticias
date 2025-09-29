@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Com R$ 15 milhões para longas-metragens, edital de cinema do BNDES retorna após 9 anos",
+      "data": "",
+      "resumo": "Cada filme receberá patrocínio de R$ 600 mil",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250107120116_fc88566eaf4047d839caae8bd0b0748c0f75311e919d01cafde2d96fd276aba8.webp?w=3840&q=80",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Gil e Caetano se apresentam em ato cultural no BNDES em memória ao pianista Tenório Jr.",
       "data": "",
       "resumo": "Gilberto Gil coordena homenagem no BNDES a Tenório Jr., com shows de Caetano, Joyce e Marcos Valle e presença de movimentos de memória",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250929180912_00b8f736-3fc8-4134-b4c9-60a7146043a2.webp?w=3840&q=80",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250929180912_e033b0ab-05e6-4a07-9f03-a0befaf2d6e4.webp?w=3840&q=80",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Wagner Moura recebe prêmio em Zurique por atuação no filme 'O Agente Secreto', de Kleber Mendonça Filho",
-      "data": "",
-      "resumo": "O longa conta a história de um professor que se muda de São Paulo para Recife na Ditadura Militar",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025041009048_e2e9ae55-2dad-4d6b-83d9-db8cc5704707.webp?w=3840&q=80",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Elsevier promove palestra sobre ética na publicação científica",
+      "data": "29/09/2025",
+      "resumo": "29/09/2025 -\n                Evento ocorrerá em forma de webinário às 11h do dia 7 de outubro, horário de Brasília; inscrições estão abertas",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Elsevier_Webinrio.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4271-elsevier-promove-palestra-sobre-etica-na-publicacao-cientifica.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza três treinamentos na 1ª quinzena de outubro",
+      "data": "26/09/2025",
+      "resumo": "26/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas com responsabilidade ambiental, escrita científica e cultura conectada",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4270-capes-realiza-tres-treinamentos-na-1-quinzena-de-outubro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Pesquisadores brasileiros publicaram 2,5 mil artigos em acesso aberto com os novos acordos da CAPES com editoras",
+      "data": "19/09/2025",
+      "resumo": "19/09/2025 -\n                Agência já firmou parceria com ACS, IEEE, Wiley e RSP, o que assegurou o pagamento dos textos publicados no último ano",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_APC_Capes.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/94-artigo/4269-pesquisadores-brasileiros-publicaram-2-5-mil-artigos-em-acesso-aberto-com-os-novos-acordos-da-capes-com-editoras.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
