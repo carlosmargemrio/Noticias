@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan e Prefeitura de Diamantina assinam termo para restaurar Igreja do Carmo com recursos do Novo PAC",
+      "data": "30/09/2025",
+      "resumo": "30/09/2025 - Evento integrou semana de atividades que também contou com ações em Diamantina, entrega de certificados de registro de bem imaterial a detentores dos Saberes do Rosário: Reinados, Congadas e Congados, no Serro, e fórum sobre bandas de pífano no Vale do Jequitinhonha",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-prefeitura-de-diamantina-assinam-termo-para-restaurar-igreja-do-carmo-com-recursos-do-novo-pac/banner-carmo.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-prefeitura-de-diamantina-assinam-termo-para-restaurar-igreja-do-carmo-com-recursos-do-novo-pac",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Sítio Burle Marx realiza 11ª edição da Jornada de Pintura",
       "data": "30/09/2025",
       "resumo": "30/09/2025 - Evento reuniu artistas profissionais e amadores para produzir arte em meio a natureza",
@@ -14,14 +22,6 @@
       "resumo": "29/09/2025 - A 8ª edição do Encontro de Professores e Intérpretes de Línguas Indígenas de Roraima terá como tema “Multilinguismo e Cultura Indígena”",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/evento-debate-linguas-indigenas-e-acoes-de-preservacao-do-patrimonio-cultural-imaterial-em-boa-vista-rr-1/dsc00404_3-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/evento-debate-linguas-indigenas-e-acoes-de-preservacao-do-patrimonio-cultural-imaterial-em-boa-vista-rr-1",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan inicia 4ª etapa da seleção para servidores externos",
-      "data": "26/09/2025",
-      "resumo": "26/09/2025 - Lista de aprovados será divulgada no dia 1º de outubro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-4a-etapa-da-selecao-para-servidores-externos/3436feb2641a4478a925d2ed90e09d25.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-4a-etapa-da-selecao-para-servidores-externos",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250107120116_30543f411fc55eac669c2fb4f3197c676aa9ee9ba2b81e27a00d3d32d972b6c9.webp?w=3840&q=80",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Elsevier promove palestra sobre ética na publicação científica",
+      "data": "29/09/2025",
+      "resumo": "29/09/2025 -\n                Evento ocorrerá em forma de webinário às 11h do dia 7 de outubro, horário de Brasília; inscrições estão abertas",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Elsevier_Webinrio.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4271-elsevier-promove-palestra-sobre-etica-na-publicacao-cientifica.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza três treinamentos na 1ª quinzena de outubro",
+      "data": "26/09/2025",
+      "resumo": "26/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas com responsabilidade ambiental, escrita científica e cultura conectada",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4270-capes-realiza-tres-treinamentos-na-1-quinzena-de-outubro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Pesquisadores brasileiros publicaram 2,5 mil artigos em acesso aberto com os novos acordos da CAPES com editoras",
+      "data": "19/09/2025",
+      "resumo": "19/09/2025 -\n                Agência já firmou parceria com ACS, IEEE, Wiley e RSP, o que assegurou o pagamento dos textos publicados no último ano",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_APC_Capes.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/94-artigo/4269-pesquisadores-brasileiros-publicaram-2-5-mil-artigos-em-acesso-aberto-com-os-novos-acordos-da-capes-com-editoras.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
