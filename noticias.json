@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Sítio Burle Marx realiza 11ª edição da Jornada de Pintura",
+      "data": "30/09/2025",
+      "resumo": "30/09/2025 - Evento reuniu artistas profissionais e amadores para produzir arte em meio a natureza",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-burle-marx-realiza-11a-edicao-da-jornada-de-pintura/design-sem-nome-75.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-burle-marx-realiza-11a-edicao-da-jornada-de-pintura",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Evento debate línguas indígenas e ações de preservação do patrimônio cultural imaterial em Boa Vista (RR)",
       "data": "29/09/2025",
       "resumo": "29/09/2025 - A 8ª edição do Encontro de Professores e Intérpretes de Línguas Indígenas de Roraima terá como tema “Multilinguismo e Cultura Indígena”",
@@ -14,14 +22,6 @@
       "resumo": "26/09/2025 - Lista de aprovados será divulgada no dia 1º de outubro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-4a-etapa-da-selecao-para-servidores-externos/3436feb2641a4478a925d2ed90e09d25.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-4a-etapa-da-selecao-para-servidores-externos",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Andanças do Patrimônio: Iphan coleta contribuições para as bases do SNPC",
-      "data": "26/09/2025",
-      "resumo": "26/09/2025 - Foram ouvidos a Associação Brasileira de Arqueologia Preventiva e o Fórum de Entidades em Defesa do Patrimônio Cultural Brasileiro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/andancas-do-patrimonio-iphan-coleta-contribuicoes-para-as-bases-do-snpc/image-2-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/andancas-do-patrimonio-iphan-coleta-contribuicoes-para-as-bases-do-snpc",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
