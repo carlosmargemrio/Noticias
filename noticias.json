@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa de Curso de Atualização em Patrimônio Cultural na Amazônia Legal, em Rondônia",
+      "data": "01/10/2025",
+      "resumo": "01/10/2025 - Evento ocorre nos dias 2 e 3 de outubro na capital Porto Velho",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-curso-de-atualizacao-em-patrimonio-cultural-na-amazonia-legal-em-rondonia/banner-ro.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-curso-de-atualizacao-em-patrimonio-cultural-na-amazonia-legal-em-rondonia",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e Prefeitura de Diamantina assinam termo para restaurar Igreja do Carmo com recursos do Novo PAC",
       "data": "30/09/2025",
       "resumo": "30/09/2025 - Evento integrou semana de atividades que também contou com ações em Diamantina, entrega de certificados de registro de bem imaterial a detentores dos Saberes do Rosário: Reinados, Congadas e Congados, no Serro, e fórum sobre bandas de pífano no Vale do Jequitinhonha",
@@ -14,14 +22,6 @@
       "resumo": "30/09/2025 - Evento reuniu artistas profissionais e amadores para produzir arte em meio a natureza",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-burle-marx-realiza-11a-edicao-da-jornada-de-pintura/design-sem-nome-75.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-burle-marx-realiza-11a-edicao-da-jornada-de-pintura",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Evento debate línguas indígenas e ações de preservação do patrimônio cultural imaterial em Boa Vista (RR)",
-      "data": "29/09/2025",
-      "resumo": "29/09/2025 - A 8ª edição do Encontro de Professores e Intérpretes de Línguas Indígenas de Roraima terá como tema “Multilinguismo e Cultura Indígena”",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/evento-debate-linguas-indigenas-e-acoes-de-preservacao-do-patrimonio-cultural-imaterial-em-boa-vista-rr-1/dsc00404_3-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/evento-debate-linguas-indigenas-e-acoes-de-preservacao-do-patrimonio-cultural-imaterial-em-boa-vista-rr-1",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
