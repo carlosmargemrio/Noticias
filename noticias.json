@@ -1,27 +1,27 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa do 2º Congresso Internacional Estudos da Paisagem, em Maceió (AL)",
+      "data": "01/10/2025",
+      "resumo": "01/10/2025 - Com o tema “Arquitetura das Águas: entre urgências e travessias”, evento reúne ciência, cultura e arte",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-do-2o-congresso-internacional-estudos-da-paisagem-em-maceio-al/xxxxWhatsAppImage20250930at17.46.431.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-do-2o-congresso-internacional-estudos-da-paisagem-em-maceio-al",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan lança página “Patrimônio Cultural na Lei Rouanet”",
+      "data": "01/10/2025",
+      "resumo": "01/10/2025 - Novo espaço reúne informações úteis para quem deseja apoiar projetos de preservação e valorização do patrimônio cultural brasileiro via Lei Rouanet.",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-pagina-201cpatrimonio-cultural-na-lei-rouanet201d-1/banner_lei_rounet_1150x500.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-pagina-201cpatrimonio-cultural-na-lei-rouanet201d-1",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan realiza 10º Seminário de Gênero e Patrimônio Cultural, no Recife (PE)",
       "data": "01/10/2025",
       "resumo": "01/10/2025 - Edição destacou a atuação das mulheres na salvaguarda da Capoeira",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-10o-seminario-de-genero-e-patrimonio-cultural-no-recife-pe/xxx54810703532_6893d5dd0e_k1.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-10o-seminario-de-genero-e-patrimonio-cultural-no-recife-pe",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan participa de Curso de Atualização em Patrimônio Cultural na Amazônia Legal, em Rondônia",
-      "data": "01/10/2025",
-      "resumo": "01/10/2025 - Evento ocorre nos dias 2 e 3 de outubro na capital Porto Velho",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-curso-de-atualizacao-em-patrimonio-cultural-na-amazonia-legal-em-rondonia/banner-ro.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-curso-de-atualizacao-em-patrimonio-cultural-na-amazonia-legal-em-rondonia",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e Prefeitura de Diamantina assinam termo para restaurar Igreja do Carmo com recursos do Novo PAC",
-      "data": "30/09/2025",
-      "resumo": "30/09/2025 - Evento integrou semana de atividades que também contou com ações em Diamantina, entrega de certificados de registro de bem imaterial a detentores dos Saberes do Rosário: Reinados, Congadas e Congados, no Serro, e fórum sobre bandas de pífano no Vale do Jequitinhonha",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-prefeitura-de-diamantina-assinam-termo-para-restaurar-igreja-do-carmo-com-recursos-do-novo-pac/banner-carmo.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-prefeitura-de-diamantina-assinam-termo-para-restaurar-igreja-do-carmo-com-recursos-do-novo-pac",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250107120116_30543f411fc55eac669c2fb4f3197c676aa9ee9ba2b81e27a00d3d32d972b6c9.webp?w=3840&q=80",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Elsevier promove palestra sobre ética na publicação científica",
+      "data": "29/09/2025",
+      "resumo": "29/09/2025 -\n                Evento ocorrerá em forma de webinário às 11h do dia 7 de outubro, horário de Brasília; inscrições estão abertas",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Elsevier_Webinrio.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4271-elsevier-promove-palestra-sobre-etica-na-publicacao-cientifica.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza três treinamentos na 1ª quinzena de outubro",
+      "data": "26/09/2025",
+      "resumo": "26/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas com responsabilidade ambiental, escrita científica e cultura conectada",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4270-capes-realiza-tres-treinamentos-na-1-quinzena-de-outubro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Pesquisadores brasileiros publicaram 2,5 mil artigos em acesso aberto com os novos acordos da CAPES com editoras",
+      "data": "19/09/2025",
+      "resumo": "19/09/2025 -\n                Agência já firmou parceria com ACS, IEEE, Wiley e RSP, o que assegurou o pagamento dos textos publicados no último ano",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_APC_Capes.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/94-artigo/4269-pesquisadores-brasileiros-publicaram-2-5-mil-artigos-em-acesso-aberto-com-os-novos-acordos-da-capes-com-editoras.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
