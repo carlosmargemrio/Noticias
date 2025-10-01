@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan divulga resultado da 4ª etapa do edital para servidores externos",
+      "data": "01/10/2025",
+      "resumo": "01/10/2025 - O prazo para solicitações de esclarecimentos e/ou recursos vai até o dia 2 de outubro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-4a-etapa-do-edital-para-servidores-externos/6e7c3743450b46b59193b3cde0e02a7d.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-4a-etapa-do-edital-para-servidores-externos",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan participa do 2º Congresso Internacional Estudos da Paisagem, em Maceió (AL)",
       "data": "01/10/2025",
       "resumo": "01/10/2025 - Com o tema “Arquitetura das Águas: entre urgências e travessias”, evento reúne ciência, cultura e arte",
@@ -14,14 +22,6 @@
       "resumo": "01/10/2025 - Novo espaço reúne informações úteis para quem deseja apoiar projetos de preservação e valorização do patrimônio cultural brasileiro via Lei Rouanet",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-pagina-patrimonio-cultural-na-lei-rouanet/banner_lei_rounet_1150x500.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-pagina-patrimonio-cultural-na-lei-rouanet",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan realiza 10º Seminário de Gênero e Patrimônio Cultural, no Recife (PE)",
-      "data": "01/10/2025",
-      "resumo": "01/10/2025 - Edição destacou a atuação das mulheres na salvaguarda da Capoeira",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-10o-seminario-de-genero-e-patrimonio-cultural-no-recife-pe/xxx54810703532_6893d5dd0e_k1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-10o-seminario-de-genero-e-patrimonio-cultural-no-recife-pe",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
