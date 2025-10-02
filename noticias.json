@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Em setembro, Iphan libera R$ 81 milhões para restaurar bens culturais",
+      "data": "02/10/2025",
+      "resumo": "02/10/2025 - Recursos do Novo PAC viabilizam obras em igrejas, museus, mercados e sítios históricos em oito estados",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-libera-em-setembro-r-81-milhoes-para-restaurar-bens-culturais/002bb48b-a4fa-4c2d-8af4-94f59ea0f8e3-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-libera-em-setembro-r-81-milhoes-para-restaurar-bens-culturais",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan ouve povos indígenas, de terreiro e comunidades quilombolas para construção do SNPC",
       "data": "02/10/2025",
       "resumo": "02/10/2025 - Instituto realizou as atividades no âmbito do projeto Andanças do Patrimônio",
@@ -14,14 +22,6 @@
       "resumo": "02/10/2025 - Prazo para solicitações de esclarecimentos e/ou recursos vai até o dia 2/10",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-4a-etapa-do-edital-para-servidores-externos-1/6e7c3743450b46b59193b3cde0e02a7d.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-4a-etapa-do-edital-para-servidores-externos-1",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Superintendência do Iphan em Mato Grosso visita Quilombo Ribeirão do Mutuca",
-      "data": "02/10/2025",
-      "resumo": "02/10/2025 - Instituto dá importante passo para discutir a proteção dos bens culturais quilombolas do estado",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/superintendencia-do-iphan-em-mato-grosso-visita-quilombo-ribeirao-da-mutucas/whatsapp-image-2025-10-02-at-10-31-16-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/superintendencia-do-iphan-em-mato-grosso-visita-quilombo-ribeirao-da-mutucas",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
