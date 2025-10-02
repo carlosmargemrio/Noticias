@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa da Mondiacult 2025, em Barcelona",
+      "data": "02/10/2025",
+      "resumo": "02/10/2025 - Maior conferência global de políticas culturais contou com participação do Instituto em debates sobre direitos culturais, economia da cultura, patrimônio, mudanças climáticas e outros temas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-mondiacult-2025-em-barcelona/whatsapp-image-2025-10-02-at-11-02-56-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-mondiacult-2025-em-barcelona",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan participa do 2º Congresso Internacional Estudos da Paisagem, em Maceió (AL)",
       "data": "01/10/2025",
       "resumo": "01/10/2025 - Com o tema “Arquitetura das Águas: entre urgências e travessias”, evento reúne ciência, cultura e arte",
@@ -14,14 +22,6 @@
       "resumo": "01/10/2025 - Novo espaço reúne informações úteis para quem deseja apoiar projetos de preservação e valorização do patrimônio cultural brasileiro via Lei Rouanet",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-pagina-patrimonio-cultural-na-lei-rouanet/banner_lei_rounet_1150x500.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-pagina-patrimonio-cultural-na-lei-rouanet",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan realiza 10º Seminário de Gênero e Patrimônio Cultural, no Recife (PE)",
-      "data": "01/10/2025",
-      "resumo": "01/10/2025 - Edição destacou a atuação das mulheres na salvaguarda da Capoeira",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-10o-seminario-de-genero-e-patrimonio-cultural-no-recife-pe/xxx54810703532_6893d5dd0e_k1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-10o-seminario-de-genero-e-patrimonio-cultural-no-recife-pe",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
