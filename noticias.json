@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan autoriza reforma do Museu Pedro Ludovico, em Goiânia",
+      "data": "03/10/2025",
+      "resumo": "03/10/2025 - Imóvel tombado preserva a memória do fundador da capital goiana e integra o conjunto Art Déco da cidade",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-autoriza-reforma-do-museu-pedro-ludovico-em-goiania/design-sem-nome-76.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-autoriza-reforma-do-museu-pedro-ludovico-em-goiania",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "No Rio de Janeiro, seminário aborda a preservação do patrimônio cultural em tempos de crise",
       "data": "03/10/2025",
       "resumo": "03/10/2025 - Evento é resultado de um Termo de Cooperação Técnica assinado entre Iphan e Inepac.",
@@ -14,14 +22,6 @@
       "resumo": "03/10/2025 - Participantes concorrem a prêmios de até 800 dólares; inscrições vão até 30/11",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/crespial-lanca-concurso-de-fotos-sobre-o-patrimonio-imaterial-na-america-latina/poster-concurso-foto-mpci.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/crespial-lanca-concurso-de-fotos-sobre-o-patrimonio-imaterial-na-america-latina",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Em setembro, Iphan libera R$ 81 milhões para restaurar bens culturais",
-      "data": "02/10/2025",
-      "resumo": "02/10/2025 - Recursos do Novo PAC viabilizam obras em igrejas, museus, mercados e sítios históricos em oito estados",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-libera-em-setembro-r-81-milhoes-para-restaurar-bens-culturais/002bb48b-a4fa-4c2d-8af4-94f59ea0f8e3-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-libera-em-setembro-r-81-milhoes-para-restaurar-bens-culturais",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
