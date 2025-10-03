@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Crespial lança concurso de fotos sobre o Patrimônio Imaterial na América Latina",
+      "data": "03/10/2025",
+      "resumo": "03/10/2025 - Participantes concorrem a prêmios de até 800 dólares; inscrições vão até 30/11",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/crespial-lanca-concurso-de-fotos-sobre-o-patrimonio-imaterial-na-america-latina/poster-concurso-foto-mpci.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/crespial-lanca-concurso-de-fotos-sobre-o-patrimonio-imaterial-na-america-latina",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Em setembro, Iphan libera R$ 81 milhões para restaurar bens culturais",
       "data": "02/10/2025",
       "resumo": "02/10/2025 - Recursos do Novo PAC viabilizam obras em igrejas, museus, mercados e sítios históricos em oito estados",
@@ -14,14 +22,6 @@
       "resumo": "02/10/2025 - Instituto realizou as atividades no âmbito do projeto Andanças do Patrimônio",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-ouve-povos-indigenas-de-terreiro-e-comunidades-quilombolas-para-construcao-do-snpc/2025_df_brasilia_patrimonioculturalquilombola_marianaalves-69-2.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-ouve-povos-indigenas-de-terreiro-e-comunidades-quilombolas-para-construcao-do-snpc",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan divulga resultado da 4ª etapa do edital para servidores externos",
-      "data": "02/10/2025",
-      "resumo": "02/10/2025 - Prazo para solicitações de esclarecimentos e/ou recursos vai até o dia 2/10",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-4a-etapa-do-edital-para-servidores-externos-1/6e7c3743450b46b59193b3cde0e02a7d.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-4a-etapa-do-edital-para-servidores-externos-1",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
