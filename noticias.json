@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Wagner Moura destaca sucesso de filmes e conecta cinema à democracia no Brasil",
+      "data": "",
+      "resumo": "Ator e cineasta destaca democracia como fator-chave para a prosperidade da sétima arte e elogia sucesso de O Agente Secreto",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250915200916_5f5db0738627bf1897a565da24e0eebcb19ee9bd32af4ae0d4f15630de5339b0.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Sean \"Diddy\" Combs é sentenciado a mais de 4 anos de prisão por prostituição",
       "data": "",
       "resumo": "Rapper Combs, de 55 anos, foi condenado em duas acusações",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251003201052_f5b862e02c41301bf312f8a26bacaa778d1d98fc444adaa99cba53507395acc9.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251003201052_c0a27f16de98c6070d3077973251d0241f0d8fb5c08cb714510d332a7438258d.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Filho de Milton Nascimento faz relato emocionante sobre o pai",
-      "data": "",
-      "resumo": "Augusto promete dar “dignidade e conforto” ao artista, que teve diagnóstico de demência anunciado nesta quinta: “Inseparáveis e invencíveis”",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251002181044_3918722b-f67c-4b30-bf04-36249c035389.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Elsevier promove palestra sobre ética na publicação científica",
+      "data": "29/09/2025",
+      "resumo": "29/09/2025 -\n                Evento ocorrerá em forma de webinário às 11h do dia 7 de outubro, horário de Brasília; inscrições estão abertas",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Elsevier_Webinrio.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4271-elsevier-promove-palestra-sobre-etica-na-publicacao-cientifica.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza três treinamentos na 1ª quinzena de outubro",
+      "data": "26/09/2025",
+      "resumo": "26/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas com responsabilidade ambiental, escrita científica e cultura conectada",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4270-capes-realiza-tres-treinamentos-na-1-quinzena-de-outubro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Pesquisadores brasileiros publicaram 2,5 mil artigos em acesso aberto com os novos acordos da CAPES com editoras",
+      "data": "19/09/2025",
+      "resumo": "19/09/2025 -\n                Agência já firmou parceria com ACS, IEEE, Wiley e RSP, o que assegurou o pagamento dos textos publicados no último ano",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_APC_Capes.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/94-artigo/4269-pesquisadores-brasileiros-publicaram-2-5-mil-artigos-em-acesso-aberto-com-os-novos-acordos-da-capes-com-editoras.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
