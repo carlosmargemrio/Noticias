@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan presenteia estudantes do DF com obras sobre educação patrimonial",
+      "data": "07/10/2025",
+      "resumo": "07/10/2025 - Livros também estão disponíveis na Biblioteca Digital do Instituto",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-presenteia-estudantes-do-df-com-obras-sobre-educacao-patrimonial/2025_df_planaltina_lancamentolivros_marianaalves-28-4.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-presenteia-estudantes-do-df-com-obras-sobre-educacao-patrimonial",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Patrimônio afro-brasileiro no Rio ganha impulso com apoio da Lei Rouanet",
       "data": "06/10/2025",
       "resumo": "06/10/2025 - Com alcance ampliado, circuito pela Pequena África conecta passado e presente e segue aberto a novos aportes por meio do mecanismo de incentivo fiscal",
@@ -14,14 +22,6 @@
       "resumo": "06/10/2025 - Mostra valoriza o trabalho dos artesãos do município goiano",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-para-a-exposicao-ig-da-prata-de-pirenopolis/design-sem-nome-77.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-para-a-exposicao-ig-da-prata-de-pirenopolis",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Amazonas recebe oficina de elaboração de projetos culturais sobre patrimônio cultural",
-      "data": "06/10/2025",
-      "resumo": "06/10/2025 - Iniciativa do Iphan é voltada a agentes culturais, detentores do patrimônio, educadores e comunidades tradicionais",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/amazonas-recebe-oficina-de-elaboracao-de-projetos-culturais-sobre-patrimonio-cultural/whatsapp-image-2025-10-06-at-09-51-28-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/amazonas-recebe-oficina-de-elaboracao-de-projetos-culturais-sobre-patrimonio-cultural",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250522110552_2c61e46e-cf6f-4338-bc62-0d939d7c43c4.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Elsevier promove palestra sobre ética na publicação científica",
+      "data": "29/09/2025",
+      "resumo": "29/09/2025 -\n                Evento ocorrerá em forma de webinário às 11h do dia 7 de outubro, horário de Brasília; inscrições estão abertas",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Elsevier_Webinrio.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4271-elsevier-promove-palestra-sobre-etica-na-publicacao-cientifica.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza três treinamentos na 1ª quinzena de outubro",
+      "data": "26/09/2025",
+      "resumo": "26/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas com responsabilidade ambiental, escrita científica e cultura conectada",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4270-capes-realiza-tres-treinamentos-na-1-quinzena-de-outubro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Pesquisadores brasileiros publicaram 2,5 mil artigos em acesso aberto com os novos acordos da CAPES com editoras",
+      "data": "19/09/2025",
+      "resumo": "19/09/2025 -\n                Agência já firmou parceria com ACS, IEEE, Wiley e RSP, o que assegurou o pagamento dos textos publicados no último ano",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_APC_Capes.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/94-artigo/4269-pesquisadores-brasileiros-publicaram-2-5-mil-artigos-em-acesso-aberto-com-os-novos-acordos-da-capes-com-editoras.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
