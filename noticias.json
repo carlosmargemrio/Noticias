@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Wagner Moura diz que democracia brasileira \"tira onda dos EUA\"",
+      "data": "",
+      "resumo": "Ator retorna ao teatro após 16 anos e comenta ataques da direita e ascensão autoritária nos Estados Unidos sob Donald Trump",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250915200916_5f5db0738627bf1897a565da24e0eebcb19ee9bd32af4ae0d4f15630de5339b0.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Quem matou Odete Roitman? Mistério e nostalgia marcam nova versão de Vale Tudo",
       "data": "",
       "resumo": "Remake escrito por Manuela Dias revive o assassinato mais famoso da teledramaturgia brasileira, mas muda o perfil da vilã e divide opiniões do público",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250522110552_12ce1f66-1d1a-464b-b227-d099ba5070a6.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250522110552_2c61e46e-cf6f-4338-bc62-0d939d7c43c4.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250522110552_2c61e46e-cf6f-4338-bc62-0d939d7c43c4.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Lula é recebido com gritos de “sem anistia” em show de Maria Bethânia (vídeo)",
-      "data": "",
-      "resumo": "Manifestação ocorreu em São Paulo durante turnê de 60 anos da cantora e refletiu o clima político após protestos contra a PEC da Blindagem",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250929150940_7844d1d909bbe91288f6867250d5c3dc68ffc6987cdce258d5f7834f6cf2ff4f.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Elsevier promove palestra sobre ética na publicação científica",
-      "data": "29/09/2025",
-      "resumo": "29/09/2025 -\n                Evento ocorrerá em forma de webinário às 11h do dia 7 de outubro, horário de Brasília; inscrições estão abertas",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Elsevier_Webinrio.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4271-elsevier-promove-palestra-sobre-etica-na-publicacao-cientifica.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES realiza três treinamentos na 1ª quinzena de outubro",
-      "data": "26/09/2025",
-      "resumo": "26/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas com responsabilidade ambiental, escrita científica e cultura conectada",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4270-capes-realiza-tres-treinamentos-na-1-quinzena-de-outubro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Pesquisadores brasileiros publicaram 2,5 mil artigos em acesso aberto com os novos acordos da CAPES com editoras",
-      "data": "19/09/2025",
-      "resumo": "19/09/2025 -\n                Agência já firmou parceria com ACS, IEEE, Wiley e RSP, o que assegurou o pagamento dos textos publicados no último ano",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_APC_Capes.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/94-artigo/4269-pesquisadores-brasileiros-publicaram-2-5-mil-artigos-em-acesso-aberto-com-os-novos-acordos-da-capes-com-editoras.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
