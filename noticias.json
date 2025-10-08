@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Há 25 anos, Brasil é referência na valorização de saberes e práticas culturais",
+      "data": "08/10/2025",
+      "resumo": "08/10/2025 - Instituída em 2000, Política Nacional de Salvaguarda do Patrimônio Imaterial revolucionou a forma como o país cuida da sua memória e identidade",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ha-25-anos-brasil-e-referencia-mundial-na-valorizacao-de-saberes-e-praticas-culturais/banner-patrimonio-imaterial.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ha-25-anos-brasil-e-referencia-mundial-na-valorizacao-de-saberes-e-praticas-culturais",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Nova plataforma do Iphan promove tudo que é Bem Brasileiro",
       "data": "08/10/2025",
       "resumo": "08/10/2025 - Acervo digital traz mais de 2 mil itens sobre bens imateriais registrados como Patrimônio Cultural do Brasil",
@@ -14,14 +22,6 @@
       "resumo": "08/10/2025 - Recursos podem ser enviados até o dia 10 de outubro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-divulgada-lista-preliminar-com-33-acoes-finalistas/prmfa25_banner-noticia-capoeirista.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-divulgada-lista-preliminar-com-33-acoes-finalistas",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan presenteia estudantes do DF com obras sobre educação patrimonial",
-      "data": "07/10/2025",
-      "resumo": "07/10/2025 - Livros também estão disponíveis na Biblioteca Digital do Instituto",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-presenteia-estudantes-do-df-com-obras-sobre-educacao-patrimonial/2025_df_planaltina_lancamentolivros_marianaalves-28-4.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-presenteia-estudantes-do-df-com-obras-sobre-educacao-patrimonial",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
