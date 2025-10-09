@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan divulga resultado definitivo do Edital Arqueologia Viva",
+      "data": "09/10/2025",
+      "resumo": "09/10/2025 - Doze projetos sobre o patrimônio arqueológico",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-definitivo-do-edital-arqueologia-viva/cfec1b03-01ee-4c81-84a4-6c7a283e92b0.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-definitivo-do-edital-arqueologia-viva",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Há 25 anos, Brasil é referência na valorização de saberes e práticas culturais",
       "data": "08/10/2025",
       "resumo": "08/10/2025 - Instituída em 2000, Política Nacional de Salvaguarda do Patrimônio Imaterial revolucionou a forma como o país cuida da sua memória e identidade",
@@ -14,14 +22,6 @@
       "resumo": "08/10/2025 - Acervo digital traz mais de 2 mil itens sobre bens imateriais registrados como Patrimônio Cultural do Brasil",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-plataforma-do-iphan-promove-tudo-que-e-bem-brasileiro/instituto-do-patrimonio-historico-e-artistico-nacional.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-plataforma-do-iphan-promove-tudo-que-e-bem-brasileiro",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Prêmio Rodrigo 2025: divulgada lista preliminar com 33 ações finalistas",
-      "data": "08/10/2025",
-      "resumo": "08/10/2025 - Recursos podem ser enviados até o dia 10 de outubro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-divulgada-lista-preliminar-com-33-acoes-finalistas/prmfa25_banner-noticia-capoeirista.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/premio-rodrigo-2025-divulgada-lista-preliminar-com-33-acoes-finalistas",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
