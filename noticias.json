@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan coopera com estudantes em torneio internacional de robótica",
+      "data": "09/10/2025",
+      "resumo": "09/10/2025 - Superintendências e escritórios técnicos do Instituto receberam equipes competidoras de todo Brasil",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-coopera-com-estudantes-em-torneio-internacional-de-robotica/whatsapp-image-2025-10-08-at-16-04-30-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-coopera-com-estudantes-em-torneio-internacional-de-robotica",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan faz vistoria técnica em sítio arqueológico no Amazonas",
       "data": "09/10/2025",
       "resumo": "09/10/2025 - A ação ocorreu em Santo Antônio do Içá, no Alto Solimões, e teve como objetivo o levantamento e a avaliação das condições de preservação do Sítio Arqueológico Presidente Vargas, do Acervo Arqueológico da Comunidade e de sua regularização",
@@ -14,14 +22,6 @@
       "resumo": "09/10/2025 - Portaria estabelece novos critérios para o funcionamento dos locais",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ao-vivo-iphan-apresenta-nova-norma-para-instituicoes-de-guarda-e-pesquisa-igps/whatsapp-image-2025-10-09-at-11-12-30-2.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ao-vivo-iphan-apresenta-nova-norma-para-instituicoes-de-guarda-e-pesquisa-igps",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan disponibiliza  1ª Retificação do edital do Mestrado Proﬁssional em Preservação do Patrimônio Cultural para servidores externos",
-      "data": "09/10/2025",
-      "resumo": "09/10/2025 - Mudança ocorreu no item que trata da composição da Comissão de Homologação",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-disponibiliza-1a-retificacao-do-edital-do-mestrado-profissional-em-preservacao-do-patrimonio-cultural-para-servidores-externos/04c77ab4-0ee3-4f1e-aa7a-b05d23121eda.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-disponibiliza-1a-retificacao-do-edital-do-mestrado-profissional-em-preservacao-do-patrimonio-cultural-para-servidores-externos",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
