@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Sítio Roberto Burle Marx recebe experiência gastronômica em parceria com o Airbnb",
+      "data": "10/10/2025",
+      "resumo": "10/10/2025 - Momento é oportunidade de aprender culinária em meio a natureza",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-recebe-experiencia-gastronomica-em-parceria-com-o-airbnb/design-sem-nome-79.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-recebe-experiencia-gastronomica-em-parceria-com-o-airbnb",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan registra sítio arqueológico Pedra da Varanda, na Bahia",
       "data": "10/10/2025",
       "resumo": "10/10/2025 - Localizado em Livramento de Nossa Senhora, o abrigo sob rocha preserva pinturas rupestres pré-coloniais nas cores preta e vermelha",
@@ -14,14 +22,6 @@
       "resumo": "10/10/2025 - Os encontros virtuais, parte do plano de trabalho do Grupo, já ocorreram no Norte e Nordeste",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/gt-sobre-patrimonio-cultural-indigena-do-iphan-escuta-povos-nas-cinco-regioes-do-pais/e5df142d-1faa-43c5-ba7e-269bf58f01cc.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/gt-sobre-patrimonio-cultural-indigena-do-iphan-escuta-povos-nas-cinco-regioes-do-pais",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Oito estados receberam escutas do Andanças do Patrimônio, em setembro",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 - A iniciativa coletou contribuições essenciais para a construção das bases do Sistema Nacional de Patrimônio Cultural (SNPC)",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oito-estados-receberam-escutas-do-andancas-do-patrimonio-em-setembro/dsc07880-1-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oito-estados-receberam-escutas-do-andancas-do-patrimonio-em-setembro",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
