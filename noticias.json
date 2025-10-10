@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove eventos sobre patrimônio arquivístico no Ceará",
+      "data": "10/10/2025",
+      "resumo": "10/10/2025 - As atividades serão nas cidades de Fortaleza e Quixadá nos dias 14, 15 e 16 de outubro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-evento-sobre-patrimonio-arquivistico-no-ceara/whatsapp-image-2025-10-10-at-19-44-31-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-evento-sobre-patrimonio-arquivistico-no-ceara",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan fiscaliza patrimônios culturais na rota da peregrinação do Círio de Nazaré",
       "data": "10/10/2025",
       "resumo": "10/10/2025 - A maior procissão católica do Brasil conta com a atuação do Instituto para garantir a preservação dos bens tombados",
@@ -14,14 +22,6 @@
       "resumo": "10/10/2025 - Momento é oportunidade de aprender culinária em meio a natureza",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-recebe-experiencia-gastronomica-em-parceria-com-o-airbnb/design-sem-nome-79.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-recebe-experiencia-gastronomica-em-parceria-com-o-airbnb",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan registra sítio arqueológico Pedra da Varanda, na Bahia",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 - Localizado em Livramento de Nossa Senhora, o abrigo sob rocha preserva pinturas rupestres pré-coloniais nas cores preta e vermelha",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-registra-sitio-arqueologico-pedra-da-varanda-na-bahia/design-sem-nome-78.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-registra-sitio-arqueologico-pedra-da-varanda-na-bahia",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251008191036_d88cb96a-45de-4f0d-8dd1-353605770498.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Na 2ª quinzena de outubro seis treinamentos serão realizados",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 -\n                Eventos são gratuitos, on-line e interativos; o projeto Em Pauta é destaque com palestras sobre IA e publicações de acesso aberto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_quinzena2.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4274-na-2-quinzena-de-outubro-seis-treinamentos-serao-realizados.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Webinar explica uso de plataforma com conteúdo histórico",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 -\n                Evento será no dia 14 de outubro, às 15 horas, e abrange as coleções da editora Alexander Street, vinculada à Clarivate",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Alexander_Street.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4273-webinar-explica-uso-de-plataforma-com-conteudo-historico.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Elsevier promove palestra sobre ética na publicação científica",
-      "data": "29/09/2025",
-      "resumo": "29/09/2025 -\n                Evento ocorrerá em forma de webinário às 11h do dia 7 de outubro, horário de Brasília; inscrições estão abertas",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Elsevier_Webinrio.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4271-elsevier-promove-palestra-sobre-etica-na-publicacao-cientifica.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
