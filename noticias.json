@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan fiscaliza patrimônios culturais na rota da peregrinação do Círio de Nazaré",
+      "data": "10/10/2025",
+      "resumo": "10/10/2025 - A maior procissão católica do Brasil conta com a atuação do Instituto para garantir a preservação dos bens tombados",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-patrimonios-culturais-na-rota-da-peregrinacao-do-cirio-de-nazare/design-sem-nome-80.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-patrimonios-culturais-na-rota-da-peregrinacao-do-cirio-de-nazare",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Sítio Roberto Burle Marx recebe experiência gastronômica em parceria com o Airbnb",
       "data": "10/10/2025",
       "resumo": "10/10/2025 - Momento é oportunidade de aprender culinária em meio a natureza",
@@ -14,14 +22,6 @@
       "resumo": "10/10/2025 - Localizado em Livramento de Nossa Senhora, o abrigo sob rocha preserva pinturas rupestres pré-coloniais nas cores preta e vermelha",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-registra-sitio-arqueologico-pedra-da-varanda-na-bahia/design-sem-nome-78.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-registra-sitio-arqueologico-pedra-da-varanda-na-bahia",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "GT sobre Patrimônio Cultural Indígena do Iphan escuta povos nas cinco regiões do país",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 - Os encontros virtuais, parte do plano de trabalho do Grupo, já ocorreram no Norte e Nordeste",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/gt-sobre-patrimonio-cultural-indigena-do-iphan-escuta-povos-nas-cinco-regioes-do-pais/e5df142d-1faa-43c5-ba7e-269bf58f01cc.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/gt-sobre-patrimonio-cultural-indigena-do-iphan-escuta-povos-nas-cinco-regioes-do-pais",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
