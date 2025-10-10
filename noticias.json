@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "GT sobre Patrimônio Cultural Indígena do Iphan escuta povos nas cinco regiões do país",
+      "data": "10/10/2025",
+      "resumo": "10/10/2025 - Os encontros virtuais, parte do plano de trabalho do Grupo, já ocorreram no Norte e Nordeste",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/gt-sobre-patrimonio-cultural-indigena-do-iphan-escuta-povos-nas-cinco-regioes-do-pais/e5df142d-1faa-43c5-ba7e-269bf58f01cc.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/gt-sobre-patrimonio-cultural-indigena-do-iphan-escuta-povos-nas-cinco-regioes-do-pais",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Oito estados receberam escutas do Andanças do Patrimônio, em setembro",
       "data": "10/10/2025",
       "resumo": "10/10/2025 - A iniciativa coletou contribuições essenciais para a construção das bases do Sistema Nacional de Patrimônio Cultural (SNPC)",
@@ -14,14 +22,6 @@
       "resumo": "10/10/2025 - Atividades beneficiadas pelo edital PNPI de 2023 levam saberes da manifestação cultural registrada pelo Instituto a crianças, adolescentes e jovens adultos",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-do-projeto-na-pisada-do-cavalo-marinho-estrela-de-ouro-transmissao-de-saberes-do-cavalo-marinho-em-pernambuco/whatsapp-image-2025-10-09-at-15-53-54-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-do-projeto-na-pisada-do-cavalo-marinho-estrela-de-ouro-transmissao-de-saberes-do-cavalo-marinho-em-pernambuco",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan coopera com estudantes em torneio internacional de robótica",
-      "data": "09/10/2025",
-      "resumo": "09/10/2025 - Superintendências e escritórios técnicos do Instituto receberam equipes competidoras de todo Brasil",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-coopera-com-estudantes-em-torneio-internacional-de-robotica/whatsapp-image-2025-10-08-at-16-04-30-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-coopera-com-estudantes-em-torneio-internacional-de-robotica",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -49,6 +49,14 @@
       "fonte": "Brasil 247"
     },
     {
+      "titulo": "Na 2ª quinzena de outubro seis treinamentos serão realizados",
+      "data": "10/10/2025",
+      "resumo": "10/10/2025 -\n                Eventos são gratuitos, on-line e interativos; o projeto Em Pauta é destaque com palestras sobre IA e publicações de acesso aberto",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_quinzena2.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4274-na-2-quinzena-de-outubro-seis-treinamentos-serao-realizados.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
       "titulo": "Webinar explica uso de plataforma com conteúdo histórico",
       "data": "10/10/2025",
       "resumo": "10/10/2025 -\n                Evento será no dia 14 de outubro, às 15 horas, e abrange as coleções da editora Alexander Street, vinculada à Clarivate",
@@ -62,14 +70,6 @@
       "resumo": "29/09/2025 -\n                Evento ocorrerá em forma de webinário às 11h do dia 7 de outubro, horário de Brasília; inscrições estão abertas",
       "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Elsevier_Webinrio.png",
       "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4271-elsevier-promove-palestra-sobre-etica-na-publicacao-cientifica.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES realiza três treinamentos na 1ª quinzena de outubro",
-      "data": "26/09/2025",
-      "resumo": "26/09/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar temas com responsabilidade ambiental, escrita científica e cultura conectada",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Treinamentos_agosto.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4270-capes-realiza-tres-treinamentos-na-1-quinzena-de-outubro.html",
       "fonte": "Periódicos CAPES"
     }
   ],
