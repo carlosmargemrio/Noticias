@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan registra sítio arqueológico Pedra da Varanda, na Bahia",
+      "data": "10/10/2025",
+      "resumo": "10/10/2025 - Localizado em Livramento de Nossa Senhora, o abrigo sob rocha preserva pinturas rupestres pré-coloniais nas cores preta e vermelha",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-registra-sitio-arqueologico-pedra-da-varanda-na-bahia/design-sem-nome-78.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-registra-sitio-arqueologico-pedra-da-varanda-na-bahia",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "GT sobre Patrimônio Cultural Indígena do Iphan escuta povos nas cinco regiões do país",
       "data": "10/10/2025",
       "resumo": "10/10/2025 - Os encontros virtuais, parte do plano de trabalho do Grupo, já ocorreram no Norte e Nordeste",
@@ -14,14 +22,6 @@
       "resumo": "10/10/2025 - A iniciativa coletou contribuições essenciais para a construção das bases do Sistema Nacional de Patrimônio Cultural (SNPC)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oito-estados-receberam-escutas-do-andancas-do-patrimonio-em-setembro/dsc07880-1-2.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oito-estados-receberam-escutas-do-andancas-do-patrimonio-em-setembro",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan participa do projeto \"Na Pisada do Cavalo Marinho Estrela de Ouro - Transmissão de saberes do Cavalo Marinho\", em Pernambuco",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 - Atividades beneficiadas pelo edital PNPI de 2023 levam saberes da manifestação cultural registrada pelo Instituto a crianças, adolescentes e jovens adultos",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-do-projeto-na-pisada-do-cavalo-marinho-estrela-de-ouro-transmissao-de-saberes-do-cavalo-marinho-em-pernambuco/whatsapp-image-2025-10-09-at-15-53-54-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-do-projeto-na-pisada-do-cavalo-marinho-estrela-de-ouro-transmissao-de-saberes-do-cavalo-marinho-em-pernambuco",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
