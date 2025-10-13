@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Oficina apresenta resultados e amplia o diálogo sobre preservação do Sítio Histórico de Olinda (PE)",
+      "data": "13/10/2025",
+      "resumo": "13/10/2025 - Encontro faz parte de Acordo de Cooperação Técnica firmado entre o Iphan e Ufpe",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oficina-apresenta-resultados-e-amplia-o-dialogo-sobre-preservacao-do-sitio-historico-de-olinda-pe/WhatsAppImage20251013at12.14.131.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oficina-apresenta-resultados-e-amplia-o-dialogo-sobre-preservacao-do-sitio-historico-de-olinda-pe",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan participa de evento sobre patrimônio arquivístico no Ceará",
       "data": "10/10/2025",
       "resumo": "10/10/2025 - As atividades acontecem nos dias 14, 15 e 16 de outubro, em parceria com a Universidade Federal do Ceará, a Universidade Estadual do Ceará e o Arquivo Público do Estado do Ceará, com a participação da Secretaria das Relações Institucionais da Presidência da República (SRI/PR)",
@@ -14,14 +22,6 @@
       "resumo": "10/10/2025 - A maior procissão católica do Brasil conta com a atuação do Instituto para garantir a preservação dos bens tombados",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-patrimonios-culturais-na-rota-da-peregrinacao-do-cirio-de-nazare/design-sem-nome-80.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-patrimonios-culturais-na-rota-da-peregrinacao-do-cirio-de-nazare",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Sítio Roberto Burle Marx recebe experiência gastronômica em parceria com o Airbnb",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 - Momento é oportunidade de aprender culinária em meio a natureza",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-recebe-experiencia-gastronomica-em-parceria-com-o-airbnb/design-sem-nome-79.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-recebe-experiencia-gastronomica-em-parceria-com-o-airbnb",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
