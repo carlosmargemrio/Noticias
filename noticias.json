@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan divulga resultado preliminar do 13º Prêmio Luiz de Castro Faria",
+      "data": "14/10/2025",
+      "resumo": "14/10/2025 - Recursos podem ser interpostos até o dia 17/10 por meio eletrônico",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-preliminar-do-premio-luiz-de-castro-faria/1f321bd5-112d-439a-b0d4-a1dde0cfe171.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-preliminar-do-premio-luiz-de-castro-faria",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Rolezinho do Andanças do Patrimônio: submissões devem ser feitas até 20 de outubro",
       "data": "13/10/2025",
       "resumo": "13/10/2025 - Organizadores devem enviar as contribuições para o e-mail spnc@iphan.gov.br",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan investe mais de R$ 4 milhões em ações de salvaguarda em 2024",
-      "data": "13/10/2025",
-      "resumo": "13/10/2025 - Foram beneficiados 42 bens culturais registrados em 168 cidades brasileiras",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-investe-mais-de-r-4-milhoes-em-acoes-de-salvaguarda-em-2024/image-2-1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-investe-mais-de-r-4-milhoes-em-acoes-de-salvaguarda-em-2024",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Luis Cosme Pinto lança novo livro \"Acabou, mas continua\" em SP nesta terça",
+      "data": "",
+      "resumo": "Evento ocorre hoje, das 17h30 às 21h30, no alameda Lorena, no Jardins",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251014111044_8b6f769b8d06a3f56c69ba92729ee839c8e27388e27eafe0d654c069ea6f04e7.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Casa onde morou Machado vira estacionamento; Justiça ordena reforma",
       "data": "",
       "resumo": "Imóvel tombado fica no centro do Rio de Janeiro",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251014071048_5fbc7ecd5c984e96a39f8b843db6396b5866b0eaaf9e96b7da0abf026562cc64.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251014071048_28606c63b2ef52a7fb41fb2406573111af8856283d653cfaae920fbdb5547908.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251012101032_5cfe0c452feb926220b7ce09d197f7ed86c8ccdeb127d4903383bdaeba2695db.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Moraes é ovacionado em show de Alcione sob gritos de \"sem anistia\"",
-      "data": "",
-      "resumo": "Ministro do STF foi aplaudido pelo público durante apresentação em Brasília",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251012081040_83701458-0113-47e9-af2e-976f84a6cbbd.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Na 2ª quinzena de outubro seis treinamentos serão realizados",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 -\n                Eventos são gratuitos, on-line e interativos; o projeto Em Pauta é destaque com palestras sobre IA e publicações de acesso aberto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_quinzena2.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4274-na-2-quinzena-de-outubro-seis-treinamentos-serao-realizados.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Webinar explica uso de plataforma com conteúdo histórico",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 -\n                Evento será no dia 14 de outubro, às 15 horas, e abrange as coleções da editora Alexander Street, vinculada à Clarivate",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Alexander_Street.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4273-webinar-explica-uso-de-plataforma-com-conteudo-historico.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Elsevier promove palestra sobre ética na publicação científica",
-      "data": "29/09/2025",
-      "resumo": "29/09/2025 -\n                Evento ocorrerá em forma de webinário às 11h do dia 7 de outubro, horário de Brasília; inscrições estão abertas",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Elsevier_Webinrio.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4271-elsevier-promove-palestra-sobre-etica-na-publicacao-cientifica.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
