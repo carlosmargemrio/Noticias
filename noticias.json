@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Andanças do Patrimônio, portal Bem Brasileiro e destaques do Balaio do Patrimônio, em Natal (RN)",
+      "data": "17/10/2025",
+      "resumo": "17/10/2025 - Evento, que está na sua quarta edição, tem como objetivo celebrar a cultura potiguar e fomentar o diálogo e a cooperação para a defesa e valorização dos bens culturais locais",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/andancas-do-patrimonio-portal-bem-brasileiro-e-destaques-do-balaio-do-patrimonio-em-natal-rn/img_9042-3.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/andancas-do-patrimonio-portal-bem-brasileiro-e-destaques-do-balaio-do-patrimonio-em-natal-rn",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan divulga o resultado final da seleção do Mestrado Profissional para servidores públicos",
       "data": "17/10/2025",
       "resumo": "17/10/2025 - Os selecionados devem manifestar interesse em assumir a vaga",
@@ -14,14 +22,6 @@
       "resumo": "17/10/2025 - Iniciativa pioneira vai instalar Escritório Público de Assistência Técnica (Epat), na cidade de Santa Tereza, na Serra Gaúcha",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-cau-rs-firmam-parceria-para-preservar-patrimonio-cultural-atingido-por-enchentes/1_santa_tereza_rs__foto_iphan_maria_regina_weissheimer-1-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-cau-rs-firmam-parceria-para-preservar-patrimonio-cultural-atingido-por-enchentes",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Modo de Fazer Viola de Cocho ganha plano de salvaguarda",
-      "data": "16/10/2025",
-      "resumo": "16/10/2025 - Bem cultural associado ao complexo cultural do Cururu e do Siriri (MS) passa a ter planejamento de ações de proteção",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/modo-de-fazer-viola-de-cocho-ganha-plano-de-salvaguarda/2025_mt_cuiaba_missao_marianaalves-221-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/modo-de-fazer-viola-de-cocho-ganha-plano-de-salvaguarda",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251016201028_f6132b16bb34caae7135d444114f9f631383f2175220fb2c6e9ef4f1a4618404.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES lança página para celebrar 25 anos do Portal de Periódicos",
-      "data": "17/10/2025",
-      "resumo": "17/10/2025 -\n                Conteúdo traz histórico da plataforma, depoimentos de autoridades e personalidades da comunidade acadêmica, lista de eventos e fotos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Hotsite_1.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4276-capes-lanca-pagina-para-celebrar-25-anos-do-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Na 2ª quinzena de outubro seis treinamentos serão realizados",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 -\n                Eventos são gratuitos, on-line e interativos; o projeto Em Pauta é destaque com palestras sobre IA e publicações de acesso aberto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_quinzena2.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4274-na-2-quinzena-de-outubro-seis-treinamentos-serao-realizados.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Webinar explica uso de plataforma com conteúdo histórico",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 -\n                Evento será no dia 14 de outubro, às 15 horas, e abrange as coleções da editora Alexander Street, vinculada à Clarivate",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Alexander_Street.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4273-webinar-explica-uso-de-plataforma-com-conteudo-historico.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
