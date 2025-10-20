@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan abre consulta pública sobre registro do Ofício de Tacacazeira",
+      "data": "20/10/2025",
+      "resumo": "20/10/2025 - População tem até 19 de novembro para enviar opiniões e contribuições",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-consulta-publica-sobre-registro-do-oficio-de-tacacazeira/whatsapp-image-2025-10-20-at-17-17-33-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-consulta-publica-sobre-registro-do-oficio-de-tacacazeira",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan divulga vencedores do Prêmio Luiz de Castro Faria 2025",
       "data": "20/10/2025",
       "resumo": "20/10/2025 - Foram premiados ações continuadas e artigos científicos sobre o patrimônio arqueológico",
@@ -14,14 +22,6 @@
       "resumo": "17/10/2025 - Evento, que está na sua quarta edição, tem como objetivo celebrar a cultura potiguar e fomentar o diálogo e a cooperação para a defesa e valorização dos bens culturais locais",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/andancas-do-patrimonio-portal-bem-brasileiro-e-destaques-do-balaio-do-patrimonio-em-natal-rn/img_9042-3.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/andancas-do-patrimonio-portal-bem-brasileiro-e-destaques-do-balaio-do-patrimonio-em-natal-rn",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan divulga o resultado final da seleção do Mestrado Profissional para servidores públicos",
-      "data": "17/10/2025",
-      "resumo": "17/10/2025 - Os selecionados devem manifestar interesse em assumir a vaga",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-o-resultado-final-da-selecao-do-mestrado-profissional-para-servidores-publicos-2/04c77ab4-0ee3-4f1e-aa7a-b05d23121eda-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-o-resultado-final-da-selecao-do-mestrado-profissional-para-servidores-publicos-2",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
