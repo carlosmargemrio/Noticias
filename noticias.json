@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan divulga vencedores do Prêmio Luiz de Castro Faria 2025",
+      "data": "20/10/2025",
+      "resumo": "20/10/2025 - Foram premiados ações continuadas e artigos científicos sobre o patrimônio arqueológico",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-vencedores-do-premio-luiz-de-castro-faria-2025/c7b59e7e-59ef-4885-808c-f0235735956d.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-vencedores-do-premio-luiz-de-castro-faria-2025",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Andanças do Patrimônio, portal Bem Brasileiro e destaques do Balaio do Patrimônio, em Natal (RN)",
       "data": "17/10/2025",
       "resumo": "17/10/2025 - Evento, que está na sua quarta edição, tem como objetivo celebrar a cultura potiguar e fomentar o diálogo e a cooperação para a defesa e valorização dos bens culturais locais",
@@ -14,14 +22,6 @@
       "resumo": "17/10/2025 - Os selecionados devem manifestar interesse em assumir a vaga",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-o-resultado-final-da-selecao-do-mestrado-profissional-para-servidores-publicos-2/04c77ab4-0ee3-4f1e-aa7a-b05d23121eda-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-o-resultado-final-da-selecao-do-mestrado-profissional-para-servidores-publicos-2",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e CAU/RS firmam parceria para preservar patrimônio cultural atingido por enchentes",
-      "data": "17/10/2025",
-      "resumo": "17/10/2025 - Iniciativa pioneira vai instalar Escritório Público de Assistência Técnica (Epat), na cidade de Santa Tereza, na Serra Gaúcha",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-cau-rs-firmam-parceria-para-preservar-patrimonio-cultural-atingido-por-enchentes/1_santa_tereza_rs__foto_iphan_maria_regina_weissheimer-1-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-cau-rs-firmam-parceria-para-preservar-patrimonio-cultural-atingido-por-enchentes",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
