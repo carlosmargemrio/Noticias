@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "ONU reconhece Antônio Prado (RS) como Melhor Vila Turística do Mundo",
+      "data": "21/10/2025",
+      "resumo": "21/10/2025 - Município, cujo conjunto arquitetônico e urbanístico é tombado pelo Iphan, conta com o maior acervo arquitetônico da imigração italiana no Brasil",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/onu-reconhece-antonio-prado-rs-como-melhor-vila-turistica-do-mundo/2006_rs_antonio-prado_edu-lyra-13-_1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/onu-reconhece-antonio-prado-rs-como-melhor-vila-turistica-do-mundo",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Marabaixo ganha Plano de Salvaguarda",
       "data": "21/10/2025",
       "resumo": "21/10/2025 - Documento propõe ações para garantir a preservação e continuidade de uma das maiores expressões culturais do Amapá",
@@ -14,14 +22,6 @@
       "resumo": "21/10/2025 - Proposta patrocinada pela Vale avança na primeira etapa, dedicada à elaboração dos projetos de restauro e modernização do monumento tombado pelo Iphan",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/lei-rouanet-viabiliza-estudos-tecnicos-para-restaurar-catedral-de-brasilia/2025_df_brasilia_educacaopatrimonialcatedralpraca_marianaalves-1-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/lei-rouanet-viabiliza-estudos-tecnicos-para-restaurar-catedral-de-brasilia",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan abre consulta pública sobre normas de preservação para o Centro Histórico de Salvador (BA)",
-      "data": "21/10/2025",
-      "resumo": "21/10/2025 - Consulta tem início em 22 de outubro, na Plataforma Participa+Brasil",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-consulta-publica-sobre-normas-de-preservacao-para-o-centro-historico-de-salvador-ba/design-sem-nome-81.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-consulta-publica-sobre-normas-de-preservacao-para-o-centro-historico-de-salvador-ba",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
