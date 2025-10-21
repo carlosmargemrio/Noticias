@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan abre consulta pública sobre normas de preservação para o Centro Histórico de Salvador (BA)",
+      "data": "21/10/2025",
+      "resumo": "21/10/2025 - Consulta tem início em 22 de outubro, na Plataforma Participa+Brasil",
+      "imagem": "",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-consulta-publica-sobre-normas-de-preservacao-para-o-centro-historico-de-salvador-ba",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan abre consulta pública sobre registro do Ofício de Tacacazeira",
       "data": "20/10/2025",
       "resumo": "20/10/2025 - População tem até 19 de novembro para enviar opiniões e contribuições",
@@ -14,14 +22,6 @@
       "resumo": "20/10/2025 - Foram premiados ações continuadas e artigos científicos sobre o patrimônio arqueológico",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-vencedores-do-premio-luiz-de-castro-faria-2025/c7b59e7e-59ef-4885-808c-f0235735956d.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-vencedores-do-premio-luiz-de-castro-faria-2025",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Andanças do Patrimônio, portal Bem Brasileiro e destaques do Balaio do Patrimônio, em Natal (RN)",
-      "data": "17/10/2025",
-      "resumo": "17/10/2025 - Evento, que está na sua quarta edição, tem como objetivo celebrar a cultura potiguar e fomentar o diálogo e a cooperação para a defesa e valorização dos bens culturais locais",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/andancas-do-patrimonio-portal-bem-brasileiro-e-destaques-do-balaio-do-patrimonio-em-natal-rn/img_9042-3.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/andancas-do-patrimonio-portal-bem-brasileiro-e-destaques-do-balaio-do-patrimonio-em-natal-rn",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240829190836_b01fa8e7cc987f46b71efdd39f080d199310d7daff4e369d2614c2a5a3068fee.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES lança página para celebrar 25 anos do Portal de Periódicos",
-      "data": "17/10/2025",
-      "resumo": "17/10/2025 -\n                Conteúdo traz histórico da plataforma, depoimentos de autoridades e personalidades da comunidade acadêmica, lista de eventos e fotos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Hotsite_1.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4276-capes-lanca-pagina-para-celebrar-25-anos-do-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Na 2ª quinzena de outubro seis treinamentos serão realizados",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 -\n                Eventos são gratuitos, on-line e interativos; o projeto Em Pauta é destaque com palestras sobre IA e publicações de acesso aberto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_quinzena2.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4274-na-2-quinzena-de-outubro-seis-treinamentos-serao-realizados.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Webinar explica uso de plataforma com conteúdo histórico",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 -\n                Evento será no dia 14 de outubro, às 15 horas, e abrange as coleções da editora Alexander Street, vinculada à Clarivate",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Alexander_Street.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4273-webinar-explica-uso-de-plataforma-com-conteudo-historico.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
