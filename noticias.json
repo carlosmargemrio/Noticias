@@ -1,10 +1,18 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan divulga os 34 finalistas do Prêmio Rodrigo 2025",
+      "data": "21/10/2025",
+      "resumo": "21/10/2025 - As ações são de todas as regiões do Brasil e estão espalhadas por 18 estados",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-os-34-finalistas-do-premio-rodrigo-2025/prmfa25_banner-noticia2-baiana.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-os-34-finalistas-do-premio-rodrigo-2025",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan convida comunidade para discutir preservação do município de Cachoeira (BA)",
       "data": "21/10/2025",
       "resumo": "21/10/2025 - Escuta social busca identificar os valores atribuídos pela população e definir os limites da área tombada",
-      "imagem": "",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-comunidade-para-discutir-preservacao-do-municipio-de-cachoeira-ba/design-sem-nome-82.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-comunidade-para-discutir-preservacao-do-municipio-de-cachoeira-ba",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
@@ -14,14 +22,6 @@
       "resumo": "21/10/2025 - Candidatura da Chapada do Araripe (CE) a Patrimônio Mundial foi destaque no último dia de debate",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-icomos-brasil-encerram-serie-de-encontros-preparatorios-para-o-8o-simposio-cientifico/encontrosprep2025sofoto.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-icomos-brasil-encerram-serie-de-encontros-preparatorios-para-o-8o-simposio-cientifico",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "ONU reconhece Antônio Prado (RS) como uma das 50 melhores vilas turísticas do mundo",
-      "data": "21/10/2025",
-      "resumo": "21/10/2025 - Município, cujo conjunto arquitetônico e urbanístico é tombado pelo Iphan, conta com o maior acervo arquitetônico da imigração italiana no Brasil",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/onu-reconhece-antonio-prado-rs-como-melhor-vila-turistica-do-mundo/2006_rs_antonio-prado_edu-lyra-13-_1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/onu-reconhece-antonio-prado-rs-como-melhor-vila-turistica-do-mundo",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240829190836_b01fa8e7cc987f46b71efdd39f080d199310d7daff4e369d2614c2a5a3068fee.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES lança página para celebrar 25 anos do Portal de Periódicos",
+      "data": "17/10/2025",
+      "resumo": "17/10/2025 -\n                Conteúdo traz histórico da plataforma, depoimentos de autoridades e personalidades da comunidade acadêmica, lista de eventos e fotos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Hotsite_1.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4276-capes-lanca-pagina-para-celebrar-25-anos-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Na 2ª quinzena de outubro seis treinamentos serão realizados",
+      "data": "10/10/2025",
+      "resumo": "10/10/2025 -\n                Eventos são gratuitos, on-line e interativos; o projeto Em Pauta é destaque com palestras sobre IA e publicações de acesso aberto",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_quinzena2.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4274-na-2-quinzena-de-outubro-seis-treinamentos-serao-realizados.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Webinar explica uso de plataforma com conteúdo histórico",
+      "data": "10/10/2025",
+      "resumo": "10/10/2025 -\n                Evento será no dia 14 de outubro, às 15 horas, e abrange as coleções da editora Alexander Street, vinculada à Clarivate",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Alexander_Street.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4273-webinar-explica-uso-de-plataforma-com-conteudo-historico.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
