@@ -1,27 +1,27 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Alunos da UnB debatem filme sobre restauro de obras de arte vandalizadas no 8 de janeiro",
+      "data": "24/10/2025",
+      "resumo": "24/10/2025 - Exibição de documentário produzido pelo Iphan inspirou reflexões sobre instrumentos, desafios e importância de políticas públicas culturais",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/alunos-da-unb-debatem-filme-sobre-restauro-de-obras-de-arte-vandalizadas-no-8-de-janeiro/img_1166-1-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/alunos-da-unb-debatem-filme-sobre-restauro-de-obras-de-arte-vandalizadas-no-8-de-janeiro",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Programa Conviver alia conhecimento das universidades com saberes tradicionais",
+      "data": "24/10/2025",
+      "resumo": "24/10/2025 - Presidente do Iphan considera que ação representa uma virada de chave na forma como o Estado vê os moradores de centros históricos",
+      "imagem": "",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/programa-conviver-alia-conhecimento-das-universidades-com-saberes-tradicionais",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan abre consulta pública sobre registro da Ourivesaria de Natividade (TO)",
       "data": "23/10/2025",
       "resumo": "23/10/2025 - População tem até 21 de novembro para enviar opiniões e contribuições",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-consulta-publica-sobre-registro-da-ourivesaria-de-natividade-to/whatsapp-image-2025-10-23-at-16-02-36-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-consulta-publica-sobre-registro-da-ourivesaria-de-natividade-to",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan acompanha obra de revitalização de igrejas católicas em João Pessoa (PB)",
-      "data": "23/10/2025",
-      "resumo": "23/10/2025 - Ação integra o projeto Caminhos da Fé, que busca resgatar a história da fundação da capital paraibana por meio da visitação às igrejas coloniais e da restauração de patrimônios históricos",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-acompanha-obra-de-revitalizacao-de-igrejas-catolicas-em-joao-pessoa-pb/design-sem-nome-83.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-acompanha-obra-de-revitalizacao-de-igrejas-catolicas-em-joao-pessoa-pb",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Reconhecida como Patrimônio Mundial, Paraty (RJ) está entre as 50 vilas mais bonitas do mundo, segundo a Forbes",
-      "data": "22/10/2025",
-      "resumo": "22/10/2025 - Revista norte-americana destacou harmonia entre história, cultura e natureza",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/reconhecida-como-patrimonio-mundial-paraty-rj-esta-entre-as-50-vilas-mais-bonitas-do-mundo-segundo-a-forbes/xxxxx51277986897_11df348532_b1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/reconhecida-como-patrimonio-mundial-paraty-rj-esta-entre-as-50-vilas-mais-bonitas-do-mundo-segundo-a-forbes",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251021021032_25bc264e6b997b695d71b067e44cf79bae821cf2f616a4bbfcb832021a422028.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES lança página para celebrar 25 anos do Portal de Periódicos",
+      "data": "17/10/2025",
+      "resumo": "17/10/2025 -\n                Conteúdo traz histórico da plataforma, depoimentos de autoridades e personalidades da comunidade acadêmica, lista de eventos e fotos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Hotsite_1.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4276-capes-lanca-pagina-para-celebrar-25-anos-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Na 2ª quinzena de outubro seis treinamentos serão realizados",
+      "data": "10/10/2025",
+      "resumo": "10/10/2025 -\n                Eventos são gratuitos, on-line e interativos; o projeto Em Pauta é destaque com palestras sobre IA e publicações de acesso aberto",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_quinzena2.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4274-na-2-quinzena-de-outubro-seis-treinamentos-serao-realizados.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Webinar explica uso de plataforma com conteúdo histórico",
+      "data": "10/10/2025",
+      "resumo": "10/10/2025 -\n                Evento será no dia 14 de outubro, às 15 horas, e abrange as coleções da editora Alexander Street, vinculada à Clarivate",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Alexander_Street.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4273-webinar-explica-uso-de-plataforma-com-conteudo-historico.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
