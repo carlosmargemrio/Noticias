@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Centro Lucio Costa retoma, definitivamente, suas atividades no Palácio Gustavo Capanema (RJ)",
+      "data": "28/10/2025",
+      "resumo": "28/10/2025 - As aulas do Mestrado Profissional do Iphan também vão acontecer no local, a partir de novembro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-lucio-costa-retoma-definitivamente-suas-atividades-no-palacio-gustavo-capanema-rj/ixxkjixxmage1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-lucio-costa-retoma-definitivamente-suas-atividades-no-palacio-gustavo-capanema-rj",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Processo de registro da Festa do Rosário, em Pombal (PB), avança no Iphan",
       "data": "28/10/2025",
       "resumo": "28/10/2025 - Pleito, que inclui ainda o tombamento da Igreja de Nossa Senhora do Rosário, busca fortalecer a política de preservação integrada dos bens culturais do município",
@@ -14,14 +22,6 @@
       "resumo": "24/10/2025 - Documento reforça a importância da gestão preventiva de riscos, conforme recomendado pela Unesco",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-rs-iphan-iphae-e-mp-do-estado-lancam-guia-para-proteger-bens-culturais-de-desastres/2013_rs_porto-alegre_igreja-nossa-senhora-das-dores_bento-viana-2-_1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-rs-iphan-iphae-e-mp-do-estado-lancam-guia-para-proteger-bens-culturais-de-desastres",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Alunos da UnB debatem filme sobre restauro de obras de arte vandalizadas no 8 de janeiro",
-      "data": "24/10/2025",
-      "resumo": "24/10/2025 - Exibição de documentário produzido pelo Iphan inspirou reflexões sobre instrumentos, desafios e importância de políticas públicas culturais",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/alunos-da-unb-debatem-filme-sobre-restauro-de-obras-de-arte-vandalizadas-no-8-de-janeiro/img_1166-1-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/alunos-da-unb-debatem-filme-sobre-restauro-de-obras-de-arte-vandalizadas-no-8-de-janeiro",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
