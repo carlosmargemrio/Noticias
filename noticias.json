@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove atividades de educação patrimonial em escolas municipais do Rio",
+      "data": "28/10/2025",
+      "resumo": "28/10/2025 - Iniciativa em parceria com o projeto Experimente Cultura estimula crianças a refletirem sobre a preservação do patrimônio",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-atividades-de-educacao-patrimonial-em-escolas-municipais-do-rio/2xxx0251023_142312809_iOS1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-atividades-de-educacao-patrimonial-em-escolas-municipais-do-rio",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Centro Lucio Costa retoma, definitivamente, suas atividades no Palácio Gustavo Capanema (RJ)",
       "data": "28/10/2025",
       "resumo": "28/10/2025 - As aulas do Mestrado Profissional do Iphan também vão acontecer no local, a partir de novembro",
@@ -14,14 +22,6 @@
       "resumo": "28/10/2025 - Pleito, que inclui ainda o tombamento da Igreja de Nossa Senhora do Rosário, busca fortalecer a política de preservação integrada dos bens culturais do município",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/processo-de-registro-da-festa-do-rosario-em-pombal-pb-avanca-no-iphan/design-sem-nome-84.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/processo-de-registro-da-festa-do-rosario-em-pombal-pb-avanca-no-iphan",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "No RS, Iphan, Iphae e MP do estado lançam guia para proteger bens culturais de desastres",
-      "data": "24/10/2025",
-      "resumo": "24/10/2025 - Documento reforça a importância da gestão preventiva de riscos, conforme recomendado pela Unesco",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-rs-iphan-iphae-e-mp-do-estado-lancam-guia-para-proteger-bens-culturais-de-desastres/2013_rs_porto-alegre_igreja-nossa-senhora-das-dores_bento-viana-2-_1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-rs-iphan-iphae-e-mp-do-estado-lancam-guia-para-proteger-bens-culturais-de-desastres",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
