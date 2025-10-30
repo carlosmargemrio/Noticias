@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan destaca Patrimônio e Reparação em eventos do Mês da Consciência Negra",
+      "data": "30/10/2025",
+      "resumo": "30/10/2025 - Sob coordenação do Comitê Permanente para Preservação do Patrimônio Cultural de Matriz Africana (Copmaf), unidades do Instituto realizarão 40 ações em todas as regiões do país",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-destaca-patrimonio-e-reparacao-em-eventos-do-mes-da-consciencia-negra/consciencia-negra.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-destaca-patrimonio-e-reparacao-em-eventos-do-mes-da-consciencia-negra",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Caminhada EducaIPHAN convida a redescobrir o patrimônio de Campo Grande",
       "data": "30/10/2025",
       "resumo": "30/10/2025 - Passeio noturno une memória, cidadania e educação patrimonial nas ruas da cidade",
@@ -14,14 +22,6 @@
       "resumo": "30/10/2025 - Documentário retrata memórias e identidades da cidade mais antiga que Brasília",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/filme-sobre-patrimonios-de-taguatinga-df-estreia-nesta-sexta-feira-31-10/making-of-mini-doc-so-tagua-tem-foto-gabriela-piresgabriela-pires-ocreimagem-093.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/filme-sobre-patrimonios-de-taguatinga-df-estreia-nesta-sexta-feira-31-10",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Lei Rouanet viabiliza projetos de preservação do Palácio do Itamaraty (RJ)",
-      "data": "28/10/2025",
-      "resumo": "28/10/2025 - Iniciativas incluem modernização de espaços e proteção de acervos, e seguem abertas a novos aportes",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/lei-rouanet-viabiliza-projetos-de-preservacao-do-palacio-do-itamaraty-rj/xxxWhasfsfstsAppImage20251028at16.45.131.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/lei-rouanet-viabiliza-projetos-de-preservacao-do-palacio-do-itamaraty-rj",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220326080320_7c0cf0b3dfb08a851c10b41957c4beb2077e714bef36632c7ff62149bb3d6158.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES realiza cinco treinamentos na 1ª quinzena de novembro",
-      "data": "29/10/2025",
-      "resumo": "29/10/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos acontecem de 3 a 14 e irá abordar temas como inteligência artificial e revisão sistemática",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4278-capes-realiza-cinco-treinamentos-na-1-quinzena-de-novembro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES lança página para celebrar 25 anos do Portal de Periódicos",
-      "data": "17/10/2025",
-      "resumo": "17/10/2025 -\n                Conteúdo traz histórico da plataforma, depoimentos de autoridades e personalidades da comunidade acadêmica, lista de eventos e fotos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Hotsite_1.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4276-capes-lanca-pagina-para-celebrar-25-anos-do-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Na 2ª quinzena de outubro seis treinamentos serão realizados",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 -\n                Eventos são gratuitos, on-line e interativos; o projeto Em Pauta é destaque com palestras sobre IA e publicações de acesso aberto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_quinzena2.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4274-na-2-quinzena-de-outubro-seis-treinamentos-serao-realizados.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
