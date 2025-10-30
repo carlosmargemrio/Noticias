@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Filme sobre patrimônios de Taguatinga (DF) estreia nesta sexta-feira (31/10)",
+      "data": "30/10/2025",
+      "resumo": "30/10/2025 - Documentário retrata memórias e identidades da cidade mais antiga que Brasília",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/filme-sobre-patrimonios-de-taguatinga-df-estreia-nesta-sexta-feira-31-10/making-of-mini-doc-so-tagua-tem-foto-gabriela-piresgabriela-pires-ocreimagem-093.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/filme-sobre-patrimonios-de-taguatinga-df-estreia-nesta-sexta-feira-31-10",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Lei Rouanet viabiliza projetos de preservação do Palácio do Itamaraty (RJ)",
       "data": "28/10/2025",
       "resumo": "28/10/2025 - Iniciativas incluem modernização de espaços e proteção de acervos, e seguem abertas a novos aportes",
@@ -14,14 +22,6 @@
       "resumo": "28/10/2025 - Iniciativa em parceria com o projeto Experimente Cultura estimula crianças a refletirem sobre a preservação do patrimônio",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-atividades-de-educacao-patrimonial-em-escolas-municipais-do-rio/2xxx0251023_142312809_iOS1.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-atividades-de-educacao-patrimonial-em-escolas-municipais-do-rio",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Centro Lucio Costa retoma, definitivamente, suas atividades no Palácio Gustavo Capanema (RJ)",
-      "data": "28/10/2025",
-      "resumo": "28/10/2025 - As aulas do Mestrado Profissional do Iphan também vão acontecer no local, a partir de novembro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-lucio-costa-retoma-definitivamente-suas-atividades-no-palacio-gustavo-capanema-rj/ixxkjixxmage1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-lucio-costa-retoma-definitivamente-suas-atividades-no-palacio-gustavo-capanema-rj",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
