@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Centros de Ciências e Saberes são inaugurados em territórios indígenas de Pernambuco, com apoio do Iphan",
+      "data": "31/10/2025",
+      "resumo": "31/10/2025 - Programação incluiu rodas de diálogo, apresentações culturais e vistorias técnicas em três sítios arqueológicos",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centros-de-ciencias-e-saberes-sao-inaugurados-em-territorios-indigenas-de-pernambuco-com-apoio-do-iphan/xxxxCentrodeCinciaseSaberesAnciesdoOuricuri1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centros-de-ciencias-e-saberes-sao-inaugurados-em-territorios-indigenas-de-pernambuco-com-apoio-do-iphan",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Prevenção e gestão de riscos em bens culturais é tema de seminário no Iphan",
       "data": "31/10/2025",
       "resumo": "31/10/2025 - Evento realizado nesta quinta-feira (30), na sede do Instituto, contou com parceria da Unesco e a participação de especialistas do setor",
@@ -17,17 +25,9 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Caminhada EducaIPHAN convida a redescobrir o patrimônio de Campo Grande",
-      "data": "30/10/2025",
-      "resumo": "30/10/2025 - Passeio noturno une memória, cidadania e educação patrimonial nas ruas da cidade",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/caminhada-educaiphan-convida-a-redescobrir-o-patrimonio-de-campo-grande/banner-caminhada.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/caminhada-educaiphan-convida-a-redescobrir-o-patrimonio-de-campo-grande",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
       "titulo": "Rapper apoia Oruam e é acusado de apologia ao Comando Vermelho",
       "data": "",
-      "resumo": "O rapper demonstrou apoio ao colega e disse que o MC 'não é bandido'. Vídeo",
+      "resumo": "O rapper disse que o seu colega 'não é bandido'. Vídeo",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251031151028_14babdc2-7ff7-4934-bf40-6e8db0165578.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
