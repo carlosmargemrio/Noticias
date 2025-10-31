@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan identifica evidências arqueológicas em segunda visita técnica ao Quilombo Frechal",
+      "data": "31/10/2025",
+      "resumo": "31/10/2025 - Materiais encontrados indicam a ocupação ancestral do território localizado no município de Mirinzal, litoral Ocidental do Maranhão",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-identifica-evidencias-arqueologicas-em-segunda-visita-tecnica-ao-quilombo-frechal/whatsapp-image-2025-10-31-at-16-27-15-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-identifica-evidencias-arqueologicas-em-segunda-visita-tecnica-ao-quilombo-frechal",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Centros de Ciências e Saberes são inaugurados em territórios indígenas de Pernambuco, com apoio do Iphan",
       "data": "31/10/2025",
       "resumo": "31/10/2025 - Programação incluiu rodas de diálogo, apresentações culturais e vistorias técnicas em três sítios arqueológicos",
@@ -14,14 +22,6 @@
       "resumo": "31/10/2025 - Evento realizado nesta quinta-feira (30), na sede do Instituto, contou com parceria da Unesco e a participação de especialistas do setor",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/prevencao-e-gestao-de-riscos-em-bens-culturais-e-tema-de-seminario-no-iphan/whatsapp-image-2025-10-30-at-15-01-32-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/prevencao-e-gestao-de-riscos-em-bens-culturais-e-tema-de-seminario-no-iphan",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan destaca Patrimônio e Reparação em eventos do Mês da Consciência Negra",
-      "data": "30/10/2025",
-      "resumo": "30/10/2025 - Sob coordenação do Comitê Permanente para Preservação do Patrimônio Cultural de Matriz Africana (Copmaf), unidades do Instituto realizarão 40 ações em todas as regiões do país",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-destaca-patrimonio-e-reparacao-em-eventos-do-mes-da-consciencia-negra/consciencia-negra.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-destaca-patrimonio-e-reparacao-em-eventos-do-mes-da-consciencia-negra",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
