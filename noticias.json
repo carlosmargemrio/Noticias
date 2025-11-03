@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove encontro virtual sobre os impactos das mudanças climáticas no patrimônio cultural",
+      "data": "03/11/2025",
+      "resumo": "03/11/2025 - Debates tiveram como objetivo reunir e divulgar soluções de adaptação, gestão de riscos, educação patrimonial e saberes tradicionais",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-virtual-sobre-os-impactos-das-mudancas-climaticas-no-patrimonio-cultural/xxCapturadeTela20251103as09.34.331.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-virtual-sobre-os-impactos-das-mudancas-climaticas-no-patrimonio-cultural",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan promove oficina de educação patrimonial em Rio Branco (AC); inscreva-se",
       "data": "31/10/2025",
       "resumo": "31/10/2025 - Atividade é aberta ao público e será no Sebrae/AC, das 8h às 12h, neste sábado (1/11)",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Centros de Ciências e Saberes são inaugurados em territórios indígenas de Pernambuco, com apoio do Iphan",
-      "data": "31/10/2025",
-      "resumo": "31/10/2025 - Programação incluiu rodas de diálogo, apresentações culturais e vistorias técnicas em três sítios arqueológicos",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centros-de-ciencias-e-saberes-sao-inaugurados-em-territorios-indigenas-de-pernambuco-com-apoio-do-iphan/xxxxCentrodeCinciaseSaberesAnciesdoOuricuri1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centros-de-ciencias-e-saberes-sao-inaugurados-em-territorios-indigenas-de-pernambuco-com-apoio-do-iphan",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "“Intoxicação medicamentosa\": entenda o quadro que culminou na morte de Lô Borges",
+      "data": "",
+      "resumo": "Lô Borges estava internado em um hospital da Unimed, onde chegou a ser entubado e, posteriormente, submetido a uma traqueostomia",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220326080320_2f6ec399376093c4c08a94059fdd510242556af4a3ec5e31d713bbb9ef4d9bcf.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
-      "titulo": "Lô Borges, ícone da MPB, morre aos 73 anos",
+      "titulo": "Morre Lô Borges, gênio da MPB e do Clube da Esquina",
       "data": "",
       "resumo": "Fundador do Clube da Esquina, o músico mineiro morreu após complicações de uma intoxicação medicamentosa",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220326080320_2f6ec399376093c4c08a94059fdd510242556af4a3ec5e31d713bbb9ef4d9bcf.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251103101116_12049acb216751f76711e4c1e984fa057b856d4bd3e6121d80dec4033f27b050.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "Exemplares serão autografados pelo autor; leitores do Brasil 247 e telespectadores da TV 247 têm desconto",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251102181136_766c26f2-4f5f-41a6-ba83-dfe2ef183fab.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Ator de Stranger Things é acusado de assédio por Millie Bobby Brown",
-      "data": "",
-      "resumo": "A denúncia feita por Millie Bobby Brown, uma das principais estrelas da série, ainda não teve desdobramentos públicos",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251102131144_b772c4657207484b240711d045197d9e4f2bb9f975a9625a98969df2102f6659.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
