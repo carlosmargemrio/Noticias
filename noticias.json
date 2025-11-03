@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Publicações inéditas do Iphan abordam relação entre mudança climática e patrimônio cultural",
+      "data": "03/11/2025",
+      "resumo": "03/11/2025 - A apresentação dos produtos ocorreu durante o encerramento do evento Jornada Patrimônio Cultural e Ação Climática",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/publicacoes-ineditas-do-iphan-abordam-relacao-entre-mudanca-climatica-e-patrimonio-cultural/metodo_dialogos_mudancas_climaticas-pdf-1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/publicacoes-ineditas-do-iphan-abordam-relacao-entre-mudanca-climatica-e-patrimonio-cultural",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan promove encontro virtual sobre os impactos das mudanças climáticas no patrimônio cultural",
       "data": "03/11/2025",
       "resumo": "03/11/2025 - Debates tiveram como objetivo reunir e divulgar soluções de adaptação, gestão de riscos, educação patrimonial e saberes tradicionais",
@@ -14,14 +22,6 @@
       "resumo": "31/10/2025 - Atividade é aberta ao público e será no Sebrae/AC, das 8h às 12h, neste sábado (1/11)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-de-educacao-patrimonial-em-rio-branco-ac-inscreva-se/whatsapp-image-2025-10-31-at-13-46-46-2.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-de-educacao-patrimonial-em-rio-branco-ac-inscreva-se",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan identifica evidências arqueológicas em segunda visita técnica ao Quilombo Frechal",
-      "data": "31/10/2025",
-      "resumo": "31/10/2025 - Materiais encontrados indicam a ocupação ancestral do território localizado no município de Mirinzal, litoral Ocidental do Maranhão",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-identifica-evidencias-arqueologicas-em-segunda-visita-tecnica-ao-quilombo-frechal/whatsapp-image-2025-10-31-at-16-27-15-2.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-identifica-evidencias-arqueologicas-em-segunda-visita-tecnica-ao-quilombo-frechal",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
