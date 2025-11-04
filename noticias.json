@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Habitação popular e patrimônio: saiba como foi o 1º dia do Congresso Conviver 2025",
+      "data": "04/11/2025",
+      "resumo": "04/11/2025 - Cidade de Goiás recebe evento do Iphan que reúne canteiros-modelo de conservação de todo o Brasil",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/habitacao-popular-e-patrimonio-saiba-como-foi-o-1o-dia-do-congresso-conviver-2025/whatsapp-image-2025-11-04-at-17-11-01-1-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/habitacao-popular-e-patrimonio-saiba-como-foi-o-1o-dia-do-congresso-conviver-2025",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan cria o Banco Nacional de Projetos de Arqueologia",
       "data": "04/11/2025",
       "resumo": "04/11/2025 - Cadastro, em fluxo contínuo, já está disponível para Universidades e Instituições de Guarda e Pesquisa",
@@ -14,14 +22,6 @@
       "resumo": "04/11/2025 - Reconhecida pela Unesco como Patrimônio Mundial, a antiga Vila Boa preserva a história, a arte e os modos de vida da cultura goiana; agora é também cenário do Congresso Conviver 2025",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cidade-de-goias-patrimonio-vivo-no-coracao-do-brasil-1/1.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cidade-de-goias-patrimonio-vivo-no-coracao-do-brasil-1",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Publicações inéditas do Iphan abordam relação entre mudança climática e patrimônio cultural",
-      "data": "03/11/2025",
-      "resumo": "03/11/2025 - A apresentação dos produtos ocorreu durante o encerramento do evento Jornada Patrimônio Cultural e Ação Climática",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/publicacoes-ineditas-do-iphan-abordam-relacao-entre-mudanca-climatica-e-patrimonio-cultural/metodo_dialogos_mudancas_climaticas-pdf-1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/publicacoes-ineditas-do-iphan-abordam-relacao-entre-mudanca-climatica-e-patrimonio-cultural",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
