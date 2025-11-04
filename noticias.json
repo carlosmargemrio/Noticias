@@ -1,6 +1,30 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan cria o Banco Nacional de Projetos de Arqueologia",
+      "data": "04/11/2025",
+      "resumo": "04/11/2025 - Cadastro, em fluxo contínuo, já está disponível para Universidades e Instituições de Guarda e Pesquisa",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-cria-o-banco-nacional-de-projetos-de-arqueologia/img_5170-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-cria-o-banco-nacional-de-projetos-de-arqueologia",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Cidade de Goiás: patrimônio vivo no coração do Brasil",
+      "data": "04/11/2025",
+      "resumo": "04/11/2025 - Reconhecida pela Unesco como Patrimônio Mundial, a antiga Vila Boa preserva a história, a arte e os modos de vida da cultura goiana; agora é também cenário do Congresso Conviver 2025",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cidade-de-goias-patrimonio-vivo-no-coracao-do-brasil-1/1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cidade-de-goias-patrimonio-vivo-no-coracao-do-brasil-1",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Publicações inéditas do Iphan abordam relação entre mudança climática e patrimônio cultural",
+      "data": "03/11/2025",
+      "resumo": "03/11/2025 - A apresentação dos produtos ocorreu durante o encerramento do evento Jornada Patrimônio Cultural e Ação Climática",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/publicacoes-ineditas-do-iphan-abordam-relacao-entre-mudanca-climatica-e-patrimonio-cultural/metodo_dialogos_mudancas_climaticas-pdf-1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/publicacoes-ineditas-do-iphan-abordam-relacao-entre-mudanca-climatica-e-patrimonio-cultural",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Indicada ao Oscar, atriz Diane Ladd morre aos 89 anos",
       "data": "",
       "resumo": "Filha da artista norte-americana, Laura Dern confirmou a morte de sua mãe",
