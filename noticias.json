@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan e ICMBio apresentam minuta para instituição do Comitê Gestor do Sítio Misto “Paraty e Ilha Grande: Cultura e Biodiversidade”",
+      "data": "05/11/2025",
+      "resumo": "05/11/2025 - Documento define estrutura, objetivos e funções do Comitê responsável pela gestão integrada e participava do Sítio reconhecido pela Unesco",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-icmbio-apresentam-minuta-para-instituicao-do-comite-gestor-do-sitio-misto-201cparaty-e-ilha-grande-cultura-e-biodiversidade201d/xxxxx51278907103_14eda5fe75_b1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-icmbio-apresentam-minuta-para-instituicao-do-comite-gestor-do-sitio-misto-201cparaty-e-ilha-grande-cultura-e-biodiversidade201d",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Habitação popular e patrimônio: saiba como foi o 1º dia do Congresso Conviver 2025",
       "data": "04/11/2025",
       "resumo": "04/11/2025 - Cidade de Goiás recebe evento do Iphan que reúne canteiros-modelo de conservação de todo o Brasil",
@@ -14,14 +22,6 @@
       "resumo": "04/11/2025 - Cadastro, em fluxo contínuo, já está disponível para Universidades e Instituições de Guarda e Pesquisa",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-cria-o-banco-nacional-de-projetos-de-arqueologia/img_5170-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-cria-o-banco-nacional-de-projetos-de-arqueologia",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Cidade de Goiás: patrimônio vivo no coração do Brasil",
-      "data": "04/11/2025",
-      "resumo": "04/11/2025 - Reconhecida pela Unesco como Patrimônio Mundial, a antiga Vila Boa preserva a história, a arte e os modos de vida da cultura goiana; agora é também cenário do Congresso Conviver 2025",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cidade-de-goias-patrimonio-vivo-no-coracao-do-brasil-1/1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cidade-de-goias-patrimonio-vivo-no-coracao-do-brasil-1",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
