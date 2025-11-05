@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan dialoga com gestores sobre SNPC, em Foz do Iguaçu (PR)",
+      "data": "05/11/2025",
+      "resumo": "05/11/2025 - Evento ocorreu no Paraná nos dias 29 a 31 de outubro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-dialoga-com-gestores-sobre-snpc-em-foz-do-iguacu-pr/54902030618_889f2403b5_k-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-dialoga-com-gestores-sobre-snpc-em-foz-do-iguacu-pr",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e ICMBio apresentam minuta para instituição do Comitê Gestor do Sítio Misto “Paraty e Ilha Grande: Cultura e Biodiversidade”",
       "data": "05/11/2025",
       "resumo": "05/11/2025 - Documento define estrutura, objetivos e funções do Comitê responsável pela gestão integrada e participava do Sítio reconhecido pela Unesco",
@@ -14,14 +22,6 @@
       "resumo": "04/11/2025 - Cidade de Goiás recebe evento do Iphan que reúne canteiros-modelo de conservação de todo o Brasil",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/habitacao-popular-e-patrimonio-saiba-como-foi-o-1o-dia-do-congresso-conviver-2025/whatsapp-image-2025-11-04-at-17-11-01-1-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/habitacao-popular-e-patrimonio-saiba-como-foi-o-1o-dia-do-congresso-conviver-2025",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan cria o Banco Nacional de Projetos de Arqueologia",
-      "data": "04/11/2025",
-      "resumo": "04/11/2025 - Cadastro, em fluxo contínuo, já está disponível para Universidades e Instituições de Guarda e Pesquisa",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-cria-o-banco-nacional-de-projetos-de-arqueologia/img_5170-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-cria-o-banco-nacional-de-projetos-de-arqueologia",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
