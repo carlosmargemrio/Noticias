@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan recebe mostra sobre identidade e cultura alagoana em Maceió (AL)",
+      "data": "06/11/2025",
+      "resumo": "06/11/2025 - Exposição é composta por 30 obras que retratam personagens e paisagens do interior do estado",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-mostra-sobre-identidade-e-cultura-alagoana-em-maceio-al/xxxAMFSinfoniaCaboclaQuadros87181.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-mostra-sobre-identidade-e-cultura-alagoana-em-maceio-al",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan dialoga com gestores sobre SNPC, em Foz do Iguaçu (PR)",
       "data": "05/11/2025",
       "resumo": "05/11/2025 - Evento ocorreu no Paraná nos dias 29 a 31 de outubro",
@@ -14,14 +22,6 @@
       "resumo": "05/11/2025 - Documento define estrutura, objetivos e funções do Comitê responsável pela gestão integrada e participava do Sítio reconhecido pela Unesco",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-icmbio-apresentam-minuta-para-instituicao-do-comite-gestor-do-sitio-misto-201cparaty-e-ilha-grande-cultura-e-biodiversidade201d/xxxxx51278907103_14eda5fe75_b1.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-icmbio-apresentam-minuta-para-instituicao-do-comite-gestor-do-sitio-misto-201cparaty-e-ilha-grande-cultura-e-biodiversidade201d",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Habitação popular e patrimônio: saiba como foi o 1º dia do Congresso Conviver 2025",
-      "data": "04/11/2025",
-      "resumo": "04/11/2025 - Cidade de Goiás recebe evento do Iphan que reúne canteiros-modelo de conservação de todo o Brasil",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/habitacao-popular-e-patrimonio-saiba-como-foi-o-1o-dia-do-congresso-conviver-2025/whatsapp-image-2025-11-04-at-17-11-01-1-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/habitacao-popular-e-patrimonio-saiba-como-foi-o-1o-dia-do-congresso-conviver-2025",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
