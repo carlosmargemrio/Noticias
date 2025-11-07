@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan doa mobiliários e equipamentos à Casa de Cultura Heloísa Alberto Torres, em Itaboraí (RJ)",
+      "data": "07/11/2025",
+      "resumo": "07/11/2025 - Ação integra Termo de Cooperação Técnica firmado entre as instituições",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-doa-mobiliarios-e-equipamentos-a-casa-de-cultura-heloisa-alberto-torres-em-itaborai-rj/xWhatsAppImage20251104at16.05.2511.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-doa-mobiliarios-e-equipamentos-a-casa-de-cultura-heloisa-alberto-torres-em-itaborai-rj",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan recebe mostra sobre identidade e cultura alagoana em Maceió (AL)",
       "data": "06/11/2025",
       "resumo": "06/11/2025 - Exposição é composta por 30 obras que retratam personagens e paisagens do interior do estado",
@@ -14,14 +22,6 @@
       "resumo": "05/11/2025 - Evento ocorreu no Paraná nos dias 29 a 31 de outubro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-dialoga-com-gestores-sobre-snpc-em-foz-do-iguacu-pr/54902030618_889f2403b5_k-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-dialoga-com-gestores-sobre-snpc-em-foz-do-iguacu-pr",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e ICMBio apresentam minuta para instituição do Comitê Gestor do Sítio Misto “Paraty e Ilha Grande: Cultura e Biodiversidade”",
-      "data": "05/11/2025",
-      "resumo": "05/11/2025 - Documento define estrutura, objetivos e funções do Comitê responsável pela gestão integrada e participava do Sítio reconhecido pela Unesco",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-icmbio-apresentam-minuta-para-instituicao-do-comite-gestor-do-sitio-misto-201cparaty-e-ilha-grande-cultura-e-biodiversidade201d/xxxxx51278907103_14eda5fe75_b1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-icmbio-apresentam-minuta-para-instituicao-do-comite-gestor-do-sitio-misto-201cparaty-e-ilha-grande-cultura-e-biodiversidade201d",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251103131120_ed16ac2e9e4dd4dfca21537fb28a68a9fd1ac385ebcb16ea02b4d577f7d8f52b.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES realiza cinco treinamentos na 1ª quinzena de novembro",
+      "data": "29/10/2025",
+      "resumo": "29/10/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos acontecem de 3 a 14 e irá abordar temas como inteligência artificial e revisão sistemática",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4278-capes-realiza-cinco-treinamentos-na-1-quinzena-de-novembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES lança página para celebrar 25 anos do Portal de Periódicos",
+      "data": "17/10/2025",
+      "resumo": "17/10/2025 -\n                Conteúdo traz histórico da plataforma, depoimentos de autoridades e personalidades da comunidade acadêmica, lista de eventos e fotos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Hotsite_1.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4276-capes-lanca-pagina-para-celebrar-25-anos-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Na 2ª quinzena de outubro seis treinamentos serão realizados",
+      "data": "10/10/2025",
+      "resumo": "10/10/2025 -\n                Eventos são gratuitos, on-line e interativos; o projeto Em Pauta é destaque com palestras sobre IA e publicações de acesso aberto",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_quinzena2.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4274-na-2-quinzena-de-outubro-seis-treinamentos-serao-realizados.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
