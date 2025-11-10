@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan divulga novos procedimentos para autorização de intervenções no patrimônio material brasileiro",
+      "data": "10/11/2025",
+      "resumo": "10/11/2025 - Portaria nº 289/2025 atualiza norma de 2010 sobre mesmo tema, com inovações que promovem maior abrangência, transparência, desburocratização e serviços digitais",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-novos-procedimentos-para-autorizacao-de-intervencoes-no-patrimonio-material-brasileiro/51360588287_021b7d54ff_b-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-novos-procedimentos-para-autorizacao-de-intervencoes-no-patrimonio-material-brasileiro",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan doa mobiliários e equipamentos à Casa de Cultura Heloísa Alberto Torres, em Itaboraí (RJ)",
       "data": "07/11/2025",
       "resumo": "07/11/2025 - Ação integra Termo de Cooperação Técnica firmado entre as instituições",
@@ -14,14 +22,6 @@
       "resumo": "06/11/2025 - Exposição é composta por 30 obras que retratam personagens e paisagens do interior do estado",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-mostra-sobre-identidade-e-cultura-alagoana-em-maceio-al/xxxAMFSinfoniaCaboclaQuadros87181.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-mostra-sobre-identidade-e-cultura-alagoana-em-maceio-al",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan dialoga com gestores sobre SNPC, em Foz do Iguaçu (PR)",
-      "data": "05/11/2025",
-      "resumo": "05/11/2025 - Evento ocorreu no Paraná nos dias 29 a 31 de outubro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-dialoga-com-gestores-sobre-snpc-em-foz-do-iguacu-pr/54902030618_889f2403b5_k-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-dialoga-com-gestores-sobre-snpc-em-foz-do-iguacu-pr",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
