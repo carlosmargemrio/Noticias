@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Exposição em Macau celebra quatro séculos de intercâmbio cultural sino-português",
+      "data": "",
+      "resumo": "Mostra no Museu de Arte de Macau reúne mais de 170 peças e destaca o papel histórico da cidade como elo entre a China e Portugal",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251111101112_81412d0d-91e1-4c42-8f37-b9635868367f.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "O agente secreto tem estreia recorde e consolida favoritismo brasileiro rumo ao Oscar 2026",
       "data": "",
       "resumo": "O filme marca mais uma parceria entre Moura e Mendonça Filho, que anteriormente já dividiram projetos de grande repercussão",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025041009048_ea4b854e-b9ad-4cdc-9eb5-81940fb416b6.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025041009048_e2e9ae55-2dad-4d6b-83d9-db8cc5704707.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250913140948_e72571ef975cf7b174221f361990a1539f54e71ed8dcd7e4b9bf17f3c2774b5b.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Ana Maria Gonçalves, a primeira mulher negra na história da Academia Brasileira de Letras, tomou posse",
-      "data": "",
-      "resumo": "Escritora Ana Maria Gonçalves sucede o professor, gramático e filólogo brasileiro Evanildo Bechara",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025110807110_b6e9a1633e7e3580e52ec4119fcd0cb2c975316aed60d868ef26cda489ab19b7.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES realiza cinco treinamentos na 1ª quinzena de novembro",
-      "data": "29/10/2025",
-      "resumo": "29/10/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos acontecem de 3 a 14 e irá abordar temas como inteligência artificial e revisão sistemática",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4278-capes-realiza-cinco-treinamentos-na-1-quinzena-de-novembro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES lança página para celebrar 25 anos do Portal de Periódicos",
-      "data": "17/10/2025",
-      "resumo": "17/10/2025 -\n                Conteúdo traz histórico da plataforma, depoimentos de autoridades e personalidades da comunidade acadêmica, lista de eventos e fotos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Hotsite_1.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4276-capes-lanca-pagina-para-celebrar-25-anos-do-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Na 2ª quinzena de outubro seis treinamentos serão realizados",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 -\n                Eventos são gratuitos, on-line e interativos; o projeto Em Pauta é destaque com palestras sobre IA e publicações de acesso aberto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_quinzena2.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4274-na-2-quinzena-de-outubro-seis-treinamentos-serao-realizados.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
