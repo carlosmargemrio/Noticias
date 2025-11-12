@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Mãe Olga de Alaketu é homenageada com o título de Promotora da Igualdade Racial",
+      "data": "11/11/2025",
+      "resumo": "11/11/2025 - Reconhecimento demonstra a importância da líder religiosa na preservação das tradições afro-brasileiras e do patrimônio cultural de terreiro tombado pelo Iphan",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mae-olga-de-alaketu-recebe-titulo-de-promotora-da-igualdade-racial/design-sem-nome-85.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mae-olga-de-alaketu-recebe-titulo-de-promotora-da-igualdade-racial",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan coleta mais de 2 mil propostas para construção das bases do SNPC",
       "data": "10/11/2025",
       "resumo": "10/11/2025 - Desde abril, projeto realizou oficinas de escuta participativa em todo o Brasil",
@@ -14,14 +22,6 @@
       "resumo": "10/11/2025 - Esta é a última fase de avaliação antes do anúncio das 15 ações vencedoras desta edição",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/comissao-de-merito-do-premio-rodrigo-se-reune-com-finalistas-de-2025/prmfa25_banner-noticia2.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/comissao-de-merito-do-premio-rodrigo-se-reune-com-finalistas-de-2025",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan participará do Congresso da Sociedade Brasileira de Arqueologia (SAB)",
-      "data": "10/11/2025",
-      "resumo": "10/11/2025 - Durante o evento, Centro Nacional de Arqueologia premiará os vencedores do Prêmio Luiz de Castro Faria",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participara-do-congresso-da-sociedade-brasileira-de-arqueologia-sab/bannercongresso_1150x500.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participara-do-congresso-da-sociedade-brasileira-de-arqueologia-sab",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
