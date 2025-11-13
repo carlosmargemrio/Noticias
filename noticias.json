@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan identifica novo sítio arqueológico em Urucurituba (AM)",
+      "data": "13/11/2025",
+      "resumo": "13/11/2025 - Descoberta aconteceu durante ações de fiscalização e monitoramento",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-identifica-novo-sitio-arqueologico-em-urucurituba-am/whatsapp-image-2025-11-13-at-17-03-27-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-identifica-novo-sitio-arqueologico-em-urucurituba-am",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Mestrado do Iphan abre edital para recém-doutores",
       "data": "13/11/2025",
       "resumo": "13/11/2025 - Arquitetura e Urbanismo, Museologia e Ciências Sociais são as áreas contempladas pela bolsa de 24 meses",
@@ -14,14 +22,6 @@
       "resumo": "12/11/2025 - Curso reuniu gestores de nove países latino-americanos e africanos",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-lucio-costa-promove-capacitacao-em-planos-de-gestao-de-riscos-de-desastres-em-sitios-do-patrimonio-mundial/xxxxxxxDesignsemnome4.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-lucio-costa-promove-capacitacao-em-planos-de-gestao-de-riscos-de-desastres-em-sitios-do-patrimonio-mundial",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Mãe Olga de Alaketu é homenageada com o título de Promotora da Igualdade Racial",
-      "data": "11/11/2025",
-      "resumo": "11/11/2025 - Reconhecimento demonstra a importância da líder religiosa na preservação das tradições afro-brasileiras e do patrimônio cultural de terreiro tombado pelo Iphan",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mae-olga-de-alaketu-recebe-titulo-de-promotora-da-igualdade-racial/design-sem-nome-85.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mae-olga-de-alaketu-recebe-titulo-de-promotora-da-igualdade-racial",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025041009048_e2e9ae55-2dad-4d6b-83d9-db8cc5704707.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES realiza cinco treinamentos na 1ª quinzena de novembro",
-      "data": "29/10/2025",
-      "resumo": "29/10/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos acontecem de 3 a 14 e irá abordar temas como inteligência artificial e revisão sistemática",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4278-capes-realiza-cinco-treinamentos-na-1-quinzena-de-novembro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES lança página para celebrar 25 anos do Portal de Periódicos",
-      "data": "17/10/2025",
-      "resumo": "17/10/2025 -\n                Conteúdo traz histórico da plataforma, depoimentos de autoridades e personalidades da comunidade acadêmica, lista de eventos e fotos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Hotsite_1.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4276-capes-lanca-pagina-para-celebrar-25-anos-do-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Na 2ª quinzena de outubro seis treinamentos serão realizados",
-      "data": "10/10/2025",
-      "resumo": "10/10/2025 -\n                Eventos são gratuitos, on-line e interativos; o projeto Em Pauta é destaque com palestras sobre IA e publicações de acesso aberto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_quinzena2.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4274-na-2-quinzena-de-outubro-seis-treinamentos-serao-realizados.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
