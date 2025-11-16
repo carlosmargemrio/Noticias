@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Alysson Mascaro lança Crítica do Cancelamento e denuncia tribunal da internet",
+      "data": "",
+      "resumo": "Jurista relata a perseguição que sofreu, compara cancelamento à inquisição e ao lawfare e defende uma transformação estrutural da sociedade",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251029161040_5bffbdab-05b5-4976-a96f-efef63a354b2.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Lula envia novo Plano Nacional de Cultura ao Congresso na segunda",
       "data": "",
       "resumo": "Cerimônia será no Palácio do Planalto, a partir das 10h",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251114201144_edfe72a1e694dbefb58440c40c8ea40d409e57cf896c89fde5ab88e277e3c6e9.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251114201144_6b95bf13815966026caf7c5b8c2e6fef55d83152e816658bf1dfbb9760ee3a81.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Liniker leva três prêmios e é destaque no Grammy 2025",
-      "data": "",
-      "resumo": "Cantora fala sobre a dificuldade de ser mulher trans no Brasil",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025111415118_4e024a2493d5483af768aeb66fd452b5bf39c892e45c4bc8ad3b054af5aae067.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "CAPES realiza cinco treinamentos na 1ª quinzena de novembro",
+      "data": "29/10/2025",
+      "resumo": "29/10/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos acontecem de 3 a 14 e irá abordar temas como inteligência artificial e revisão sistemática",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4278-capes-realiza-cinco-treinamentos-na-1-quinzena-de-novembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES lança página para celebrar 25 anos do Portal de Periódicos",
+      "data": "17/10/2025",
+      "resumo": "17/10/2025 -\n                Conteúdo traz histórico da plataforma, depoimentos de autoridades e personalidades da comunidade acadêmica, lista de eventos e fotos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Hotsite_1.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4276-capes-lanca-pagina-para-celebrar-25-anos-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Na 2ª quinzena de outubro seis treinamentos serão realizados",
+      "data": "10/10/2025",
+      "resumo": "10/10/2025 -\n                Eventos são gratuitos, on-line e interativos; o projeto Em Pauta é destaque com palestras sobre IA e publicações de acesso aberto",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_quinzena2.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4274-na-2-quinzena-de-outubro-seis-treinamentos-serao-realizados.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
