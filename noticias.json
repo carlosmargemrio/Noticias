@@ -1,6 +1,22 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Livro “Vivências da área de documentação do Iphan” será lançado em 18/11",
+      "data": "17/11/2025",
+      "resumo": "17/11/2025 - Evento será transmitido ao vivo pelo YouTube, às 14h, horário de Brasília",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/livro-201cvivencias-da-area-de-documentacao-do-iphan201d-sera-lancado-em-18-11/banner_1150x500.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/livro-201cvivencias-da-area-de-documentacao-do-iphan201d-sera-lancado-em-18-11",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan lança campanha pela proteção do patrimônio contra discriminação",
+      "data": "17/11/2025",
+      "resumo": "17/11/2025 - Com o mote “O bem é você que faz”, campanha é um convite à escuta e ao respeito às pessoas e bens culturais de matrizes africana e indígena no país",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-campanha-pela-protecao-do-patrimonio-contra-discriminacao/cartaza24.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-campanha-pela-protecao-do-patrimonio-contra-discriminacao",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan identifica novo sítio arqueológico em Urucurituba (AM)",
       "data": "13/11/2025",
       "resumo": "13/11/2025 - Descoberta aconteceu durante ações de fiscalização e monitoramento",
@@ -9,42 +25,26 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Mestrado do Iphan abre edital para recém-doutores",
-      "data": "13/11/2025",
-      "resumo": "13/11/2025 - Arquitetura e Urbanismo, Museologia e Ciências Sociais são as áreas contempladas pela bolsa de 24 meses",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mestrado-do-iphan-abre-edital-para-recem-doutores/1f08239a04a4473a81840c414a9d6338.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mestrado-do-iphan-abre-edital-para-recem-doutores",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Lula fala em \"revolução cultural\" no Brasil \"para romper com o negacionismo e o fascismo\"",
+      "data": "",
+      "resumo": "Presidente envia ao Congresso novo Plano Nacional de Cultura e convoca mobilização popular pelo setor",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251105061112_023045f9-0aa8-4490-983c-bdb2d77630e7.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
-      "titulo": "Centro Lucio Costa promove capacitação em planos de gestão de riscos de desastres em sítios do Patrimônio Mundial",
-      "data": "12/11/2025",
-      "resumo": "12/11/2025 - Curso reuniu gestores de nove países latino-americanos e africanos",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-lucio-costa-promove-capacitacao-em-planos-de-gestao-de-riscos-de-desastres-em-sitios-do-patrimonio-mundial/xxxxxxxDesignsemnome4.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-lucio-costa-promove-capacitacao-em-planos-de-gestao-de-riscos-de-desastres-em-sitios-do-patrimonio-mundial",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Lula envia Plano Nacional de Cultura ao Congresso e defende “guerrilha democrática cultural”",
+      "data": "",
+      "resumo": "Presidente afirma que nova política cultural deve fortalecer participação social e garantir continuidade institucional",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025111712114_4223cdeed4f2d40bc3564dd195afca1f6d44837b72beca27b973ecf3c3cdf7d8.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Lula envia Plano Nacional de Cultura ao Congresso",
       "data": "",
       "resumo": "Documento orienta políticas públicas culturais pelos próximos dez anos",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240305030328_8830e370-1138-4952-a174-74a0250b80a1.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Alysson Mascaro lança Crítica do Cancelamento e denuncia tribunal da internet",
-      "data": "",
-      "resumo": "Jurista relata a perseguição que sofreu, compara cancelamento à inquisição e ao lawfare e defende uma transformação estrutural da sociedade",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251029161040_b590ca4d-3932-4935-b59c-d370f49d09ed.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Lula envia novo Plano Nacional de Cultura ao Congresso na segunda",
-      "data": "",
-      "resumo": "Cerimônia será no Palácio do Planalto, a partir das 10h",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251114201144_6b95bf13815966026caf7c5b8c2e6fef55d83152e816658bf1dfbb9760ee3a81.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240305030328_67e78418-f23f-4f4f-a9f1-846c5985a7d3.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
