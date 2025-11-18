@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Brasília: oficina de elaboração de projetos culturais sobre arqueologia está com inscrições abertas",
+      "data": "18/11/2025",
+      "resumo": "18/11/2025 - Atividade acontece nos dias 27 e 28 de novembro na UnB, durante a 23º Congresso da Sociedade de Arqueologia Brasileira",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/brasilia-oficina-de-elaboracao-de-projetos-culturais-sobre-arqueologia-esta-com-inscricoes-abertas/095_2025_iphan_cidadesplurais_17092025_creditos-ranchocultural-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/brasilia-oficina-de-elaboracao-de-projetos-culturais-sobre-arqueologia-esta-com-inscricoes-abertas",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan abre consulta ao Plano Nacional Setorial do Patrimônio Cultural do SNPC",
       "data": "18/11/2025",
       "resumo": "18/11/2025 - Minuta ficará disponível para contribuições na plataforma Brasil Participativo até 17 de janeiro de 2026",
@@ -14,14 +22,6 @@
       "resumo": "18/11/2025 - Evento integra ações de mobilização para fortalecer o pedido à Unesco",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-audiencia-publica-sobre-candidatura-das-matrizes-tradicionais-do-forro-a-patrimonio-cultural-imaterial-da-humanidade/design-sem-nome-87.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-audiencia-publica-sobre-candidatura-das-matrizes-tradicionais-do-forro-a-patrimonio-cultural-imaterial-da-humanidade",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e universidades se unem para proteger o patrimônio arqueológico",
-      "data": "18/11/2025",
-      "resumo": "18/11/2025 - Parceria visa uma gestão integrada para a proteção de sítios arqueológicos frente às mudanças climáticas",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-universidades-se-unem-para-proteger-o-patrimonio-arqueologico/2024_ap_macapa_iphan_marianaalves-5.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-universidades-se-unem-para-proteger-o-patrimonio-arqueologico",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251117171132_1055b441f2cb03e1592ef1cb12aa0c7e98e7f708c7178f13c79e86bf8d15f1e2.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
+      "data": "17/11/2025",
+      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza cinco treinamentos na 1ª quinzena de novembro",
+      "data": "29/10/2025",
+      "resumo": "29/10/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos acontecem de 3 a 14 e irá abordar temas como inteligência artificial e revisão sistemática",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4278-capes-realiza-cinco-treinamentos-na-1-quinzena-de-novembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES lança página para celebrar 25 anos do Portal de Periódicos",
+      "data": "17/10/2025",
+      "resumo": "17/10/2025 -\n                Conteúdo traz histórico da plataforma, depoimentos de autoridades e personalidades da comunidade acadêmica, lista de eventos e fotos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Hotsite_1.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4276-capes-lanca-pagina-para-celebrar-25-anos-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
