@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan passa a ser reconhecido como Instituição de Ciência e Tecnologia",
+      "data": "18/11/2025",
+      "resumo": "18/11/2025 - Lançamento da Política de Inovação do Instituto posiciona a autarquia em um novo patamar de geração de conhecimento",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-passa-a-ser-reconhecido-como-instituicao-de-ciencia-e-tecnologia/whatsapp-image-2025-11-17-at-14-25-31-2-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-passa-a-ser-reconhecido-como-instituicao-de-ciencia-e-tecnologia",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Canoa de Tolda Luzitânia chega a Penedo (AL) após translado conduzido pelo Iphan",
       "data": "18/11/2025",
       "resumo": "18/11/2025 - Operação integra o Programa Conviver e será seguida por ações de preservação, educação patrimonial e pesquisa",
@@ -14,14 +22,6 @@
       "resumo": "18/11/2025 - Obras e projetos em 31 igrejas de nove cidades de Minas Gerais preservam a herança de Aleijadinho e reafirmam o compromisso do Iphan com o patrimônio cultural brasileiro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tesouros-do-barroco-mineiro-sao-restaurados-pelo-iphan-com-recursos-do-novo-pac-1/mg_mat_congonhas_santuario_bom_jesus_matozinhos_welerson_988683032.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tesouros-do-barroco-mineiro-sao-restaurados-pelo-iphan-com-recursos-do-novo-pac-1",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Livro “Vivências da área de documentação do Iphan” será lançado em 18/11",
-      "data": "17/11/2025",
-      "resumo": "17/11/2025 - Evento será transmitido ao vivo pelo YouTube, às 14h, horário de Brasília",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/livro-201cvivencias-da-area-de-documentacao-do-iphan201d-sera-lancado-em-18-11/banner_1150x500.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/livro-201cvivencias-da-area-de-documentacao-do-iphan201d-sera-lancado-em-18-11",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251117171132_1055b441f2cb03e1592ef1cb12aa0c7e98e7f708c7178f13c79e86bf8d15f1e2.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
+      "data": "17/11/2025",
+      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza cinco treinamentos na 1ª quinzena de novembro",
+      "data": "29/10/2025",
+      "resumo": "29/10/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos acontecem de 3 a 14 e irá abordar temas como inteligência artificial e revisão sistemática",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4278-capes-realiza-cinco-treinamentos-na-1-quinzena-de-novembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES lança página para celebrar 25 anos do Portal de Periódicos",
+      "data": "17/10/2025",
+      "resumo": "17/10/2025 -\n                Conteúdo traz histórico da plataforma, depoimentos de autoridades e personalidades da comunidade acadêmica, lista de eventos e fotos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Hotsite_1.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4276-capes-lanca-pagina-para-celebrar-25-anos-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
