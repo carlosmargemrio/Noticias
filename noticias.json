@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "\"Só traumatizou ainda mais quem é de favela\", diz L7nnon sobre chacina no Rio",
+      "data": "",
+      "resumo": "Rapper afirma que ação que deixou 121 mortos \"não vai resolver o tráfico\"",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251119071144_42d177ba-9e5d-4ac8-9cc5-0b36024c4bee.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Lula: ‘Jards Macalé fez história contra o autoritarismo’",
       "data": "",
       "resumo": "'Uma visão de mundo me aproximou de Jards: política e amor devem andar juntos. Não podem ser separados', afirmou o presidente em homenagem ao cantor",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251117191116_a69ed68f0d53cea698c332987304b156b0f0c85e76671febe4db6a67e0ca48b5.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251117191116_e976d911b01b6dac1a72383b239bbec919adb70108425db10878c4544d6155d8.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Jards Macalé, referência da música brasileira, morre no Rio",
-      "data": "",
-      "resumo": "Artista de 81 anos tratava um enfisema pulmonar e não resistiu a uma parada cardíaca; obra marcou gerações e influenciou a vanguarda da MPB",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251117171132_1055b441f2cb03e1592ef1cb12aa0c7e98e7f708c7178f13c79e86bf8d15f1e2.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
+      "data": "17/11/2025",
+      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza cinco treinamentos na 1ª quinzena de novembro",
+      "data": "29/10/2025",
+      "resumo": "29/10/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos acontecem de 3 a 14 e irá abordar temas como inteligência artificial e revisão sistemática",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4278-capes-realiza-cinco-treinamentos-na-1-quinzena-de-novembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES lança página para celebrar 25 anos do Portal de Periódicos",
+      "data": "17/10/2025",
+      "resumo": "17/10/2025 -\n                Conteúdo traz histórico da plataforma, depoimentos de autoridades e personalidades da comunidade acadêmica, lista de eventos e fotos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Hotsite_1.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4276-capes-lanca-pagina-para-celebrar-25-anos-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
