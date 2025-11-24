@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Encontro do Patrimônio Afro-Brasileiro fortalece expressões culturais de matrizes africanas no Amazonas",
+      "data": "24/11/2025",
+      "resumo": "24/11/2025 - Evento contou com presença de mestres e mestras de saberes, pesquisadores, representantes de comunidades tradicionais e fazedores e marcou um passo importante na construção de políticas de valorização e salvaguarda do patrimônio cultural",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/encontro-do-patrimonio-afro-brasileiro-fortalece-expressoes-culturais-de-matrizes-africanas-no-amazonas/whatsapp-image-2025-11-24-at-17-20-21-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/encontro-do-patrimonio-afro-brasileiro-fortalece-expressoes-culturais-de-matrizes-africanas-no-amazonas",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan divulga lista preliminar dos vencedores do Prêmio Rodrigo 2025",
       "data": "24/11/2025",
       "resumo": "24/11/2025 - Dos 34 finalistas, foram selecionadas 18 ações para a relação prévia de premiados",
@@ -14,14 +22,6 @@
       "resumo": "24/11/2025 - O objetivo é agilizar análises e ampliar segurança técnica nas pesquisas da área",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-cria-cadastro-de-profissionais-da-arqueologia/whatsapp-image-2025-11-24-at-15-04-03-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-cria-cadastro-de-profissionais-da-arqueologia",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e Ministério do Turismo convidam sociedade a participar da consulta pública sobre a concessão da Fazenda Pau D’Alho (SP)",
-      "data": "24/11/2025",
-      "resumo": "24/11/2025 - Contribuições podem ser enviadas até 19 de dezembro através do site do Programa de Parcerias de Investimentos (PPI)",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ministerio-do-turismo-convidam-sociedade-a-participar-da-consulta-publica-sobre-a-concessao-da-fazenda-pau-d2019alho-sp/design-sem-nome-89.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ministerio-do-turismo-convidam-sociedade-a-participar-da-consulta-publica-sobre-a-concessao-da-fazenda-pau-d2019alho-sp",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
