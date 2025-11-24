@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan faz balanço da sua participação na COP 30",
+      "data": "24/11/2025",
+      "resumo": "24/11/2025 - Instituto organizou painéis e debates e esteve presente em uma série de eventos na 30ª edição da Conferência das partes da Convenção das Nações Unidas sobre Mudança do Clima",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-faz-balanco-da-sua-participacao-na-cop-30/whatsapp-image-2025-11-21-at-17-30-29-2-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-faz-balanco-da-sua-participacao-na-cop-30",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan aprova parcialmente projeto de restauro da Santa Casa de Misericórdia (AM)",
       "data": "21/11/2025",
       "resumo": "21/11/2025 - Imóvel integra o conjunto urbano do Centro Histórico da capital amazonense",
@@ -14,14 +22,6 @@
       "resumo": "21/11/2025 - Norma, que dispõe sobre o tombamento de documentos e sítios detentores de reminiscências históricas dos antigos quilombos, ressalta o protagonismo da população afro-brasileira e reconhece sua resistência ao processo de escravização e à discriminação histórica",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/a-portaria-iphan-no-135-2023-e-o-patrimonio-quilombola/whatsapp-image-2025-11-19-at-18-03-05-1-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/a-portaria-iphan-no-135-2023-e-o-patrimonio-quilombola",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan integra acordo de cooperação para ações de reflorestamento e valorização do patrimônio cultural na Paraíba",
-      "data": "21/11/2025",
-      "resumo": "21/11/2025 - Iniciativa vai auxiliar no reflorestamento e arborização em centros tombados e em sítios arqueológicos",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-integra-acordo-de-cooperacao-para-acoes-de-reflorestamento-e-valorizacao-do-patrimonio-cultural-na-paraiba/design-sem-nome-88.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-integra-acordo-de-cooperacao-para-acoes-de-reflorestamento-e-valorizacao-do-patrimonio-cultural-na-paraiba",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
