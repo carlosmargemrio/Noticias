@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "São Paulo recebe seminário sobre os 25 anos da política de patrimônio imaterial no Brasil",
+      "data": "26/11/2025",
+      "resumo": "26/11/2025 - O evento é aberto ao público e com entrada gratuita",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sao-paulo-recebe-seminario-sobre-os-25-anos-da-politica-de-patrimonio-imaterial-no-brasil/IV_SeminarioArticulacao_221.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sao-paulo-recebe-seminario-sobre-os-25-anos-da-politica-de-patrimonio-imaterial-no-brasil",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Tombamento do Edifício da Antiga Repartição Central de Polícia (Antigo DOPS), no Rio de Janeiro (RJ), é aprovado pelo Iphan",
       "data": "26/11/2025",
       "resumo": "26/11/2025 - Ação reconhece o valor cultural frente às lutas sociais e políticas em favor da democracia e da liberdade",
@@ -14,14 +22,6 @@
       "resumo": "25/11/2025 - No 1° dia da 111ª Reunião do Conselho Consultivo do Patrimônio Cultural, nesta terça-feira (25), também foi aprovado o tombamento do bem Casa: Prefeitura Municipal de Pindamonhangaba (SP)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oficio-das-tacacazeiras-na-regiao-norte-e-ourivessaria-da-cidade-de-natividade-to-sao-registrados-como-patrimonio-cultural-do-brasil/whatsapp-image-2025-11-25-at-17-36-52-1-2.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oficio-das-tacacazeiras-na-regiao-norte-e-ourivessaria-da-cidade-de-natividade-to-sao-registrados-como-patrimonio-cultural-do-brasil",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan aprova tombamento do Palacete Dez de Julho, em Pindamonhangaba (SP)",
-      "data": "25/11/2025",
-      "resumo": "25/11/2025 - Construção foi inscrita nos Livros de Tombo das Belas Artes e Histórico",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-tombamento-do-palacete-dez-de-julho-em-pindamonhangaba-sp/53149061923_559d6c5d4a_k-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-tombamento-do-palacete-dez-de-julho-em-pindamonhangaba-sp",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
