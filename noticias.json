@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan aprova tombamento definitivo do Sítio Histórico e Arqueológico de São José de Queimado",
+      "data": "26/11/2025",
+      "resumo": "26/11/2025 - Ruínas localizadas na cidade capixaba de Serra remetem à resistência negra à opressão do sistema escravista no Espírito Santo",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-tombamento-definitivo-do-sitio-historico-e-arqueologico-de-sao-jose-de-queimado/design-sem-nome-86.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-tombamento-definitivo-do-sitio-historico-e-arqueologico-de-sao-jose-de-queimado",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Fotógrafo autor de exposição promove visita guiada com público, na Lapa (PR)",
       "data": "26/11/2025",
       "resumo": "26/11/2025 - A atividade na mostra “Contraluz Urbana” será neste sábado (29/11) e gratuita, mediante inscrição em formulário on-line",
@@ -14,14 +22,6 @@
       "resumo": "26/11/2025 - O evento é aberto ao público e com entrada gratuita",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sao-paulo-recebe-seminario-sobre-os-25-anos-da-politica-de-patrimonio-imaterial-no-brasil/IV_SeminarioArticulacao_221.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sao-paulo-recebe-seminario-sobre-os-25-anos-da-politica-de-patrimonio-imaterial-no-brasil",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Tombamento do Edifício da Antiga Repartição Central de Polícia (Antigo DOPS), no Rio de Janeiro (RJ), é aprovado pelo Iphan",
-      "data": "26/11/2025",
-      "resumo": "26/11/2025 - Ação reconhece o valor cultural frente às lutas sociais e políticas em favor da democracia e da liberdade",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tombamento-do-edificio-da-antiga-reparticao-central-de-policia-antigo-dops-no-rio-de-janeiro-rj-e-aprovado-pelo-conselho-consultivo-do-iphan/adasdada20210722_1517351.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tombamento-do-edificio-da-antiga-reparticao-central-de-policia-antigo-dops-no-rio-de-janeiro-rj-e-aprovado-pelo-conselho-consultivo-do-iphan",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
