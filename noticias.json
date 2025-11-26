@@ -1,27 +1,27 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Mais quatro bens recebem o título de Patrimônio Cultural Brasileiro na 111ª Reunião do Conselho Consultivo do Patrimônio Cultural",
+      "data": "26/11/2025",
+      "resumo": "26/11/2025 - Antigo DOPS (RJ), Fábrica de Tecidos São Luis (Itu/SP); sítio histórico e arqueológico de São José do Queimado (Serra/ ES) e Terreiro de Jarê Palácio de Ogum (Lençóis/BA) figuram na lista de tombamentos desta quarta-feira (26)",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mais-quatro-bens-recebem-o-titulo-de-patrimonio-cultural-brasileiro-na-111a-reuniao-do-conselho-consultivo-do-patrimonio-cultural/2025_df_brasilia_conselhoconsultivonovembro2manha_marianaalves-68-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mais-quatro-bens-recebem-o-titulo-de-patrimonio-cultural-brasileiro-na-111a-reuniao-do-conselho-consultivo-do-patrimonio-cultural",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan aprova tombamento do Terreiro Palácio de Ogum e Caboclo Sete-Serra, em Lençóis (BA)",
+      "data": "26/11/2025",
+      "resumo": "26/11/2025 - Templo de Jarê mais antigo em funcionamento no Brasil será inscrito no Livro do Tombo Histórico e no Livro do Tombo Arqueológico, Etnográfico e Paisagístico",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-tombamento-do-terreiro-palacio-de-ogum-e-caboclo-sete-serra-em-lencois-ba/whatsapp-image-2025-11-21-at-15-34-13-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-tombamento-do-terreiro-palacio-de-ogum-e-caboclo-sete-serra-em-lencois-ba",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Fábrica de Tecidos São Luiz, em Itu (SP), é registrada como Patrimônio Cultural nacional",
       "data": "26/11/2025",
       "resumo": "26/11/2025 - A aprovação ocorreu durante a 111ª reunião do Conselho Consultivo do Patrimônio Cultural, nesta quarta-feira (26/11)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/fabrica-de-tecidos-sao-luiz-em-itu-sp-e-registrada-como-patrimonio-cultural-nacional/fabrica_de_tecidos_sao_luiz-itu-1-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/fabrica-de-tecidos-sao-luiz-em-itu-sp-e-registrada-como-patrimonio-cultural-nacional",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan aprova tombamento definitivo do Sítio Histórico e Arqueológico de São José de Queimado",
-      "data": "26/11/2025",
-      "resumo": "26/11/2025 - Ruínas localizadas na cidade capixaba de Serra remetem à resistência negra à opressão do sistema escravista no Espírito Santo",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-tombamento-definitivo-do-sitio-historico-e-arqueologico-de-sao-jose-de-queimado/design-sem-nome-86.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-tombamento-definitivo-do-sitio-historico-e-arqueologico-de-sao-jose-de-queimado",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Fotógrafo autor de exposição promove visita guiada com público, na Lapa (PR)",
-      "data": "26/11/2025",
-      "resumo": "26/11/2025 - A atividade na mostra “Contraluz Urbana” será neste sábado (29/11) e gratuita, mediante inscrição em formulário on-line",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/fotografo-autor-de-exposicao-promove-visita-guiada-com-publico-na-lapa-pr/whatsapp-image-2025-09-01-at-16-32-05-1-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/fotografo-autor-de-exposicao-promove-visita-guiada-com-publico-na-lapa-pr",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251124081136_ae0cc648f667ddb2169ed7e079b5b10e5c2590a3ca86c0bdc6f2e8e55b4a75af.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
-      "data": "17/11/2025",
-      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES realiza cinco treinamentos na 1ª quinzena de novembro",
-      "data": "29/10/2025",
-      "resumo": "29/10/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos acontecem de 3 a 14 e irá abordar temas como inteligência artificial e revisão sistemática",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4278-capes-realiza-cinco-treinamentos-na-1-quinzena-de-novembro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES lança página para celebrar 25 anos do Portal de Periódicos",
-      "data": "17/10/2025",
-      "resumo": "17/10/2025 -\n                Conteúdo traz histórico da plataforma, depoimentos de autoridades e personalidades da comunidade acadêmica, lista de eventos e fotos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Hotsite_1.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4276-capes-lanca-pagina-para-celebrar-25-anos-do-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
