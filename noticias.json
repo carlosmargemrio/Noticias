@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Tombamento do Edifício da Antiga Repartição Central de Polícia (Antigo DOPS), no Rio de Janeiro (RJ), é aprovado pelo Iphan",
+      "data": "26/11/2025",
+      "resumo": "26/11/2025 - Ação reconhece o valor cultural frente às lutas sociais e políticas em favor da democracia e da liberdade",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tombamento-do-edificio-da-antiga-reparticao-central-de-policia-antigo-dops-no-rio-de-janeiro-rj-e-aprovado-pelo-conselho-consultivo-do-iphan/adasdada20210722_1517351.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tombamento-do-edificio-da-antiga-reparticao-central-de-policia-antigo-dops-no-rio-de-janeiro-rj-e-aprovado-pelo-conselho-consultivo-do-iphan",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Ofício das Tacacazeiras na Região Norte e Ourivesaria da Cidade de Natividade (TO) são registrados como Patrimônio Cultural do Brasil",
       "data": "25/11/2025",
       "resumo": "25/11/2025 - No 1° dia da 111ª Reunião do Conselho Consultivo do Patrimônio Cultural, nesta terça-feira (25), também foi aprovado o tombamento do bem Casa: Prefeitura Municipal de Pindamonhangaba (SP)",
@@ -14,14 +22,6 @@
       "resumo": "25/11/2025 - Construção foi inscrita nos Livros de Tombo das Belas Artes e Histórico",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-tombamento-do-palacete-dez-de-julho-em-pindamonhangaba-sp/53149061923_559d6c5d4a_k-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-tombamento-do-palacete-dez-de-julho-em-pindamonhangaba-sp",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Ourivesaria de Natividade (TO) é registrada como Patrimônio Cultural do Brasil",
-      "data": "25/11/2025",
-      "resumo": "25/11/2025 - Iphan reconheceu a produção das joias artesanais em reunião do Conselho Consultivo do Patrimônio Cultural",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ourivesaria-de-natividade-to-e-registrada-como-patrimonio-cultural-do-brasil/9ecb24c4-cb8c-4c65-b2b5-c4c4e98238a4-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ourivesaria-de-natividade-to-e-registrada-como-patrimonio-cultural-do-brasil",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251124081136_ae0cc648f667ddb2169ed7e079b5b10e5c2590a3ca86c0bdc6f2e8e55b4a75af.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
-      "data": "17/11/2025",
-      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES realiza cinco treinamentos na 1ª quinzena de novembro",
-      "data": "29/10/2025",
-      "resumo": "29/10/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos acontecem de 3 a 14 e irá abordar temas como inteligência artificial e revisão sistemática",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4278-capes-realiza-cinco-treinamentos-na-1-quinzena-de-novembro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES lança página para celebrar 25 anos do Portal de Periódicos",
-      "data": "17/10/2025",
-      "resumo": "17/10/2025 -\n                Conteúdo traz histórico da plataforma, depoimentos de autoridades e personalidades da comunidade acadêmica, lista de eventos e fotos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Hotsite_1.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4276-capes-lanca-pagina-para-celebrar-25-anos-do-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
