@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan lança “Adote um Projeto”",
+      "data": "27/11/2025",
+      "resumo": "27/11/2025 - Iniciativa fortalece a participação da sociedade civil na proteção, promoção e valorização do patrimônio cultural brasileiro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-201cadote-um-projeto201d/whatsapp-image-2025-11-27-at-19-31-12.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-201cadote-um-projeto201d",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Preservação do acervo do Instituto Burle Marx (RJ) é viabilizada pela Lei Rouanet",
       "data": "27/11/2025",
       "resumo": "27/11/2025 - Projeto inclui digitalização de plantas, croquis, fotografias e outros registros produzidos pelo paisagista",
@@ -14,14 +22,6 @@
       "resumo": "27/11/2025 - A mostra “Acervos e(m) Correspondência: trânsitos da arte popular Brasil-Chile” ficará exposta até março de 2026",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-publico-para-abertura-de-exposicao-na-casa-domingos-em-curitiba-pr/ceramica-atribuida-a-nezia-melo-da-silveira-de-sao-jose-sc-acervo-mae-ufpr-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-publico-para-abertura-de-exposicao-na-casa-domingos-em-curitiba-pr",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Novas regras atualizam papel do Iphan em processos de licenciamento ambiental",
-      "data": "27/11/2025",
-      "resumo": "27/11/2025 - Com lançamento no dia 1º/12, às 14h30, nova IN traz fluxos mais ágeis, diretrizes mais claras e mais garantias ao patrimônio cultural brasileiro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/novas-regras-atualizam-papel-do-iphan-em-processos-de-licenciamento-ambiental/licenciamento-ambiental_banner-noticia.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/novas-regras-atualizam-papel-do-iphan-em-processos-de-licenciamento-ambiental",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
