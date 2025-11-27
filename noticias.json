@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Preservação do acervo do Instituto Burle Marx (RJ) é viabilizada pela Lei Rouanet",
+      "data": "27/11/2025",
+      "resumo": "27/11/2025 - Projeto inclui digitalização de plantas, croquis, fotografias e outros registros produzidos pelo paisagista",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/preservacao-do-acervo-do-instituto-burle-marx-rj-e-viabilizada-pela-lei-rouanet/xxxxWhatsAppImage20251127at15.49.091.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/preservacao-do-acervo-do-instituto-burle-marx-rj-e-viabilizada-pela-lei-rouanet",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan convida público para abertura de exposição na Casa Domingos, em Curitiba (PR)",
       "data": "27/11/2025",
       "resumo": "27/11/2025 - A mostra “Acervos e(m) Correspondência: trânsitos da arte popular Brasil-Chile” ficará exposta até março de 2026",
@@ -14,14 +22,6 @@
       "resumo": "27/11/2025 - Com lançamento no dia 1º/12, às 14h30, nova IN traz fluxos mais ágeis, diretrizes mais claras e mais garantias ao patrimônio cultural brasileiro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/novas-regras-atualizam-papel-do-iphan-em-processos-de-licenciamento-ambiental/licenciamento-ambiental_banner-noticia.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/novas-regras-atualizam-papel-do-iphan-em-processos-de-licenciamento-ambiental",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Governo do Brasil lança edital de R$ 30 milhões para preservação dos Acervos Presidenciais",
-      "data": "27/11/2025",
-      "resumo": "27/11/2025 - Iniciativa inédita do Iphan, anunciada no 1º Encontro Nacional de Mantenedores, visa proteger e difundir a memória dos ex-presidentes da República. Inscrições e envio das propostas vão até o dia 4 de janeiro de 2026. Inscrições e envio das propostas vão até o dia 4 de janeiro de 2026",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/governo-do-brasil-lanca-edital-de-r-30-milhoes-para-preservacao-dos-acervos-presidenciais/783b8544-19fa-45ce-b1b8-fc2745c8f85e.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/governo-do-brasil-lanca-edital-de-r-30-milhoes-para-preservacao-dos-acervos-presidenciais",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
