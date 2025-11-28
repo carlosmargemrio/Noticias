@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan abre consulta pública para modernizar normas de pesquisa arqueológica no Brasil",
+      "data": "28/11/2025",
+      "resumo": "28/11/2025 - Portaria que orienta trabalhos arqueológicos há 37 anos será atualizada com participação da sociedade",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-consulta-publica-para-modernizar-normas-de-pesquisa-arqueologica-no-brasil/marcos-issa_escaneamento-de-estruturas-remanescentes-de-fornos-de-olaria_sao-paulo-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-consulta-publica-para-modernizar-normas-de-pesquisa-arqueologica-no-brasil",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan lança “Adote um Projeto”",
       "data": "27/11/2025",
       "resumo": "27/11/2025 - Iniciativa fortalece a participação da sociedade civil na proteção, promoção e valorização do patrimônio cultural brasileiro",
@@ -14,14 +22,6 @@
       "resumo": "27/11/2025 - Projeto inclui digitalização de plantas, croquis, fotografias e outros registros produzidos pelo paisagista",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/preservacao-do-acervo-do-instituto-burle-marx-rj-e-viabilizada-pela-lei-rouanet/xxxxWhatsAppImage20251127at15.49.091.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/preservacao-do-acervo-do-instituto-burle-marx-rj-e-viabilizada-pela-lei-rouanet",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan convida público para abertura de exposição na Casa Domingos, em Curitiba (PR)",
-      "data": "27/11/2025",
-      "resumo": "27/11/2025 - A mostra “Acervos e(m) Correspondência: trânsitos da arte popular Brasil-Chile” ficará exposta até março de 2026",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-publico-para-abertura-de-exposicao-na-casa-domingos-em-curitiba-pr/ceramica-atribuida-a-nezia-melo-da-silveira-de-sao-jose-sc-acervo-mae-ufpr-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-publico-para-abertura-de-exposicao-na-casa-domingos-em-curitiba-pr",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025112513114_f8329aef8155126e3848b785f6c4d58b9ed87c02afd4a3593a2497520cf5a7d6.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
+      "data": "17/11/2025",
+      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza cinco treinamentos na 1ª quinzena de novembro",
+      "data": "29/10/2025",
+      "resumo": "29/10/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos acontecem de 3 a 14 e irá abordar temas como inteligência artificial e revisão sistemática",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4278-capes-realiza-cinco-treinamentos-na-1-quinzena-de-novembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES lança página para celebrar 25 anos do Portal de Periódicos",
+      "data": "17/10/2025",
+      "resumo": "17/10/2025 -\n                Conteúdo traz histórico da plataforma, depoimentos de autoridades e personalidades da comunidade acadêmica, lista de eventos e fotos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Hotsite_1.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4276-capes-lanca-pagina-para-celebrar-25-anos-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
