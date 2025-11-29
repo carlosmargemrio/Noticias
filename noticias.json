@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan premia vencedores do 13º Prêmio Luiz de Castro Faria",
+      "data": "28/11/2025",
+      "resumo": "28/11/2025 - Premiação aconteceu durante o 23° Congresso da Sociedade de Arqueologia Brasileira",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-premia-vencedores-do-13o-premio-luiz-de-castro-faria/img_9104-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-premia-vencedores-do-13o-premio-luiz-de-castro-faria",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan entrega primeira etapa da reforma da Igreja de São Sebastião, em Manaus (AM)",
       "data": "28/11/2025",
       "resumo": "28/11/2025 - Mesmo com a entrega, templo permanecerá fechado até a conclusão da segunda fase da obra, prevista para iniciar em 2026",
@@ -14,14 +22,6 @@
       "resumo": "28/11/2025 - Programação destacou a importância cultural do ofício registrado pelo Iphan desde 2005",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/dia-da-baiana-de-acaraje-e-comemorado-em-evento-na-pequena-africa-rj/xxxxxDSCF1512JoaoWerneck1.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/dia-da-baiana-de-acaraje-e-comemorado-em-evento-na-pequena-africa-rj",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan coordena a 31ª reunião da Comissão de Patrimônio Cultural do Mercosul",
-      "data": "28/11/2025",
-      "resumo": "28/11/2025 - Evento inaugurou, no dia 24, as atividades presenciais do Mercosul Cultural, em Porto Alegre (RS)",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-coordena-a-31a-reuniao-da-comissao-de-patrimonio-cultural-do-mercosul/54944221873_b0991dd004_5k-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-coordena-a-31a-reuniao-da-comissao-de-patrimonio-cultural-do-mercosul",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025112513114_f8329aef8155126e3848b785f6c4d58b9ed87c02afd4a3593a2497520cf5a7d6.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
-      "data": "28/11/2025",
-      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
-      "data": "17/11/2025",
-      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES realiza cinco treinamentos na 1ª quinzena de novembro",
-      "data": "29/10/2025",
-      "resumo": "29/10/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos acontecem de 3 a 14 e irá abordar temas como inteligência artificial e revisão sistemática",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4278-capes-realiza-cinco-treinamentos-na-1-quinzena-de-novembro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
