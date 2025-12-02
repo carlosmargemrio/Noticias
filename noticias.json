@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Paraíba mobiliza poder público e comunidade artística na construção do Plano de Salvaguarda do Repente",
+      "data": "02/12/2025",
+      "resumo": "02/12/2025 - Encontros fortalecem uma das mais importantes tradições do Nordeste",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/paraiba-mobiliza-poder-publico-e-comunidade-artistica-na-construcao-do-plano-de-salvaguarda-do-repente/design-sem-nome-87.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/paraiba-mobiliza-poder-publico-e-comunidade-artistica-na-construcao-do-plano-de-salvaguarda-do-repente",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan vistoria sítios arqueológicos em São Gabriel da Cachoeira (AM)",
       "data": "02/12/2025",
       "resumo": "02/12/2025 - Ação faz parte do calendário de fiscalizações da superintendência no Amazonas",
@@ -14,14 +22,6 @@
       "resumo": "01/12/2025 - Equipe de pesquisa passará por seis cidades falando sobre os resultados preliminares da Pesquisa Patrimônio Cultural, Economia e Sustentabilidade e realizando oficinas",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-salvador-ba-iphan-e-obec-iniciam-apresentacoes-de-estudo-inedito/pesquisa-patrimonio-cultural-economia-e-sustentabilidade-1.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-salvador-ba-iphan-e-obec-iniciam-apresentacoes-de-estudo-inedito",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Em novembro, Iphan fez quase 50 eventos e lançou Protocolo de Igualdade Racial",
-      "data": "01/12/2025",
-      "resumo": "01/12/2025 - Unidades especiais, superintendências e escritórios técnicos realizaram ações por todo o Brasil, sob coordenação do Comitê Permanente para Preservação do Patrimônio Cultural de Matriz Africana (Copmaf)",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-novembro-iphan-fez-quase-50-eventos-e-lancou-protocolo-de-igualdade-racial/area-paraiba-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-novembro-iphan-fez-quase-50-eventos-e-lancou-protocolo-de-igualdade-racial",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251128111128_d983f7e630049aebdf13055e24ed7bafd0b3d08e7fbdea60c1734e5dd27cb040.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
+      "data": "28/11/2025",
+      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
+      "data": "17/11/2025",
+      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza cinco treinamentos na 1ª quinzena de novembro",
+      "data": "29/10/2025",
+      "resumo": "29/10/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos acontecem de 3 a 14 e irá abordar temas como inteligência artificial e revisão sistemática",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4278-capes-realiza-cinco-treinamentos-na-1-quinzena-de-novembro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
