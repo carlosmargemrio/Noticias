@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan vistoria sítios arqueológicos em São Gabriel da Cachoeira (AM)",
+      "data": "02/12/2025",
+      "resumo": "02/12/2025 - Ação faz parte do calendário de fiscalizações da superintendência no Amazonas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-vistoria-sitios-arqueologicos-em-sao-gabriel-da-cachoeira-am/whatsapp-image-2025-12-01-at-18-49-55-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-vistoria-sitios-arqueologicos-em-sao-gabriel-da-cachoeira-am",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Em Salvador (BA), Iphan e Obec Bahia iniciam apresentações de estudo inédito",
       "data": "01/12/2025",
       "resumo": "01/12/2025 - Equipe de pesquisa passará por seis cidades falando sobre os resultados preliminares da Pesquisa Patrimônio Cultural, Economia e Sustentabilidade e realizando oficinas",
@@ -14,14 +22,6 @@
       "resumo": "01/12/2025 - Unidades especiais, superintendências e escritórios técnicos realizaram ações por todo o Brasil, sob coordenação do Comitê Permanente para Preservação do Patrimônio Cultural de Matriz Africana (Copmaf)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-novembro-iphan-fez-quase-50-eventos-e-lancou-protocolo-de-igualdade-racial/area-paraiba-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-novembro-iphan-fez-quase-50-eventos-e-lancou-protocolo-de-igualdade-racial",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan anuncia as 18 ações vencedoras do Prêmio Rodrigo 2025",
-      "data": "01/12/2025",
-      "resumo": "01/12/2025 - Com o tema “Patrimônio Cultural, Territórios e Sustentabilidade”, o concurso contemplou ações de excelência, realizadas entre os anos de 2022 e 2024",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-anuncia-as-18-acoes-vencedoras-do-premio-rodrigo-2025/prmfa25_banner-noticia4-aleijadinho.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-anuncia-as-18-acoes-vencedoras-do-premio-rodrigo-2025",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
