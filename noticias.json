@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Ouvidoria do Iphan inaugura sala de atendimento presencial",
+      "data": "02/12/2025",
+      "resumo": "02/12/2025 - Ambiente foi planejado para atender funcionários da autarquia e sociedade, com garantia de privacidade, apoio e empatia",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouvidoria-do-iphan-inaugura-sala-de-atendimento-presencial/1505ead5-51d3-4127-85af-a0bc3784ab13.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouvidoria-do-iphan-inaugura-sala-de-atendimento-presencial",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Paraíba mobiliza poder público e comunidade artística na construção do Plano de Salvaguarda do Repente",
       "data": "02/12/2025",
       "resumo": "02/12/2025 - Encontros fortalecem uma das mais importantes tradições do Nordeste",
@@ -14,14 +22,6 @@
       "resumo": "02/12/2025 - Ação faz parte do calendário de fiscalizações da superintendência no Amazonas",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-vistoria-sitios-arqueologicos-em-sao-gabriel-da-cachoeira-am/whatsapp-image-2025-12-01-at-18-49-55-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-vistoria-sitios-arqueologicos-em-sao-gabriel-da-cachoeira-am",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Em Salvador (BA), Iphan e Obec Bahia iniciam apresentações de estudo inédito",
-      "data": "01/12/2025",
-      "resumo": "01/12/2025 - Equipe de pesquisa passará por seis cidades falando sobre os resultados preliminares da Pesquisa Patrimônio Cultural, Economia e Sustentabilidade e realizando oficinas",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-salvador-ba-iphan-e-obec-iniciam-apresentacoes-de-estudo-inedito/pesquisa-patrimonio-cultural-economia-e-sustentabilidade-1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-salvador-ba-iphan-e-obec-iniciam-apresentacoes-de-estudo-inedito",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
