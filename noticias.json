@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa do Mercado das Indústrias Criativas do Brasil, em Fortaleza (CE)",
+      "data": "03/12/2025",
+      "resumo": "03/12/2025 - Instituto promoverá atividades abertas ao público, nos dias 4 e 5 de dezembro, em Fortaleza",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-do-mercado-das-industrias-criativas-do-brasil-em-fortaleza-ce/2b2bb3c0-af4d-48e9-baa8-da5d2ee6ef11-1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-do-mercado-das-industrias-criativas-do-brasil-em-fortaleza-ce",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan promove capacitação em patrimônio cultural para professores da rede pública de Araruama (RJ)",
       "data": "03/12/2025",
       "resumo": "03/12/2025 - Encontro abordou conceitos de patrimônio cultural e instrumentos de proteção",
@@ -14,14 +22,6 @@
       "resumo": "03/12/2025 - Celebração contou com ações que destacaram a importância cultural do Sítio de Pai Adão, como é conhecido o espaço",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/terreiro-ile-oba-ogunte-celebra-150-anos-em-recife-pe/xxxx011.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/terreiro-ile-oba-ogunte-celebra-150-anos-em-recife-pe",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Ouvidoria do Iphan inaugura sala de atendimento presencial",
-      "data": "02/12/2025",
-      "resumo": "02/12/2025 - Ambiente foi planejado para atender funcionários da autarquia e sociedade, com garantia de privacidade, apoio e empatia",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouvidoria-do-iphan-inaugura-sala-de-atendimento-presencial/1505ead5-51d3-4127-85af-a0bc3784ab13.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ouvidoria-do-iphan-inaugura-sala-de-atendimento-presencial",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251129191132_cfb2848d-fe63-46ef-a4bb-51d81e16cfc5.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
+      "data": "28/11/2025",
+      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
+      "data": "17/11/2025",
+      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza cinco treinamentos na 1ª quinzena de novembro",
+      "data": "29/10/2025",
+      "resumo": "29/10/2025 -\n                Ciclo de eventos gratuitos, on-line e interativos acontecem de 3 a 14 e irá abordar temas como inteligência artificial e revisão sistemática",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4278-capes-realiza-cinco-treinamentos-na-1-quinzena-de-novembro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
