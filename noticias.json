@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Paço Imperial (RJ) inaugura última programação de exposições de 2025",
+      "data": "04/12/2025",
+      "resumo": "04/12/2025 - Com entrada gratuita, as mostras estarão abertas ao público a partir desta terça-feira (9/11)",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/paco-imperial-rj-inaugura-ultima-programacao-de-exposicoes-de-2025/xxxxxLuisElEstudianteElcarnavalOleoLienzo110x148cm20231.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/paco-imperial-rj-inaugura-ultima-programacao-de-exposicoes-de-2025",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan participa do Mercado das Indústrias Criativas do Brasil, em Fortaleza (CE)",
       "data": "03/12/2025",
       "resumo": "03/12/2025 - Instituto promoverá atividades abertas ao público, nos dias 4 e 5 de dezembro, em Fortaleza",
@@ -14,14 +22,6 @@
       "resumo": "03/12/2025 - Encontro abordou conceitos de patrimônio cultural e instrumentos de proteção",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-capacitacao-em-patrimonio-cultural-para-professores-da-rede-publica-de-araruama-rj/xxxxWhatsAppImage20251124at13.35.591.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-capacitacao-em-patrimonio-cultural-para-professores-da-rede-publica-de-araruama-rj",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Terreiro Ilê Obá Ogunté celebra 150 anos em Recife (PE)",
-      "data": "03/12/2025",
-      "resumo": "03/12/2025 - Celebração contou com ações que destacaram a importância cultural do Sítio de Pai Adão, como é conhecido o espaço",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/terreiro-ile-oba-ogunte-celebra-150-anos-em-recife-pe/xxxx011.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/terreiro-ile-oba-ogunte-celebra-150-anos-em-recife-pe",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
