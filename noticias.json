@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove 2ª Jornada Patrimônio Cultural e Ação Climática em Porto Alegre (RS)",
+      "data": "04/12/2025",
+      "resumo": "04/12/2025 - Evento é parceria com a Escola Superior da Advocacia Geral da União (Esagu) da 4ª Região e será nos dias 10 e 11 de dezembro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-2a-jornada-patrimonio-cultural-e-acao-climatica-em-porto-alegre-rs/2-jornadaclimatica_stories-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-2a-jornada-patrimonio-cultural-e-acao-climatica-em-porto-alegre-rs",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan institui Política de Sustentabilidade",
       "data": "04/12/2025",
       "resumo": "04/12/2025 - Focada em eficiência, equidade e gestão consciente dos recursos, Portaria nº 292/2025 define diretrizes e estabelece o Plano de Logística Sustentável (PLS Iphan)",
@@ -14,14 +22,6 @@
       "resumo": "04/12/2025 - Com entrada gratuita, as mostras estarão abertas ao público a partir desta terça-feira (9/12)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/paco-imperial-rj-inaugura-ultima-programacao-de-exposicoes-de-2025/xxxxxLuisElEstudianteElcarnavalOleoLienzo110x148cm20231.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/paco-imperial-rj-inaugura-ultima-programacao-de-exposicoes-de-2025",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan participa do Mercado das Indústrias Criativas do Brasil, em Fortaleza (CE)",
-      "data": "03/12/2025",
-      "resumo": "03/12/2025 - Instituto promoverá atividades abertas ao público, nos dias 4 e 5 de dezembro, em Fortaleza",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-do-mercado-das-industrias-criativas-do-brasil-em-fortaleza-ce/2b2bb3c0-af4d-48e9-baa8-da5d2ee6ef11-1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-do-mercado-das-industrias-criativas-do-brasil-em-fortaleza-ce",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
