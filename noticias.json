@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Chafariz da Glória, no Rio de Janeiro (RJ), passa por obra de restauro e requalificação",
+      "data": "05/12/2025",
+      "resumo": "05/12/2025 - Aprovado pelo Iphan, o projeto prevê que o monumento volte a fornecer água à população",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/chafariz-da-gloria-no-rio-de-janeiro-rj-passa-por-obra-de-restauro-e-requalificacao/yxxxxxxxxA7641RMT4557B016PE000.000.01A10DE009_assinado1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/chafariz-da-gloria-no-rio-de-janeiro-rj-passa-por-obra-de-restauro-e-requalificacao",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Revista do Patrimônio está com chamada aberta para submissão de textos",
       "data": "05/12/2025",
       "resumo": "05/12/2025 - As contribuições sobre o tema “Cartografias do Tempo: tecnologias construtivas e metodologias diagnósticas de bens culturais edificados” podem ser enviadas até 7 de março",
@@ -14,14 +22,6 @@
       "resumo": "04/12/2025 - Evento é parceria com a Escola Superior da Advocacia Geral da União (Esagu) da 4ª Região e será nos dias 10 e 11 de dezembro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-2a-jornada-patrimonio-cultural-e-acao-climatica-em-porto-alegre-rs/2-jornadaclimatica_stories-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-2a-jornada-patrimonio-cultural-e-acao-climatica-em-porto-alegre-rs",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan institui Política de Sustentabilidade",
-      "data": "04/12/2025",
-      "resumo": "04/12/2025 - Focada em eficiência, equidade e gestão consciente dos recursos, Portaria nº 292/2025 define diretrizes e estabelece o Plano de Logística Sustentável (PLS Iphan)",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-institui-politica-de-sustentabilidade/whatsapp-image-2025-12-04-at-16-05-52-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-institui-politica-de-sustentabilidade",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
