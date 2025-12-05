@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Revista do Patrimônio está com chamada aberta para submissão de textos",
+      "data": "05/12/2025",
+      "resumo": "05/12/2025 - As contribuições sobre o tema “Cartografias do Tempo: tecnologias construtivas e metodologias diagnósticas de bens culturais edificados” podem ser enviadas até 7 de março",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/revista-do-patrimonio-esta-com-chamada-aberta-para-submissao-de-textos/revista-do-patrimonio_destaque.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/revista-do-patrimonio-esta-com-chamada-aberta-para-submissao-de-textos",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan promove 2ª Jornada Patrimônio Cultural e Ação Climática em Porto Alegre (RS)",
       "data": "04/12/2025",
       "resumo": "04/12/2025 - Evento é parceria com a Escola Superior da Advocacia Geral da União (Esagu) da 4ª Região e será nos dias 10 e 11 de dezembro",
@@ -14,14 +22,6 @@
       "resumo": "04/12/2025 - Focada em eficiência, equidade e gestão consciente dos recursos, Portaria nº 292/2025 define diretrizes e estabelece o Plano de Logística Sustentável (PLS Iphan)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-institui-politica-de-sustentabilidade/whatsapp-image-2025-12-04-at-16-05-52-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-institui-politica-de-sustentabilidade",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Paço Imperial (RJ) inaugura última programação de exposições de 2025",
-      "data": "04/12/2025",
-      "resumo": "04/12/2025 - Com entrada gratuita, as mostras estarão abertas ao público a partir desta terça-feira (9/12)",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/paco-imperial-rj-inaugura-ultima-programacao-de-exposicoes-de-2025/xxxxxLuisElEstudianteElcarnavalOleoLienzo110x148cm20231.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/paco-imperial-rj-inaugura-ultima-programacao-de-exposicoes-de-2025",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
