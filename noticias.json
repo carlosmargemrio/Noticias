@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Fotografia digital na Comunicação Pública é tema de pesquisa",
+      "data": "08/12/2025",
+      "resumo": "08/12/2025 - Dissertação será defendida nesta terça-feira (9/12)",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/desafios-da-fotografia-digital-na-comunicacao-publica-e-tema-de-pesquisa/b197d9fcb23e46a78afa9bbe02b9ac12.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/desafios-da-fotografia-digital-na-comunicacao-publica-e-tema-de-pesquisa",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Com mais de R$ 30 milhões do Novo PAC, Iphan impulsiona preservação e revitalização do patrimônio de Santa Catarina",
       "data": "05/12/2025",
       "resumo": "05/12/2025 - Série de eventos percorreu quatro municípios e incluiu início de obra, inauguração de bem, entrega de títulos de tombamento e diálogo com comunidades",
@@ -14,14 +22,6 @@
       "resumo": "05/12/2025 - Aprovado pelo Iphan, o projeto prevê que o monumento volte a fornecer água à população",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/chafariz-da-gloria-no-rio-de-janeiro-rj-passa-por-obra-de-restauro-e-requalificacao/yxxxxxxxxA7641RMT4557B016PE000.000.01A10DE009_assinado1.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/chafariz-da-gloria-no-rio-de-janeiro-rj-passa-por-obra-de-restauro-e-requalificacao",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Revista do Patrimônio está com chamada aberta para submissão de textos",
-      "data": "05/12/2025",
-      "resumo": "05/12/2025 - As contribuições sobre o tema “Cartografias do Tempo: tecnologias construtivas e metodologias diagnósticas de bens culturais edificados” podem ser enviadas até 7 de março",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/revista-do-patrimonio-esta-com-chamada-aberta-para-submissao-de-textos/revista-do-patrimonio_destaque.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/revista-do-patrimonio-esta-com-chamada-aberta-para-submissao-de-textos",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
