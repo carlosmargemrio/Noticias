@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan realiza fiscalização e visita técnica ao conjunto ferroviário de Duas Estradas (PB)",
+      "data": "10/12/2025",
+      "resumo": "10/12/2025 - Ação avaliou o estado de conservação da estação, do armazém, do pátio e de trecho ferroviário histórico do município",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-fiscalizacao-e-visita-tecnica-ao-conjunto-ferroviario-de-duas-estradas-pb/design-sem-nome-90.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-fiscalizacao-e-visita-tecnica-ao-conjunto-ferroviario-de-duas-estradas-pb",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Primeira etapa da restauração do Teatro Minerva é concluída em Areia (PB)",
       "data": "09/12/2025",
       "resumo": "09/12/2025 - Obras contemplam recuperação de elementos originais em madeira nobre e marcam avanço na preservação do primeiro teatro da Paraíba",
@@ -14,14 +22,6 @@
       "resumo": "08/12/2025 - Encontro definiu encaminhamentos estratégicos de organização e governança do sítio arqueológico para 2026",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-para-alinhar-gestao-do-cais-do-valongo-rj/xxxx20251206_132323971_iOS2.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-para-alinhar-gestao-do-cais-do-valongo-rj",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Fotografia digital na Comunicação Pública é tema de pesquisa",
-      "data": "08/12/2025",
-      "resumo": "08/12/2025 - Dissertação será defendida nesta terça-feira (9/12)",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/desafios-da-fotografia-digital-na-comunicacao-publica-e-tema-de-pesquisa/b197d9fcb23e46a78afa9bbe02b9ac12.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/desafios-da-fotografia-digital-na-comunicacao-publica-e-tema-de-pesquisa",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
