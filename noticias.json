@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Em Belém (PA), Iphan apresenta estudo sobre dinâmicas econômicas associadas ao Círio de Nazaré",
+      "data": "11/12/2025",
+      "resumo": "11/12/2025 - Equipe da pesquisa percorre seis cidades para discutir os resultados da Pesquisa Patrimônio Cultural, Economia e Sustentabilidade e oferecer oficinas formativas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-belem-pa-iphan-apresenta-estudo-sobre-dinamicas-economicas-associadas-ao-cirio-de-nazare/175235e3-3a6c-40f5-96dc-600746ebc8b9.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-belem-pa-iphan-apresenta-estudo-sobre-dinamicas-economicas-associadas-ao-cirio-de-nazare",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Projeto reúne mais de 40 municípios do RS pela salvaguarda da língua Talian",
       "data": "10/12/2025",
       "resumo": "10/12/2025 - Gestores e sociedade civil mapearam mais de 500 iniciativas de preservação e promoção da língua criada por imigrantes italianos no século XIX",
@@ -14,14 +22,6 @@
       "resumo": "10/12/2025 - Ação avaliou o estado de conservação da estação, do armazém, do pátio e de trecho ferroviário histórico do município",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-fiscalizacao-e-visita-tecnica-ao-conjunto-ferroviario-de-duas-estradas-pb/design-sem-nome-90.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-fiscalizacao-e-visita-tecnica-ao-conjunto-ferroviario-de-duas-estradas-pb",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Primeira etapa da restauração do Teatro Minerva é concluída em Areia (PB)",
-      "data": "09/12/2025",
-      "resumo": "09/12/2025 - Obras contemplam recuperação de elementos originais em madeira nobre e marcam avanço na preservação do primeiro teatro da Paraíba",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/primeira-etapa-da-restauracao-do-teatro-minerva-e-concluida-em-areia-pb/design-sem-nome-88.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/primeira-etapa-da-restauracao-do-teatro-minerva-e-concluida-em-areia-pb",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20180418200456_a86d814c13f98449862ca716a7a6ee3b87cb9f8d0d53806801fe5dc231b720d6.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
+      "data": "04/12/2025",
+      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
+      "data": "28/11/2025",
+      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
+      "data": "17/11/2025",
+      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
