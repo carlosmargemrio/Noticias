@@ -1,6 +1,30 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Projeto reúne mais de 40 municípios do RS pela salvaguarda da língua Talian",
+      "data": "10/12/2025",
+      "resumo": "10/12/2025 - Gestores e sociedade civil mapearam mais de 500 iniciativas de preservação e promoção da língua criada por imigrantes italianos no século XIX",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-reune-mais-de-40-municipios-do-rs-pela-salvaguarda-da-lingua-talian/whatsapp-image-2025-12-10-at-16-16-25-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-reune-mais-de-40-municipios-do-rs-pela-salvaguarda-da-lingua-talian",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan realiza fiscalização e visita técnica ao conjunto ferroviário de Duas Estradas (PB)",
+      "data": "10/12/2025",
+      "resumo": "10/12/2025 - Ação avaliou o estado de conservação da estação, do armazém, do pátio e de trecho ferroviário histórico do município",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-fiscalizacao-e-visita-tecnica-ao-conjunto-ferroviario-de-duas-estradas-pb/design-sem-nome-90.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-fiscalizacao-e-visita-tecnica-ao-conjunto-ferroviario-de-duas-estradas-pb",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Primeira etapa da restauração do Teatro Minerva é concluída em Areia (PB)",
+      "data": "09/12/2025",
+      "resumo": "09/12/2025 - Obras contemplam recuperação de elementos originais em madeira nobre e marcam avanço na preservação do primeiro teatro da Paraíba",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/primeira-etapa-da-restauracao-do-teatro-minerva-e-concluida-em-areia-pb/design-sem-nome-88.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/primeira-etapa-da-restauracao-do-teatro-minerva-e-concluida-em-areia-pb",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Alysson Mascaro lota livraria Leonardo da Vinci, no Rio, em lançamento de Crítica do Cancelamento",
       "data": "",
       "resumo": "Alvo de lawfare, o jurista recebeu a solidariedade de juristas, intelectuais, jornalistas e leitores ao lançar uma densa reflexão sobre o cancelamento",
