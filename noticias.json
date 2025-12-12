@@ -1,27 +1,27 @@
 {
   "noticias_sites": [
     {
+      "titulo": "CNA visita ações de preservação arqueológica em parque de Nova Iguaçu (RJ)",
+      "data": "12/12/2025",
+      "resumo": "12/12/2025 - As ações, que misturam pesquisa, preservação e participação comunitária, são desenvolvidas pela Secretaria Municipal de Cultura",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cna-visita-acoes-de-preservacao-arqueologica-em-parque-de-nova-iguacu-rj/whatsapp-image-2025-12-10-at-14-59-59-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cna-visita-acoes-de-preservacao-arqueologica-em-parque-de-nova-iguacu-rj",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan lança livro sobre esculturas religiosas do Rio de Janeiro colonial",
+      "data": "12/12/2025",
+      "resumo": "12/12/2025 - Publicação reúne análises de 476 objetos e 96 monumentos, revelando acervos até então desconhecidos do público",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-livro-sobre-esculturas-religiosas-do-rio-de-janeiro-colonial/EsculturaReligiosa_Card1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-livro-sobre-esculturas-religiosas-do-rio-de-janeiro-colonial",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan entrega reforma da Catedral Metropolitana de Manaus (AM)",
       "data": "12/12/2025",
       "resumo": "12/12/2025 - Solenidade conclui contrato para recuperação de igrejas centenárias da capital amazonense",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-reforma-da-catedral-metropolitana-de-manaus-am/whatsapp-image-2025-12-03-at-12-45-20-1-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-reforma-da-catedral-metropolitana-de-manaus-am",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Em Pirenópolis, Iphan recebe exposição “As máscaras do divino – Um resgate das tradições”",
-      "data": "12/12/2025",
-      "resumo": "12/12/2025 - Segunda edição da mostra estará aberta ao público no escritório técnico do Iphan, de 12 a 22 de dezembro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-pirenopolis-iphan-recebe-exposicao-201cas-mascaras-do-divino-2013-um-resgate-das-tradicoes201d/design-sem-nome-93.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-pirenopolis-iphan-recebe-exposicao-201cas-mascaras-do-divino-2013-um-resgate-das-tradicoes201d",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan inaugura Parque da Romaria em Congonhas e faz série de anúncios para MG",
-      "data": "12/12/2025",
-      "resumo": "12/12/2025 - Com R$ 290 milhões do Novo PAC destinados à preservação do patrimônio no estado, evento reuniu gestores, artistas e comunidade para celebrar avanços do programa federal",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inaugura-parque-da-romaria-em-congonhas-e-faz-serie-de-anuncios-para-mg/WhatsAppImage20251212at09.52.361.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inaugura-parque-da-romaria-em-congonhas-e-faz-serie-de-anuncios-para-mg",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251211201232_77cb52d4-8d64-4902-9655-5e80635c83d1.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
-      "data": "04/12/2025",
-      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
-      "data": "28/11/2025",
-      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
-      "data": "17/11/2025",
-      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
