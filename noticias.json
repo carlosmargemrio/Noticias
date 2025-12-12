@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan inaugura Parque da Romaria em Congonhas e faz série de anúncios para MG",
+      "data": "12/12/2025",
+      "resumo": "12/12/2025 - Com R$ 290 milhões do Novo PAC destinados à preservação do patrimônio no estado, evento reuniu gestores, artistas e comunidade para celebrar avanços do programa federal",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inaugura-parque-da-romaria-em-congonhas-e-faz-serie-de-anuncios-para-mg/WhatsAppImage20251212at09.52.361.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inaugura-parque-da-romaria-em-congonhas-e-faz-serie-de-anuncios-para-mg",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan lança publicação sobre as freguesias luso-brasileiras da Grande Florianópolis",
       "data": "11/12/2025",
       "resumo": "11/12/2025 - Acesse a versão digital e saiba também como adquirir um exemplar físico",
@@ -14,14 +22,6 @@
       "resumo": "11/12/2025 - Publicação reúne três anos de debates sobre preservação da arquitetura da capital",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/livro-que-propoe-novo-olhar-sobre-brasilia-sera-lancado-na-sede-do-iphan/bannersite.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/livro-que-propoe-novo-olhar-sobre-brasilia-sera-lancado-na-sede-do-iphan",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Em Belém (PA), Iphan apresenta estudo sobre dinâmicas econômicas associadas ao Círio de Nazaré",
-      "data": "11/12/2025",
-      "resumo": "11/12/2025 - Equipe da pesquisa percorre seis cidades para discutir os resultados da Pesquisa Patrimônio Cultural, Economia e Sustentabilidade e oferecer oficinas formativas",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-belem-pa-iphan-apresenta-estudo-sobre-dinamicas-economicas-associadas-ao-cirio-de-nazare/175235e3-3a6c-40f5-96dc-600746ebc8b9.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-belem-pa-iphan-apresenta-estudo-sobre-dinamicas-economicas-associadas-ao-cirio-de-nazare",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
