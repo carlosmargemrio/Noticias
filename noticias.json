@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan entrega reforma da Catedral Metropolitana de Manaus (AM)",
+      "data": "12/12/2025",
+      "resumo": "12/12/2025 - Solenidade conclui contrato para recuperação de igrejas centenárias da capital amazonense",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-reforma-da-catedral-metropolitana-de-manaus-am/whatsapp-image-2025-12-03-at-12-45-20-1-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-reforma-da-catedral-metropolitana-de-manaus-am",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Em Pirenópolis, Iphan recebe exposição “As máscaras do divino – Um resgate das tradições”",
       "data": "12/12/2025",
       "resumo": "12/12/2025 - Segunda edição da mostra estará aberta ao público no escritório técnico do Iphan, de 12 a 22 de dezembro",
@@ -14,14 +22,6 @@
       "resumo": "12/12/2025 - Com R$ 290 milhões do Novo PAC destinados à preservação do patrimônio no estado, evento reuniu gestores, artistas e comunidade para celebrar avanços do programa federal",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inaugura-parque-da-romaria-em-congonhas-e-faz-serie-de-anuncios-para-mg/WhatsAppImage20251212at09.52.361.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inaugura-parque-da-romaria-em-congonhas-e-faz-serie-de-anuncios-para-mg",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan lança publicação sobre as freguesias luso-brasileiras da Grande Florianópolis",
-      "data": "11/12/2025",
-      "resumo": "11/12/2025 - Acesse a versão digital e saiba também como adquirir um exemplar físico",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-publicacao-sobre-as-freguesias-luso-brasileiras-da-grande-florianopolis/rc_freguesia-do-ribeirao-da-ilha-122-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-publicacao-sobre-as-freguesias-luso-brasileiras-da-grande-florianopolis",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
