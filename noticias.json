@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan ouve sociedade sobre o Fandango Caiçara",
+      "data": "15/12/2025",
+      "resumo": "15/12/2025 - Consulta sobre revalidação do título de Patrimônio Cultural do Brasil vai até 11/01",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-ouve-sociedade-sobre-o-fandango-caicara/2005_sp-e-pr_fandango-caicara_musicos_felipe-varanda-25-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-ouve-sociedade-sobre-o-fandango-caicara",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan lança normas inéditas para orientar preservação e intervenções em Salvador",
       "data": "15/12/2025",
       "resumo": "15/12/2025 - Portaria é a mais detalhada e completa já elaborada para preservação de bens tombados e teve em seu processo ampla participação social",
@@ -14,14 +22,6 @@
       "resumo": "12/12/2025 - As ações, que misturam pesquisa, preservação e participação comunitária, são desenvolvidas pela Secretaria Municipal de Cultura",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cna-visita-acoes-de-preservacao-arqueologica-em-parque-de-nova-iguacu-rj/whatsapp-image-2025-12-10-at-14-59-59-2.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cna-visita-acoes-de-preservacao-arqueologica-em-parque-de-nova-iguacu-rj",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan lança livro sobre esculturas religiosas do Rio de Janeiro colonial",
-      "data": "12/12/2025",
-      "resumo": "12/12/2025 - Publicação reúne análises de 476 objetos e 96 monumentos, revelando acervos até então desconhecidos do público",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-livro-sobre-esculturas-religiosas-do-rio-de-janeiro-colonial/EsculturaReligiosa_Card1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-livro-sobre-esculturas-religiosas-do-rio-de-janeiro-colonial",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
