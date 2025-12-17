@@ -1,6 +1,30 @@
 {
   "noticias_sites": [
     {
+      "titulo": "400 anos das Missões Jesuíticas Guarani: Iphan participa do início das celebrações no RS",
+      "data": "16/12/2025",
+      "resumo": "16/12/2025 - Promovidas pela Assembleia Legislativa do estado, as atividades contaram com dois grandes espetáculos musicais",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/400-anos-das-missoes-jesuiticas-guarani-iphan-participa-do-inicio-das-celebracoes-no-rs/446626_g-2.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/400-anos-das-missoes-jesuiticas-guarani-iphan-participa-do-inicio-das-celebracoes-no-rs",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan anuncia R$ 20 milhões via Novo PAC para o patrimônio cultural da Paraíba",
+      "data": "16/12/2025",
+      "resumo": "16/12/2025 - Evento em João Pessoa marcou o anúncio de novos investimentos, a posse do novo superintendente do Iphan no estado e a entrega do certificado de tombamento do Conjunto Arquitetônico Engenho Corredor",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-anuncia-r-20-milhoes-via-novo-pac-para-o-patrimonio-cultural-da-paraiba/paraiba-igreja.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-anuncia-r-20-milhoes-via-novo-pac-para-o-patrimonio-cultural-da-paraiba",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Governo Federal celebra liberação de recursos para o restauro do Armazém Docas André Rebouças (RJ)",
+      "data": "16/12/2025",
+      "resumo": "16/12/2025 - Investimento de R$ 86,2 milhões permitirá transformar o edifício histórico em um dos maiores complexos dedicados à memória da população negra na América Latina",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/governo-federal-celebra-liberacao-de-recursos-para-o-restauro-do-armazem-docas-andre-reboucas-rj/1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/governo-federal-celebra-liberacao-de-recursos-para-o-restauro-do-armazem-docas-andre-reboucas-rj",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "EBC e Funarte firmam cooperação para ampliar a difusão da cultura brasileira",
       "data": "",
       "resumo": "Acordo prevê produções inéditas em rádio, TV e plataformas digitais, com foco em dar voz aos artistas e ampliar o acesso às artes no país",
