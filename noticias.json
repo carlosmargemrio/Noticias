@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Com apoio do Iphan, encontro no Oiapoque (AP) discute revisão ortográfica da língua Parikwaki",
+      "data": "17/12/2025",
+      "resumo": "17/12/2025 - Coordenado pela Unifap e protagonizado por indígenas da região, evento debateu a transformação e proteção da língua do povo Palikur-Arukwayene",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/com-apoio-do-iphan-encontro-no-oiapoque-ap-discute-revisao-ortografica-da-lingua-parikwaki/design-sem-nome-96.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/com-apoio-do-iphan-encontro-no-oiapoque-ap-discute-revisao-ortografica-da-lingua-parikwaki",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "400 anos das Missões Jesuíticas Guarani: Iphan participa do início das celebrações no RS",
       "data": "16/12/2025",
       "resumo": "16/12/2025 - Promovidas pela Assembleia Legislativa do estado, as atividades contaram com dois grandes espetáculos musicais",
@@ -14,14 +22,6 @@
       "resumo": "16/12/2025 - Evento em João Pessoa marcou o anúncio de novos investimentos, a posse do novo superintendente do Iphan no estado e a entrega do certificado de tombamento do Conjunto Arquitetônico Engenho Corredor",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-anuncia-r-20-milhoes-via-novo-pac-para-o-patrimonio-cultural-da-paraiba/1.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-anuncia-r-20-milhoes-via-novo-pac-para-o-patrimonio-cultural-da-paraiba",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Governo Federal celebra liberação de recursos para o restauro do Armazém Docas André Rebouças (RJ)",
-      "data": "16/12/2025",
-      "resumo": "16/12/2025 - Investimento de R$ 86,2 milhões permitirá transformar o edifício histórico em um dos maiores complexos dedicados à memória da população negra na América Latina",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/governo-federal-celebra-liberacao-de-recursos-para-o-restauro-do-armazem-docas-andre-reboucas-rj/1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/governo-federal-celebra-liberacao-de-recursos-para-o-restauro-do-armazem-docas-andre-reboucas-rj",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
