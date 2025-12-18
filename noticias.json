@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan celebra conclusão do Ciclo de Diálogos sobre Patrimônio Cultural e Ações Climáticas",
+      "data": "18/12/2025",
+      "resumo": "18/12/2025 - A iniciativa percorreu os seis biomas brasileiros realizando oficinas com ampla participação popular",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-celebra-conclusao-do-ciclo-de-dialogos-sobre-patrimonio-cultural-e-acoes-climaticas/2024_df_brasilia_g20enap_marianaalves-13-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-celebra-conclusao-do-ciclo-de-dialogos-sobre-patrimonio-cultural-e-acoes-climaticas",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan divulga mapeamento socioeconômico da capoeira em Mato Grosso",
       "data": "18/12/2025",
       "resumo": "18/12/2025 - Publicado na revista Observatório da Cultura, estudo identifica detentores desse bem reconhecido como Patrimônio Cultural do Brasil",
@@ -14,14 +22,6 @@
       "resumo": "18/12/2025 - Com investimento de cerca de R$ 14 milhões via Novo PAC, entrega devolve à população um dos principais bens do Vale do Café, que se tornará um espaço cultural",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inaugura-restauracao-da-antiga-casa-do-barao-de-vassouras-rj/casa-do-barao-de-vassouras.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inaugura-restauracao-da-antiga-casa-do-barao-de-vassouras-rj",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Com apoio do Iphan, encontro no Oiapoque (AP) discute revisão ortográfica da língua Parikwaki",
-      "data": "17/12/2025",
-      "resumo": "17/12/2025 - Coordenado pela Unifap e protagonizado por indígenas da região, evento debateu a transformação e proteção da língua do povo Palikur-Arukwayene",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/com-apoio-do-iphan-encontro-no-oiapoque-ap-discute-revisao-ortografica-da-lingua-parikwaki/design-sem-nome-96.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/com-apoio-do-iphan-encontro-no-oiapoque-ap-discute-revisao-ortografica-da-lingua-parikwaki",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
