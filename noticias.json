@@ -1,10 +1,18 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Lula se solidariza às filhas de Silvio Santos após \"cretinice\" de Zezé di Camargo",
+      "data": "",
+      "resumo": "Presidente critica ofensa do cantor, presta solidariedade às dirigentes do SBT e classifica episódio como ataque machista",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251218131236_34dde8c7-054e-4c73-af3b-3b9c9b1df342.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Caetano Veloso denuncia acordão para aprovar dosimetria",
       "data": "",
       "resumo": "Compositor afirma que golpe pode sair barato no Brasil",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240618200632_d574f844c072e1fe62bd7915addb1c4bfe93c5f659354ec426ad2af694a33390.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240618200632_4c7b8800eebacb214455b1130bcd8a17eb52582725b4268dd5a0006757b77a79.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -13,14 +21,6 @@
       "data": "",
       "resumo": "Pesquisa Quaest revelou que segmento evangélico ainda é aquele em que o presidente apresenta maior dificuldade eleitoral",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251213061228_f573122e-dc11-4157-b2cf-df325d089495.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "EBC e Funarte firmam cooperação para ampliar a difusão da cultura brasileira",
-      "data": "",
-      "resumo": "Acordo prevê produções inéditas em rádio, TV e plataformas digitais, com foco em dar voz aos artistas e ampliar o acesso às artes no país",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251216011232_147943a9-e7ce-43a9-859a-5f2a89ea93a1.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
