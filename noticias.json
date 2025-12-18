@@ -1,6 +1,30 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan inaugura restauração da antiga Casa do Barão de Vassouras em conjunto urbano tombado do RJ",
+      "data": "18/12/2025",
+      "resumo": "18/12/2025 - Com investimento de cerca de R$ 14 milhões via Novo PAC, entrega devolve à população um dos principais bens do Vale do Café, que se tornará um espaço cultural",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inaugura-restauracao-da-antiga-casa-do-barao-de-vassouras-rj/casa-do-barao-de-vassouras.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inaugura-restauracao-da-antiga-casa-do-barao-de-vassouras-rj",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Com apoio do Iphan, encontro no Oiapoque (AP) discute revisão ortográfica da língua Parikwaki",
+      "data": "17/12/2025",
+      "resumo": "17/12/2025 - Coordenado pela Unifap e protagonizado por indígenas da região, evento debateu a transformação e proteção da língua do povo Palikur-Arukwayene",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/com-apoio-do-iphan-encontro-no-oiapoque-ap-discute-revisao-ortografica-da-lingua-parikwaki/design-sem-nome-96.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/com-apoio-do-iphan-encontro-no-oiapoque-ap-discute-revisao-ortografica-da-lingua-parikwaki",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "400 anos das Missões Jesuíticas Guarani: Iphan participa do início das celebrações no RS",
+      "data": "16/12/2025",
+      "resumo": "16/12/2025 - Promovidas pela Assembleia Legislativa do estado, as atividades contaram com dois grandes espetáculos musicais",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/400-anos-das-missoes-jesuiticas-guarani-iphan-participa-do-inicio-das-celebracoes-no-rs/446626_g-2.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/400-anos-das-missoes-jesuiticas-guarani-iphan-participa-do-inicio-das-celebracoes-no-rs",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Lula se solidariza às filhas de Silvio Santos após \"cretinice\" de Zezé di Camargo",
       "data": "",
       "resumo": "Presidente critica ofensa do cantor, presta solidariedade às dirigentes do SBT e classifica episódio como ataque machista",
