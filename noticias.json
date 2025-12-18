@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan divulga mapeamento socioeconômico da capoeira em Mato Grosso",
+      "data": "18/12/2025",
+      "resumo": "18/12/2025 - Publicado na revista Observatório da Cultura, estudo identifica detentores desse bem reconhecido como Patrimônio Cultural do Brasil",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-mapeamento-socioeconomico-da-capoeira-em-mato-grosso/whatsapp-image-2025-12-17-at-12-36-42-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-mapeamento-socioeconomico-da-capoeira-em-mato-grosso",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan inaugura restauração da antiga Casa do Barão de Vassouras em conjunto urbano tombado do RJ",
       "data": "18/12/2025",
       "resumo": "18/12/2025 - Com investimento de cerca de R$ 14 milhões via Novo PAC, entrega devolve à população um dos principais bens do Vale do Café, que se tornará um espaço cultural",
@@ -14,14 +22,6 @@
       "resumo": "17/12/2025 - Coordenado pela Unifap e protagonizado por indígenas da região, evento debateu a transformação e proteção da língua do povo Palikur-Arukwayene",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/com-apoio-do-iphan-encontro-no-oiapoque-ap-discute-revisao-ortografica-da-lingua-parikwaki/design-sem-nome-96.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/com-apoio-do-iphan-encontro-no-oiapoque-ap-discute-revisao-ortografica-da-lingua-parikwaki",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "400 anos das Missões Jesuíticas Guarani: Iphan participa do início das celebrações no RS",
-      "data": "16/12/2025",
-      "resumo": "16/12/2025 - Promovidas pela Assembleia Legislativa do estado, as atividades contaram com dois grandes espetáculos musicais",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/400-anos-das-missoes-jesuiticas-guarani-iphan-participa-do-inicio-das-celebracoes-no-rs/446626_g-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/400-anos-das-missoes-jesuiticas-guarani-iphan-participa-do-inicio-das-celebracoes-no-rs",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251213061228_f573122e-dc11-4157-b2cf-df325d089495.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
+      "data": "04/12/2025",
+      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
+      "data": "28/11/2025",
+      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
+      "data": "17/11/2025",
+      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
