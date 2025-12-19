@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Sítio Roberto Burle Marx recebe apresentação musical de Daniela Spielmann",
+      "data": "19/12/2025",
+      "resumo": "19/12/2025 - Em seu repertório, a saxofonista inclui composições de Tom Jobim e Milton Nascimento",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-recebe-apresentacao-musical-de-daniela-spielmann/foto-sitio.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-recebe-apresentacao-musical-de-daniela-spielmann",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan celebra conclusão do Ciclo de Diálogos sobre Patrimônio Cultural e Ações Climáticas",
       "data": "18/12/2025",
       "resumo": "18/12/2025 - A iniciativa percorreu os seis biomas brasileiros realizando oficinas com ampla participação popular",
@@ -14,14 +22,6 @@
       "resumo": "18/12/2025 - Publicado na revista Observatório da Cultura, estudo identifica detentores desse bem reconhecido como Patrimônio Cultural do Brasil",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-mapeamento-socioeconomico-da-capoeira-em-mato-grosso/whatsapp-image-2025-12-17-at-12-36-42-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-mapeamento-socioeconomico-da-capoeira-em-mato-grosso",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan inaugura restauração da antiga Casa do Barão de Vassouras em conjunto urbano tombado do RJ",
-      "data": "18/12/2025",
-      "resumo": "18/12/2025 - Com investimento de cerca de R$ 14 milhões via Novo PAC, entrega devolve à população um dos principais bens do Vale do Café, que se tornará um espaço cultural",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inaugura-restauracao-da-antiga-casa-do-barao-de-vassouras-rj/casa-do-barao-de-vassouras.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inaugura-restauracao-da-antiga-casa-do-barao-de-vassouras-rj",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
