@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan atualiza ficha de cadastro de sítios arqueológicos",
+      "data": "19/12/2025",
+      "resumo": "19/12/2025 - Nova portaria moderniza processo e facilita registro de descobertas arqueológicas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-atualiza-ficha-de-cadastro-de-sitios-arqueologicos/paulo-zanettini_arqueologia_sao-paulo-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-atualiza-ficha-de-cadastro-de-sitios-arqueologicos",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e órgãos ambientais firmam acordo para fortalecer povos tradicionais",
       "data": "19/12/2025",
       "resumo": "19/12/2025 - O objetivo é proteger os modos de vida que mantêm os biomas brasileiros vivos",
@@ -14,14 +22,6 @@
       "resumo": "19/12/2025 - País levou primeiro lugar na categoria série fotográfica, segundo lugar na individual e mais 4 menções honrosas",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/brasileiros-se-destacam-em-concurso-internacional-de-fotografia-sobre-patrimonio-imaterial/6d826154-2be0-4c5b-93af-ceece4febdb8.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/brasileiros-se-destacam-em-concurso-internacional-de-fotografia-sobre-patrimonio-imaterial",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Sítio Roberto Burle Marx recebe apresentação musical de Daniela Spielmann",
-      "data": "19/12/2025",
-      "resumo": "19/12/2025 - Em seu repertório, a saxofonista inclui composições de Tom Jobim e Milton Nascimento",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-recebe-apresentacao-musical-de-daniela-spielmann/foto-sitio.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-recebe-apresentacao-musical-de-daniela-spielmann",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251213061228_f573122e-dc11-4157-b2cf-df325d089495.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
-      "data": "04/12/2025",
-      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
-      "data": "28/11/2025",
-      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
-      "data": "17/11/2025",
-      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
