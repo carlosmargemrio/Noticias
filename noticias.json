@@ -25,28 +25,52 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Alvo de denúncias vazias e de um processo viciado, Mascaro reflete sobre a mentira",
+      "data": "",
+      "resumo": "Filósofo publica artigo em dossiê da PUC-SP dedicado ao tema da mentira e aprofunda crítica ao cancelamento após acusações forjadas",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251211201232_1e1e38ad-f958-4100-a538-d4858715e505.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Maior espetáculo natalino do país inspirado na cultura brasileira aposta na soberania em vez de neve, renas e Papai Noel",
+      "data": "",
+      "resumo": "A ópera popular “Baile do Menino Deus: Uma Brincadeira de Natal”, encenada de 23 a 25 deste mês no Recife, faz contraponto à influência estrangeira",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251220051244_f1681a91-dbea-4a6a-b811-44753da43e23.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Lula se solidariza às filhas de Silvio Santos após \"cretinice\" de Zezé di Camargo",
       "data": "",
       "resumo": "Presidente critica ofensa do cantor, presta solidariedade às dirigentes do SBT e classifica episódio como ataque machista",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251218131236_34dde8c7-054e-4c73-af3b-3b9c9b1df342.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251218131236_756244eec76418bfd7cd9308260fe687b3e7857c0bd46b198bcbf11917aa9988.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Caetano Veloso denuncia acordão para aprovar dosimetria",
-      "data": "",
-      "resumo": "Compositor afirma que golpe pode sair barato no Brasil",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240618200632_4c7b8800eebacb214455b1130bcd8a17eb52582725b4268dd5a0006757b77a79.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
+      "data": "04/12/2025",
+      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
+      "fonte": "Periódicos CAPES"
     },
     {
-      "titulo": "Lula acena aos evangélicos e diz que vai transformar música gospel em patrimônio brasileiro",
-      "data": "",
-      "resumo": "Pesquisa Quaest revelou que segmento evangélico ainda é aquele em que o presidente apresenta maior dificuldade eleitoral",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251213061228_f573122e-dc11-4157-b2cf-df325d089495.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
+      "data": "28/11/2025",
+      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
+      "data": "17/11/2025",
+      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
