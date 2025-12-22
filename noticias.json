@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Governança pública na preservação do patrimônio cultural é tema de pesquisa",
+      "data": "22/12/2025",
+      "resumo": "22/12/2025 - Dissertação será defendida nesta terça-feira (23/12)",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/governanca-publica-na-preservacao-do-patrimonio-cultural-e-tema-de-pesquisa/0e786069864741eebf5d7de1a7a1e992.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/governanca-publica-na-preservacao-do-patrimonio-cultural-e-tema-de-pesquisa",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Com recursos do Novo PAC, requalificação do Mercado e da Feira do Bembé (BA) é contratada",
       "data": "20/12/2025",
       "resumo": "20/12/2025 - Investimento no bem cultural é de R$ 28,5 milhões; assim como a licitação, a obra será executada pela prefeitura local",
@@ -14,14 +22,6 @@
       "resumo": "19/12/2025 - Nova portaria moderniza processo e facilita registro de descobertas arqueológicas",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-atualiza-ficha-de-cadastro-de-sitios-arqueologicos/paulo-zanettini_arqueologia_sao-paulo-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-atualiza-ficha-de-cadastro-de-sitios-arqueologicos",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e órgãos ambientais firmam acordo para fortalecer povos tradicionais",
-      "data": "19/12/2025",
-      "resumo": "19/12/2025 - O objetivo é proteger os modos de vida que mantêm os biomas brasileiros vivos",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-orgaos-ambientais-firmam-acordo-para-fortalecer-povos-tradicionais/creditos-allen-ferraz-ufac-18.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-orgaos-ambientais-firmam-acordo-para-fortalecer-povos-tradicionais",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
