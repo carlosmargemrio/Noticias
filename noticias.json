@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan explica tudo sobre edital para preservação de Acervos Presidenciais",
+      "data": "23/12/2025",
+      "resumo": "23/12/2025 - Com investimento de R$ 30 milhões, o prazo para envio de inscrições é até 4 de janeiro de 2026",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-explica-tudo-sobre-edital-para-preservacao-de-acervos-presidenciais/51308124880_4d69a7f344_b-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-explica-tudo-sobre-edital-para-preservacao-de-acervos-presidenciais",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Governança pública na preservação do patrimônio cultural é tema de pesquisa",
       "data": "22/12/2025",
       "resumo": "22/12/2025 - Dissertação será defendida nesta terça-feira (23/12)",
@@ -14,14 +22,6 @@
       "resumo": "20/12/2025 - Investimento no bem cultural é de R$ 28,5 milhões; assim como a licitação, a obra será executada pela prefeitura local",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/com-recursos-do-novo-pac-requalificacao-do-mercado-e-da-feira-do-bembe-na-bahia-e-contratada/foto-zeca-maria/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/com-recursos-do-novo-pac-requalificacao-do-mercado-e-da-feira-do-bembe-na-bahia-e-contratada",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan atualiza ficha de cadastro de sítios arqueológicos",
-      "data": "19/12/2025",
-      "resumo": "19/12/2025 - Nova portaria moderniza processo e facilita registro de descobertas arqueológicas",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-atualiza-ficha-de-cadastro-de-sitios-arqueologicos/paulo-zanettini_arqueologia_sao-paulo-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-atualiza-ficha-de-cadastro-de-sitios-arqueologicos",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
