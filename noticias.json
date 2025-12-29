@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan presta homenagem a Mãe Carmen de Oxaguian (1926 – 2025)",
+      "data": "29/12/2025",
+      "resumo": "29/12/2025",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-presta-homenagem-a-mae-carmen-de-oxaguian-1926-2013-2025/banner-homenagem.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-presta-homenagem-a-mae-carmen-de-oxaguian-1926-2013-2025",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Canteiros-Modelo de Conservação vão beneficiar os Terreiros da Bahia",
       "data": "23/12/2025",
       "resumo": "23/12/2025 - Tumba Junsara, um dos terreiros mais antigos do Brasil, será o primeiro contemplado pela ação",
@@ -14,14 +22,6 @@
       "resumo": "23/12/2025 - Com investimento de R$ 30 milhões, o prazo para envio de inscrições é até 4 de janeiro de 2026",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-explica-tudo-sobre-edital-para-preservacao-de-acervos-presidenciais/51308124880_4d69a7f344_b-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-explica-tudo-sobre-edital-para-preservacao-de-acervos-presidenciais",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Governança pública na preservação do patrimônio cultural é tema de pesquisa",
-      "data": "22/12/2025",
-      "resumo": "22/12/2025 - Dissertação será defendida nesta terça-feira (23/12)",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/governanca-publica-na-preservacao-do-patrimonio-cultural-e-tema-de-pesquisa/0e786069864741eebf5d7de1a7a1e992.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/governanca-publica-na-preservacao-do-patrimonio-cultural-e-tema-de-pesquisa",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251228071216_95be7b18fbff2a5c3d6cdd840b155ed952a744ec813399ad652029adabeaa180.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
-      "data": "04/12/2025",
-      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
-      "data": "28/11/2025",
-      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
-      "data": "17/11/2025",
-      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
