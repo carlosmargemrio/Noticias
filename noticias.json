@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove bancas de defesa de dissertações do Mestrado Profissional em Preservação do Patrimônio Cultural",
+      "data": "30/12/2025",
+      "resumo": "30/12/2025 - Dissertações serão defendidas nestes dias 30 e 31 de dezembro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-bancas-de-defesa-de-dissertacoes-do-mestrado-profissional-em-preservacao-do-patrimonio-cultural/foto-mestrado.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-bancas-de-defesa-de-dissertacoes-do-mestrado-profissional-em-preservacao-do-patrimonio-cultural",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Manual dos Inventários Participativos do Iphan ganhará versão em Libras",
       "data": "29/12/2025",
       "resumo": "29/12/2025 - Representantes da Universidade de Caxias do Sul (UCS) e do Instituto Federal do Rio Grande do Sul (IFRS) apresentaram iniciativa em evento em dezembro",
@@ -14,14 +22,6 @@
       "resumo": "29/12/2025",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-presta-homenagem-a-mae-carmen-de-oxaguian-1926-2013-2025/banner-homenagem.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-presta-homenagem-a-mae-carmen-de-oxaguian-1926-2013-2025",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Canteiros-Modelo de Conservação vão beneficiar os Terreiros da Bahia",
-      "data": "23/12/2025",
-      "resumo": "23/12/2025 - Tumba Junsara, um dos terreiros mais antigos do Brasil, será o primeiro contemplado pela ação",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/programa-conviver-vai-contemplar-os-terreiros-da-bahia/programa-conviver_banner-site.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/programa-conviver-vai-contemplar-os-terreiros-da-bahia",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
