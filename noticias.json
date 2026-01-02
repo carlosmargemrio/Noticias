@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Violinista processa Will Smith por suposto assédio sexual",
+      "data": "",
+      "resumo": "Processo aponta assédio sexual, retaliação e demissão após episódio em hotel durante turnê de 2025",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20230302200348_ca0d3fece9f20055d763fd12959292d48d0e16ff53fb1c6ddb00cc8cbef32d6d.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Globo confirma 'Avenida Brasil 2' no horário nobre de 2027 e inicia pré-produção",
       "data": "",
       "resumo": "Emissora aposta na continuação de seu maior fenômeno recente e planeja estreia em janeiro com retorno de Carminha e novos rumos no bairro do Divino",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026010210018_09d28248-7096-44a8-8066-48122db10773.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026010210018_b8354f973cfc780f882655ae8ecbedb772c2438c2bacf3b3e49411ce99e6512c.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025123012120_656f896bcd6bb491f683a3405df133cd7a5d7494ba478d5a392a59226a97a143.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Relembre os ícones da cultura, da fé e do esporte que partiram em 2025",
-      "data": "",
-      "resumo": "Artistas, escritores e líderes religiosos tiveram trajetórias encerradas ao longo do ano no Brasil e no exterior",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250722120732_094c69f1-01a1-40c6-b703-1a9bf1365320.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
-      "data": "04/12/2025",
-      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
-      "data": "28/11/2025",
-      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
-      "data": "17/11/2025",
-      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
