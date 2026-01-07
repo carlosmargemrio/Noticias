@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Lei Rouanet chega a R$ 3,41 bilhões em captação em 2025",
+      "data": "",
+      "resumo": "O valor divulgado pelo Sistema de Apoio às Leis de Incentivo à Cultura reforça o papel estratégico da política cultural na economia brasileira",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2024020117020_aadca2543e1485c03b6eba4b30484478f75776286454c90a994ce4050c4fc035.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Premiado espetáculo “Os Irmãos Karamazov” retorna ao Rio em curta temporada no Teatro Carlos Gomes",
       "data": "",
       "resumo": "Espetáculo dirigido por Caio Blat e Marina Vianna apresenta uma leitura contemporânea e acessível do romance de Dostoiévski",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260107170136_2bb1ca28-0e73-44d6-ba06-63b82d6cf4a7.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260107170136_ab992865270d2c491dcf9fea52204dab9436e45525ad1412c4e330ef8fcc8087.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250915130928_5f01c0770287a7287290b78512c0206a41a6973ba11dd146487fdc7cb16612d0.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Wagner Moura: 'Brasil viveu momento fascista entre 2018 e 2022'",
-      "data": "",
-      "resumo": "Ator relaciona ataques à cultura ao avanço do autoritarismo e celebra reação do público brasileiro ao cinema nacional",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260106090128_08b6e071214ca69224251e5209440ab2cfdccd0a592b6993f6e57b3e24a78fbf.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
-      "data": "04/12/2025",
-      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
-      "data": "28/11/2025",
-      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
-      "data": "17/11/2025",
-      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
