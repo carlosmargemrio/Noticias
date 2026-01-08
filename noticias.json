@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa da devolução de cinco peças sacras à Arquidiocese do Rio de Janeiro",
+      "data": "08/01/2026",
+      "resumo": "08/01/2026 - Esculturas religiosas estavam desaparecidas há cerca de 20 anos",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-devolucao-de-cinco-pecas-sacras-a-arquidiocese-do-rio-de-janeiro/WhatsAppImage20260107at16.38.31.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-devolucao-de-cinco-pecas-sacras-a-arquidiocese-do-rio-de-janeiro",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan lança projeto de geoespacialização de bens culturais",
       "data": "30/12/2025",
       "resumo": "30/12/2025 - Parceria com a UnB permitirá acompanhar as condições de conservação do patrimônio cultural tombado em nível federal",
@@ -14,14 +22,6 @@
       "resumo": "30/12/2025 - Dissertações serão defendidas nestes dias 30 e 31 de dezembro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-bancas-de-defesa-de-dissertacoes-do-mestrado-profissional-em-preservacao-do-patrimonio-cultural/foto-mestrado.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-bancas-de-defesa-de-dissertacoes-do-mestrado-profissional-em-preservacao-do-patrimonio-cultural",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Manual dos Inventários Participativos do Iphan ganhará versão em Libras",
-      "data": "29/12/2025",
-      "resumo": "29/12/2025 - Representantes da Universidade de Caxias do Sul (UCS) e do Instituto Federal do Rio Grande do Sul (IFRS) apresentaram iniciativa em evento em dezembro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/manual-dos-inventarios-participativos-do-iphan-ganhara-versao-em-libras/inventario-participativo_isbn_digital_v25abr-pdf-2-1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/manual-dos-inventarios-participativos-do-iphan-ganhara-versao-em-libras",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2024020117020_31fc5b5692c93951ef5e183260486c3c0294301ba6a30d45d4d7c591ada76bc5.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
+      "data": "04/12/2025",
+      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
+      "data": "28/11/2025",
+      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Inteligência Artificial é tema de dois treinamentos em novembro",
+      "data": "17/11/2025",
+      "resumo": "17/11/2025 -\n                São dois módulos, nos dias 25 e 27, do Projeto Fronteiras do Conhecimento, apresentado pelo professor da UFPR Rafael Sampaio",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_novembro.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4280-inteligencia-artificial-e-tema-de-dois-treinamentos-em-novembro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
