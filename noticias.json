@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan divulga resultado de etapa do processo seletivo para recém-doutores",
+      "data": "09/01/2026",
+      "resumo": "09/01/2026 - Candidatos autodeclarados negros foram avaliados por comissão de heteroidentificação do Mestrado Profissional do Iphan",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-de-etapa-do-processo-seletivo-para-recem-doutores/a8b0a12e3fa749459d690b403ddba929.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-de-etapa-do-processo-seletivo-para-recem-doutores",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan participa da devolução de cinco peças sacras à Arquidiocese do Rio de Janeiro",
       "data": "08/01/2026",
       "resumo": "08/01/2026 - Esculturas religiosas estavam desaparecidas há cerca de 20 anos",
@@ -14,14 +22,6 @@
       "resumo": "30/12/2025 - Parceria com a UnB permitirá acompanhar as condições de conservação do patrimônio cultural tombado em nível federal",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-projeto-de-geoespacializacao-de-bens-culturais/design-sem-nome-97.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-projeto-de-geoespacializacao-de-bens-culturais",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan promove bancas de defesa de dissertações do Mestrado Profissional em Preservação do Patrimônio Cultural",
-      "data": "30/12/2025",
-      "resumo": "30/12/2025 - Dissertações serão defendidas nestes dias 30 e 31 de dezembro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-bancas-de-defesa-de-dissertacoes-do-mestrado-profissional-em-preservacao-do-patrimonio-cultural/foto-mestrado.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-bancas-de-defesa-de-dissertacoes-do-mestrado-profissional-em-preservacao-do-patrimonio-cultural",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
