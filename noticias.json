@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Mostra fotográfica retrata mulheres produtoras rurais em Minas Gerais (MG)",
+      "data": "09/01/2026",
+      "resumo": "09/01/2026 - \"Raízes e Ancestralidade\" fica em cartaz no Iphan, em Belo Horizonte, de 12 a 16 de janeiro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mostra-fotografica-retrata-mulheres-produtoras-rurais-em-minas-gerais-mg/amelia-sueli-andrade-santos-2.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mostra-fotografica-retrata-mulheres-produtoras-rurais-em-minas-gerais-mg",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan divulga resultado de etapa do processo seletivo para recém-doutores",
       "data": "09/01/2026",
       "resumo": "09/01/2026 - Candidatos autodeclarados negros foram avaliados por comissão de heteroidentificação do Mestrado Profissional do Iphan",
@@ -14,14 +22,6 @@
       "resumo": "08/01/2026 - Esculturas religiosas estavam desaparecidas há cerca de 20 anos",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-devolucao-de-cinco-pecas-sacras-a-arquidiocese-do-rio-de-janeiro/WhatsAppImage20260107at16.38.31.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-devolucao-de-cinco-pecas-sacras-a-arquidiocese-do-rio-de-janeiro",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan lança projeto de geoespacialização de bens culturais",
-      "data": "30/12/2025",
-      "resumo": "30/12/2025 - Parceria com a UnB permitirá acompanhar as condições de conservação do patrimônio cultural tombado em nível federal",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-projeto-de-geoespacializacao-de-bens-culturais/design-sem-nome-97.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-projeto-de-geoespacializacao-de-bens-culturais",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
