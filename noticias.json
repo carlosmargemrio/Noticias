@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan apresenta minuta do Plano Nacional Setorial do Patrimônio Cultural do SNPC",
+      "data": "14/01/2026",
+      "resumo": "14/01/2026 - Evento “Diálogos sobre o Plano Nacional Setorial de Patrimônio Cultural (PNPC)” será transmitido ao vivo no YouTube do Instituto, das 9h às 17h",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-minuta-do-plano-nacional-setorial-do-patrimonio-cultural-do-snpc/snpc-destaque.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-minuta-do-plano-nacional-setorial-do-patrimonio-cultural-do-snpc",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e UnB abrem seleção para bolsistas de projeto de fortalecimento do SNPC",
       "data": "13/01/2026",
       "resumo": "13/01/2026 - Bolsas de R$ 1.912,50 mensais serão concedidas por quatro meses para atuação em programa de extensão; inscrições vão até 20 de janeiro",
@@ -14,14 +22,6 @@
       "resumo": "09/01/2026 - \"Raízes e Ancestralidade\" fica em cartaz no Iphan, em Belo Horizonte, de 12 a 16 de janeiro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mostra-fotografica-retrata-mulheres-produtoras-rurais-em-minas-gerais-mg/amelia-sueli-andrade-santos-2.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mostra-fotografica-retrata-mulheres-produtoras-rurais-em-minas-gerais-mg",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan divulga resultado de etapa do processo seletivo para recém-doutores",
-      "data": "09/01/2026",
-      "resumo": "09/01/2026 - Candidatos autodeclarados negros foram avaliados por comissão de heteroidentificação do Mestrado Profissional do Iphan",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-de-etapa-do-processo-seletivo-para-recem-doutores/a8b0a12e3fa749459d690b403ddba929.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-de-etapa-do-processo-seletivo-para-recem-doutores",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
