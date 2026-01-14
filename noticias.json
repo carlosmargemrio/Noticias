@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove conversa sobre a exposição “Baianas Ricas de Maracatu” em Recife (PE)",
+      "data": "14/01/2026",
+      "resumo": "14/01/2026 - Atividade integra programação da mostra, em cartaz na Superintendência do Iphan em Pernambuco até o dia 31 de janeiro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-conversa-sobre-a-exposicao-201cbaianas-ricas-de-maracatu201d-em-recife-pe/WhatsAppImage20260113at12.41.3411.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-conversa-sobre-a-exposicao-201cbaianas-ricas-de-maracatu201d-em-recife-pe",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Mestrado Profissional do Iphan recebe nota 4 da Capes",
       "data": "14/01/2026",
       "resumo": "14/01/2026 - Desempenho consolida o Mestrado Profissional em Preservação do Patrimônio Cultural (PEP-MP) como referência nacional",
@@ -14,14 +22,6 @@
       "resumo": "14/01/2026 - Evento “Diálogos sobre o Plano Nacional Setorial de Patrimônio Cultural (PNPC)” será transmitido ao vivo no YouTube do Instituto, das 9h às 17h",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-minuta-do-plano-nacional-setorial-do-patrimonio-cultural-do-snpc/snpc-destaque.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-minuta-do-plano-nacional-setorial-do-patrimonio-cultural-do-snpc",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e UnB abrem seleção para bolsistas de projeto de fortalecimento do SNPC",
-      "data": "13/01/2026",
-      "resumo": "13/01/2026 - Bolsas de R$ 1.912,50 mensais serão concedidas por quatro meses para atuação em programa de extensão; inscrições vão até 20 de janeiro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-unb-abrem-selecao-para-bolsistas-de-projeto-de-fortalecimento-do-snpc/16820778756_8f2c4cf5a6_k-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-unb-abrem-selecao-para-bolsistas-de-projeto-de-fortalecimento-do-snpc",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260113200152_829ebcc1-b243-4bb3-a194-887470e3ec67.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
+      "data": "09/01/2026",
+      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
+      "data": "04/12/2025",
+      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
+      "data": "28/11/2025",
+      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
