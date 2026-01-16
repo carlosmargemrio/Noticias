@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "CAU/RS seleciona arquitetos e urbanistas para atuar na preservação de Santa Tereza (RS); inscreva-se",
+      "data": "16/01/2026",
+      "resumo": "16/01/2026 - Iniciativa é resultado do Acordo de Cooperação Técnica firmado entre o Conselho e o Iphan",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cau-rs-seleciona-arquitetos-e-urbanistas-para-atuar-na-preservacao-de-santa-tereza-rs-inscreva-se/maior_sz5nh45zlhkmy7-g561azeib5isjrq4j-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cau-rs-seleciona-arquitetos-e-urbanistas-para-atuar-na-preservacao-de-santa-tereza-rs-inscreva-se",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan promove conversa sobre a exposição “Baianas Ricas de Maracatu” em Recife (PE)",
       "data": "14/01/2026",
       "resumo": "14/01/2026 - Atividade integra programação da mostra, em cartaz na Superintendência do Iphan em Pernambuco até o dia 31 de janeiro",
@@ -14,14 +22,6 @@
       "resumo": "14/01/2026 - Desempenho consolida o Mestrado Profissional em Preservação do Patrimônio Cultural (PEP-MP) como referência nacional",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mestrado-profissional-do-iphan-recebe-nota-4-da-capes/43yxx_OHL9769copiar1.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mestrado-profissional-do-iphan-recebe-nota-4-da-capes",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan apresenta minuta do Plano Nacional Setorial do Patrimônio Cultural do SNPC",
-      "data": "14/01/2026",
-      "resumo": "14/01/2026 - Evento “Diálogos sobre o Plano Nacional Setorial de Patrimônio Cultural (PNPC)” será transmitido ao vivo no YouTube do Instituto, das 9h às 17h",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-minuta-do-plano-nacional-setorial-do-patrimonio-cultural-do-snpc/snpc-destaque.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-minuta-do-plano-nacional-setorial-do-patrimonio-cultural-do-snpc",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
