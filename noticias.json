@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan entrega restauro da Igreja de Santo Antônio, no Recife",
+      "data": "19/01/2026",
+      "resumo": "19/01/2026 - Obra recuperou conjunto artístico de um dos principais exemplares da arquitetura barroca de Pernambuco, com investimento de cerca de R$ 3,8 milhões via Novo PAC",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-restauro-da-igreja-de-santo-antonio-no-recife/2026_pe_recifeolinda_marianaalves-109-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-restauro-da-igreja-de-santo-antonio-no-recife",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Santo Amaro (BA) inicia restauração do Mercado Municipal e feira do Bembé",
       "data": "19/01/2026",
       "resumo": "19/01/2026 - Obras serão realizadas com recursos do Novo PAC, com investimento total de R$ 28,5 milhões",
@@ -14,14 +22,6 @@
       "resumo": "16/01/2026 - Resultados preliminares do estudo mostram que 46% dos agentes dedicam mais de 40 horas semanais à cultura, mas menos de 27% conseguem sobreviver exclusivamente dessa atividade",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/pesquisa-inedita-do-iphan-e-obec-bahia-revela-desigualdades-na-economia-do-patrimonio-cultural/pesquisa-obec_destaque.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/pesquisa-inedita-do-iphan-e-obec-bahia-revela-desigualdades-na-economia-do-patrimonio-cultural",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "CAU/RS seleciona arquitetos e urbanistas para atuar na preservação de Santa Tereza (RS); inscreva-se",
-      "data": "16/01/2026",
-      "resumo": "16/01/2026 - Iniciativa é resultado do Acordo de Cooperação Técnica firmado entre o Conselho e o Iphan",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cau-rs-seleciona-arquitetos-e-urbanistas-para-atuar-na-preservacao-de-santa-tereza-rs-inscreva-se/maior_sz5nh45zlhkmy7-g561azeib5isjrq4j-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cau-rs-seleciona-arquitetos-e-urbanistas-para-atuar-na-preservacao-de-santa-tereza-rs-inscreva-se",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
