@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "The New York Times: 'O Agente Secreto' deverá ser indicado ao Oscar",
+      "data": "",
+      "resumo": "Jornal aponta filme brasileiro como forte candidato nas categorias de melhor filme e melhor ator, impulsionado pelo desempenho recente no Globo de Ouro",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260112100132_3ffef6cb1a2e7379fdf6b869595fcc19ebd9ee9962ed51dd60f773e322923831.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Netflix decide pagar integralmente em dinheiro pela Warner Bros",
       "data": "",
       "resumo": "A mudança tem como objetivo enfraquecer a oferta hostil apresentada pela Paramount Skydance",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260120220152_2aa68f24-c545-479b-87cc-c4d7f12e366e.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260120220152_8bb3e21c-6c6a-49f4-86dc-afdb42f386ad.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Ministério da Cultura projeta lançamento do 'Tela Brasil' no primeiro trimestre de 2026",
-      "data": "",
-      "resumo": "Plataforma pública de streaming ainda está em fase final de testes e não foi disponibilizada ao público, esclarece o MinC",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251119221156_1d3a832c48f0b60693e8041deb84aed62926a9ae1d85c3684e47089d8750ddf1.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
+      "data": "09/01/2026",
+      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
+      "data": "04/12/2025",
+      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
+      "data": "28/11/2025",
+      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
