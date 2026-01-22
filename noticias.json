@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Wagner Moura é o primeiro brasileiro indicado ao Oscar de melhor ator",
+      "data": "",
+      "resumo": "Indicação histórica reconhece atuação em O Agente Secreto e coloca o cinema brasileiro entre os destaques do Oscar 2026",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260122110120_55ade9e505e2b7d0c68906331b0ac0d140484348fcf8137961e02988d518932d.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Lula celebra indicações de “O Agente Secreto” ao Oscar: “vitória da nossa cultura”",
       "data": "",
       "resumo": "Produção de Kleber Mendonça Filho representa o Brasil em categorias centrais da principal premiação do cinema mundial",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250915200916_5f5db0738627bf1897a565da24e0eebcb19ee9bd32af4ae0d4f15630de5339b0.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250915200916_aae1142f9f975720432a7aa03ff03c5b86034021c1bf6bd25387f5ccf56f75b4.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260122110120_bfcd15973afa8f0e3175ec442cfcc0a1938caf771cc1b7cdced97fc1c786c499.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Brasileiro Adolpho Veloso é indicado ao Oscar de Melhor Fotografia",
-      "data": "",
-      "resumo": "Diretor de fotografia paulista é indicado pelo filme “Sonhos de trem” após trajetória premiada e reconhecimento da crítica internacional",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026012211018_c7638dc5c162946c53821503371d6ed726804508a7604f967e29d637a2955ca4.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
-      "data": "09/01/2026",
-      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
-      "data": "04/12/2025",
-      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
-      "data": "28/11/2025",
-      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
