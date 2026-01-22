@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan divulga resultado dos processos seletivos para recém-doutores",
+      "data": "22/01/2026",
+      "resumo": "22/01/2026 - Um profissional de Arquitetura e Urbanismo e outro de Ciências Sociais passam a integrar o corpo de atuação do Mestrado Profissional do Iphan",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-dos-processos-seletivos-para-recem-doutores/1a801180bf35430693f133b5b2fae5c1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-dos-processos-seletivos-para-recem-doutores",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan promove reunião para preservação do Sítio Histórico e Arqueológico de São José do Queimado (ES)",
       "data": "22/01/2026",
       "resumo": "22/01/2026 - Encontro marca nova etapa após o tombamento do sítio histórico, em novembro de 2025",
@@ -14,14 +22,6 @@
       "resumo": "22/01/2026 - A iniciativa conta com a participação do Iphan-SE e amplia o acesso a informações culturais e patrimoniais",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-abiudando-aracaju-moderniza-experiencia-turistica-em-sergipe/banner-foto-ascom-setur.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-abiudando-aracaju-moderniza-experiencia-turistica-em-sergipe",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Com apoio do Iphan, CAIXA Cultural abre exposição “O Reinado do Riso”, em Brasília (DF)",
-      "data": "19/01/2026",
-      "resumo": "19/01/2026 - A visitação vai até 29 de março, de terça a domingo, das 9h às 21h, com entrada gratuita",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/com-apoio-do-iphan-caixa-cultural-abre-exposicao-201co-reinado-do-riso201d-em-brasilia-df/whatsapp-image-2026-01-19-at-20-07-59-2.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/com-apoio-do-iphan-caixa-cultural-abre-exposicao-201co-reinado-do-riso201d-em-brasilia-df",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
