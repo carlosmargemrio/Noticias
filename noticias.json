@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "5ª Matança do Boi Canarinho: festividade celebra São Sebastião e diversidade em Fortaleza (CE)",
+      "data": "23/01/2026",
+      "resumo": "23/01/2026 - Evento gratuito e aberto ao público será no domingo (25/01), às 16h, na sede da Casa das Negas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/5a-matanca-do-boi-canarinho-festividade-celebra-sao-sebastiao-e-diversidade-em-fortaleza-ce/whatsapp-image-2026-01-23-at-15-57-29-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/5a-matanca-do-boi-canarinho-festividade-celebra-sao-sebastiao-e-diversidade-em-fortaleza-ce",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan visita Fiocruz para debater candidatura a Patrimônio Mundial",
       "data": "23/01/2026",
       "resumo": "23/01/2026 - Encontro marcou a troca de experiências e ideias para embasar a apresentação de elementos para pleitear o título",
@@ -14,14 +22,6 @@
       "resumo": "22/01/2026 - Um profissional de Arquitetura e Urbanismo e outro de Ciências Sociais passam a integrar o corpo de atuação do Mestrado Profissional do Iphan",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-dos-processos-seletivos-para-recem-doutores/1a801180bf35430693f133b5b2fae5c1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-dos-processos-seletivos-para-recem-doutores",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan promove reunião para preservação do Sítio Histórico e Arqueológico de São José do Queimado (ES)",
-      "data": "22/01/2026",
-      "resumo": "22/01/2026 - Encontro marca nova etapa após o tombamento do sítio histórico, em novembro de 2025",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-reuniao-para-preservacao-do-sitio-historico-e-arqueologico-de-sao-jose-do-queimado-es/xxxDesignsemnome61.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-reuniao-para-preservacao-do-sitio-historico-e-arqueologico-de-sao-jose-do-queimado-es",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
