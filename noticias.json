@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan visita Fiocruz para debater candidatura a Patrimônio Mundial",
+      "data": "23/01/2026",
+      "resumo": "23/01/2026 - Encontro marcou a troca de experiências e ideias para embasar a apresentação de elementos para pleitear o título",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-visita-fiocruz-para-debater-candidatura-a-patrimonio-mundial/xxxxx20260121_172340387_iOS1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-visita-fiocruz-para-debater-candidatura-a-patrimonio-mundial",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan divulga resultado dos processos seletivos para recém-doutores",
       "data": "22/01/2026",
       "resumo": "22/01/2026 - Um profissional de Arquitetura e Urbanismo e outro de Ciências Sociais passam a integrar o corpo de atuação do Mestrado Profissional do Iphan",
@@ -14,14 +22,6 @@
       "resumo": "22/01/2026 - Encontro marca nova etapa após o tombamento do sítio histórico, em novembro de 2025",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-reuniao-para-preservacao-do-sitio-historico-e-arqueologico-de-sao-jose-do-queimado-es/xxxDesignsemnome61.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-reuniao-para-preservacao-do-sitio-historico-e-arqueologico-de-sao-jose-do-queimado-es",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Projeto Abiudando Aracaju moderniza experiência turística em Sergipe",
-      "data": "22/01/2026",
-      "resumo": "22/01/2026 - A iniciativa conta com a participação do Iphan-SE e amplia o acesso a informações culturais e patrimoniais",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-abiudando-aracaju-moderniza-experiencia-turistica-em-sergipe/banner-foto-ascom-setur.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-abiudando-aracaju-moderniza-experiencia-turistica-em-sergipe",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
