@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Participe do registro da Festa de Nosso Senhor Bom Jesus dos Passos de Lençóis (BA)",
+      "data": "26/01/2026",
+      "resumo": "26/01/2026 - População tem até 23 de fevereiro para enviar contribuições",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-registro-da-festa-de-nosso-senhor-bom-jesus-dos-passos-de-lencois-ba/2017-proc-8289-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-registro-da-festa-de-nosso-senhor-bom-jesus-dos-passos-de-lencois-ba",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan instala placa de sinalização no sítio arqueológico Cemitério dos Africanos (BA)",
       "data": "26/01/2026",
       "resumo": "26/01/2026 - Local pode ser o maior cemitério de pessoas escravizadas da América Latina",
@@ -14,14 +22,6 @@
       "resumo": "23/01/2026 - Evento gratuito e aberto ao público será no domingo (25/01), às 16h, na sede da Casa das Negas",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/5a-matanca-do-boi-canarinho-festividade-celebra-sao-sebastiao-e-diversidade-em-fortaleza-ce/whatsapp-image-2026-01-23-at-15-57-29-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/5a-matanca-do-boi-canarinho-festividade-celebra-sao-sebastiao-e-diversidade-em-fortaleza-ce",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan visita Fiocruz para debater candidatura a Patrimônio Mundial",
-      "data": "23/01/2026",
-      "resumo": "23/01/2026 - Encontro marcou a troca de experiências e ideias para embasar a apresentação de elementos para pleitear o título",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-visita-fiocruz-para-debater-candidatura-a-patrimonio-mundial/xxxxx20260121_172340387_iOS1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-visita-fiocruz-para-debater-candidatura-a-patrimonio-mundial",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
