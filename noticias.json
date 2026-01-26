@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan instala placa de sinalização no sítio arqueológico Cemitério dos Africanos (BA)",
+      "data": "26/01/2026",
+      "resumo": "26/01/2026 - Local pode ser o maior cemitério de pessoas escravizadas da América Latina",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-instala-placa-de-sinalizacao-no-sitio-arqueologico-cemiterio-dos-africanos-ba/whatsapp-image-2026-01-26-at-13-27-38-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-instala-placa-de-sinalizacao-no-sitio-arqueologico-cemiterio-dos-africanos-ba",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "5ª Matança do Boi Canarinho: festividade celebra São Sebastião e diversidade em Fortaleza (CE)",
       "data": "23/01/2026",
       "resumo": "23/01/2026 - Evento gratuito e aberto ao público será no domingo (25/01), às 16h, na sede da Casa das Negas",
@@ -14,14 +22,6 @@
       "resumo": "23/01/2026 - Encontro marcou a troca de experiências e ideias para embasar a apresentação de elementos para pleitear o título",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-visita-fiocruz-para-debater-candidatura-a-patrimonio-mundial/xxxxx20260121_172340387_iOS1.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-visita-fiocruz-para-debater-candidatura-a-patrimonio-mundial",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan divulga resultado dos processos seletivos para recém-doutores",
-      "data": "22/01/2026",
-      "resumo": "22/01/2026 - Um profissional de Arquitetura e Urbanismo e outro de Ciências Sociais passam a integrar o corpo de atuação do Mestrado Profissional do Iphan",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-dos-processos-seletivos-para-recem-doutores/1a801180bf35430693f133b5b2fae5c1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-dos-processos-seletivos-para-recem-doutores",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
