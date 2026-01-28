@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa da maior repatriação de obras de arte afro-brasileiras da história do país",
+      "data": "28/01/2026",
+      "resumo": "28/01/2026 - Mais de 600 peças foram integradas ao acervo do Museu Nacional da Cultura Afro-Brasileira (Muncab), em Salvador (BA)",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-maior-repatriacao-de-obras-de-arte-afro-brasileiras-da-historia-do-pais/design-sem-nome-98.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-maior-repatriacao-de-obras-de-arte-afro-brasileiras-da-historia-do-pais",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan participa do Prêmio Aseyori, que reconhece ações de terreiros de matriz africana em Sergipe",
       "data": "27/01/2026",
       "resumo": "27/01/2026 - Solenidade realizada no Centro Cultural de Aracaju destacou iniciativas socioculturais de comunidades de candomblé e umbanda",
@@ -14,14 +22,6 @@
       "resumo": "27/01/2026 - Ação integra ações de salvaguarda das Matrizes Tradicionais do Forró",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oficina-de-danca-sobre-forro-acontece-em-dourados-ms-com-apoio-do-iphan/whatsapp-image-2026-01-27-at-11-39-27-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oficina-de-danca-sobre-forro-acontece-em-dourados-ms-com-apoio-do-iphan",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Participe do registro da Festa de Nosso Senhor Bom Jesus dos Passos de Lençóis (BA)",
-      "data": "26/01/2026",
-      "resumo": "26/01/2026 - População tem até 23 de fevereiro para enviar contribuições",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-registro-da-festa-de-nosso-senhor-bom-jesus-dos-passos-de-lencois-ba/2017-proc-8289-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-registro-da-festa-de-nosso-senhor-bom-jesus-dos-passos-de-lencois-ba",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
