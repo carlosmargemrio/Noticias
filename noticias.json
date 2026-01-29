@@ -1,27 +1,27 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Novo sítio arqueológico é encontrado em Tucano (BA)",
+      "data": "29/01/2026",
+      "resumo": "29/01/2026 - Local reúne pinturas rupestres de características distintas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/novo-sitio-arqueologico-e-encontrado-em-tucano-ba/pinturarupestre1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/novo-sitio-arqueologico-e-encontrado-em-tucano-ba",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan e MinC visitam obras de modernização do Teatro Castro Alves, em Salvador (BA)",
+      "data": "29/01/2026",
+      "resumo": "29/01/2026 - Projeto de intervenção em um dos mais importantes patrimônios culturais do estado já está 70% concluído e deve ser finalizado ainda neste semestre",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-minc-visitam-obras-de-modernizacao-do-teatro-castro-alves-em-salvador-ba/design-sem-nome-99.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-minc-visitam-obras-de-modernizacao-do-teatro-castro-alves-em-salvador-ba",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan participa da maior repatriação de obras de arte afro-brasileiras da história do país",
       "data": "28/01/2026",
       "resumo": "28/01/2026 - Mais de 600 peças foram integradas ao acervo do Museu Nacional da Cultura Afro-Brasileira (Muncab), em Salvador (BA)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-maior-repatriacao-de-obras-de-arte-afro-brasileiras-da-historia-do-pais/design-sem-nome-98.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-maior-repatriacao-de-obras-de-arte-afro-brasileiras-da-historia-do-pais",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan participa do Prêmio Aseyori, que reconhece ações de terreiros de matriz africana em Sergipe",
-      "data": "27/01/2026",
-      "resumo": "27/01/2026 - Solenidade realizada no Centro Cultural de Aracaju destacou iniciativas socioculturais de comunidades de candomblé e umbanda",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-se-participa-do-premio-aseyori-que-reconhece-acoes-de-terreiros-de-matriz-africana-em-sergipe/whatsapp-image-2026-01-23-at-15-03-25.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-se-participa-do-premio-aseyori-que-reconhece-acoes-de-terreiros-de-matriz-africana-em-sergipe",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Oficina de dança sobre forró acontece em Dourados (MS) com apoio do Iphan",
-      "data": "27/01/2026",
-      "resumo": "27/01/2026 - Ação integra ações de salvaguarda das Matrizes Tradicionais do Forró",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oficina-de-danca-sobre-forro-acontece-em-dourados-ms-com-apoio-do-iphan/whatsapp-image-2026-01-27-at-11-39-27-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/oficina-de-danca-sobre-forro-acontece-em-dourados-ms-com-apoio-do-iphan",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026012622010_e6dac83f595a67795b528395eab88464d64c3814df57a8c24881cffb1e2a982e.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
+      "data": "09/01/2026",
+      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
+      "data": "04/12/2025",
+      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
+      "data": "28/11/2025",
+      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
