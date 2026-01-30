@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan e Riotur lançam campanha de conscientização no Carnaval",
+      "data": "30/01/2026",
+      "resumo": "30/01/2026 - Iniciativa busca orientar foliões sobre cuidados com os monumentos históricos durante os blocos de rua",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-riotur-lancam-campanha-de-conscientizacao-no-carnaval/WhatsAppImage20260128at14.58.43.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-riotur-lancam-campanha-de-conscientizacao-no-carnaval",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Sítio Roberto Burle Marx promove colônia de férias com programação educativa",
       "data": "30/01/2026",
       "resumo": "30/01/2026 - A programação incluiu oficinas e vivências como observação com microscópio, atividades de reciclagem e oficina de arranjos",
@@ -14,14 +22,6 @@
       "resumo": "30/01/2026 - Movimenta Fórum reuniu cerca de 225 gestores municipais e estaduais",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-discute-marco-regulatorio-do-snpc-em-dois-dias-de-evento-hibrido/20260127_105039-jpg-2.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-discute-marco-regulatorio-do-snpc-em-dois-dias-de-evento-hibrido",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Participe do processo de registro da Pesca com botos no sul do Brasil",
-      "data": "29/01/2026",
-      "resumo": "29/01/2026 - População tem até 27 de fevereiro para enviar contribuições",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-processo-de-registro-da-pesca-com-botos-no-sul-do-brasil/whatsapp-image-2026-01-29-at-15-44-35-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-processo-de-registro-da-pesca-com-botos-no-sul-do-brasil",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260128170144_714cafea-8055-45ba-84f0-ad82cddb9723.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
+      "data": "09/01/2026",
+      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
+      "data": "04/12/2025",
+      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
+      "data": "28/11/2025",
+      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
