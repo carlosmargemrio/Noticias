@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Festival de lanternas ilumina Chongqing na celebração do ano novo chinês",
+      "data": "",
+      "resumo": "Evento tradicional no sudoeste da China segue até 22 de março e atrai visitantes ao Parque da Exposição de Jardins com lanternas e apresentações culturais",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260131060116_2c75e51c6951a63587c44f9e70434c1f63b5b8933a256fa8f8c445db3c7fa1f3.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Catherine O'Hara, estrela de “Schitt's Creek” e “Esqueceram de Mim”, morre aos 71 anos",
       "data": "",
       "resumo": "Entre suas conquistas, a artista venceu o prêmio de melhor atriz de comédia",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260130220128_99d52c07c0957fe61dff4adefad3360a0c9c50743ad9eb6da75d3afcab6a281f.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260130220128_b765ba418f0709a3eeeb8ba8dd6ccccff76788cd48ec8ef0ab0ea3f1c15a90fa.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260128170144_714cafea-8055-45ba-84f0-ad82cddb9723.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Rosalía surpreende público com participação em show solidário pela Palestina (vídeo)",
-      "data": "",
-      "resumo": "Cantora catalã aparece sem aviso, interpreta “Perla” e encerra noite marcada por música, homenagens e atos em apoio ao povo palestino",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260130130112_dd2145f7f5a54cf91793bb526cbed8c34285b1d0b5b4497b8de4929b6ffde074.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
-      "data": "09/01/2026",
-      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
-      "data": "04/12/2025",
-      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos da CAPES celebra 25 anos",
-      "data": "28/11/2025",
-      "resumo": "28/11/2025 -\n                Evento na próxima terça-feira, 2 de dezembro, terá debates, lançamento de livro, premiação e assinatura de novos acordos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Selo_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4281-portal-de-periodicos-da-capes-celebra-25-anos.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
