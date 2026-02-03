@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Consulta pública: saberes associados aos Engenhos de Farinha de Mandioca de SC",
+      "data": "03/02/2026",
+      "resumo": "03/02/2026 - População tem até 4 de março para enviar contribuições",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/consulta-publica-saberes-associados-aos-engenhos-de-farinha-de-mandioca-de-sc/floripa_engenho-do-adilson_05-07-24_credito-rancho-cultural_8934.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/consulta-publica-saberes-associados-aos-engenhos-de-farinha-de-mandioca-de-sc",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan investe mais de R$ 11 milhões para requalificar Praça da Matriz, em Jaguarão (RS)",
       "data": "30/01/2026",
       "resumo": "30/01/2026 - Com recursos do Novo PAC, intervenção em 23 mil m² no centro histórico tombado vai ampliar os espaços de lazer e convivência, com impactos positivos para o turismo e a economia local",
@@ -14,14 +22,6 @@
       "resumo": "30/01/2026 - Iniciativa busca orientar foliões sobre cuidados com os monumentos históricos durante os blocos de rua",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-riotur-lancam-campanha-de-conscientizacao-no-carnaval/WhatsAppImage20260128at14.58.43.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-riotur-lancam-campanha-de-conscientizacao-no-carnaval",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Sítio Roberto Burle Marx promove colônia de férias com programação educativa",
-      "data": "30/01/2026",
-      "resumo": "30/01/2026 - A programação incluiu oficinas e vivências como observação com microscópio, atividades de reciclagem e oficina de arranjos",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-promove-colonia-de-ferias-com-programacao-educativa/design-sem-nome-100.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-promove-colonia-de-ferias-com-programacao-educativa",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
