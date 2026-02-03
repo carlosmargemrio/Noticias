@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Superintendência do Iphan no MS inaugura programação anual de exposições com mostra Nuancestral, da artista Bejona",
+      "data": "03/02/2026",
+      "resumo": "03/02/2026 - Com curadoria contínua, espaço do Instituto na capital sul-mato-grossense passa a receber exposições bimestrais de artistas locais",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/superintendencia-do-iphan-no-ms-inaugura-programacao-anual-de-exposicoes-com-mostra-nuancestral-da-artista-bejona/banner.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/superintendencia-do-iphan-no-ms-inaugura-programacao-anual-de-exposicoes-com-mostra-nuancestral-da-artista-bejona",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan promove o 1º Fórum do SNPC, em março; inscreva-se",
       "data": "03/02/2026",
       "resumo": "03/02/2026 - Evento será na Universidade de Brasília (UnB) - Campus Darcy Ribeiro, na capital federal, e as inscrições vão até 27 de fevereiro",
@@ -17,60 +25,28 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Consulta pública: saberes associados aos Engenhos de Farinha de Mandioca de SC",
-      "data": "03/02/2026",
-      "resumo": "03/02/2026 - População tem até 4 de março para enviar contribuições",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/consulta-publica-saberes-associados-aos-engenhos-de-farinha-de-mandioca-de-sc/floripa_engenho-do-adilson_05-07-24_credito-rancho-cultural_8934.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/consulta-publica-saberes-associados-aos-engenhos-de-farinha-de-mandioca-de-sc",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Bloco Bollywood completa uma década celebrando as cores e culturas do BRICS em São Paulo",
+      "data": "",
+      "resumo": "Desfile na Rua Augusta destaca a diversidade cultural do BRICS, com música, dança e intercâmbio artístico entre Brasil e Índia",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026020315028_98b94933066098b127ee7229bd29acb826b2d69c46e4793cc021772bc329c349.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Ministro do STJ determina prisão do rapper Oruam",
+      "data": "",
+      "resumo": "Monitoramento mostra 28 interrupções de sinal de tornozeleira",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250226080220_09daaaeb3dea8d1d416e3802dae81e9eb03eeda36d6469f6c907a91eac080873.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Enredo sobre Lula leva novos públicos e veteranos de volta à Sapucaí",
       "data": "",
       "resumo": "Homenagem ao presidente atrai foliões de primeira viagem e idosos que voltam ao Carnaval após décadas, impulsionados pelo samba da Acadêmicos de Niterói",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2022010811018_c8f418cecbfb238dfd83a50d80a47a6906d76bb3e8b19887487b9c9b20dfd694.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2022010811018_0fbbf73d9001c0ebdaf6bae2d1890783de241b90a0959ee0993176be5d2c124c.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Loja da Magalu em São Paulo alega polarização e resolve censurar livro sobre Lula",
-      "data": "",
-      "resumo": "Segundo a empresa, a censura se aplica a qualquer conteúdo considerado político",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260203070232_a2254910aa32f539a5b0860301431ecee4df4a9ab692dab10334da9f4fdfec2f.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Ator relata método de Kleber Mendonça Filho em \"O Agente Secreto\"",
-      "data": "",
-      "resumo": "Luciano Chirolli destacou experiência como vilão do personagem de Wagner Moura",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260112210116_42a27dbd-706f-4c0d-86b3-292316757a00.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES realiza sete treinamentos em fevereiro",
-      "data": "02/02/2026",
-      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
-      "data": "09/01/2026",
-      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
-      "data": "04/12/2025",
-      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
