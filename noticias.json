@@ -1,27 +1,27 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Em Brasília (DF), Iphan promove seminário sobre a Literatura de Cordel",
+      "data": "03/02/2026",
+      "resumo": "03/02/2026 - Sede do Instituto recebe cordelistas para ação de salvaguarda nesta sexta-feira (6/2)",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-brasilia-df-iphan-promove-seminario-sobre-a-literatura-de-cordel/2015_literarura-de-cordel_francisco-moreira-da-costa-8.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-brasilia-df-iphan-promove-seminario-sobre-a-literatura-de-cordel",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Nova Instrução Normativa da Lei Rouanet simplifica a submissão de projetos de patrimônio cultural",
+      "data": "03/02/2026",
+      "resumo": "03/02/2026 - Atualização das regras facilita o acesso ao mecanismo e reforça o papel técnico do Iphan na preservação dos bens culturais",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-instrucao-normativa-da-lei-rouanet-simplifica-a-submissao-de-projetos-de-patrimonio-cultural/3c1fdb58-61b7-4949-857b-79eaab223050.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-instrucao-normativa-da-lei-rouanet-simplifica-a-submissao-de-projetos-de-patrimonio-cultural",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Superintendência do Iphan no MS inaugura programação anual de exposições com mostra Nuancestral, da artista Bejona",
       "data": "03/02/2026",
       "resumo": "03/02/2026 - Com curadoria contínua, espaço do Instituto na capital sul-mato-grossense passa a receber exposições bimestrais de artistas locais",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/superintendencia-do-iphan-no-ms-inaugura-programacao-anual-de-exposicoes-com-mostra-nuancestral-da-artista-bejona/banner.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/superintendencia-do-iphan-no-ms-inaugura-programacao-anual-de-exposicoes-com-mostra-nuancestral-da-artista-bejona",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan promove o 1º Fórum do SNPC, em março; inscreva-se",
-      "data": "03/02/2026",
-      "resumo": "03/02/2026 - Evento será na Universidade de Brasília (UnB) - Campus Darcy Ribeiro, na capital federal, e as inscrições vão até 27 de fevereiro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-o-1o-forum-do-snpc-em-marco-inscreva-se/banner-forum-snpc.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-o-1o-forum-do-snpc-em-marco-inscreva-se",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Participe do processo de registro do Circo de Tradição Familiar no Brasil",
-      "data": "03/02/2026",
-      "resumo": "03/02/2026 - População tem até 4 de março para enviar contribuições",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-processo-de-registro-do-circo-de-tradicao-familiar-no-brasil/f-inrc-circo-de-tradicao-familiar_texas_dias-fernando-jpg-ficha-28.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-processo-de-registro-do-circo-de-tradicao-familiar-no-brasil",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2022010811018_0fbbf73d9001c0ebdaf6bae2d1890783de241b90a0959ee0993176be5d2c124c.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
+      "data": "09/01/2026",
+      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
+      "data": "04/12/2025",
+      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
