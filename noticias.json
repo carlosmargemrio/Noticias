@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Igreja de Nossa Senhora de Lourdes, em Teresina (PI), homenageia Iphan por serviços prestados à preservação do patrimônio",
+      "data": "04/02/2026",
+      "resumo": "04/02/2026 - Evento ocorreu no primeiro dia dos Festejos de Nossa Senhora de Lourdes",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/igreja-de-nossa-senhora-de-lourdes-em-teresina-pi-homenageia-iphan-por-servicos-prestados-a-preservacao-do-patrimonio/2025_pi_teresina_igrejadavermelhaartesanteira_marianaalves-53-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/igreja-de-nossa-senhora-de-lourdes-em-teresina-pi-homenageia-iphan-por-servicos-prestados-a-preservacao-do-patrimonio",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Em Brasília (DF), Iphan promove seminário sobre a Literatura de Cordel",
       "data": "03/02/2026",
       "resumo": "03/02/2026 - Sede do Instituto recebe cordelistas para ação de salvaguarda nesta sexta-feira (6/2)",
@@ -14,14 +22,6 @@
       "resumo": "03/02/2026 - Atualização das regras facilita o acesso ao mecanismo e reforça o papel técnico do Iphan na preservação dos bens culturais",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-instrucao-normativa-da-lei-rouanet-simplifica-a-submissao-de-projetos-de-patrimonio-cultural/3c1fdb58-61b7-4949-857b-79eaab223050.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-instrucao-normativa-da-lei-rouanet-simplifica-a-submissao-de-projetos-de-patrimonio-cultural",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Superintendência do Iphan no MS inaugura programação anual de exposições com mostra Nuancestral, da artista Bejona",
-      "data": "03/02/2026",
-      "resumo": "03/02/2026 - Com curadoria contínua, espaço do Instituto na capital sul-mato-grossense passa a receber exposições bimestrais de artistas locais",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/superintendencia-do-iphan-no-ms-inaugura-programacao-anual-de-exposicoes-com-mostra-nuancestral-da-artista-bejona/banner.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/superintendencia-do-iphan-no-ms-inaugura-programacao-anual-de-exposicoes-com-mostra-nuancestral-da-artista-bejona",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
