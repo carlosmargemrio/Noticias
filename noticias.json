@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan garante recursos do Novo PAC para início de restauro da Igreja de São Francisco em Salvador (BA)",
+      "data": "04/02/2026",
+      "resumo": "04/02/2026 - Anúncio ocorre na reta final das obras de estabilização do teto do templo; primeira fase do restauro é estimada em R$ 20 milhões",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-garante-recursos-do-novo-pac-para-inicio-de-restauro-da-igreja-de-sao-francisco-em-salvador-ba/2010_ba_salvador_igreja-convento-de-sao-francisco_nelson-kon-43.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-garante-recursos-do-novo-pac-para-inicio-de-restauro-da-igreja-de-sao-francisco-em-salvador-ba",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Igreja de Nossa Senhora de Lourdes, em Teresina (PI), homenageia Iphan por serviços prestados à preservação do patrimônio",
       "data": "04/02/2026",
       "resumo": "04/02/2026 - Evento ocorreu no primeiro dia dos Festejos de Nossa Senhora de Lourdes",
@@ -14,14 +22,6 @@
       "resumo": "03/02/2026 - Sede do Instituto recebe cordelistas para ação de salvaguarda nesta sexta-feira (6/2)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-brasilia-df-iphan-promove-seminario-sobre-a-literatura-de-cordel/2015_literarura-de-cordel_francisco-moreira-da-costa-8.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-brasilia-df-iphan-promove-seminario-sobre-a-literatura-de-cordel",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Nova Instrução Normativa da Lei Rouanet simplifica a submissão de projetos de patrimônio cultural",
-      "data": "03/02/2026",
-      "resumo": "03/02/2026 - Atualização das regras facilita o acesso ao mecanismo e reforça o papel técnico do Iphan na preservação dos bens culturais",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-instrucao-normativa-da-lei-rouanet-simplifica-a-submissao-de-projetos-de-patrimonio-cultural/3c1fdb58-61b7-4949-857b-79eaab223050.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/nova-instrucao-normativa-da-lei-rouanet-simplifica-a-submissao-de-projetos-de-patrimonio-cultural",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
