@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan apresenta plano de conservação do centro histórico de Manaus (AM)",
+      "data": "05/02/2026",
+      "resumo": "05/02/2026 - Ação conta com oficinas de zeladoria e educação patrimonial",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-plano-de-conservacao-do-centro-historico-de-manaus-am/whatsapp-image-2026-02-05-at-10-52-16-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-plano-de-conservacao-do-centro-historico-de-manaus-am",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan garante recursos do Novo PAC para início de restauro da Igreja de São Francisco em Salvador (BA)",
       "data": "04/02/2026",
       "resumo": "04/02/2026 - Anúncio ocorre na reta final das obras de estabilização do teto do templo; primeira fase do restauro é estimada em R$ 20 milhões",
@@ -14,14 +22,6 @@
       "resumo": "04/02/2026 - Evento ocorreu no primeiro dia dos Festejos de Nossa Senhora de Lourdes",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/igreja-de-nossa-senhora-de-lourdes-em-teresina-pi-homenageia-iphan-por-servicos-prestados-a-preservacao-do-patrimonio/2025_pi_teresina_igrejadavermelhaartesanteira_marianaalves-53-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/igreja-de-nossa-senhora-de-lourdes-em-teresina-pi-homenageia-iphan-por-servicos-prestados-a-preservacao-do-patrimonio",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Em Brasília (DF), Iphan promove seminário sobre a Literatura de Cordel",
-      "data": "03/02/2026",
-      "resumo": "03/02/2026 - Sede do Instituto recebe cordelistas para ação de salvaguarda nesta sexta-feira (6/2)",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-brasilia-df-iphan-promove-seminario-sobre-a-literatura-de-cordel/2015_literarura-de-cordel_francisco-moreira-da-costa-8.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-brasilia-df-iphan-promove-seminario-sobre-a-literatura-de-cordel",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250226080220_09daaaeb3dea8d1d416e3802dae81e9eb03eeda36d6469f6c907a91eac080873.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
+      "data": "09/01/2026",
+      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
+      "data": "04/12/2025",
+      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
