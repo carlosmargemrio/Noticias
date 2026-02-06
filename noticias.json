@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan executa serviços técnicos para estabilização de imóveis históricos na Ladeira do Carmo, em Salvador",
+      "data": "06/02/2026",
+      "resumo": "06/02/2026 - Conjunto possui reconhecido valor histórico e cultural e encontrava-se em estado avançado de degradação",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-executa-servicos-tecnicos-para-estabilizacao-de-imoveis-historicos-na-ladeira-do-carmo-em-salvador/whatsapp-image-2026-02-06-at-11-10-06-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-executa-servicos-tecnicos-para-estabilizacao-de-imoveis-historicos-na-ladeira-do-carmo-em-salvador",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan abre inscrições para sociedade civil compor Comitês Gestores de Sítios do Patrimônio Mundial",
       "data": "06/02/2026",
       "resumo": "06/02/2026 - Edital selecionará representantes de comunidades e organizações para fortalecer a governança de bens culturais brasileiros reconhecidos pela Unesco",
@@ -14,14 +22,6 @@
       "resumo": "05/02/2026 - Ação conta com oficinas de zeladoria e educação patrimonial",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-plano-de-conservacao-do-centro-historico-de-manaus-am/whatsapp-image-2026-02-05-at-10-52-16-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-plano-de-conservacao-do-centro-historico-de-manaus-am",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan garante recursos do Novo PAC para início de restauro da Igreja de São Francisco em Salvador (BA)",
-      "data": "04/02/2026",
-      "resumo": "04/02/2026 - Anúncio ocorre na reta final das obras de estabilização do teto do templo; primeira fase do restauro é estimada em R$ 20 milhões",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-garante-recursos-do-novo-pac-para-inicio-de-restauro-da-igreja-de-sao-francisco-em-salvador-ba/2010_ba_salvador_igreja-convento-de-sao-francisco_nelson-kon-43.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-garante-recursos-do-novo-pac-para-inicio-de-restauro-da-igreja-de-sao-francisco-em-salvador-ba",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
