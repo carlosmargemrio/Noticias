@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan abre inscrições para sociedade civil compor Comitês Gestores de Sítios do Patrimônio Mundial",
+      "data": "06/02/2026",
+      "resumo": "06/02/2026 - Edital selecionará representantes de comunidades e organizações para fortalecer a governança de bens culturais brasileiros reconhecidos pela Unesco",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-inscricoes-para-sociedade-civil-compor-comites-gestores-de-sitios-do-patrimonio-mundial/2025_go_cidadedegoiascentrohistorico_marianaalves-15-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-inscricoes-para-sociedade-civil-compor-comites-gestores-de-sitios-do-patrimonio-mundial",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan apresenta plano de conservação do centro histórico de Manaus (AM)",
       "data": "05/02/2026",
       "resumo": "05/02/2026 - Ação conta com oficinas de zeladoria e educação patrimonial",
@@ -14,14 +22,6 @@
       "resumo": "04/02/2026 - Anúncio ocorre na reta final das obras de estabilização do teto do templo; primeira fase do restauro é estimada em R$ 20 milhões",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-garante-recursos-do-novo-pac-para-inicio-de-restauro-da-igreja-de-sao-francisco-em-salvador-ba/2010_ba_salvador_igreja-convento-de-sao-francisco_nelson-kon-43.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-garante-recursos-do-novo-pac-para-inicio-de-restauro-da-igreja-de-sao-francisco-em-salvador-ba",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Igreja de Nossa Senhora de Lourdes, em Teresina (PI), homenageia Iphan por serviços prestados à preservação do patrimônio",
-      "data": "04/02/2026",
-      "resumo": "04/02/2026 - Evento ocorreu no primeiro dia dos Festejos de Nossa Senhora de Lourdes",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/igreja-de-nossa-senhora-de-lourdes-em-teresina-pi-homenageia-iphan-por-servicos-prestados-a-preservacao-do-patrimonio/2025_pi_teresina_igrejadavermelhaartesanteira_marianaalves-53-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/igreja-de-nossa-senhora-de-lourdes-em-teresina-pi-homenageia-iphan-por-servicos-prestados-a-preservacao-do-patrimonio",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
