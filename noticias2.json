@@ -1,31 +1,52 @@
 {
   "noticias_sites": [
     {
-      "titulo": "Armazém da Utopia, no Rio, comemora aniversário de Marx",
+      "titulo": "Esquenta Fórum: participe do evento prévio ao 1º Fórum do SNPC",
+      "data": "06/02/2026",
+      "resumo": "06/02/2026\n                                        \n                                         - \n                                        O webinário aberto ao público será nos dias 9 e 10 de fevereiro e terá transmissão ao vivo no YouTube do Iphan e no Teams",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/esquenta-forum-participe-do-evento-previo-ao-1o-forum-do-snpc/carrossel.png/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
+      "titulo": "Iphan executa serviços técnicos para estabilização de imóveis históricos na Ladeira do Carmo, em Salvador",
+      "data": "06/02/2026",
+      "resumo": "06/02/2026\n                                        \n                                         - \n                                        Conjunto possui reconhecido valor histórico e cultural e encontrava-se em estado avançado de degradação",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-executa-servicos-tecnicos-para-estabilizacao-de-imoveis-historicos-na-ladeira-do-carmo-em-salvador/whatsapp-image-2026-02-06-at-11-10-06-1.jpeg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
+      "titulo": "Iphan abre inscrições para sociedade civil compor Comitês Gestores de Sítios do Patrimônio Mundial",
+      "data": "06/02/2026",
+      "resumo": "06/02/2026\n                                        \n                                         - \n                                        Edital selecionará representantes de comunidades e organizações para fortalecer a governança de bens culturais brasileiros reconhecidos pela Unesco",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-abre-inscricoes-para-sociedade-civil-compor-comites-gestores-de-sitios-do-patrimonio-mundial/2025_go_cidadedegoiascentrohistorico_marianaalves-15-1.jpg/@@images/image",
+      "fonte": "www.gov.br/iphan"
+    },
+    {
+      "titulo": "Freixo desmente suposto favorecimento a escola de samba que homenageará Lula",
       "data": "Sem data",
-      "resumo": "No sábado (28) realiza-se o DIA M, em homenagem ao grande pensador revolucionário alemão",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220814090820_80c94dbfc46ef462bd80b7de134e8c146fb188459023725a34117ad2c2a5cfb6.webp?w=3840&q=90",
+      "resumo": "Presidente da Embratur diz que patrocínio público, no mesmo valor de 2025, é igualmente repartido entre as escolas",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026020612028_d50c69a0-ef2d-482e-9f51-56b5681e5ae4.webp?w=3840&q=95",
       "fonte": "www.brasil247.com"
     },
     {
-      "titulo": "BNDES abre edital para selecionar 160 espetáculos musicais gratuitos no Rio",
+      "titulo": "CNIC aprova 374 projetos culturais e autoriza captação de R$ 643 milhões",
       "data": "Sem data",
-      "resumo": "Edital contempla artistas de diversos gêneros e categorias, com cachês entre R$ 18 mil e R$ 60 mil para apresentações no Espaço Cultural do Banco",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250226130228_415ee469-3d0f-44f1-b022-f9808c32c4a8.webp?w=3840&q=90",
+      "resumo": "Entre os projetos aprovados, estão iniciativas voltadas à música, artes cênicas, audiovisual e manifestações tradicionais",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026020522020_479bdb66-37e5-4932-bad9-e8b1a8c3defa.webp?w=3840&q=95",
       "fonte": "www.brasil247.com"
     },
     {
-      "titulo": "Usuários têm até o dia 2 para sugerir temas de treinamentos",
-      "data": "24/06/2025",
-      "resumo": "24/06/2025 -\n                Sugestões também abrangem palestrantes. Capacitações são on-line, gratuitas e interativas, abrangendo todas as áreas do conhecimento",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Sugestes_Temas.png",
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
       "fonte": "www.periodicos.capes.gov.br"
     },
     {
-      "titulo": "CAPES e Royal Society Publishing firmam novo acordo",
-      "data": "23/06/2025",
-      "resumo": "23/06/2025 -\n                Usuários de 260 instituições terão acesso para leitura e publicação em dez títulos da editora mais longeva do mundo de forma contínua",
-      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
+      "data": "09/01/2026",
+      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
       "fonte": "www.periodicos.capes.gov.br"
     }
   ],
