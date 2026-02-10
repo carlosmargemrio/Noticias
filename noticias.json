@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Em Boa Vista (RR), Iphan mobiliza detentores da Literatura de Cordel",
+      "data": "10/02/2026",
+      "resumo": "10/02/2026 - Encontro com cordelistas e agentes culturais está previsto para 13 de fevereiro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-boa-vista-rr-iphan-mobiliza-detentores-da-literatura-de-cordel/2015_literarura-de-cordel_francisco-moreira-da-costa-3-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-boa-vista-rr-iphan-mobiliza-detentores-da-literatura-de-cordel",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan sedia Oficina de Conservação de Bens Móveis Integrados em Pirenópolis (GO)",
       "data": "09/02/2026",
       "resumo": "09/02/2026 - Ação ocorre no dia 10 de fevereiro no escritório técnico do Instituto na cidade goiana",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan executa serviços técnicos para estabilização de imóveis históricos na Ladeira do Carmo, em Salvador",
-      "data": "06/02/2026",
-      "resumo": "06/02/2026 - Conjunto possui reconhecido valor histórico e cultural e encontrava-se em estado avançado de degradação",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-executa-servicos-tecnicos-para-estabilizacao-de-imoveis-historicos-na-ladeira-do-carmo-em-salvador/whatsapp-image-2026-02-06-at-11-10-06-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-executa-servicos-tecnicos-para-estabilizacao-de-imoveis-historicos-na-ladeira-do-carmo-em-salvador",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Marcelo Adnet interpretará Bolsonaro em desfile que homenageia Lula na Sapucaí",
+      "data": "",
+      "resumo": "Segundo pessoas ligadas à produção do desfile, o enredo da escola vai retratar diferentes momentos da trajetória política de Lula",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220917100940_e6a8cfe56b16085e666f4d538aebcd6b4437c8face1e250e7c370f6638363e3e.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Daniela Mercury cobra Nunes Marques por ação parada no STF contra Eduardo Bolsonaro",
       "data": "",
       "resumo": "Cantora afirma que queixa-crime por difamação contra Eduardo Bolsonaro está parada desde 2024, apesar de parecer favorável da PGR",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220619110612_7cc9f982e23e508970591cd9f746d33d878358de23f152d3ca2b1f4a853e0409.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220619110612_883087bccc91299a783bf3bd95052371f5979312bac7ac0ebcf2b5ffe13d8465.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20200226130252_7c4caa77-3391-4e8e-83e2-115d6104df7a.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "O Agente Secreto é eleito melhor filme e vence seis prêmios da International Cinephile Society",
-      "data": "",
-      "resumo": "Longa de Kleber Mendonça Filho domina premiação internacional com destaque para Wagner Moura e Tânia Maria",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260113060156_5baf701a-9484-4322-a896-7b11107808ac.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES realiza sete treinamentos em fevereiro",
-      "data": "02/02/2026",
-      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
-      "data": "09/01/2026",
-      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
-      "data": "04/12/2025",
-      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
