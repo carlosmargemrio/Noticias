@@ -25,28 +25,52 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Tânia Maria inicia tratamento de saúde com objetivo de ir à cerimônia do Oscar",
+      "data": "",
+      "resumo": "Atriz de O Agente Secreto foi diagnosticada com Doença Pulmonar Obstrutiva Crônica",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260113060156_06f13a83-c80f-4bae-a501-9741943a6b31.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Paramount reforça proposta pela Warner Bros e aumenta a pressão sobre a Netflix",
+      "data": "",
+      "resumo": "A proposta prevê US$ 0,25 por ação a cada três meses caso a operação não termine após dezembro de 2026, o que representaria US$ 650 milhões por trimestre",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260210170240_67624e8c-133a-4d67-b0da-c1af6d42d738.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Marcelo Adnet interpretará Bolsonaro em desfile que homenageia Lula na Sapucaí",
       "data": "",
       "resumo": "Segundo pessoas ligadas à produção do desfile, o enredo da escola vai retratar diferentes momentos da trajetória política de Lula",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220917100940_e6a8cfe56b16085e666f4d538aebcd6b4437c8face1e250e7c370f6638363e3e.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220917100940_9b0583748e2d10df0e44a1f9d44902e64c23b81e2480e149257bb3062c43d6ba.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Daniela Mercury cobra Nunes Marques por ação parada no STF contra Eduardo Bolsonaro",
-      "data": "",
-      "resumo": "Cantora afirma que queixa-crime por difamação contra Eduardo Bolsonaro está parada desde 2024, apesar de parecer favorável da PGR",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220619110612_883087bccc91299a783bf3bd95052371f5979312bac7ac0ebcf2b5ffe13d8465.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
     },
     {
-      "titulo": "Conib acusa Jessé de Souza de reproduzir estereótipos antissemitas",
-      "data": "",
-      "resumo": "Entidade afirma que ex-presidente do IPEA generalizou ações individuais e usou expressões como “lobby judaico” e “supremacismo judaico” em vídeos nas redes",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20200226130252_7c4caa77-3391-4e8e-83e2-115d6104df7a.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
+      "data": "09/01/2026",
+      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
+      "data": "04/12/2025",
+      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
