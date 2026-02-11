@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Nova investigação diz que morte de Kurt Cobain foi “homicídio” e questiona conclusão de suicídio",
+      "data": "",
+      "resumo": "O artigo científico sugeriu que o músico teria sido confrontado por um ou mais agressores, que forçaram uma overdose de heroína para incapacitar o músico",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260210200244_f7b84f9dd92e6afcbccc9b4a16f15941c7963dec13907071a4e259fca8edc84a.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Tânia Maria inicia tratamento de saúde com objetivo de ir à cerimônia do Oscar",
       "data": "",
       "resumo": "Atriz de O Agente Secreto foi diagnosticada com Doença Pulmonar Obstrutiva Crônica",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260113060156_06f13a83-c80f-4bae-a501-9741943a6b31.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260113060156_5baf701a-9484-4322-a896-7b11107808ac.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260210170240_67624e8c-133a-4d67-b0da-c1af6d42d738.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Marcelo Adnet interpretará Bolsonaro em desfile que homenageia Lula na Sapucaí",
-      "data": "",
-      "resumo": "Segundo pessoas ligadas à produção do desfile, o enredo da escola vai retratar diferentes momentos da trajetória política de Lula",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220917100940_9b0583748e2d10df0e44a1f9d44902e64c23b81e2480e149257bb3062c43d6ba.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES realiza sete treinamentos em fevereiro",
-      "data": "02/02/2026",
-      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
-      "data": "09/01/2026",
-      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
-      "data": "04/12/2025",
-      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
