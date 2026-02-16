@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Humberto Carrão celebra Lula e cinema brasileiro na Sapucaí",
+      "data": "",
+      "resumo": "Ator comenta homenagem ao presidente Lula e destaca presença do Brasil no Oscar durante desfiles no Rio",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250303070348_e22340b2ab2f7bd7a12a5ba2502dd75f8391375d6f7cf37321d345b6278d1918.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Festival de Berlim tenta conter crise após declarações de Wim Wenders sobre posicionamento político de cineastas",
       "data": "",
       "resumo": "Direção reage após repercussão negativa da fala e reafirma direito à liberdade de expressão dos artistas",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260215180220_383ff7bb599bd7f4862649aef2cc39a5a32a75684679c39c66feba224956a2de.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260215180220_13f64122a1c4653a76144b96aafecca8f34b16e6380ab61070fc409fff71ce3c.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260215110212_814a529a69494adfc6d4e4a21b22d3513b2a91ed08bc69ddafc826544c31a1d6.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Veja a ordem dos desfiles das escolas de samba do Rio",
-      "data": "",
-      "resumo": "Ordem das apresentações do Grupo Especial do Rio é definida e mantém divisão em três noites de espetáculo",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220419110452_f4430c8b9f842c6ad4acb1b60344c554dd9ccdb139e4c471ac20740b17f414c9.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES realiza sete treinamentos em fevereiro",
-      "data": "02/02/2026",
-      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
-      "data": "09/01/2026",
-      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
-      "data": "04/12/2025",
-      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
