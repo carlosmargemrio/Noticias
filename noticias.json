@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Robert Duvall, astro de clássicos do cinema e vencedor do Oscar, morre aos 95 anos",
+      "data": "",
+      "resumo": "Ator estrelou em filmes como Apocalypse Now e O Poderoso Chefão e construiu carreira com participação em quase 100 produções",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260216160220_ef18015aa7c2f9c1903c375cd14e87951f27b729b1e1211fe99497df7618b987.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Segunda-feira de carnaval na Sapucaí celebra Rita Lee, cultura afro-baiana e resistência negra no Carnaval 2026",
       "data": "",
       "resumo": "Mocidade, Beija-Flor, Viradouro e Tijuca desfilam na segunda noite com enredos sobre liberdade, fé e trajetórias marcantes",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2023050911058_2b5813728ec87bbad0fdb2f09b17693a3631593ee6fa7e08f9a831fafa08f04c.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2023050911058_cea2f1d99356eff57c88f44b32ab84ad5166f139b310f5c74192397ceb5c0109.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260216000252_826f400c-bbf5-4a50-a290-5e24c9b4f8d9.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Humberto Carrão celebra Lula e cinema brasileiro na Sapucaí",
-      "data": "",
-      "resumo": "Ator comenta homenagem ao presidente Lula e destaca presença do Brasil no Oscar durante desfiles no Rio",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250303070348_f3c32bce-8c56-442f-ad76-4ed6d6993b2b.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES realiza sete treinamentos em fevereiro",
-      "data": "02/02/2026",
-      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
-      "data": "09/01/2026",
-      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
-      "data": "04/12/2025",
-      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
