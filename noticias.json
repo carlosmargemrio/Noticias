@@ -25,28 +25,52 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Wagner Moura diz que tem “medo de encontrar o ICE” nos EUA",
+      "titulo": "O Agente Secreto alcança 5º maior público da década",
       "data": "",
-      "resumo": "Ator brasileiro destaca paralelos entre Brasil e Estados Unidos, defende a resistência cotidiana e elogia Lula",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260122110120_55ade9e505e2b7d0c68906331b0ac0d140484348fcf8137961e02988d518932d.webp?w=3840&q=95",
+      "resumo": "Filme de Kleber Mendonça Filho com Wagner Moura supera 2,2 milhões de ingressos, conquista prêmio nos EUA e concorre a quatro estatuetas no Oscar",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260122100152_356f53db-e5d5-4448-9449-47e510e4bf46.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "União de Maricá brilha na Série Ouro e reforça favoritismo",
+      "titulo": "Carnaval 2026 deve movimentar R$ 18,6 bilhões no Brasil, alta de 10% sobre 2025",
       "data": "",
-      "resumo": "Prefeitura aposta no título após desfile elogiado no Sambódromo e destaca impacto cultural e econômico do Carnaval",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260218100244_5a53e724a5888fe3cb223d17293aa8dec0b018e660696d7b770dc1a8a153392e.webp?w=3840&q=95",
+      "resumo": "Estimativa do Ministério do Turismo aponta alta de 10% sobre 2025 e recorde histórico para fevereiro desde 2011",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260209220252_06a3d7d1170cb17c4676ca339c3dd98b38424416d3bf366e61060ecd96da24d0.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Virginia Fonseca é vaiada na Sapucaí durante estreia como rainha de bateria e tapa-sexo se descola (vídeo)",
+      "titulo": "São Paulo terá espaço oficial da turnê Power Up do AC/DC",
       "data": "",
-      "resumo": "Influenciadora recebeu reação negativa no Setor 1 ao ter nome anunciado",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260218070252_af140c4f-08be-4259-b0f3-51236cae49d1.webp?w=3840&q=95",
+      "resumo": "A iniciativa integra a passagem do grupo pelo Brasil com a turnê Power Up",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20251103161124_d964fde594e7f817fa53b763ac35371c868dae34f59c35a42a4abda17a5f7666.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
+      "data": "09/01/2026",
+      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
+      "data": "04/12/2025",
+      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
