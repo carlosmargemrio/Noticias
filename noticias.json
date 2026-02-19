@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Fotógrafo autor de exposição promove visita guiada com público, na Lapa (PR)",
+      "data": "19/02/2026",
+      "resumo": "19/02/2026 - A atividade na mostra “Contraluz Urbana” será no dia 21/02 e gratuita, mediante inscrição em formulário on-line",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/fotografo-autor-de-exposicao-promove-visita-guiada-com-publico-na-lapa-pr-1/whatsapp-image-2025-09-01-at-16-32-05-1-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/fotografo-autor-de-exposicao-promove-visita-guiada-com-publico-na-lapa-pr-1",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan participa de seminário sobre a preservação da Fortaleza de N. Sra. dos Prazeres",
       "data": "13/02/2026",
       "resumo": "13/02/2026 - Evento de estudo para preservar o bem cultural localizado na Ilha do Mel, em Paranaguá (PR)",
@@ -14,14 +22,6 @@
       "resumo": "10/02/2026 - Encontro com cordelistas e agentes culturais está previsto para 13 de fevereiro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-boa-vista-rr-iphan-mobiliza-detentores-da-literatura-de-cordel/2015_literarura-de-cordel_francisco-moreira-da-costa-3-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-boa-vista-rr-iphan-mobiliza-detentores-da-literatura-de-cordel",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan sedia Oficina de Conservação de Bens Móveis Integrados em Pirenópolis (GO)",
-      "data": "09/02/2026",
-      "resumo": "09/02/2026 - Ação ocorre no dia 10 de fevereiro no escritório técnico do Instituto na cidade goiana",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-sedia-oficina-de-conservacao-de-bens-moveis-integrados-em-pirenopolis-go/842da125-9163-4fa0-9ef8-46cf934fb2bd.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-sedia-oficina-de-conservacao-de-bens-moveis-integrados-em-pirenopolis-go",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
