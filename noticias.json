@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Cerâmica Terena tem INRC aberto no Mato Grosso do Sul e avança no processo de reconhecimento como Patrimônio Cultural do Brasil",
+      "data": "20/02/2026",
+      "resumo": "20/02/2026 - Aldeia Cachoeirinha, em Miranda (MS), marca início do inventário que poderá resultar em pedido de registro federal pelo Iphan",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ceramica-terena-tem-inrc-aberto-no-mato-grosso-do-sul-e-avanca-no-processo-de-reconhecimento-como-patrimonio-cultural-do-brasil/banner.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ceramica-terena-tem-inrc-aberto-no-mato-grosso-do-sul-e-avanca-no-processo-de-reconhecimento-como-patrimonio-cultural-do-brasil",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Fotógrafo autor de exposição promove visita guiada com público, na Lapa (PR)",
       "data": "19/02/2026",
       "resumo": "19/02/2026 - A atividade na mostra “Contraluz Urbana” será no dia 21/02 e gratuita, mediante inscrição em formulário on-line",
@@ -14,14 +22,6 @@
       "resumo": "13/02/2026 - Evento de estudo para preservar o bem cultural localizado na Ilha do Mel, em Paranaguá (PR)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-seminario-sobre-a-preservacao-da-fortaleza-de-n-sra-dos-prazeres/whatsapp-image-2026-02-12-at-18-50-33-2.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-seminario-sobre-a-preservacao-da-fortaleza-de-n-sra-dos-prazeres",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Em Boa Vista (RR), Iphan mobiliza detentores da Literatura de Cordel",
-      "data": "10/02/2026",
-      "resumo": "10/02/2026 - Encontro com cordelistas e agentes culturais está previsto para 13 de fevereiro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-boa-vista-rr-iphan-mobiliza-detentores-da-literatura-de-cordel/2015_literarura-de-cordel_francisco-moreira-da-costa-3-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-boa-vista-rr-iphan-mobiliza-detentores-da-literatura-de-cordel",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026021921024_da4f9b4c-a951-4d29-b273-e996127a139d.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES realiza sete treinamentos em fevereiro",
-      "data": "02/02/2026",
-      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
-      "data": "09/01/2026",
-      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos completa 25 anos com novos acordos e livro",
-      "data": "04/12/2025",
-      "resumo": "04/12/2025 -\n                CAPES firma contratos de leitura e publicação com editoras e lança obra que registra a história do acervo; editora premia projetos",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_25_anos_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4282-portal-de-periodicos-completa-25-anos-com-novos-acordos-e-livro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
