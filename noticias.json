@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Tudo sobre o 1º Fórum Nacional do SNPC; evento será na UnB, de 3 a 6 de março",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 - Iniciativa é resultado de 10 meses de escuta ativa e construção participativa realizada pelo Iphan por todo o país",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tudo-sobre-o-1o-forum-nacional-do-snpc-evento-sera-na-unb-de-3-a-6-de-marco/banner-forum-snpc.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tudo-sobre-o-1o-forum-nacional-do-snpc-evento-sera-na-unb-de-3-a-6-de-marco",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan apresenta inovações para a gestão de dados sobre o patrimônio cultural brasileiro",
       "data": "20/02/2026",
       "resumo": "20/02/2026 - A 1ª reunião do COMSI ocorreu em formato híbrido, no último dia 12 de fevereiro",
@@ -14,14 +22,6 @@
       "resumo": "20/02/2026 - A verde e rosa carioca exaltou a cultura amapaense no desfile deste ano do Grupo Especial das Escolas de Samba do Rio de Janeiro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/do-amapa-a-sapucai-mangueira-reverencia-o-marabaixo-na-avenida/55099917525_30435255fc_o-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/do-amapa-a-sapucai-mangueira-reverencia-o-marabaixo-na-avenida",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Cerâmica Terena tem INRC aberto no Mato Grosso do Sul e avança no processo de reconhecimento como Patrimônio Cultural do Brasil",
-      "data": "20/02/2026",
-      "resumo": "20/02/2026 - Aldeia Cachoeirinha, em Miranda (MS), marca início do inventário que poderá resultar em pedido de registro federal pelo Iphan",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ceramica-terena-tem-inrc-aberto-no-mato-grosso-do-sul-e-avanca-no-processo-de-reconhecimento-como-patrimonio-cultural-do-brasil/banner.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ceramica-terena-tem-inrc-aberto-no-mato-grosso-do-sul-e-avanca-no-processo-de-reconhecimento-como-patrimonio-cultural-do-brasil",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
