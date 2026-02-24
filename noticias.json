@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove minicurso para ampliar acesso do Jongo capixaba a editais de fomento cultural",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 - Atividade apresentou o Funcultura/PNAB 2025 e orientou jongueiros sobre oportunidades de fomento no ES",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-minicurso-para-ampliar-acesso-do-jongo-capixaba-a-editais-de-fomento-cultural/xxxIMG_57862.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-minicurso-para-ampliar-acesso-do-jongo-capixaba-a-editais-de-fomento-cultural",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Tudo sobre o 1º Fórum Nacional do SNPC; evento será na UnB, de 3 a 6 de março",
       "data": "24/02/2026",
       "resumo": "24/02/2026 - Iniciativa é resultado de 10 meses de escuta ativa e construção participativa realizada pelo Iphan por todo o país",
@@ -14,14 +22,6 @@
       "resumo": "20/02/2026 - A 1ª reunião do COMSI ocorreu em formato híbrido, no último dia 12 de fevereiro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-inovacoes-para-a-gestao-de-dados-sobre-o-patrimonio-cultural-brasileiro/reuniao-comsi.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-inovacoes-para-a-gestao-de-dados-sobre-o-patrimonio-cultural-brasileiro",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Do Amapá à Sapucaí: Mangueira reverencia o Marabaixo na avenida",
-      "data": "20/02/2026",
-      "resumo": "20/02/2026 - A verde e rosa carioca exaltou a cultura amapaense no desfile deste ano do Grupo Especial das Escolas de Samba do Rio de Janeiro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/do-amapa-a-sapucai-mangueira-reverencia-o-marabaixo-na-avenida/55099917525_30435255fc_o-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/do-amapa-a-sapucai-mangueira-reverencia-o-marabaixo-na-avenida",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240425160444_a04312cf08fffb35653bd5a5ce0d579673dbc7ad661a86cd4bf0f70408787ea4.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Nova autenticação no Portal de Periódicos",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
+      "data": "09/01/2026",
+      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
