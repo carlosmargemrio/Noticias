@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan garante início das obras de requalificação e acessibilidade no Centro Histórico de João Pessoa (PB)",
+      "data": "25/02/2026",
+      "resumo": "25/02/2026 - Assinatura de ordem de serviço nesta terça (24) viabiliza resgate da pavimentação original e modernização das vias de acesso ao antigo Porto do Capim",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-garante-inicio-das-obras-de-requalificacao-e-acessibilidade-no-centro-historico-de-joao-pessoa-pb/porto-do-capim-pb-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-garante-inicio-das-obras-de-requalificacao-e-acessibilidade-no-centro-historico-de-joao-pessoa-pb",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan promove minicurso para ampliar acesso do Jongo capixaba a editais de fomento cultural",
       "data": "24/02/2026",
       "resumo": "24/02/2026 - Atividade apresentou o Funcultura/PNAB 2025 e orientou jongueiros sobre oportunidades de fomento no ES",
@@ -14,14 +22,6 @@
       "resumo": "24/02/2026 - Iniciativa é resultado de 10 meses de escuta ativa e construção participativa realizada pelo Iphan por todo o país",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tudo-sobre-o-1o-forum-nacional-do-snpc-evento-sera-na-unb-de-3-a-6-de-marco/banner-forum-snpc.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tudo-sobre-o-1o-forum-nacional-do-snpc-evento-sera-na-unb-de-3-a-6-de-marco",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan apresenta inovações para a gestão de dados sobre o patrimônio cultural brasileiro",
-      "data": "20/02/2026",
-      "resumo": "20/02/2026 - A 1ª reunião do COMSI ocorreu em formato híbrido, no último dia 12 de fevereiro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-inovacoes-para-a-gestao-de-dados-sobre-o-patrimonio-cultural-brasileiro/reuniao-comsi.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-inovacoes-para-a-gestao-de-dados-sobre-o-patrimonio-cultural-brasileiro",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
