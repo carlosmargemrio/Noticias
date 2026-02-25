@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Comunidade Quilombola Forte Príncipe da Beira (RO) recebe oficinas do Programa Conviver",
+      "data": "25/02/2026",
+      "resumo": "25/02/2026 - Moradores discutiram melhorias das condições de vida e processo colaborativo de conservação do patrimônio",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/comunidade-quilombola-forte-principe-da-beira-ro-recebe-oficinas-do-programa-conviver/whatsapp-image-2026-02-23-at-16-53-02-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/comunidade-quilombola-forte-principe-da-beira-ro-recebe-oficinas-do-programa-conviver",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan institui exclusividade do protocolo digital para processos de licenciamento ambiental",
       "data": "25/02/2026",
       "resumo": "25/02/2026 - Medida abrange projetos, relatórios de avaliação de impacto, programas de gestão e demais documentos vinculados aos processos analisados pelo órgão",
@@ -14,14 +22,6 @@
       "resumo": "25/02/2026 - Assinatura de ordem de serviço nesta terça (24) viabiliza resgate da pavimentação original e modernização das vias de acesso ao antigo Porto do Capim",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-garante-inicio-das-obras-de-requalificacao-e-acessibilidade-no-centro-historico-de-joao-pessoa-pb/porto-do-capim-pb-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-garante-inicio-das-obras-de-requalificacao-e-acessibilidade-no-centro-historico-de-joao-pessoa-pb",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan promove minicurso para ampliar acesso do Jongo capixaba a editais de fomento cultural",
-      "data": "24/02/2026",
-      "resumo": "24/02/2026 - Atividade apresentou o Funcultura/PNAB 2025 e orientou jongueiros sobre oportunidades de fomento no ES",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-minicurso-para-ampliar-acesso-do-jongo-capixaba-a-editais-de-fomento-cultural/xxxIMG_57862.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-minicurso-para-ampliar-acesso-do-jongo-capixaba-a-editais-de-fomento-cultural",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
