@@ -1,28 +1,52 @@
 {
   "noticias_sites": [
     {
-      "titulo": "Nova autenticação no Portal de Periódicos",
+      "titulo": "Iphan institui exclusividade do protocolo digital para processos de licenciamento ambiental",
+      "data": "25/02/2026",
+      "resumo": "25/02/2026 - Medida abrange projetos, relatórios de avaliação de impacto, programas de gestão e demais documentos vinculados aos processos analisados pelo órgão",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-instituiexclusividade-doprotocolo-digital-para-processos-de-licenciamento-ambiental/imagem-generica-licenciamento.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-instituiexclusividade-doprotocolo-digital-para-processos-de-licenciamento-ambiental",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan garante início das obras de requalificação e acessibilidade no Centro Histórico de João Pessoa (PB)",
+      "data": "25/02/2026",
+      "resumo": "25/02/2026 - Assinatura de ordem de serviço nesta terça (24) viabiliza resgate da pavimentação original e modernização das vias de acesso ao antigo Porto do Capim",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-garante-inicio-das-obras-de-requalificacao-e-acessibilidade-no-centro-historico-de-joao-pessoa-pb/porto-do-capim-pb-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-garante-inicio-das-obras-de-requalificacao-e-acessibilidade-no-centro-historico-de-joao-pessoa-pb",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan promove minicurso para ampliar acesso do Jongo capixaba a editais de fomento cultural",
       "data": "24/02/2026",
-      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
+      "resumo": "24/02/2026 - Atividade apresentou o Funcultura/PNAB 2025 e orientou jongueiros sobre oportunidades de fomento no ES",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-minicurso-para-ampliar-acesso-do-jongo-capixaba-a-editais-de-fomento-cultural/xxxIMG_57862.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-minicurso-para-ampliar-acesso-do-jongo-capixaba-a-editais-de-fomento-cultural",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "CAPES realiza sete treinamentos em fevereiro",
-      "data": "02/02/2026",
-      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
-      "fonte": "Periódicos CAPES"
+      "titulo": "Acusação de plágios e testemunho da verdadeira \"Carolina\": entenda as ações contra Seu Jorge",
+      "data": "",
+      "resumo": "Um dos pontos que mais chama a atenção no desenrolar jurídico é a convocação de testemunhas-chave para o caso",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20200514110544_726daddb23eabe7daa90b64f01ded04cba4986f3a02579cbdad3e68a8e4a2ff2.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
-      "titulo": "Como publicar seu artigo em Acesso Aberto sem custo com o acordo CAPES e Springer Nature",
-      "data": "09/01/2026",
-      "resumo": "09/01/2026 -\n                Tema do treinamento do Portal de Periódicos da CAPES em janeiro",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_segunda_quinzena_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4288-como-publicar-seu-artigo-em-acesso-aberto-sem-custo-com-o-acordo-capes-e-springer-nature.html",
-      "fonte": "Periódicos CAPES"
+      "titulo": "Livro 'Guiné' é uma investigação visual e literária sobre a morte, o branco e a ancestralidade",
+      "data": "",
+      "resumo": "Lançamento de obra criada sob o impacto da pandemia acontece em Belo Horizonte e une literatura e artes visuais",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260224160228_ebdcdc2c451f19438045a01ed7b9a3dbb2d14b7a88eaf0b3a1986fc05424d2ac.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CarnaCine reúne cultura, debate político e celebração dos 46 anos do PT em Barcelona",
+      "data": "",
+      "resumo": "Atividade político-cultural uniu cinema, debate, formação cidadã e celebração coletiva",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260224080252_ac1e85148360a82362c2dd123dbc855d2e21ea36b9a27d4e5303b99627727f62.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     }
   ],
   "noticias_escritorio": [
