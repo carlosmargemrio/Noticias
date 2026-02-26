@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa de seminário sobre planejamento territorial sustentável",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 - Encontro em Cuiabá (MT) refletiu sobre como bens materiais, festas e saberes estão diretamente ligados às dinâmicas ambientais",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-seminario-sobre-planejamento-territorial-sustentavel/whatsapp-image-2026-02-26-at-12-53-45.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-seminario-sobre-planejamento-territorial-sustentavel",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan promove visita orientada à Igreja da Ordem Terceira do Carmo, em Diamantina (MG)",
       "data": "26/02/2026",
       "resumo": "26/02/2026 - A iniciativa promove transparência, escuta e valorização do patrimônio cultural protegido desde 1939",
@@ -14,14 +22,6 @@
       "resumo": "25/02/2026 - Moradores discutiram melhorias das condições de vida e processo colaborativo de conservação do patrimônio",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/comunidade-quilombola-forte-principe-da-beira-ro-recebe-oficinas-do-programa-conviver/whatsapp-image-2026-02-23-at-16-53-02-2.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/comunidade-quilombola-forte-principe-da-beira-ro-recebe-oficinas-do-programa-conviver",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan institui exclusividade do protocolo digital para processos de licenciamento ambiental",
-      "data": "25/02/2026",
-      "resumo": "25/02/2026 - Medida abrange projetos, relatórios de avaliação de impacto, programas de gestão e demais documentos vinculados aos processos analisados pelo órgão",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-instituiexclusividade-doprotocolo-digital-para-processos-de-licenciamento-ambiental/imagem-generica-licenciamento.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-instituiexclusividade-doprotocolo-digital-para-processos-de-licenciamento-ambiental",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
