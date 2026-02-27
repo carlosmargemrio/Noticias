@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Em Cuiabá (MT), Iphan retomará atendimentos presenciais no Centro Histórico",
+      "data": "27/02/2026",
+      "resumo": "27/02/2026 - O atendimento ao público será realizado a partir do dia 02/03, sempre às segundas-feiras, das 13h30 às 16h30",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-cuiaba-mt-iphan-retomara-atendimentos-presenciais-no-centro-historico/whatsapp-image-2026-02-27-at-12-17-37-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-cuiaba-mt-iphan-retomara-atendimentos-presenciais-no-centro-historico",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan participa de seminário sobre planejamento territorial sustentável",
       "data": "26/02/2026",
       "resumo": "26/02/2026 - Encontro em Cuiabá (MT) refletiu sobre como bens materiais, festas e saberes estão diretamente ligados às dinâmicas ambientais",
@@ -14,14 +22,6 @@
       "resumo": "26/02/2026 - A iniciativa promove transparência, escuta e valorização do patrimônio cultural protegido desde 1939",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-visita-orientada-a-igreja-da-ordem-terceira-do-carmo-em-diamantina-mg/banner-igreja-do-carmo.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-visita-orientada-a-igreja-da-ordem-terceira-do-carmo-em-diamantina-mg",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Comunidade Quilombola Forte Príncipe da Beira (RO) recebe oficinas do Programa Conviver",
-      "data": "25/02/2026",
-      "resumo": "25/02/2026 - Moradores discutiram melhorias das condições de vida e processo colaborativo de conservação do patrimônio",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/comunidade-quilombola-forte-principe-da-beira-ro-recebe-oficinas-do-programa-conviver/whatsapp-image-2026-02-23-at-16-53-02-2.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/comunidade-quilombola-forte-principe-da-beira-ro-recebe-oficinas-do-programa-conviver",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20200514110544_1d1cc5c39f4bfc3425d654fc316d070a757ae72b6a0507eb60386e7179c74e38.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Nova autenticação no Portal de Periódicos",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
