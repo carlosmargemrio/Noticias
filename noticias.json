@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Servidor do Iphan lança Atlas Arqueológico do Tocantins",
+      "data": "03/03/2026",
+      "resumo": "03/03/2026 - Obra, organizada pelo arqueólogo Rômulo Macêdo, busca democratizar o acesso às informações sobre a temática no estado",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/servidor-do-iphan-lanca-atlas-arqueologico-do-tocantins/466791-_1_-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/servidor-do-iphan-lanca-atlas-arqueologico-do-tocantins",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Reunião na Superintendência do Iphan em São Paulo debate registro das rezadeiras e proteção de espaço cultural",
       "data": "03/03/2026",
       "resumo": "03/03/2026 - Rezadeiras da Paraíba dialogam com o Instituto sobre salvaguarda de saberes tradicionais e proteção da Casa do Poeta Sebastião Marinho",
@@ -14,14 +22,6 @@
       "resumo": "02/03/2026 - Exposição de pinturas e cerâmicas é a primeira do artista transmasculino Caru Brandi",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/confira-a-primeira-exposicao-de-2026-na-sala-do-artista-popular/caru-diante-de-uma-de-suas-pinturas-credito-francisco-moreira-da-costa-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/confira-a-primeira-exposicao-de-2026-na-sala-do-artista-popular",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan entrega requalificação da Praça Augusto Severo em Natal (RN)",
-      "data": "01/03/2026",
-      "resumo": "01/03/2026 - Intervenções em nove praças no Centro Histórico somam mais de R$ 9,9 milhões; agenda incluiu também reinauguração da sede do Iphan e encontro sobre Forró como Patrimônio da Humanidade",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-requalificacao-da-praca-augusto-severo-em-natal-rn/praca-rn-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-requalificacao-da-praca-augusto-severo-em-natal-rn",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260303060356_872fac92eb85737cd4f15e3e755fa2c52464effbe52c0a5a2e2dd2588722388a.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Nova autenticação no Portal de Periódicos",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
