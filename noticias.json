@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "“SUS da Cultura”: UnB recebe o 1º Fórum Sistema Nacional de Patrimônio Cultural",
+      "data": "04/03/2026",
+      "resumo": "04/03/2026 - A programação do evento, em Brasília (DF), vai até sexta-feira (06/03)",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/201csus-da-cultura201d-unb-recebe-o-1o-forum-sistema-nacional-de-patrimonio-cultural/img_5645-2.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/201csus-da-cultura201d-unb-recebe-o-1o-forum-sistema-nacional-de-patrimonio-cultural",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e UERN inauguram o primeiro centro do país a integrar Arqueologia e Paleontologia",
       "data": "03/03/2026",
       "resumo": "03/03/2026 - Com investimento de R$ 1,2 milhão, o Centro de Pesquisa da Pré-História João de Araújo Pereira Neto (CPPH), em Mossoró (RN), já nasce com acervo de 50 mil artefatos e consolida o estado como referência nacional em pesquisa científica",
@@ -14,14 +22,6 @@
       "resumo": "03/03/2026 - Obra, organizada pelo arqueólogo Rômulo Macêdo, busca democratizar o acesso às informações sobre a temática no estado",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/servidor-do-iphan-lanca-atlas-arqueologico-do-tocantins/466791-_1_-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/servidor-do-iphan-lanca-atlas-arqueologico-do-tocantins",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Reunião na Superintendência do Iphan em São Paulo debate registro das rezadeiras e proteção de espaço cultural",
-      "data": "03/03/2026",
-      "resumo": "03/03/2026 - Rezadeiras da Paraíba dialogam com o Instituto sobre salvaguarda de saberes tradicionais e proteção da Casa do Poeta Sebastião Marinho",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/reuniao-na-superintendencia-do-iphan-em-sao-paulo-debate-registro-das-rezadeiras-e-protecao-de-espaco-cultural/banner-rezadeiras.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/reuniao-na-superintendencia-do-iphan-em-sao-paulo-debate-registro-das-rezadeiras-e-protecao-de-espaco-cultural",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
