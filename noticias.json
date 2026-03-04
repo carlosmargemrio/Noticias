@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan faz primeiro mapa completo das Casas do Patrimônio pelo Brasil",
+      "data": "04/03/2026",
+      "resumo": "04/03/2026 - Após 20 anos de dados inconsistentes, programa ganha diagnóstico com 14 unidades identificadas e plano de reestruturação para 2026",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-faz-primeiro-mapa-completo-das-casas-do-patrimonio-pelo-brasil/2025_pi_teresina_estacaoferroviariadeteresina_marianaalves-4-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-faz-primeiro-mapa-completo-das-casas-do-patrimonio-pelo-brasil",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan celebra mulheres da Cultura em seminário no Theatro Municipal do Rio de Janeiro",
       "data": "04/03/2026",
       "resumo": "04/03/2026 - Evento gratuito reúne a ministra Anielle Franco, a presidenta da Funarte, Maria Marighella, e convidadas de diversas áreas culturais",
@@ -14,14 +22,6 @@
       "resumo": "04/03/2026 - A programação do evento, em Brasília (DF), vai até sexta-feira (06/03)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/201csus-da-cultura201d-unb-recebe-o-1o-forum-sistema-nacional-de-patrimonio-cultural/img_5645-2.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/201csus-da-cultura201d-unb-recebe-o-1o-forum-sistema-nacional-de-patrimonio-cultural",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e UERN inauguram o primeiro centro do país a integrar Arqueologia e Paleontologia",
-      "data": "03/03/2026",
-      "resumo": "03/03/2026 - Com investimento de R$ 1,2 milhão, o Centro de Pesquisa da Pré-História João de Araújo Pereira Neto (CPPH), em Mossoró (RN), já nasce com acervo de 50 mil artefatos e consolida o estado como referência nacional em pesquisa científica",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-uern-inauguram-o-primeiro-centro-do-pais-a-integrar-arqueologia-e-paleontologia-1/whatsapp-image-2026-03-03-at-17-09-02.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-uern-inauguram-o-primeiro-centro-do-pais-a-integrar-arqueologia-e-paleontologia-1",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
