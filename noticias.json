@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Senado avança com projeto que cria Dia Nacional do Hip-Hop",
+      "data": "",
+      "resumo": "A proposta seguirá para análise do plenário da Casa e, se aprovada, será encaminhada para sanção presidencial",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260304220328_3badfd5a8d5775b5e6579da830a501b6eaafceefdb2e51d8f4d3e61ba0c21b78.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Miriam Alves abre temporada 2026 do Clube de Leitura CCBB",
       "data": "",
       "resumo": "Escritora debate gênero e raça no Mês da Mulher e antecipa livro infantojuvenil",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260303110312_308bab83-ca42-4ba7-8c66-7a63b201481f.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260303110312_3c206b73-807e-4a87-8f48-33e377db4bd9.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260303070328_b4bc0ac487c627e4afd9a3831f9afd60adc63faadd40859291a19206a27417e0.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Cirurgia de Ivete Sangalo é considerada delicada e durou 7 horas",
-      "data": "",
-      "resumo": "Cantora Ivete Sangalo passou por uma cirurgia considerada delicada",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260303060356_872fac92eb85737cd4f15e3e755fa2c52464effbe52c0a5a2e2dd2588722388a.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
-      "data": "26/02/2026",
-      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Nova autenticação no Portal de Periódicos",
-      "data": "24/02/2026",
-      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES realiza sete treinamentos em fevereiro",
-      "data": "02/02/2026",
-      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
