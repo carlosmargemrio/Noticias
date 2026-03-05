@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Fiscalização do Iphan garante preservação do patrimônio durante obras urbanas",
+      "data": "05/03/2026",
+      "resumo": "05/03/2026 - Atuação do órgão federal busca conciliar desenvolvimento das cidades com a proteção de bens históricos e arqueológicos",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/fiscalizacao-do-iphan-garante-preservacao-do-patrimonio-durante-obras-urbanas/whatsapp-image-2026-03-05-at-15-12-42-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/fiscalizacao-do-iphan-garante-preservacao-do-patrimonio-durante-obras-urbanas",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan faz primeiro mapa completo das Casas do Patrimônio pelo Brasil",
       "data": "04/03/2026",
       "resumo": "04/03/2026 - Após 20 anos de dados inconsistentes, programa ganha diagnóstico com 14 unidades identificadas e plano de reestruturação para 2026",
@@ -14,14 +22,6 @@
       "resumo": "04/03/2026 - Evento gratuito reúne a presidenta da Funarte, Maria Marighella, a diretora do Museu do Samba, Nilcemar Nogueira, e convidadas de diversas áreas culturais",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-celebra-mulheres-da-cultura-em-seminario-no-theatro-municipal-do-rio-de-janeiro/CULTURASUBSTANTIVOFEMININO.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-celebra-mulheres-da-cultura-em-seminario-no-theatro-municipal-do-rio-de-janeiro",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "“SUS da Cultura”: UnB recebe o 1º Fórum do Sistema Nacional de Patrimônio Cultural",
-      "data": "04/03/2026",
-      "resumo": "04/03/2026 - A programação do evento, em Brasília (DF), vai até sexta-feira (06/03)",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/201csus-da-cultura201d-unb-recebe-o-1o-forum-sistema-nacional-de-patrimonio-cultural/img_5645-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/201csus-da-cultura201d-unb-recebe-o-1o-forum-sistema-nacional-de-patrimonio-cultural",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
