@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Patrimônio e trabalho: 39º Prêmio Rodrigo une cultura e geração de renda",
+      "data": "05/03/2026",
+      "resumo": "05/03/2026 - As inscrições estão abertas até 24 de abril; 18 ações serão premiadas com R$ 40 mil cada",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/patrimonio-e-trabalho-39o-premio-rodrigo-une-cultura-e-geracao-de-renda-1/img_5901-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/patrimonio-e-trabalho-39o-premio-rodrigo-une-cultura-e-geracao-de-renda-1",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Fiscalização do Iphan garante preservação do patrimônio durante obras urbanas",
       "data": "05/03/2026",
       "resumo": "05/03/2026 - Atuação do órgão federal busca conciliar desenvolvimento das cidades com a proteção de bens históricos e arqueológicos",
@@ -14,14 +22,6 @@
       "resumo": "04/03/2026 - Após 20 anos de dados inconsistentes, programa ganha diagnóstico com 14 unidades identificadas e plano de reestruturação para 2026",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-faz-primeiro-mapa-completo-das-casas-do-patrimonio-pelo-brasil/2025_pi_teresina_estacaoferroviariadeteresina_marianaalves-4-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-faz-primeiro-mapa-completo-das-casas-do-patrimonio-pelo-brasil",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan celebra mulheres da Cultura em seminário no Theatro Municipal do Rio de Janeiro",
-      "data": "04/03/2026",
-      "resumo": "04/03/2026 - Evento gratuito reúne a presidenta da Funarte, Maria Marighella, a diretora do Museu do Samba, Nilcemar Nogueira, e convidadas de diversas áreas culturais",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-celebra-mulheres-da-cultura-em-seminario-no-theatro-municipal-do-rio-de-janeiro/CULTURASUBSTANTIVOFEMININO.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-celebra-mulheres-da-cultura-em-seminario-no-theatro-municipal-do-rio-de-janeiro",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260304220328_b623395b6590edd440af27beaa486560e132d60b13eca4defec98869abcc050a.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Nova autenticação no Portal de Periódicos",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
