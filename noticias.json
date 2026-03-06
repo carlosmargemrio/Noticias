@@ -1,27 +1,27 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan convida comunidade para reunião sobre o centro histórico de Porto Nacional (TO)",
+      "data": "06/03/2026",
+      "resumo": "06/03/2026 - Encontro discutirá requalificação do Largo da Catedral e construção da nova norma de preservação do conjunto tombado",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-comunidade-para-reuniao-sobre-o-centro-historico-de-porto-nacional-to/banner-porto-nacional.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-comunidade-para-reuniao-sobre-o-centro-historico-de-porto-nacional-to",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Guia lançado pelo Iphan aproxima comunidades e pessoas da Economia do Patrimônio",
+      "data": "06/03/2026",
+      "resumo": "06/03/2026 - O \"Guia da Economia do Patrimônio Cultural\" amplia diálogo entre sustentabilidade econômica e preservação para fortalecer os agentes culturais",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/guia-lancado-pelo-iphan-aproxima-comunidades-e-pessoas-da-economia-do-patrimonio/pesquisa-obec/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/guia-lancado-pelo-iphan-aproxima-comunidades-e-pessoas-da-economia-do-patrimonio",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Patrimônio e trabalho: 39º Prêmio Rodrigo une cultura e geração de renda",
       "data": "05/03/2026",
       "resumo": "05/03/2026 - As inscrições estão abertas até 24 de abril; 18 ações serão premiadas com R$ 40 mil cada",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/patrimonio-e-trabalho-39o-premio-rodrigo-une-cultura-e-geracao-de-renda-1/img_5901-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/patrimonio-e-trabalho-39o-premio-rodrigo-une-cultura-e-geracao-de-renda-1",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Fiscalização do Iphan garante preservação do patrimônio durante obras urbanas",
-      "data": "05/03/2026",
-      "resumo": "05/03/2026 - Atuação do órgão federal busca conciliar desenvolvimento das cidades com a proteção de bens históricos e arqueológicos",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/fiscalizacao-do-iphan-garante-preservacao-do-patrimonio-durante-obras-urbanas/whatsapp-image-2026-03-05-at-15-12-42-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/fiscalizacao-do-iphan-garante-preservacao-do-patrimonio-durante-obras-urbanas",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan faz primeiro mapa completo das Casas do Patrimônio pelo Brasil",
-      "data": "04/03/2026",
-      "resumo": "04/03/2026 - Após 20 anos de dados inconsistentes, programa ganha diagnóstico com 14 unidades identificadas e plano de reestruturação para 2026",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-faz-primeiro-mapa-completo-das-casas-do-patrimonio-pelo-brasil/2025_pi_teresina_estacaoferroviariadeteresina_marianaalves-4-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-faz-primeiro-mapa-completo-das-casas-do-patrimonio-pelo-brasil",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
