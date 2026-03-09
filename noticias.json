@@ -1,27 +1,27 @@
 {
   "noticias_sites": [
     {
-      "titulo": "Tia Eva, em Campo Grande (MS), será primeiro quilombo declarado tombado e inaugura novo Livro do Tombo",
+      "titulo": "Iphan acompanha identificação de urna funerária na Ilha do Bananal e encaminha material para análise arqueológica",
+      "data": "09/03/2026",
+      "resumo": "09/03/2026 - Missão técnica foi realizada após solicitação da comunidade Javaé; material será analisado no Núcleo Tocantinense de Arqueologia da Unitins",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-acompanha-identificacao-de-urna-funeraria-na-ilha-do-bananal-e-encaminha-material-para-analise-arqueologica/banner-urna.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-acompanha-identificacao-de-urna-funeraria-na-ilha-do-bananal-e-encaminha-material-para-analise-arqueologica",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan participa da Caravana Federativa e do Circula MinC, em Alagoas",
+      "data": "09/03/2026",
+      "resumo": "09/03/2026 - Além de Maceió, representantes do Instituto também visitaram os municípios de Delmiro Gouveia e Arapiraca",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-caravana-federativa-e-do-circula-minc-em-alagoas/minc-caravana-al-27-002-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-caravana-federativa-e-do-circula-minc-em-alagoas",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Tia Eva (MS) é primeiro quilombo declarado tombado com a Portaria nº 135/2023 e inaugura novo Livro do Tombo",
       "data": "09/03/2026",
       "resumo": "09/03/2026 - Declaração será feita na 112ª Reunião do Conselho Consultivo do Iphan; evento acontece nos dias 10 e 11 de março, no Rio de Janeiro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tia-eva-em-campo-grande-ms-sera-primeiro-quilombo-declarado-tombado-e-inaugura-novo-livro-do-tombo/whatsapp-image-2026-03-09-at-10-33-14-3-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tia-eva-em-campo-grande-ms-sera-primeiro-quilombo-declarado-tombado-e-inaugura-novo-livro-do-tombo",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan realiza entregas e celebra reconhecimento internacional dos Modos de Fazer o Queijo Minas Artesanal em MG",
-      "data": "06/03/2026",
-      "resumo": "06/03/2026 - Agenda institucional no estado ocorreu nos dias 5 e 6 de março, em Serro e em Diamantina",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-entregas-e-celebra-reconhecimento-internacional-dos-modos-de-fazer-o-queijo-minas-artesanal-em-mg/banner-diamantina.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-entregas-e-celebra-reconhecimento-internacional-dos-modos-de-fazer-o-queijo-minas-artesanal-em-mg",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan convida comunidade para reunião sobre o centro histórico de Porto Nacional (TO)",
-      "data": "06/03/2026",
-      "resumo": "06/03/2026 - Encontro discutirá requalificação do Largo da Catedral e construção da nova norma de preservação do conjunto tombado",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-comunidade-para-reuniao-sobre-o-centro-historico-de-porto-nacional-to/banner-porto-nacional.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-convida-comunidade-para-reuniao-sobre-o-centro-historico-de-porto-nacional-to",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260305200356_655ccde1-1509-45b7-a24a-6a6cc3b192f6.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Nova autenticação no Portal de Periódicos",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
