@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Biblioteca Nacional e Iphan firmam adesão à Rede da Memória Virtual Brasileira",
+      "data": "09/03/2026",
+      "resumo": "09/03/2026 - Parceria amplia acesso digital a acervos e fortalece a preservação e difusão do patrimônio cultural brasileiro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/biblioteca-nacional-e-iphan-firmam-adesao-a-rede-da-memoria-virtual-brasileira/58152e37-d208-4987-a1af-559d590843d7-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/biblioteca-nacional-e-iphan-firmam-adesao-a-rede-da-memoria-virtual-brasileira",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan acompanha identificação de urna funerária na Ilha do Bananal e encaminha material para análise arqueológica",
       "data": "09/03/2026",
       "resumo": "09/03/2026 - Missão técnica foi realizada após solicitação da comunidade Javaé; material será analisado no Núcleo Tocantinense de Arqueologia da Unitins",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Tia Eva (MS) é primeiro quilombo declarado tombado com a Portaria nº 135/2023 e inaugura novo Livro do Tombo",
-      "data": "09/03/2026",
-      "resumo": "09/03/2026 - Declaração será feita na 112ª Reunião do Conselho Consultivo do Iphan; evento acontece nos dias 10 e 11 de março, no Rio de Janeiro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tia-eva-em-campo-grande-ms-sera-primeiro-quilombo-declarado-tombado-e-inaugura-novo-livro-do-tombo/whatsapp-image-2026-03-09-at-10-33-14-3-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tia-eva-em-campo-grande-ms-sera-primeiro-quilombo-declarado-tombado-e-inaugura-novo-livro-do-tombo",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Country Joe McDonald, ícone de Woodstock, morre aos 84 anos",
+      "data": "",
+      "resumo": "Cantor e líder do Country Joe and the Fish marcou o festival de Woodstock com hino satírico contra a Guerra do Vietnã",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260309160356_f55c48bed329ea819f54193215f41cd593bede0a8ab2e3eb6c7909f3486a889f.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Datafolha: 71% consideraram inadequada homenagem a Lula na Sapucaí",
       "data": "",
       "resumo": "A Acadêmicos de Niterói levou para a avenida o samba-enredo “Do alto do Mulungu surge a esperança: Lula, o operário do Brasil”",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026021823020_d896e6700e4207689b2a2dcac6c067eab3f569d3efc108e27cbb327d0ebd12ce.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026021823020_690e7a1844c75b15ca050645b976b52b08ee87fa9e1d534f986ee9c5bcb93677.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "A decisão foi comunicada pela própria atriz, de 79 anos, por meio de um vídeo publicado nas redes sociais na quinta-feira (5)",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260113060156_5baf701a-9484-4322-a896-7b11107808ac.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Kleber Mendonça Filho prepara filme ambientado na década de 1930",
-      "data": "",
-      "resumo": "O cineasta destacou que pretende explorar esse período histórico em sua próxima produção",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260305200356_655ccde1-1509-45b7-a24a-6a6cc3b192f6.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
