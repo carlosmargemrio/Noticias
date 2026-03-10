@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Obras da restauração da Igreja de São Benedito, em Antonina (PR), são iniciadas",
+      "data": "10/03/2026",
+      "resumo": "10/03/2026 - Iphan investiu mais de R$ 2,5 milhões via Novo PAC para recuperar o templo na cidade paranaense, cujo centro histórico é tombado pelo Instituto desde 2012",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/obras-da-restauracao-da-igreja-de-sao-benedito-em-antonina-pr-sao-iniciadas/whatsapp-image-2026-02-27-at-140928-1-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/obras-da-restauracao-da-igreja-de-sao-benedito-em-antonina-pr-sao-iniciadas",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Biblioteca Nacional e Iphan firmam adesão à Rede da Memória Virtual Brasileira",
       "data": "09/03/2026",
       "resumo": "09/03/2026 - Parceria amplia acesso digital a acervos e fortalece a preservação e difusão do patrimônio cultural brasileiro",
@@ -14,14 +22,6 @@
       "resumo": "09/03/2026 - Missão técnica foi realizada após solicitação da comunidade Javaé; material será analisado no Núcleo Tocantinense de Arqueologia da Unitins",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-acompanha-identificacao-de-urna-funeraria-na-ilha-do-bananal-e-encaminha-material-para-analise-arqueologica/banner-urna.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-acompanha-identificacao-de-urna-funeraria-na-ilha-do-bananal-e-encaminha-material-para-analise-arqueologica",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan participa da Caravana Federativa e do Circula MinC, em Alagoas",
-      "data": "09/03/2026",
-      "resumo": "09/03/2026 - Além de Maceió, representantes do Instituto também visitaram os municípios de Delmiro Gouveia e Arapiraca",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-caravana-federativa-e-do-circula-minc-em-alagoas/minc-caravana-al-27-002-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-caravana-federativa-e-do-circula-minc-em-alagoas",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
