@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan aprova tombamento da imagem de São Bonifácio, em São Luís (MA)",
+      "data": "10/03/2026",
+      "resumo": "10/03/2026 - Escultura sacra do século 17, guardada no Museu de Arte Sacra da capital maranhense, passa a integrar oficialmente o Patrimônio Cultural Brasileiro após decisão do Conselho Consultivo",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-tombamento-da-imagem-de-sao-bonifacio-em-sao-luis-ma/44134_mg_4803_7865680887676478921-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-tombamento-da-imagem-de-sao-bonifacio-em-sao-luis-ma",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Roteiro de Afetos inicia segunda etapa e implanta audiotour patrimonial em Natividade (TO)",
       "data": "10/03/2026",
       "resumo": "10/03/2026 - Nova fase prevê aplicativo, mapas interativos e ações educativas junto à população local",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Obras da restauração da Igreja de São Benedito, em Antonina (PR), são iniciadas",
-      "data": "10/03/2026",
-      "resumo": "10/03/2026 - Iphan investiu mais de R$ 2,5 milhões via Novo PAC para recuperar o templo na cidade paranaense, cujo centro histórico é tombado pelo Instituto desde 2012",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/obras-da-restauracao-da-igreja-de-sao-benedito-em-antonina-pr-sao-iniciadas/whatsapp-image-2026-02-27-at-140928-1-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/obras-da-restauracao-da-igreja-de-sao-benedito-em-antonina-pr-sao-iniciadas",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "IBGE retoma mapeamento da cultura em estados e municípios",
+      "data": "",
+      "resumo": "Levantamento retomado com apoio do Ministério da Cultura vai medir orçamento, gestão e políticas culturais em estados e municípios",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026031016030_c3023cd57dae1d222ae0860b7977cc65e31407346178c903375296dc26380e23.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Country Joe McDonald, ícone de Woodstock, morre aos 84 anos",
       "data": "",
       "resumo": "Cantor e líder do Country Joe and the Fish marcou o festival de Woodstock com hino satírico contra a Guerra do Vietnã",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260309160356_f55c48bed329ea819f54193215f41cd593bede0a8ab2e3eb6c7909f3486a889f.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260309160356_0de81f793dd0800a500957e5900449a3a03cd5948994a981c945b2ab6de0501f.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "A Acadêmicos de Niterói levou para a avenida o samba-enredo “Do alto do Mulungu surge a esperança: Lula, o operário do Brasil”",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026021823020_690e7a1844c75b15ca050645b976b52b08ee87fa9e1d534f986ee9c5bcb93677.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Tânia Maria diz que não irá à cerimônia do Oscar em Los Angeles",
-      "data": "",
-      "resumo": "A decisão foi comunicada pela própria atriz, de 79 anos, por meio de um vídeo publicado nas redes sociais na quinta-feira (5)",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260113060156_5baf701a-9484-4322-a896-7b11107808ac.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
