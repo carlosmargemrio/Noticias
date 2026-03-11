@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan aprova registro dos Saberes e Práticas Tradicionais Associados aos Engenhos de Farinha de Mandioca de SC",
+      "data": "11/03/2026",
+      "resumo": "11/03/2026 - O reconhecimento foi aprovado durante a 112ª reunião do Conselho Consultivo do Patrimônio Cultural, nesta quarta-feira (11/03)",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-registro-dos-saberes-e-praticas-tradicionais-associados-aos-engenhos-de-farinha-de-mandioca-de-sc/floripa_engenho-do-adilson_05-07-24_credito-rancho-cultural_8680-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-registro-dos-saberes-e-praticas-tradicionais-associados-aos-engenhos-de-farinha-de-mandioca-de-sc",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Festa de Nosso Senhor Bom Jesus dos Passos de Lençóis (BA) é registrada como Patrimônio Cultural do Brasil",
       "data": "11/03/2026",
       "resumo": "11/03/2026 - O evento, que acontece há mais de 150 anos, é uma das mais importantes expressões culturais da cidade localizada na Chapada Diamantina",
@@ -14,14 +22,6 @@
       "resumo": "10/03/2026 - Pela primeira vez, o Brasil tem um plano nacional que une Estado e sociedade civil na preservação da cultura brasileira",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-plano-nacional-de-patrimonio-cultural-no-1o-forum-do-snpc/img_0534-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-plano-nacional-de-patrimonio-cultural-no-1o-forum-do-snpc",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Solar Artur Sampaio (BA) e Igreja São Lourenço do Tejucupapo (PE) são reconhecidos como Patrimônio Cultural",
-      "data": "10/03/2026",
-      "resumo": "10/03/2026 - 112ª reunião do Conselho Consultivo do Iphan também apreciou o tombamento da Imagem de São Bonifácio e a revalidação do registro do Maracatu Nação",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/solar-artur-sampaio-ba-e-igreja-sao-lourenco-de-tejucupapo-pe-sao-reconhecidos-como-patrimonio-cultural/maozinhas-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/solar-artur-sampaio-ba-e-igreja-sao-lourenco-de-tejucupapo-pe-sao-reconhecidos-como-patrimonio-cultural",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026031016030_fc57dc62efa9aa8e043b7780d06827fe05087bc81cccf5a8a399b3c2d71fde45.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Nova autenticação no Portal de Periódicos",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
