@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "\"Oscar para o circo brasileiro\": Circo de Tradição Familiar é registrado como Patrimônio Cultural do Brasil",
+      "data": "11/03/2026",
+      "resumo": "11/03/2026 - Manifestação presente em todo o território nacional reúne famílias que mantêm viva a arte circense há várias gerações",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/circo-de-tradicao-familiar-e-registrado-como-patrimonio-cultural-do-brasil/whatsapp-image-2026-03-11-at-18-05-29.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/circo-de-tradicao-familiar-e-registrado-como-patrimonio-cultural-do-brasil",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan aprova registro da Pesca com Botos no Sul do Brasil",
       "data": "11/03/2026",
       "resumo": "11/03/2026 - Reconhecimento ocorreu no segundo dia da 112ª Reunião Ordinária do Conselho Consultivo do Patrimônio Cultural",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Festa de Nosso Senhor Bom Jesus dos Passos de Lençóis (BA) é registrada como Patrimônio Cultural do Brasil",
-      "data": "11/03/2026",
-      "resumo": "11/03/2026 - O evento, que acontece há mais de 150 anos, é uma das mais importantes expressões culturais da cidade localizada na Chapada Diamantina",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/festa-de-nosso-senhor-bom-jesus-dos-passos-de-lencois-ba-e-registrada-como-patrimonio-cultural-do-brasil/whatsapp-image-2026-03-11-at-09-34-01-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/festa-de-nosso-senhor-bom-jesus-dos-passos-de-lencois-ba-e-registrada-como-patrimonio-cultural-do-brasil",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Academia anuncia Wagner Moura como um dos apresentadores do Oscar 2026",
+      "data": "",
+      "resumo": "Indicado a melhor ator, brasileiro participará da cerimônia e apresentará seu filme na nova categoria de elenco",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260122110120_55ade9e505e2b7d0c68906331b0ac0d140484348fcf8137961e02988d518932d.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Sara York lança o livro “Programa de Travesti” no Rio de Janeiro",
       "data": "",
       "resumo": "Obra que articula educação, mídia e memória será apresentada ao público em encontro na livraria Blooks, em Botafogo, nesta quarta (11)",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260311130324_e62a1ea5287ffdb3e58cf871210f17db9b4f69aa6e8ef6149acc82523e1a7efd.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260311130324_69a6544ca68ed20c866eb9fd06127a5db2b5e9a345c1f5b199888d42c6fb9b45.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "A publicação americana ainda afirma que Wagner Moura deveria ganhar o prêmio de melhor ator, mas aposta em Michael B. Jordan",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250518140532_f0dc7001-e293-4571-8c73-3540cbcb31b1.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "IBGE retoma mapeamento da cultura em estados e municípios",
-      "data": "",
-      "resumo": "Levantamento retomado com apoio do Ministério da Cultura vai medir orçamento, gestão e políticas culturais em estados e municípios",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026031016030_fc57dc62efa9aa8e043b7780d06827fe05087bc81cccf5a8a399b3c2d71fde45.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
