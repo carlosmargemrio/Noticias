@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Museu de Folclore Edison Carneiro amplia espaço para acervo",
+      "data": "12/03/2026",
+      "resumo": "12/03/2026 - CNFCP, unidade especial do Iphan, celebra Protocolo de Intenções para futura cessão de área destinada à nova reserva técnica do Museu de Folclore e inaugura mural em homenagem a Edison Carneiro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-rj-cnfcp-e-museu-da-republica-celebram-termo-de-cessao-de-uso-de-espaco/whatsappimage20260305at15-55-37.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-rj-cnfcp-e-museu-da-republica-celebram-termo-de-cessao-de-uso-de-espaco",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Circo de Tradição Familiar e Pesca com Botos passam a ser Patrimônio Cultural do Brasil",
       "data": "11/03/2026",
       "resumo": "11/03/2026 - No segundo dia da 112ª reunião do Conselho Consultivo, quatro novos bens culturais imateriais foram reconhecidos",
@@ -14,14 +22,6 @@
       "resumo": "11/03/2026 - Manifestação presente em todo o território nacional reúne famílias que mantêm viva a arte circense há várias gerações",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/circo-de-tradicao-familiar-e-registrado-como-patrimonio-cultural-do-brasil/whatsapp-image-2026-03-11-at-18-05-29.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/circo-de-tradicao-familiar-e-registrado-como-patrimonio-cultural-do-brasil",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan aprova registro da Pesca com Botos no Sul do Brasil",
-      "data": "11/03/2026",
-      "resumo": "11/03/2026 - Reconhecimento ocorreu no segundo dia da 112ª Reunião Ordinária do Conselho Consultivo do Patrimônio Cultural",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-registro-da-pesca-com-botos-no-sul-do-brasil/img_9162-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-registro-da-pesca-com-botos-no-sul-do-brasil",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
