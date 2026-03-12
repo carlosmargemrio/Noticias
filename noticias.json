@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Ex-servidora do Iphan lança livro sobre trajetória na história da arte brasileira em Tiradentes",
+      "data": "12/03/2026",
+      "resumo": "12/03/2026 - Publicação reúne 50 anos de atuação da historiadora da arte Myriam Andrade Ribeiro de Oliveira, referência nos estudos sobre o Barroco e o Rococó no Brasil",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ex-servidora-do-iphan-lanca-livro-sobre-trajetoria-na-historia-da-arte-brasileira-em-tiradentes/myriam-ribeiro-e-os-passos-de-congonhas_-credito-joana-ribeiro-2-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ex-servidora-do-iphan-lanca-livro-sobre-trajetoria-na-historia-da-arte-brasileira-em-tiradentes",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Exposição reúne fotógrafos durante Festival Internacional de Fotografia de Tiradentes",
       "data": "12/03/2026",
       "resumo": "12/03/2026 - Mostra coletiva Geografias Brasilienses apresenta diferentes olhares sobre a capital federal e suas relações com o território, a arquitetura e a vida contemporânea",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan inaugura coleção editorial com livro sobre o restauro do Palácio Gustavo Capanema",
-      "data": "12/03/2026",
-      "resumo": "12/03/2026 - Publicação, que documenta de forma inédita o restauro do ícone do modernismo mundial e homenageia os trabalhadores por trás da obra, está disponível gratuitamente em formato digital",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inaugura-colecao-editorial-com-livro-sobre-o-restauro-do-palacio-gustavo-capanema/mg_6853-jpg-2.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inaugura-colecao-editorial-com-livro-sobre-o-restauro-do-palacio-gustavo-capanema",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Elias Jabbour e Roland Boer lançam o livro \"Poder e socialismo: Governança, classes, ciência e projetamento na China\"",
+      "data": "",
+      "resumo": "Obra examina economia, política e filosofia no socialismo com características chinesas",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260304160324_c92ecd3ec3c99a919aa0dd64ad4af1a1b2d4b6b22ac311d78b1fb52b96963903.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Academia anuncia Wagner Moura como um dos apresentadores do Oscar 2026",
       "data": "",
       "resumo": "Indicado a melhor ator, brasileiro participará da cerimônia e apresentará seu filme na nova categoria de elenco",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260122110120_55ade9e505e2b7d0c68906331b0ac0d140484348fcf8137961e02988d518932d.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260122110120_550ff6192d57337054dad7307b625e330d302e69e097d9353801d235b98e4ec7.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "Obra que articula educação, mídia e memória será apresentada ao público em encontro na livraria Blooks, em Botafogo, nesta quarta (11)",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260311130324_69a6544ca68ed20c866eb9fd06127a5db2b5e9a345c1f5b199888d42c6fb9b45.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "New Yorker aposta em vitória de “O Agente Secreto” no Oscar",
-      "data": "",
-      "resumo": "A publicação americana ainda afirma que Wagner Moura deveria ganhar o prêmio de melhor ator, mas aposta em Michael B. Jordan",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250518140532_f0dc7001-e293-4571-8c73-3540cbcb31b1.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
