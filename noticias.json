@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan apoia projeto \"ODS Rupestres\" para integrar patrimônio arqueológico do Piauí à Agenda 2030",
+      "data": "13/03/2026",
+      "resumo": "13/03/2026 - Cartilha utiliza ilustrações baseadas em pinturas rupestres para sensibilizar sobre os Objetivos de Desenvolvimento Sustentável e fortalecer a identidade cultural do estado",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apoia-projeto-ods-rupestres-para-integrar-patrimonio-arqueologico-do-piaui-a-agenda-2030/whatsapp-image-2026-03-13-at-13-05-53-3-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apoia-projeto-ods-rupestres-para-integrar-patrimonio-arqueologico-do-piaui-a-agenda-2030",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Ex-servidora do Iphan lança livro sobre trajetória na história da arte brasileira em Tiradentes",
       "data": "12/03/2026",
       "resumo": "12/03/2026 - Publicação reúne 50 anos de atuação da historiadora da arte Myriam Andrade Ribeiro de Oliveira, referência nos estudos sobre o Barroco e o Rococó no Brasil",
@@ -14,14 +22,6 @@
       "resumo": "12/03/2026 - Mostra coletiva Geografias Brasilienses apresenta diferentes olhares sobre a capital federal e suas relações com o território, a arquitetura e a vida contemporânea",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/exposicao-reune-fotografos-durante-festival-internacional-de-fotografia-de-tiradentes/whatsapp-image-2026-03-12-at-15-42-37-3-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/exposicao-reune-fotografos-durante-festival-internacional-de-fotografia-de-tiradentes",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "IPÊ – 1º Encontro de Arte e Cultura LGBT+ celebra diversidade cultural em Jardim (MS)",
-      "data": "12/03/2026",
-      "resumo": "12/03/2026 - Evento reúne artistas, coletivos e representantes culturais em programação com debates, performances, voguing e mostra artístico-cultural",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ipe-2013-1o-encontro-de-arte-e-cultura-lgbtqiapn-celebra-diversidade-cultural-em-jardim-ms/whatsapp-image-2026-03-12-at-15-44-41.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ipe-2013-1o-encontro-de-arte-e-cultura-lgbtqiapn-celebra-diversidade-cultural-em-jardim-ms",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260304160324_80ff888487b15e7d92952eec218772b5a2929c6d9bca7d8717994a9b200f4421.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Nova autenticação no Portal de Periódicos",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
