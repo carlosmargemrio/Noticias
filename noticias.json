@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Oscar 2026: saiba onde assistir, filmes indicados e ordem da premiação",
+      "data": "",
+      "resumo": "Além da disputa entre grandes produções internacionais, a edição deste ano chega com forte presença brasileira, com o filme O Agente Secreto",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026012719018_6c020df9c12671f619b57d48d5e9887946c82827a43c8a23bf2549a87e2078bf.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Lula celebra protagonismo do Brasil no Oscar: é o reconhecimento da nossa potência",
       "data": "",
       "resumo": "Presidente ressalta reconhecimento internacional da produção brasileira enquanto “O Agente Secreto”, com Wagner Moura, disputa quatro prêmios na premiação",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250915200916_5f5db0738627bf1897a565da24e0eebcb19ee9bd32af4ae0d4f15630de5339b0.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250915200916_aae1142f9f975720432a7aa03ff03c5b86034021c1bf6bd25387f5ccf56f75b4.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "O Agente Secreto lidera menções nas redes sobre o Oscar, diz Quaest",
-      "data": "",
-      "resumo": "Levantamento da Quaest mostra que produção dirigida por Kleber Mendonça Filho concentrou 23% das menções online na corrida pelo Oscar",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250518140532_f0dc7001-e293-4571-8c73-3540cbcb31b1.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Nova autenticação no Portal de Periódicos",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
