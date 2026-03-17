@@ -1,27 +1,27 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan e Ibram assinam termo para investimentos no Museu da República e expansão do CNFCP",
+      "data": "17/03/2026",
+      "resumo": "17/03/2026 - Termo prevê o repasse de R$ 6,1 milhões para segurança e restauro do Museu da República",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ibram-assinam-termo-para-investimentos-no-museu-da-republica-e-expansao-do-cnfcp/whatsapp-image-2026-03-17-at-11-02-35-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ibram-assinam-termo-para-investimentos-no-museu-da-republica-e-expansao-do-cnfcp",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan participa da ExpoTurismo Maranhão 2026, em São Luís",
+      "data": "17/03/2026",
+      "resumo": "17/03/2026 - Estande destacou o papel do patrimônio cultural para o fortalecimento da identidade local e o desenvolvimento do turismo",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-expoturismo-maranhao-2026-em-sao-luis/whatsapp-image-2026-03-17-at-10-14-36-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-expoturismo-maranhao-2026-em-sao-luis",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan entrega restauração do Antigo Fórum em Vassouras (RJ) e anuncia novos investimentos do Novo PAC",
       "data": "13/03/2026",
       "resumo": "13/03/2026 - Ações somam cerca de R$ 47 milhões em investimentos no patrimônio cultural da região, incluindo a inauguração da Sala Mariana Crioula e o restauro do Museu Casa da Hera",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-restauracao-do-antigo-forum-em-vassouras-rj-e-anuncia-novos-investimentos-do-novo-pac/casa-barao-de-ribeirao.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-restauracao-do-antigo-forum-em-vassouras-rj-e-anuncia-novos-investimentos-do-novo-pac",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan apoia projeto \"ODS Rupestres\" para integrar patrimônio arqueológico do Piauí à Agenda 2030",
-      "data": "13/03/2026",
-      "resumo": "13/03/2026 - Cartilha utiliza ilustrações baseadas em pinturas rupestres para sensibilizar sobre os Objetivos de Desenvolvimento Sustentável e fortalecer a identidade cultural do estado",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apoia-projeto-ods-rupestres-para-integrar-patrimonio-arqueologico-do-piaui-a-agenda-2030/whatsapp-image-2026-03-13-at-13-05-53-3-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apoia-projeto-ods-rupestres-para-integrar-patrimonio-arqueologico-do-piaui-a-agenda-2030",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Ex-servidora do Iphan lança livro sobre trajetória na história da arte brasileira em Tiradentes",
-      "data": "12/03/2026",
-      "resumo": "12/03/2026 - Publicação reúne 50 anos de atuação da historiadora da arte Myriam Andrade Ribeiro de Oliveira, referência nos estudos sobre o Barroco e o Rococó no Brasil",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ex-servidora-do-iphan-lanca-livro-sobre-trajetoria-na-historia-da-arte-brasileira-em-tiradentes/myriam-ribeiro-e-os-passos-de-congonhas_-credito-joana-ribeiro-2-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ex-servidora-do-iphan-lanca-livro-sobre-trajetoria-na-historia-da-arte-brasileira-em-tiradentes",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260315230340_4a92b3ecbc9c688c7b26588fcfef74ccd9e926f088b7f4996b3d5f7b6c9de85b.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Nova autenticação no Portal de Periódicos",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
