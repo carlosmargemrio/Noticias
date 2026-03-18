@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa de seminário sobre políticas culturais no Sertão do Moxotó (PE)",
+      "data": "18/03/2026",
+      "resumo": "18/03/2026 - Encontro debateu a preservação do patrimônio e o fortalecimento da gestão cultural na região",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-seminario-sobre-politicas-culturais-no-sertao-do-moxoto-pe/WhatsAppImage20260316at13.34.38.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-seminario-sobre-politicas-culturais-no-sertao-do-moxoto-pe",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e Ibram assinam termo para investimentos no Museu da República e expansão do CNFCP",
       "data": "17/03/2026",
       "resumo": "17/03/2026 - Termo prevê o repasse de R$ 6,1 milhões via Novo PAC para segurança e restauro do Museu da República",
@@ -14,14 +22,6 @@
       "resumo": "17/03/2026 - Estande destacou o papel do patrimônio cultural para o fortalecimento da identidade local e o desenvolvimento do turismo",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-expoturismo-maranhao-2026-em-sao-luis/whatsapp-image-2026-03-17-at-10-14-36-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-expoturismo-maranhao-2026-em-sao-luis",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan entrega restauração do Antigo Fórum em Vassouras (RJ) e anuncia novos investimentos do Novo PAC",
-      "data": "13/03/2026",
-      "resumo": "13/03/2026 - Ações somam cerca de R$ 47 milhões em investimentos no patrimônio cultural da região, incluindo a inauguração da Sala Mariana Crioula e o restauro do Museu Casa da Hera",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-restauracao-do-antigo-forum-em-vassouras-rj-e-anuncia-novos-investimentos-do-novo-pac/casa-barao-de-ribeirao.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-restauracao-do-antigo-forum-em-vassouras-rj-e-anuncia-novos-investimentos-do-novo-pac",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
