@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa do 5o Encontro de Sambadeiras e Sambadores de Cachoeira (BA)",
+      "data": "19/03/2026",
+      "resumo": "19/03/2026 - Evento celebra os saberes, cantos e a memória dos mestres e mestras do Samba de Roda do Recôncavo Baiano",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-do-5o-encontro-de-sambadeiras-e-sambadores-de-cachoeira-ba/samba-de-roda-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-do-5o-encontro-de-sambadeiras-e-sambadores-de-cachoeira-ba",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan destaca papel das Casas do Patrimônio em evento de aniversário do Arquivo Municipal de Caraguatatuba",
       "data": "19/03/2026",
       "resumo": "19/03/2026 - Gratuita e aberta ao público, programação reúne exposição, apresentações culturais e debate sobre patrimônio",
@@ -14,14 +22,6 @@
       "resumo": "18/03/2026 - Ação integra reunião do Conselho e atividades com estudantes e comunidade no Cariri paraibano",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-acoes-com-comunidade-na-apa-das-oncas-pb/whatsapp-image-2026-03-18-at-17-30-53-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-acoes-com-comunidade-na-apa-das-oncas-pb",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Com recursos da Lei Rouanet, Festival do Patrimônio Brasileiro começa em Ceilândia (DF) nesta sexta (20)",
-      "data": "18/03/2026",
-      "resumo": "18/03/2026 - Programação inclui homenagem a bens reconhecidos pelo Iphan e apresentações musicais de artistas como Criolo, Hamilton de Holanda e Mariene de Castro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/com-recursos-da-lei-rouanet-festival-do-patrimonio-brasileiro-comeca-em-ceilandia-df-nesta-sexta-20/capa-sympla-fpb-1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/com-recursos-da-lei-rouanet-festival-do-patrimonio-brasileiro-comeca-em-ceilandia-df-nesta-sexta-20",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260316070352_090b67bfa116abd3db01a06ebd663920a0757872982a22dfe29fa012a6c5a893.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Nova autenticação no Portal de Periódicos",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
