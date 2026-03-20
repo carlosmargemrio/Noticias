@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Morre Chuck Norris aos 86 anos",
+      "data": "",
+      "resumo": "Ator e artista marcial faleceu após emergência médica no Havaí",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260320110336_0df686e2-d941-4618-a236-29d72d9a83d9.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Integrante do AC/DC, Stevie Young é internado às vésperas de shows em Buenos Aires",
       "data": "",
       "resumo": "A banda tem três apresentações programadas na capital argentina como parte da turnê \"Power Up\"",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260319220340_4d631d2d-e054-41d2-a086-1894257f727e.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260319220340_9cb2b7ff-747b-427e-a90c-c542dd85596d.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260318220332_d432fa0d6f6e98f45522edf59c7679cb7c5890112fb8002d0cd5bcc6fbbefa9a.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Fenômeno global, Guerreiras do K-Pop supera 500 milhões de visualizações",
-      "data": "",
-      "resumo": "Produção da Sony e Netflix levou duas estatuetas no Oscar 2026 e lidera ranking de streaming em 2025 com 20,5 bilhões de minutos assistidos no mundo",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260316160348_20f5b21903f396705b4f8c20cb1971b155c4e46cb409d725c803748ee4134a50.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
-      "data": "26/02/2026",
-      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Nova autenticação no Portal de Periódicos",
-      "data": "24/02/2026",
-      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES realiza sete treinamentos em fevereiro",
-      "data": "02/02/2026",
-      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
