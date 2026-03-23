@@ -1,27 +1,27 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Revista do Patrimônio: prorrogado o prazo para submissão de textos",
+      "data": "23/03/2026",
+      "resumo": "23/03/2026 - As contribuições sobre o tema “Cartografias do Tempo: tecnologias construtivas e metodologias diagnósticas de bens culturais edificados” podem ser enviadas até 7 de abril",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/revista-do-patrimonio-prorrogado-o-prazo-para-submissao-de-textos/img_0598.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/revista-do-patrimonio-prorrogado-o-prazo-para-submissao-de-textos",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan participa de 28° Assembleia Geral Ordinária da Associação dos Povos Indígenas da Terra São Marcos (RR)",
+      "data": "23/03/2026",
+      "resumo": "23/03/2026 - Encontro promoveu escuta ativa e avançou em pautas de interesse coletivo",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-28deg-assembleia-geral-ordinaria-da-associacao-dos-povos-indigenas-da-terra-de-sao-marcos-rr/whatsapp-image-2026-03-23-at-14-29-44-3-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-28deg-assembleia-geral-ordinaria-da-associacao-dos-povos-indigenas-da-terra-de-sao-marcos-rr",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Inscrições de projetos para preservação de Acervos Presidenciais são reabertas",
       "data": "23/03/2026",
       "resumo": "23/03/2026 - A retificação do Edital de Chamamento Público nº 11/2025 definiu novo prazo de submissão de propostas: de 23 de março a 10 de abril",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-de-projetos-para-preservacao-de-acervos-presidenciais-sao-reabertas/2018_df_brasilia_palacio-da-alvorada_cristiano-mascaro.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-de-projetos-para-preservacao-de-acervos-presidenciais-sao-reabertas",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Inventário Participativo da Festa do Morango de Brazlândia (DF) reúne histórias da produção agrícola e cultural da região",
-      "data": "23/03/2026",
-      "resumo": "23/03/2026 - Projeto foi criado por meio de parceria entre o Iphan-DF e a Associação Cultural Jornada Literária do DF",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inventario-participativo-da-festa-do-morango-de-brazlandia-df-reune-historias-da-producao-agricola-e-cultural-da-regiao/whatsapp-image-2026-03-23-at-13-36-35-1-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inventario-participativo-da-festa-do-morango-de-brazlandia-df-reune-historias-da-producao-agricola-e-cultural-da-regiao",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan ouve sociedade sobre Festa do Pau da Bandeira de Santo Antônio de Barbalha (CE)",
-      "data": "23/03/2026",
-      "resumo": "23/03/2026 - Consulta sobre revalidação do título de Patrimônio Cultural do Brasil vai até 23/04",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-ouve-sociedade-sobre/558f7c60-bafa-4703-bd9b-a7ec474ad52a.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-ouve-sociedade-sobre",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260319220340_9cb2b7ff-747b-427e-a90c-c542dd85596d.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Nova autenticação no Portal de Periódicos",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
