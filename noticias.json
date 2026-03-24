@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Acre em cena: universitários produzem mini documentários sobre patrimônio cultural",
+      "data": "24/03/2026",
+      "resumo": "24/03/2026 - Com apoio do Iphan, evento gratuito promove reflexão, valorização e divulgação da memória e da história local",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/acre-em-cena-universitarios-produzem-mini-documentarios-sobre-patrimonio-cultural/WhatsAppImage20260324at15.40.52.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/acre-em-cena-universitarios-produzem-mini-documentarios-sobre-patrimonio-cultural",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan participa de debate sobre patrimônio cultural em Poços de Caldas (MG)",
       "data": "24/03/2026",
       "resumo": "24/03/2026 - Evento gratuito reúne especialistas para debater os desafios e potencialidades da preservação nas cidades históricas",
@@ -14,14 +22,6 @@
       "resumo": "24/03/2026 - Documento fornece subsídios para deliberações sobre a implantação de novos empreendimentos, levando em consideração o potencial arqueológico do território",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-carta-arqueologica-do-municipio-de-porto-seguro-ba/51284128415_45d2b70812_b-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aprova-carta-arqueologica-do-municipio-de-porto-seguro-ba",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e UFG convocam artistas para inscrições no projeto “Café e Cultura na Casa do Patrimônio”",
-      "data": "24/03/2026",
-      "resumo": "24/03/2026 - A iniciativa levará apresentações culturais às sedes do Iphan em Goiânia, Cidade de Goiás e Pirenópolis (GO) ao longo de 2026, com cachê de R$ 6 mil por exibição",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufg-convocam-artistas-para-inscricoes-no-projeto-201ccafe-e-cultura-na-casa-do-patrimonio201d/banner.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufg-convocam-artistas-para-inscricoes-no-projeto-201ccafe-e-cultura-na-casa-do-patrimonio201d",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
