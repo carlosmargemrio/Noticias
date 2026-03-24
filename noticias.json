@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan e UFG convocam artistas para inscrições no projeto “Café e Cultura na Casa do Patrimônio”",
+      "data": "24/03/2026",
+      "resumo": "24/03/2026 - A iniciativa levará apresentações culturais às sedes do Iphan em Goiânia, Cidade de Goiás e Pirenópolis (GO) ao longo de 2026, com cachê de R$ 6 mil por exibição",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufg-convocam-artistas-para-inscricoes-no-projeto-201ccafe-e-cultura-na-casa-do-patrimonio201d/banner.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufg-convocam-artistas-para-inscricoes-no-projeto-201ccafe-e-cultura-na-casa-do-patrimonio201d",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Festival do Patrimônio Brasileiro reúne diversidade cultural e homenagens em Ceilândia (DF)",
       "data": "24/03/2026",
       "resumo": "24/03/2026 - Produzido com recursos da Lei Rouanet, evento homenageou detentores e detentoras de bens registrados pelo Iphan",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Revista do Patrimônio: prorrogado o prazo para submissão de textos",
-      "data": "23/03/2026",
-      "resumo": "23/03/2026 - As contribuições sobre o tema “Cartografias do Tempo: tecnologias construtivas e metodologias diagnósticas de bens culturais edificados” podem ser enviadas até 7 de abril",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/revista-do-patrimonio-prorrogado-o-prazo-para-submissao-de-textos/img_0598.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/revista-do-patrimonio-prorrogado-o-prazo-para-submissao-de-textos",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "“O Agente Secreto” entra no top 10 global da Netflix",
+      "data": "",
+      "resumo": "Filme brasileiro com Wagner Moura, soma 3,8 milhões de visualizações na 2ª semana e ganha destaque entre produções não inglesas",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260324150344_9598fb55-0be6-4d26-b0cf-dab7beaea203.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Tragédia marcou a vida do ator Gerson Brenner, que faleceu nesta segunda",
       "data": "",
       "resumo": "Gerson Brenner era um dos galãs da televisão brasileira nos anos 1990",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260324060356_41d76b74-5e22-4800-92f4-dac822688617.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260324060356_ae0c0269-96c6-462a-86ab-339dc4e08ba9.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260324060356_ae0c0269-96c6-462a-86ab-339dc4e08ba9.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Ator Juca de Oliveira morre aos 91 anos",
-      "data": "",
-      "resumo": "A família agradeceu \"as manifestações de carinho e solidariedade\" recebidas durante o período de internação",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026032111034_49f225a5b5d23a9640af4220d1f1a21ea218f8d7f88c264511176d79fd6066d9.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
-      "data": "26/02/2026",
-      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Nova autenticação no Portal de Periódicos",
-      "data": "24/02/2026",
-      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES realiza sete treinamentos em fevereiro",
-      "data": "02/02/2026",
-      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
