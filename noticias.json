@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Festival do Patrimônio Brasileiro reúne diversidade cultural e homenagens em Ceilândia (DF)",
+      "data": "24/03/2026",
+      "resumo": "24/03/2026 - Produzido com recursos da Lei Rouanet, evento homenageou detentores e detentoras de bens registrados pelo Iphan",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/festival-do-patrimonio-brasileiro-reune-diversidade-cultural-e-homenagens-em-ceilandia-df/dsc03618-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/festival-do-patrimonio-brasileiro-reune-diversidade-cultural-e-homenagens-em-ceilandia-df",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Pesquisa aborda Patrimônio Cultural no Ensino Básico",
       "data": "23/03/2026",
       "resumo": "23/03/2026 - Documentos oficiais da Educação serviram de apoio para a investigação",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan participa de 28° Assembleia Geral Ordinária da Associação dos Povos Indígenas da Terra São Marcos (RR)",
-      "data": "23/03/2026",
-      "resumo": "23/03/2026 - Encontro promoveu escuta ativa e avançou em pautas de interesse coletivo",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-28deg-assembleia-geral-ordinaria-da-associacao-dos-povos-indigenas-da-terra-de-sao-marcos-rr/whatsapp-image-2026-03-23-at-14-29-44-3-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-28deg-assembleia-geral-ordinaria-da-associacao-dos-povos-indigenas-da-terra-de-sao-marcos-rr",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Tragédia marcou a vida do ator Gerson Brenner, que faleceu nesta segunda",
+      "data": "",
+      "resumo": "Gerson Brenner era um dos galãs da televisão brasileira nos anos 1990",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260324060356_41d76b74-5e22-4800-92f4-dac822688617.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Morre Gerson Brenner, galã da TV dos anos 1990, aos 66 anos",
       "data": "",
       "resumo": "O ator morreu aos 66 anos nesta segunda-feira (23)",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260324060356_41d76b74-5e22-4800-92f4-dac822688617.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260324060356_ae0c0269-96c6-462a-86ab-339dc4e08ba9.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "A família agradeceu \"as manifestações de carinho e solidariedade\" recebidas durante o período de internação",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026032111034_49f225a5b5d23a9640af4220d1f1a21ea218f8d7f88c264511176d79fd6066d9.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Morre Chuck Norris aos 86 anos",
-      "data": "",
-      "resumo": "Ator e artista marcial faleceu após emergência médica no Havaí",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260320110336_acff51e066887b0237c91661cce724fe6917cfefbefff0c301288739af1faf10.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
