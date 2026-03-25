@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Artistas circenses do DF recebem certificados de Detentores do Patrimônio Cultural",
+      "data": "25/03/2026",
+      "resumo": "25/03/2026 - Nesta terça-feira 24, nove Circos de Tradição Familiar no Distrito Federal foram homenageados pelo Iphan",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/artistas-circenses-do-df-recebem-certificados-de-detentores-do-patrimonio-cultural/2026_df_samambaia_circovitoriacertificado_marianaalves-55-_carrossel.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/artistas-circenses-do-df-recebem-certificados-de-detentores-do-patrimonio-cultural",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Missões Jesuíticas Guaranis: 4 ações que celebram 400 anos de história",
       "data": "25/03/2026",
       "resumo": "25/03/2026 - Conheça a atuação do Iphan para preservar esse patrimônio material, imaterial e arqueológico brasileiro",
@@ -14,14 +22,6 @@
       "resumo": "25/03/2026 - Edital conta com investimento de R$ 6 milhões e foca em cidades de pequeno porte e regiões específicas de cinco unidades da federação. Inscrições vão até 30 de abril via Salic",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/programa-rouanet-no-interior-esta-aberto-para-projetos-de-patrimonio-imaterial-1/whatsapp-image-2026-03-25-at-10-47-56.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/programa-rouanet-no-interior-esta-aberto-para-projetos-de-patrimonio-imaterial-1",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e Ufes promovem projeto de educação patrimonial no Sítio Histórico Porto de São Matheus (ES)",
-      "data": "24/03/2026",
-      "resumo": "24/03/2026 - Iniciativa reúne ações culturais e educativas que valorizam a memória e o protagonismo comunitário",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufes-promovem-projeto-de-educacao-patrimonial-no-sitio-historico-porto-de-sao-matheus-es/xx77SaveClip.App_611243108_17847631464657229_7357814806989153143_n31.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufes-promovem-projeto-de-educacao-patrimonial-no-sitio-historico-porto-de-sao-matheus-es",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260324060356_ae0c0269-96c6-462a-86ab-339dc4e08ba9.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Nova autenticação no Portal de Periódicos",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
