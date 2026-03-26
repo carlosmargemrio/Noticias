@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan realiza oficina de elaboração de projetos culturais em Porto Alegre (RS)",
+      "data": "26/03/2026",
+      "resumo": "26/03/2026 - Aprenda a obter financiamento para seu projeto cultural",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-oficina-de-elaboracao-de-projetos-culturais-em-porto-alegre-rs/51360086407_7760b1c7a0_b-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-oficina-de-elaboracao-de-projetos-culturais-em-porto-alegre-rs",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Conjunto Ferroviário de Camocim (CE) está na Lista do Patrimônio Cultural Ferroviário",
       "data": "26/03/2026",
       "resumo": "26/03/2026 - O Iphan oficializou o reconhecimento do valor histórico, artístico e cultural da construção próximo dos 50 anos de sua desativação",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Webinar debate atuação do Copmaf na preservação do patrimônio afro-brasileiro",
-      "data": "25/03/2026",
-      "resumo": "25/03/2026 - Encontro propôs integração entre unidades do Iphan para fortalecer políticas públicas voltadas às culturas de matriz africana",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/webinar-debate-atuacao-do-copmaf-na-preservacao-do-patrimonio-afro-brasileiro/xxxxx_MG_7940.jpg1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/webinar-debate-atuacao-do-copmaf-na-preservacao-do-patrimonio-afro-brasileiro",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "“É Preciso Estar Atento e Forte”: show em Brasília reage à ameaça fascista",
+      "data": "",
+      "resumo": "Músicos interpretam as canções censuradas na ditadura civil-militar pós-64, como as de Chico Buarque e Taiguara",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240912130928_ba09f19eeb70ad333a69c584fd67319ed41bf494e23fb8d6d8a4cee9b11768ae.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "“O Agente Secreto” entra no top 10 global da Netflix",
       "data": "",
       "resumo": "Filme brasileiro com Wagner Moura, soma 3,8 milhões de visualizações na 2ª semana e ganha destaque entre produções não inglesas",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260324150344_9598fb55-0be6-4d26-b0cf-dab7beaea203.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260324150344_5917e245-46bd-4463-bd96-b2b4d2c7f024.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Morre Gerson Brenner, galã da TV dos anos 1990, aos 66 anos",
-      "data": "",
-      "resumo": "O ator morreu aos 66 anos nesta segunda-feira (23)",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260324060356_ae0c0269-96c6-462a-86ab-339dc4e08ba9.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Nova autenticação no Portal de Periódicos",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza sete treinamentos em fevereiro",
+      "data": "02/02/2026",
+      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
