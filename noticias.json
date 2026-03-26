@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan reinaugura Grande Galpão em Belo Horizonte e lança projeto de memória da capoeira em Minas Gerais",
+      "data": "26/03/2026",
+      "resumo": "26/03/2026 - Com investimento superior a R$ 700 mil, espaço histórico é reativado para atividades culturais",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-reinaugura-grande-galpao-em-belo-horizonte-e-lanca-projeto-de-memoria-da-capoeira-em-minas-gerais/banner-mariana_alves-iphan.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-reinaugura-grande-galpao-em-belo-horizonte-e-lanca-projeto-de-memoria-da-capoeira-em-minas-gerais",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan realiza oficina de elaboração de projetos culturais em Porto Alegre (RS)",
       "data": "26/03/2026",
       "resumo": "26/03/2026 - Aprenda a obter financiamento para seu projeto cultural",
@@ -17,17 +25,9 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Igreja da Ordem Primeira do Carmo, em Angra dos Reis (RJ), reabre após obra de reconstrução",
-      "data": "26/03/2026",
-      "resumo": "26/03/2026 - Intervenção garantiu a conservação de elementos originais do templo e contou com o apoio técnico do Escritório Técnico do Iphan na Costa Verde",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/igreja-da-ordem-primeira-do-carmo-em-angra-dos-reis-rj-reabre-apos-obra-de-reconstrucao/img_1805-jpg-2.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/igreja-da-ordem-primeira-do-carmo-em-angra-dos-reis-rj-reabre-apos-obra-de-reconstrucao",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
       "titulo": "“É Preciso Estar Atento e Forte”: show em Brasília reage à ameaça fascista",
       "data": "",
-      "resumo": "Músicos interpretam as canções censuradas na ditadura civil-militar pós-64, como as de Chico Buarque e Taiguara",
+      "resumo": "Músicos interpretam canções censuradas na ditadura civil-militar pós-64, como as de Chico Buarque e Taiguara",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240912130928_ba09f19eeb70ad333a69c584fd67319ed41bf494e23fb8d6d8a4cee9b11768ae.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260324060356_ae0c0269-96c6-462a-86ab-339dc4e08ba9.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
-      "data": "26/02/2026",
-      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Nova autenticação no Portal de Periódicos",
-      "data": "24/02/2026",
-      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES realiza sete treinamentos em fevereiro",
-      "data": "02/02/2026",
-      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
