@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Igreja da Ordem Primeira do Carmo, em Angra dos Reis (RJ), reabre após obra de reconstrução",
+      "data": "26/03/2026",
+      "resumo": "26/03/2026 - Intervenção garantiu a conservação de elementos originais do templo e contou com o apoio técnico do Escritório Técnico do Iphan na Costa Verde",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/igreja-da-ordem-primeira-do-carmo-em-angra-dos-reis-rj-reabre-apos-obra-de-reconstrucao/img_1805-jpg-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/igreja-da-ordem-primeira-do-carmo-em-angra-dos-reis-rj-reabre-apos-obra-de-reconstrucao",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Webinar debate atuação do Copmaf na preservação do patrimônio afro-brasileiro",
       "data": "25/03/2026",
       "resumo": "25/03/2026 - Encontro propôs integração entre unidades do Iphan para fortalecer políticas públicas voltadas às culturas de matriz africana",
@@ -14,14 +22,6 @@
       "resumo": "25/03/2026 - Próxima fase prevê consulta pública para ampliar a participação social na consolidação do documento",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/recife-pe-sedia-ultima-etapa-de-escuta-para-a-elaboracao-do-plano-de-salvaguarda-da-capoeira-de-pernambuco/xxxx55153144379_1415bbc62b_o.jpg1.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/recife-pe-sedia-ultima-etapa-de-escuta-para-a-elaboracao-do-plano-de-salvaguarda-da-capoeira-de-pernambuco",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e Obec retomam investigações de campo de pesquisa inédita",
-      "data": "25/03/2026",
-      "resumo": "25/03/2026 - De março até o fim de maio, a equipe da Pesquisa Patrimônio Cultural, Economia e Sustentabilidade passará pelos estados do Piauí, Pernambuco, Rio Grande do Sul e Amapá",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-obec-retomam-investigacoes-de-campo-de-pesquisa-inedita/pesquisa-obec_destaque.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-obec-retomam-investigacoes-de-campo-de-pesquisa-inedita",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
