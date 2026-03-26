@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Conjunto Ferroviário de Camocim (CE) está na Lista do Patrimônio Cultural Ferroviário",
+      "data": "26/03/2026",
+      "resumo": "26/03/2026 - O Iphan oficializou o reconhecimento do valor histórico, artístico e cultural da construção próximo dos 50 anos de sua desativação",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/conjunto-ferroviario-de-camocim-ce-esta-na-lista-do-patrimonio-cultural-ferroviario/estacao-ferroviaria-de-camocim-2-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/conjunto-ferroviario-de-camocim-ce-esta-na-lista-do-patrimonio-cultural-ferroviario",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Igreja da Ordem Primeira do Carmo, em Angra dos Reis (RJ), reabre após obra de reconstrução",
       "data": "26/03/2026",
       "resumo": "26/03/2026 - Intervenção garantiu a conservação de elementos originais do templo e contou com o apoio técnico do Escritório Técnico do Iphan na Costa Verde",
@@ -14,14 +22,6 @@
       "resumo": "25/03/2026 - Encontro propôs integração entre unidades do Iphan para fortalecer políticas públicas voltadas às culturas de matriz africana",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/webinar-debate-atuacao-do-copmaf-na-preservacao-do-patrimonio-afro-brasileiro/xxxxx_MG_7940.jpg1.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/webinar-debate-atuacao-do-copmaf-na-preservacao-do-patrimonio-afro-brasileiro",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Recife (PE) sedia última etapa de escuta para a elaboração do Plano de Salvaguarda da Capoeira de Pernambuco",
-      "data": "25/03/2026",
-      "resumo": "25/03/2026 - Próxima fase prevê consulta pública para ampliar a participação social na consolidação do documento",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/recife-pe-sedia-ultima-etapa-de-escuta-para-a-elaboracao-do-plano-de-salvaguarda-da-capoeira-de-pernambuco/xxxx55153144379_1415bbc62b_o.jpg1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/recife-pe-sedia-ultima-etapa-de-escuta-para-a-elaboracao-do-plano-de-salvaguarda-da-capoeira-de-pernambuco",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
