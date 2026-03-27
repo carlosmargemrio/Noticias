@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan e Sebrae se unem pela declaração de tombamento do Quilombo Kalunga (GO)",
+      "data": "26/03/2026",
+      "resumo": "26/03/2026 - O evento ocorreu na sede do Iphan, em Brasília (DF), às 14h, e foi transmitido ao vivo pelo YouTube",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-sebrae-se-unem-pela-declaracao-de-tombamento-do-quilombo-kalunga-go/2026_df_brasilia_quilombokalunga_marianaalves-49-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-sebrae-se-unem-pela-declaracao-de-tombamento-do-quilombo-kalunga-go",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan reinaugura Grande Galpão em Belo Horizonte e lança projeto de memória da capoeira em Minas Gerais",
       "data": "26/03/2026",
       "resumo": "26/03/2026 - Com investimento superior a R$ 700 mil, espaço histórico é reativado para atividades culturais",
@@ -14,14 +22,6 @@
       "resumo": "26/03/2026 - Aprenda a obter financiamento para seu projeto cultural",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-oficina-de-elaboracao-de-projetos-culturais-em-porto-alegre-rs/51360086407_7760b1c7a0_b-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-oficina-de-elaboracao-de-projetos-culturais-em-porto-alegre-rs",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Conjunto Ferroviário de Camocim (CE) está na Lista do Patrimônio Cultural Ferroviário",
-      "data": "26/03/2026",
-      "resumo": "26/03/2026 - O Iphan oficializou o reconhecimento do valor histórico, artístico e cultural da construção próximo dos 50 anos de sua desativação",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/conjunto-ferroviario-de-camocim-ce-esta-na-lista-do-patrimonio-cultural-ferroviario/estacao-ferroviaria-de-camocim-2-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/conjunto-ferroviario-de-camocim-ce-esta-na-lista-do-patrimonio-cultural-ferroviario",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260324060356_ae0c0269-96c6-462a-86ab-339dc4e08ba9.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
-      "data": "26/02/2026",
-      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Nova autenticação no Portal de Periódicos",
-      "data": "24/02/2026",
-      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES realiza sete treinamentos em fevereiro",
-      "data": "02/02/2026",
-      "resumo": "02/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar a publicação de artigo em acesso aberto, sem custo",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_Oxford_University.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4289-capes-realiza-sete-treinamentos-em-fevereiro.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
