@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan lança livro sobre protagonismo feminino na capoeira do Distrito Federal",
+      "data": "30/03/2026",
+      "resumo": "30/03/2026 - A obra \"Saberes das Mestras na Capital\" reúne relatos de vida, trajetórias e saberes de 16 mestras da capoeira",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-livro-sobre-protagonismo-feminino-na-capoeira-do-distrito-federal/2026_df_brasilia_lancamentolivrocapoeira_marianaalves-40-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-lanca-livro-sobre-protagonismo-feminino-na-capoeira-do-distrito-federal",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Paço Imperial dá início às comemorações dos 40 anos com debate sobre memória e arte contemporânea",
       "data": "30/03/2026",
       "resumo": "30/03/2026 - Encontro destacou a importância do espaço na articulação entre preservação histórica e produção artística",
@@ -14,14 +22,6 @@
       "resumo": "30/03/2026 - Evento destacou importância histórica e simbólica do local, tombado pelo Iphan em 2025",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-historico-e-arqueologico-de-sao-jose-do-queimado-es-recebe-titulo-de-patrimonio-cultural-brasileiro-em-cerimonia-simbolica/WhatsAppImage20260327at19.38.3211.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-historico-e-arqueologico-de-sao-jose-do-queimado-es-recebe-titulo-de-patrimonio-cultural-brasileiro-em-cerimonia-simbolica",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan participa de seminário sobre Casa Azul, lugar de memória da Guerrilha do Araguaia, em Marabá (PA)",
-      "data": "30/03/2026",
-      "resumo": "30/03/2026 - Evento reúne instituições para debater o tombamento do imóvel que foi cenário de prisões, torturas e desaparecimentos durante a Ditadura Militar",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-seminario-sobre-casa-azul-lugar-de-memoria-da-guerrilha-do-araguaia-em-maraba-pa/whatsapp-image-2026-03-30-at-10-18-24-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-seminario-sobre-casa-azul-lugar-de-memoria-da-guerrilha-do-araguaia-em-maraba-pa",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240912130928_7fe348f237f2d580d73b8870ebe73b6f133382c4bab79cb9b56114d99e7c92dc.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Oferecidos pela CAPES, os treinamentos dos Periódicos começam na primeira quinzena de abril",
+      "data": "30/03/2026",
+      "resumo": "30/03/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar ferramentas de escrita científica, inteligência artificial na saúde e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_primeira_quinzena_abril.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4293-oferecidos-pela-capes-os-treinamentos-dos-periodicos-comecam-na-primeira-quinzena-de-abril.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Nova autenticação no Portal de Periódicos",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
