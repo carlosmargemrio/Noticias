@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan apresenta os novos Comitês Gestores dos sítios reconhecidos como Patrimônio Mundial pela Unesco",
+      "data": "31/03/2026",
+      "resumo": "31/03/2026 - Evento realizado nesta terça (31) também lançou o Programa Centro Vivo e contou com a presença de diversas autoridades",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-os-novos-comites-gestores-dos-sitios-reconhecidos-como-patrimonio-mundial-pela-unesco/2026_df_brasilia_comitegestorcentrovivo_marianaalves-4-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-os-novos-comites-gestores-dos-sitios-reconhecidos-como-patrimonio-mundial-pela-unesco",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e UFPR promovem capacitação de professores da rede municipal de Curitiba",
       "data": "31/03/2026",
       "resumo": "31/03/2026 - Formação apresentou metodologias e recursos didáticos para trabalhar patrimônio cultural e cultura popular nas escolas",
@@ -14,14 +22,6 @@
       "resumo": "31/03/2026 - Com participação do Iphan, evento promoveu atendimento técnico e debateu estratégias para fortalecer a preservação do patrimônio",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/18a-caravana-federativa-reune-gestores-em-niteroi-rj-e-amplia-articulacao-para-politicas-culturais/xxxIMG_19072.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/18a-caravana-federativa-reune-gestores-em-niteroi-rj-e-amplia-articulacao-para-politicas-culturais",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "MinC e MMA firmam acordos e colocam cultura no centro da agenda climática",
-      "data": "31/03/2026",
-      "resumo": "31/03/2026 - Parcerias com Iphan e Ibram preveem ações em todo o país, com foco em sustentabilidade e preservação do patrimônio",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/minc-e-mma-firmam-acordos-e-colocam-cultura-no-centro-da-agenda-climatica/23516c19-b6ba-4805-9b68-8fb73d1e47fe.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/minc-e-mma-firmam-acordos-e-colocam-cultura-no-centro-da-agenda-climatica",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
