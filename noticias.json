@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Ampliação do tombamento de Petrópolis (RJ) é homologada pelo Ministério da Cultura",
+      "data": "01/04/2026",
+      "resumo": "01/04/2026 - Proposta pelo Iphan, revisão incorpora novos elementos, redefine limites e fortalece a proteção do conjunto urbano-paisagístico",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ampliacao-do-tombamento-de-petropolis-rj-e-homologada-pelo-ministerio-da-cultura/xxxwania_corredo_acervo_do_ministerio_do_turismo11.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ampliacao-do-tombamento-de-petropolis-rj-e-homologada-pelo-ministerio-da-cultura",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan entrega Manual de Conservação da Praça dos Três Poderes",
       "data": "01/04/2026",
       "resumo": "01/04/2026 - Viabilizado pelo Novo PAC, documento estabelece diretrizes técnicas para orientar a preservação de um dos espaços públicos mais simbólicos do país.",
@@ -14,14 +22,6 @@
       "resumo": "31/03/2026 - Evento realizado nesta terça (31) também lançou o Programa Centro Vivo e contou com a presença de diversas autoridades",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-os-novos-comites-gestores-dos-sitios-reconhecidos-como-patrimonio-mundial-pela-unesco/2026_df_brasilia_comitegestorcentrovivo_marianaalves-4-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-os-novos-comites-gestores-dos-sitios-reconhecidos-como-patrimonio-mundial-pela-unesco",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e UFPR promovem capacitação de professores da rede municipal de Curitiba",
-      "data": "31/03/2026",
-      "resumo": "31/03/2026 - Formação apresentou metodologias e recursos didáticos para trabalhar patrimônio cultural e cultura popular nas escolas",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufpr-promovem-capacitacao-de-professores-da-rede-municipal-de-curitiba/20260326_161934-1-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufpr-promovem-capacitacao-de-professores-da-rede-municipal-de-curitiba",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
