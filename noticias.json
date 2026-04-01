@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan fiscaliza restauração emergencial da Igreja do Rosário dos Pretos, em Areia (PB)",
+      "data": "01/04/2026",
+      "resumo": "01/04/2026 - Com investimento total de R$ 600 mil a meta é reabrir o templo para a Festa do Rosário no dia 7 de outubro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-restauracao-emergencial-da-igreja-do-rosario-dos-pretos-em-areia-pb/whatsapp-image-2026-04-01-at-12-06-54-1-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-restauracao-emergencial-da-igreja-do-rosario-dos-pretos-em-areia-pb",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Ampliação do tombamento de Petrópolis (RJ) é homologada pelo Ministério da Cultura",
       "data": "01/04/2026",
       "resumo": "01/04/2026 - Proposta pelo Iphan, revisão incorpora novos elementos, redefine limites e fortalece a proteção do conjunto urbano-paisagístico",
@@ -14,14 +22,6 @@
       "resumo": "01/04/2026 - Viabilizado pelo Novo PAC, documento estabelece diretrizes técnicas para orientar a preservação de um dos espaços públicos mais simbólicos do país.",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-manual-de-conservacao-da-praca-dos-tres-poderes-viabilizado-pelo-novo-pac/2026_df_brasilia_pracatrespoderesabril_marianaalves-63-jpg.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-entrega-manual-de-conservacao-da-praca-dos-tres-poderes-viabilizado-pelo-novo-pac",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan apresenta os novos Comitês Gestores dos sítios reconhecidos como Patrimônio Mundial pela Unesco",
-      "data": "31/03/2026",
-      "resumo": "31/03/2026 - Evento realizado nesta terça (31) também lançou o Programa Centro Vivo e contou com a presença de diversas autoridades",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-os-novos-comites-gestores-dos-sitios-reconhecidos-como-patrimonio-mundial-pela-unesco/2026_df_brasilia_comitegestorcentrovivo_marianaalves-4-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-os-novos-comites-gestores-dos-sitios-reconhecidos-como-patrimonio-mundial-pela-unesco",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
