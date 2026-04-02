@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Canteiro de obras da Igreja São Benedito, em Antonina (PR), é aberto para visitas",
+      "data": "02/04/2026",
+      "resumo": "02/04/2026 - A atividade aberta ao público será neste sábado (4/04), de 9h às 11h",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/canteiro-de-obras-da-igreja-sao-benedito-em-antonina-pr-e-aberto-para-visitas/vista-aerea-do-centro-historico-de-antonina-com-igreja-de-sao-benedito-foto-de-juliana-camargo-macedo-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/canteiro-de-obras-da-igreja-sao-benedito-em-antonina-pr-e-aberto-para-visitas",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Acervo do antigo Dops (RJ) é transferido para o Arquivo Público do Rio",
       "data": "02/04/2026",
       "resumo": "02/04/2026 - Iphan vem atuando de forma efetiva em todas as etapas do processo, para garantir a preservação dos documentos",
@@ -14,14 +22,6 @@
       "resumo": "02/04/2026 - O Instituto participou da programação dos 400 anos das Missões Jesuíticas Guaranis",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aborda-gestao-do-patrimonio-e-sustentabilidade-economica-no-conecta-missoes/mateus-berlatto-divulgacao-sedac-2.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aborda-gestao-do-patrimonio-e-sustentabilidade-economica-no-conecta-missoes",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan fiscaliza restauração emergencial da Igreja do Rosário dos Pretos, em Areia (PB)",
-      "data": "01/04/2026",
-      "resumo": "01/04/2026 - Com investimento total de R$ 600 mil a meta é reabrir o templo para a Festa do Rosário no dia 7 de outubro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-restauracao-emergencial-da-igreja-do-rosario-dos-pretos-em-areia-pb/whatsapp-image-2026-04-01-at-12-06-54-1-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-restauracao-emergencial-da-igreja-do-rosario-dos-pretos-em-areia-pb",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
