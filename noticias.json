@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan contrata consultoria técnica para projetos de restauro da Igreja de São Francisco (BA)",
+      "data": "03/04/2026",
+      "resumo": "03/04/2026 - Investimento será de aproximadamente R$ 2,9 milhões, pelo Novo PAC, e prevê serviços de forma continuada até junho de 2027",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-contrata-consultoria-tecnica-para-projetos-de-restauro-da-igreja-de-sao-francisco-ba/sao-francisco.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-contrata-consultoria-tecnica-para-projetos-de-restauro-da-igreja-de-sao-francisco-ba",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Canteiro de obras da Igreja São Benedito, em Antonina (PR), é aberto para visitas",
       "data": "02/04/2026",
       "resumo": "02/04/2026 - A atividade aberta ao público será neste sábado (4/04), de 9h às 11h",
@@ -14,14 +22,6 @@
       "resumo": "02/04/2026 - Iphan vem atuando de forma efetiva em todas as etapas do processo, para garantir a preservação dos documentos",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/acervo-do-antigo-dops-rj-e-transferido-para-o-arquivo-publico-do-rio/whatsapp-image-2026-04-02-at-11-22-22-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/acervo-do-antigo-dops-rj-e-transferido-para-o-arquivo-publico-do-rio",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan aborda gestão do patrimônio e sustentabilidade econômica no Conecta Missões",
-      "data": "02/04/2026",
-      "resumo": "02/04/2026 - O Instituto participou da programação dos 400 anos das Missões Jesuíticas Guaranis",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aborda-gestao-do-patrimonio-e-sustentabilidade-economica-no-conecta-missoes/mateus-berlatto-divulgacao-sedac-2.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-aborda-gestao-do-patrimonio-e-sustentabilidade-economica-no-conecta-missoes",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
