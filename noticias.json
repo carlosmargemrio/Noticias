@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Salas de cinema diminuem no Brasil e exibidores cobram apoio",
+      "data": "",
+      "resumo": "Com queda no número de salas e no público, setor pressiona por políticas públicas, mais recursos e regras para enfrentar avanço do streaming",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260404050424_20b7cfe3-3e2b-489f-9af4-707b93b5827e.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Justiça rejeita acusações de assédio de Blake Lively contra Baldoni",
       "data": "",
       "resumo": "Magistrado rejeitou acusações de assédio por lei da Califórnia ter sido aplicada a condutas ocorridas em outro estado; caso envolve o filme de US$ 351 mi",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260402220440_15c2f3a9-311f-4a7a-88d9-bd483979129d.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260402220440_adb05940-821f-4a35-9d7e-eb8096969dc9.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260401130424_fd5ef1d0d2ec95e20d84ca4ce109c87f2b1ccd4717f0d3d7fdf245d54513b056.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Jabuti 2026 abre inscrições para o maior prêmio literário do Brasil",
-      "data": "",
-      "resumo": "Entre as novidades está a criação da categoria Incentivo à Leitura – Cultura Digital",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260331220320_5cfcd925514d4161700f66499e0e3b58c755c585e8a6d8a7f881de2d4288dac0.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Oferecidos pela CAPES, os treinamentos dos Periódicos começam na primeira quinzena de abril",
-      "data": "30/03/2026",
-      "resumo": "30/03/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar ferramentas de escrita científica, inteligência artificial na saúde e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_primeira_quinzena_abril.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4293-oferecidos-pela-capes-os-treinamentos-dos-periodicos-comecam-na-primeira-quinzena-de-abril.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
-      "data": "26/02/2026",
-      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Nova autenticação no Portal de Periódicos",
-      "data": "24/02/2026",
-      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
