@@ -1,6 +1,30 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan contrata consultoria técnica para projetos de restauro da Igreja de São Francisco (BA)",
+      "data": "03/04/2026",
+      "resumo": "03/04/2026 - Investimento será de aproximadamente R$ 2,9 milhões, pelo Novo PAC, e prevê serviços de forma continuada até junho de 2027",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-contrata-consultoria-tecnica-para-projetos-de-restauro-da-igreja-de-sao-francisco-ba/sao-francisco.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-contrata-consultoria-tecnica-para-projetos-de-restauro-da-igreja-de-sao-francisco-ba",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Canteiro de obras da Igreja São Benedito, em Antonina (PR), é aberto para visitas",
+      "data": "02/04/2026",
+      "resumo": "02/04/2026 - A atividade aberta ao público será neste sábado (4/04), de 9h às 11h",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/canteiro-de-obras-da-igreja-sao-benedito-em-antonina-pr-e-aberto-para-visitas/vista-aerea-do-centro-historico-de-antonina-com-igreja-de-sao-benedito-foto-de-juliana-camargo-macedo-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/canteiro-de-obras-da-igreja-sao-benedito-em-antonina-pr-e-aberto-para-visitas",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Acervo do antigo Dops (RJ) é transferido para o Arquivo Público do Rio",
+      "data": "02/04/2026",
+      "resumo": "02/04/2026 - Iphan vem atuando de forma efetiva em todas as etapas do processo, para garantir a preservação dos documentos",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/acervo-do-antigo-dops-rj-e-transferido-para-o-arquivo-publico-do-rio/whatsapp-image-2026-04-02-at-11-22-22-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/acervo-do-antigo-dops-rj-e-transferido-para-o-arquivo-publico-do-rio",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "CCBB do RJ reúne Martha Medeiros para discutir felicidade com leitores a partir da obra 'Feliz por nada'",
       "data": "",
       "resumo": "A autora participa de debate mediado pelo escritor Ramon Nunes Mello e pela curadora Suzana Vargas",
