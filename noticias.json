@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Sítio Roberto Burle Marx sedia aulas gratuitas de flauta para crianças e jovens",
+      "data": "06/04/2026",
+      "resumo": "06/04/2026 - Projeto Flautistas da Marambaia passa a ser residente no SRBM e oferece oficinas abertas à comunidade de Barra de Guaratiba até novembro",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-sedia-aulas-gratuitas-de-flauta-para-criancas-e-jovens/1-img_3962-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-sedia-aulas-gratuitas-de-flauta-para-criancas-e-jovens",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan contrata consultoria técnica para projetos de restauro da Igreja de São Francisco (BA)",
       "data": "03/04/2026",
       "resumo": "03/04/2026 - Investimento será de aproximadamente R$ 2,9 milhões, pelo Novo PAC, e prevê serviços de forma continuada até junho de 2027",
@@ -14,14 +22,6 @@
       "resumo": "02/04/2026 - A atividade aberta ao público será neste sábado (4/04), de 9h às 11h",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/canteiro-de-obras-da-igreja-sao-benedito-em-antonina-pr-e-aberto-para-visitas/vista-aerea-do-centro-historico-de-antonina-com-igreja-de-sao-benedito-foto-de-juliana-camargo-macedo-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/canteiro-de-obras-da-igreja-sao-benedito-em-antonina-pr-e-aberto-para-visitas",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Acervo do antigo Dops (RJ) é transferido para o Arquivo Público do Rio",
-      "data": "02/04/2026",
-      "resumo": "02/04/2026 - Iphan vem atuando de forma efetiva em todas as etapas do processo, para garantir a preservação dos documentos",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/acervo-do-antigo-dops-rj-e-transferido-para-o-arquivo-publico-do-rio/whatsapp-image-2026-04-02-at-11-22-22-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/acervo-do-antigo-dops-rj-e-transferido-para-o-arquivo-publico-do-rio",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
