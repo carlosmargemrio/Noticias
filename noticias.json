@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Inscrições abertas para seminário gratuito sobre saberes quilombolas do Pará e Maranhão",
+      "data": "07/04/2026",
+      "resumo": "07/04/2026 - Evento reúne resultados de pesquisa inédita sobre ofícios tradicionais em territórios quilombolas; participantes receberão certificado",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-abertas-para-seminario-gratuito-sobre-saberes-quilombolas-do-para-e-maranhao/inrc-quilombos-pa_ma-2-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-abertas-para-seminario-gratuito-sobre-saberes-quilombolas-do-para-e-maranhao",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Sítio Roberto Burle Marx sedia aulas gratuitas de flauta para crianças e jovens",
       "data": "06/04/2026",
       "resumo": "06/04/2026 - Projeto Flautistas da Marambaia passa a ser residente no SRBM e oferece oficinas abertas à comunidade de Barra de Guaratiba até novembro",
@@ -14,14 +22,6 @@
       "resumo": "03/04/2026 - Investimento será de aproximadamente R$ 2,9 milhões, pelo Novo PAC, e prevê serviços de forma continuada até junho de 2027",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-contrata-consultoria-tecnica-para-projetos-de-restauro-da-igreja-de-sao-francisco-ba/sao-francisco.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-contrata-consultoria-tecnica-para-projetos-de-restauro-da-igreja-de-sao-francisco-ba",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Canteiro de obras da Igreja São Benedito, em Antonina (PR), é aberto para visitas",
-      "data": "02/04/2026",
-      "resumo": "02/04/2026 - A atividade aberta ao público será neste sábado (4/04), de 9h às 11h",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/canteiro-de-obras-da-igreja-sao-benedito-em-antonina-pr-e-aberto-para-visitas/vista-aerea-do-centro-historico-de-antonina-com-igreja-de-sao-benedito-foto-de-juliana-camargo-macedo-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/canteiro-de-obras-da-igreja-sao-benedito-em-antonina-pr-e-aberto-para-visitas",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026040506040_9d68c674-8da0-402d-b1d3-7f0f520b9b78.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Oferecidos pela CAPES, os treinamentos dos Periódicos começam na primeira quinzena de abril",
+      "data": "30/03/2026",
+      "resumo": "30/03/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar ferramentas de escrita científica, inteligência artificial na saúde e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_primeira_quinzena_abril.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4293-oferecidos-pela-capes-os-treinamentos-dos-periodicos-comecam-na-primeira-quinzena-de-abril.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Nova autenticação no Portal de Periódicos",
+      "data": "24/02/2026",
+      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
