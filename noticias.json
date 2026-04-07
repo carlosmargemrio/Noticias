@@ -1,27 +1,27 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Pesquisa arqueológica é realizada em Passo dos Negros, em Pelotas (RS)",
+      "data": "07/04/2026",
+      "resumo": "07/04/2026 - Coordenado pela UFPel, estudo busca identificar e cadastrar os sítios arqueológicos existentes no local, considerado “patrimônio fundador” da cidade",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/pesquisa-arqueologica-e-realizada-em-passo-dos-negros-em-pelotas-rs/whatsapp-image-2026-04-07-at-15-41-37-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/pesquisa-arqueologica-e-realizada-em-passo-dos-negros-em-pelotas-rs",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Adote um projeto: saiba como contribuir",
+      "data": "07/04/2026",
+      "resumo": "07/04/2026 - Edital detalha as regras para que pessoas físicas, empresas e organizações formalizem parcerias com o Instituto para a execução de projetos disponibilizados em portfólio",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/adote-um-projeto-saiba-como-contribuir/2025_mt_cuiaba_apresentacaoculturalvioladecocho_marianaalves-252.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/adote-um-projeto-saiba-como-contribuir",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e Fundarpe abrem consulta pública sobre o Plano de Salvaguarda da Capoeira de Pernambuco",
       "data": "07/04/2026",
       "resumo": "07/04/2026 - Interessados têm até o dia 5 de maio para enviar as contribuições",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-fundarpe-abrem-consulta-publica-sobre-o-plano-de-salvaguarda-da-capoeira-de-pernambuco/xxxcards_salvaguarda1.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-fundarpe-abrem-consulta-publica-sobre-o-plano-de-salvaguarda-da-capoeira-de-pernambuco",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Inscrições abertas para seminário gratuito sobre saberes quilombolas do Pará e Maranhão",
-      "data": "07/04/2026",
-      "resumo": "07/04/2026 - Evento reúne resultados de pesquisa inédita sobre ofícios tradicionais em territórios quilombolas; participantes receberão certificado",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-abertas-para-seminario-gratuito-sobre-saberes-quilombolas-do-para-e-maranhao/inrc-quilombos-pa_ma-2-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-abertas-para-seminario-gratuito-sobre-saberes-quilombolas-do-para-e-maranhao",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Sítio Roberto Burle Marx sedia aulas gratuitas de flauta para crianças e jovens",
-      "data": "06/04/2026",
-      "resumo": "06/04/2026 - Projeto Flautistas da Marambaia passa a ser residente no SRBM e oferece oficinas abertas à comunidade de Barra de Guaratiba até novembro",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-sedia-aulas-gratuitas-de-flauta-para-criancas-e-jovens/1-img_3962-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-sedia-aulas-gratuitas-de-flauta-para-criancas-e-jovens",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026040506040_9d68c674-8da0-402d-b1d3-7f0f520b9b78.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Curso oferta vagas para bibliotecários da área da saúde",
+      "data": "07/04/2026",
+      "resumo": "07/04/2026 -\n                Inscrição para a capacitação da editora Wolters Kluwer Health será unicamente no dia 15 de abril, e aulas começam em 18 de junho",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_WoltersKluwer.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4294-curso-oferta-vagas-para-bibliotecarios-da-area-da-saude.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Oferecidos pela CAPES, os treinamentos dos Periódicos começam na primeira quinzena de abril",
+      "data": "30/03/2026",
+      "resumo": "30/03/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar ferramentas de escrita científica, inteligência artificial na saúde e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_primeira_quinzena_abril.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4293-oferecidos-pela-capes-os-treinamentos-dos-periodicos-comecam-na-primeira-quinzena-de-abril.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
