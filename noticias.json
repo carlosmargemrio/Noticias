@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan e Fundarpe abrem consulta pública sobre o Plano de Salvaguarda da Capoeira de Pernambuco",
+      "data": "07/04/2026",
+      "resumo": "07/04/2026 - Interessados têm até o dia 5 de maio para enviar as contribuições",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-fundarpe-abrem-consulta-publica-sobre-o-plano-de-salvaguarda-da-capoeira-de-pernambuco/xxxcards_salvaguarda1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-fundarpe-abrem-consulta-publica-sobre-o-plano-de-salvaguarda-da-capoeira-de-pernambuco",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Inscrições abertas para seminário gratuito sobre saberes quilombolas do Pará e Maranhão",
       "data": "07/04/2026",
       "resumo": "07/04/2026 - Evento reúne resultados de pesquisa inédita sobre ofícios tradicionais em territórios quilombolas; participantes receberão certificado",
@@ -14,14 +22,6 @@
       "resumo": "06/04/2026 - Projeto Flautistas da Marambaia passa a ser residente no SRBM e oferece oficinas abertas à comunidade de Barra de Guaratiba até novembro",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-sedia-aulas-gratuitas-de-flauta-para-criancas-e-jovens/1-img_3962-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-sedia-aulas-gratuitas-de-flauta-para-criancas-e-jovens",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan contrata consultoria técnica para projetos de restauro da Igreja de São Francisco (BA)",
-      "data": "03/04/2026",
-      "resumo": "03/04/2026 - Investimento será de aproximadamente R$ 2,9 milhões, pelo Novo PAC, e prevê serviços de forma continuada até junho de 2027",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-contrata-consultoria-tecnica-para-projetos-de-restauro-da-igreja-de-sao-francisco-ba/sao-francisco.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-contrata-consultoria-tecnica-para-projetos-de-restauro-da-igreja-de-sao-francisco-ba",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026040506040_9d68c674-8da0-402d-b1d3-7f0f520b9b78.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Oferecidos pela CAPES, os treinamentos dos Periódicos começam na primeira quinzena de abril",
-      "data": "30/03/2026",
-      "resumo": "30/03/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar ferramentas de escrita científica, inteligência artificial na saúde e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_primeira_quinzena_abril.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4293-oferecidos-pela-capes-os-treinamentos-dos-periodicos-comecam-na-primeira-quinzena-de-abril.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
-      "data": "26/02/2026",
-      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Nova autenticação no Portal de Periódicos",
-      "data": "24/02/2026",
-      "resumo": "24/02/2026 -\n                A forma de registro dos usuários passa a ser o login unificado por meio do Gov.BR, ORCID ou CAPES",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Nova_autenticao.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4290-nova-autenticacao-no-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
