@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Sede do Iphan no Rio de Janeiro ganha placa interativa com a história do edifício",
+      "data": "08/04/2026",
+      "resumo": "08/04/2026 - Iniciativa do Rio Memórias conecta público ao patrimônio por meio de conteúdos digitais acessíveis",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sede-do-iphan-no-rio-de-janeiro-ganha-placa-interativa-com-a-historia-do-edificio/xxxIMG_21141_50.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sede-do-iphan-no-rio-de-janeiro-ganha-placa-interativa-com-a-historia-do-edificio",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Pesquisa arqueológica é realizada em Passo dos Negros, em Pelotas (RS)",
       "data": "07/04/2026",
       "resumo": "07/04/2026 - Coordenado pela UFPel, estudo busca identificar e cadastrar os sítios arqueológicos existentes no local, considerado “patrimônio fundador” da cidade",
@@ -14,14 +22,6 @@
       "resumo": "07/04/2026 - Edital detalha as regras para que pessoas físicas, empresas e organizações formalizem parcerias com o Instituto para a execução de projetos disponibilizados em portfólio",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/adote-um-projeto-saiba-como-contribuir/2025_mt_cuiaba_apresentacaoculturalvioladecocho_marianaalves-252.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/adote-um-projeto-saiba-como-contribuir",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e Fundarpe abrem consulta pública sobre o Plano de Salvaguarda da Capoeira de Pernambuco",
-      "data": "07/04/2026",
-      "resumo": "07/04/2026 - Interessados têm até o dia 5 de maio para enviar as contribuições",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-fundarpe-abrem-consulta-publica-sobre-o-plano-de-salvaguarda-da-capoeira-de-pernambuco/xxxcards_salvaguarda1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-fundarpe-abrem-consulta-publica-sobre-o-plano-de-salvaguarda-da-capoeira-de-pernambuco",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
