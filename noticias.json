@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan recebe exposição \"Este é o nosso corpo, a terra\", de Yan Leite Chaparro, em Campo Grande (MS)",
+      "data": "09/04/2026",
+      "resumo": "09/04/2026 - Mostra reúne fotografias produzidas em aldeias indígenas do Mato Grosso do Sul e propõe reflexão sobre território, corpo e modos de vida",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-exposicao-este-e-o-nosso-corpo-a-terra-de-yan-leite-chaparro-em-campo-grande-ms/banner-exposicao.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-exposicao-este-e-o-nosso-corpo-a-terra-de-yan-leite-chaparro-em-campo-grande-ms",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Sede do Iphan no Rio de Janeiro ganha placa interativa com a história do edifício",
       "data": "08/04/2026",
       "resumo": "08/04/2026 - Iniciativa do Rio Memórias conecta público ao patrimônio por meio de conteúdos digitais acessíveis",
@@ -14,14 +22,6 @@
       "resumo": "07/04/2026 - Coordenado pela UFPel, estudo busca identificar e cadastrar os sítios arqueológicos existentes no local, considerado “patrimônio fundador” da cidade",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/pesquisa-arqueologica-e-realizada-em-passo-dos-negros-em-pelotas-rs/whatsapp-image-2026-04-07-at-15-41-37-2.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/pesquisa-arqueologica-e-realizada-em-passo-dos-negros-em-pelotas-rs",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Adote um projeto: saiba como contribuir",
-      "data": "07/04/2026",
-      "resumo": "07/04/2026 - Edital detalha as regras para que pessoas físicas, empresas e organizações formalizem parcerias com o Instituto para a execução de projetos disponibilizados em portfólio",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/adote-um-projeto-saiba-como-contribuir/2025_mt_cuiaba_apresentacaoculturalvioladecocho_marianaalves-252.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/adote-um-projeto-saiba-como-contribuir",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
