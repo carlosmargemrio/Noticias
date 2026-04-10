@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Mostras em Itinga e Araçuaí marcam encerramento do primeiro ciclo do projeto Rede de Patrimônio Criativo e Colaborativo no Vale do Jequitinhonha (MG)",
+      "data": "10/04/2026",
+      "resumo": "10/04/2026 - Projeto avança para nova etapa com imersão cultural voltada a jovens de 15 a 29 anos",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mostras-em-itinga-e-aracuai-marcam-encerramento-do-primeiro-ciclo-do-projeto-rede-de-patrimonio-criativo-e-colaborativo-no-vale-do-jequitinhonha/banner.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mostras-em-itinga-e-aracuai-marcam-encerramento-do-primeiro-ciclo-do-projeto-rede-de-patrimonio-criativo-e-colaborativo-no-vale-do-jequitinhonha",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan recebe exposição \"Este é o nosso corpo, a terra\", de Yan Leite Chaparro, em Campo Grande (MS)",
       "data": "09/04/2026",
       "resumo": "09/04/2026 - Mostra reúne fotografias produzidas em aldeias indígenas do Mato Grosso do Sul e propõe reflexão sobre território, corpo e modos de vida",
@@ -14,14 +22,6 @@
       "resumo": "08/04/2026 - Iniciativa do Rio Memórias conecta público ao patrimônio por meio de conteúdos digitais acessíveis",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sede-do-iphan-no-rio-de-janeiro-ganha-placa-interativa-com-a-historia-do-edificio/xxxIMG_21141_50.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sede-do-iphan-no-rio-de-janeiro-ganha-placa-interativa-com-a-historia-do-edificio",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Pesquisa arqueológica é realizada em Passo dos Negros, em Pelotas (RS)",
-      "data": "07/04/2026",
-      "resumo": "07/04/2026 - Coordenado pela UFPel, estudo busca identificar e cadastrar os sítios arqueológicos existentes no local, considerado “patrimônio fundador” da cidade",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/pesquisa-arqueologica-e-realizada-em-passo-dos-negros-em-pelotas-rs/whatsapp-image-2026-04-07-at-15-41-37-2.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/pesquisa-arqueologica-e-realizada-em-passo-dos-negros-em-pelotas-rs",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260407160452_e265324d-ddd3-4b51-a7c0-2ed06b53df1c.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Curso oferta vagas para bibliotecários da área da saúde",
+      "data": "07/04/2026",
+      "resumo": "07/04/2026 -\n                Inscrição para a capacitação da editora Wolters Kluwer Health será unicamente no dia 15 de abril, e aulas começam em 18 de junho",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_WoltersKluwer.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4294-curso-oferta-vagas-para-bibliotecarios-da-area-da-saude.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Oferecidos pela CAPES, os treinamentos dos Periódicos começam na primeira quinzena de abril",
+      "data": "30/03/2026",
+      "resumo": "30/03/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar ferramentas de escrita científica, inteligência artificial na saúde e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_primeira_quinzena_abril.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4293-oferecidos-pela-capes-os-treinamentos-dos-periodicos-comecam-na-primeira-quinzena-de-abril.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
+      "data": "26/02/2026",
+      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
