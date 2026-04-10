@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan oferece oficina de elaboração de projetos de preservação de acervos arquivísticos",
+      "data": "10/04/2026",
+      "resumo": "10/04/2026 - A atividade será virtual, das 15h às 18h, através do Teams, e os interessados devem se inscrever por formulário on-line",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-oferece-oficina-de-elaboracao-de-projetos-de-preservacao-de-acervos-arquivisticos/img_9859-1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-oferece-oficina-de-elaboracao-de-projetos-de-preservacao-de-acervos-arquivisticos",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e Governo de Pernambuco iniciam restauro da Igreja de Nossa Senhora do Monte, em Olinda",
       "data": "10/04/2026",
       "resumo": "10/04/2026 - Intervenção, que integra o Novo PAC, vai recuperar o templo mais antigo da cidade e requalificar seu entorno urbano",
@@ -14,14 +22,6 @@
       "resumo": "10/04/2026 - Projeto avança para nova etapa com imersão cultural voltada a jovens de 15 a 29 anos",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mostras-em-itinga-e-aracuai-marcam-encerramento-do-primeiro-ciclo-do-projeto-rede-de-patrimonio-criativo-e-colaborativo-no-vale-do-jequitinhonha/banner.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mostras-em-itinga-e-aracuai-marcam-encerramento-do-primeiro-ciclo-do-projeto-rede-de-patrimonio-criativo-e-colaborativo-no-vale-do-jequitinhonha",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan recebe exposição \"Este é o nosso corpo, a terra\", de Yan Leite Chaparro, em Campo Grande (MS)",
-      "data": "09/04/2026",
-      "resumo": "09/04/2026 - Mostra reúne fotografias produzidas em aldeias indígenas do Mato Grosso do Sul e propõe reflexão sobre território, corpo e modos de vida",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-exposicao-este-e-o-nosso-corpo-a-terra-de-yan-leite-chaparro-em-campo-grande-ms/banner-exposicao.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-exposicao-este-e-o-nosso-corpo-a-terra-de-yan-leite-chaparro-em-campo-grande-ms",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
