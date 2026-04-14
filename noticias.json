@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Estrelas de cinema reagem ao acordo entre Paramount e Warner",
+      "data": "",
+      "resumo": "Carta aberta reúne mais de mil profissionais contra fusão bilionária",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260413220424_bb2fcda8-f9cd-4ef7-a6e3-6e45a6a4b441.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "John Nolan, ator de Batman e tio de Christopher Nolan, morre aos 87",
       "data": "",
       "resumo": "Ator teve carreira marcada por filmes de Nolan e série de TV",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260411180440_409670bda77ee10e25672908ba8617b782a0a2864b7e2e13f4b214eef6ece6a7.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260411180440_c5a3ca5fa079306834c40c36f53d58eabce7e41f7bca2f23dfe2c09a7d955aac.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260409160444_06b24ed7-543d-4b79-aa20-eb10ffe3fcd4.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Livro sobre 1964 disputa o Prêmio Jabuti Acadêmico 2026",
-      "data": "",
-      "resumo": "Obra sobre o golpe de 1964 concorre ao Prêmio Jabuti Acadêmico 2026 e reúne análises sobre memória, repressão e democracia no Brasil",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260409160428_20889f541e814afd6a20c7e4e125173bb81fbad4b3676a41c47d75950a70f91b.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Curso oferta vagas para bibliotecários da área da saúde",
-      "data": "07/04/2026",
-      "resumo": "07/04/2026 -\n                Inscrição para a capacitação da editora Wolters Kluwer Health será unicamente no dia 15 de abril, e aulas começam em 18 de junho",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_WoltersKluwer.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4294-curso-oferta-vagas-para-bibliotecarios-da-area-da-saude.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Oferecidos pela CAPES, os treinamentos dos Periódicos começam na primeira quinzena de abril",
-      "data": "30/03/2026",
-      "resumo": "30/03/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar ferramentas de escrita científica, inteligência artificial na saúde e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_primeira_quinzena_abril.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4293-oferecidos-pela-capes-os-treinamentos-dos-periodicos-comecam-na-primeira-quinzena-de-abril.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
-      "data": "26/02/2026",
-      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
