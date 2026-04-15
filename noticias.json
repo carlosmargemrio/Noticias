@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Estão abertas as inscrições para o Mestrado Profissional do Iphan",
+      "data": "15/04/2026",
+      "resumo": "15/04/2026 - O edital 2026 para ampla concorrência oferece dez bolsas de estudo e prevê ações afirmativas para candidatos negros, quilombolas, indígenas e PCD",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/estao-abertas-as-inscricoes-para-o-mestrado-profissional-do-iphan/cc0a6e2b1efa42028ddc6b01d2bb9459.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/estao-abertas-as-inscricoes-para-o-mestrado-profissional-do-iphan",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "39º Prêmio Rodrigo: ações na Faixa de Fronteira receberão pontuação extra",
       "data": "15/04/2026",
       "resumo": "15/04/2026 - Iniciativa tem como objetivo ampliar o reconhecimento para além da faixa litorânea do país; Premiação é de R$ 40 mil para cada um dos 18 vencedores",
@@ -14,14 +22,6 @@
       "resumo": "14/04/2026 - Projeto reúne lideranças quilombolas e grupos culturais em proposta itinerante no território",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/encontro-no-quilombo-do-ausente-abre-formacao-de-agentes-patrimoniais-no-serro-mg/banner.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/encontro-no-quilombo-do-ausente-abre-formacao-de-agentes-patrimoniais-no-serro-mg",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan promove atividades de educação patrimonial em escola do Acre",
-      "data": "14/04/2026",
-      "resumo": "14/04/2026 - Estudantes tiveram a oportunidade de aprender sobre os bens culturais do estado",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-atividades-de-educacao-patrimonial-em-escola-do-acre-1/whatsapp-image-2026-04-14-at-14-19-29-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-atividades-de-educacao-patrimonial-em-escola-do-acre-1",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260409160444_06b24ed7-543d-4b79-aa20-eb10ffe3fcd4.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Curso oferta vagas para bibliotecários da área da saúde",
-      "data": "07/04/2026",
-      "resumo": "07/04/2026 -\n                Inscrição para a capacitação da editora Wolters Kluwer Health será unicamente no dia 15 de abril, e aulas começam em 18 de junho",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_WoltersKluwer.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4294-curso-oferta-vagas-para-bibliotecarios-da-area-da-saude.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Oferecidos pela CAPES, os treinamentos dos Periódicos começam na primeira quinzena de abril",
-      "data": "30/03/2026",
-      "resumo": "30/03/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar ferramentas de escrita científica, inteligência artificial na saúde e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_primeira_quinzena_abril.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4293-oferecidos-pela-capes-os-treinamentos-dos-periodicos-comecam-na-primeira-quinzena-de-abril.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES realiza nove treinamentos na primeira quinzena de março",
-      "data": "26/02/2026",
-      "resumo": "26/02/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar inteligência artificial, visibilidade dos artigos e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/matria_RSP.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4291-capes-realiza-nove-treinamentos-na-primeira-quinzena-de-marco.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
