@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Três museus protegidos pelo Iphan estão entre os mais visitados do mundo",
+      "data": "15/04/2026",
+      "resumo": "15/04/2026 - Aproveite os feriados que se aproximam para visitar esses espaços que unem arte, história e patrimônio",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tres-museus-protegidos-pelo-iphan-estao-entre-os-mais-visitados-do-mundo/banner-01.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tres-museus-protegidos-pelo-iphan-estao-entre-os-mais-visitados-do-mundo",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Estão abertas as inscrições para o Mestrado Profissional do Iphan",
       "data": "15/04/2026",
       "resumo": "15/04/2026 - O edital 2026 para ampla concorrência oferece dez bolsas de estudo e prevê ações afirmativas para candidatos negros, quilombolas, indígenas e PCD",
@@ -14,14 +22,6 @@
       "resumo": "15/04/2026 - Iniciativa tem como objetivo ampliar o reconhecimento para além da faixa litorânea do país; Premiação é de R$ 40 mil para cada um dos 18 vencedores",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/patrimonio-e-trabalho-39o-premio-rodrigo-une-cultura-e-geracao-de-renda-1/img_5901-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/patrimonio-e-trabalho-39o-premio-rodrigo-une-cultura-e-geracao-de-renda-1",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Encontro no Quilombo do Ausente abre formação de agentes patrimoniais no Serro (MG)",
-      "data": "14/04/2026",
-      "resumo": "14/04/2026 - Projeto reúne lideranças quilombolas e grupos culturais em proposta itinerante no território",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/encontro-no-quilombo-do-ausente-abre-formacao-de-agentes-patrimoniais-no-serro-mg/banner.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/encontro-no-quilombo-do-ausente-abre-formacao-de-agentes-patrimoniais-no-serro-mg",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
