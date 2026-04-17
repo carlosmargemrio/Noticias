@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Projeto leva história da resistência negra na Cidade de Goiás (GO) a estudantes",
+      "data": "17/04/2026",
+      "resumo": "17/04/2026 - Entre os dias 7 e 9 de abril, Rota da Presença Negra em Goiás promoveu atividades educativas e culturais para jovens do ensino fundamental e médio",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-leva-historia-da-resistencia-negra-na-cidade-de-goias-go-a-estudantes/whatsapp-image-2026-04-14-at-15-47-56-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-leva-historia-da-resistencia-negra-na-cidade-de-goias-go-a-estudantes",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Sítio Roberto Burle Marx sedia debate sobre o agronegócio ornamental fluminense",
       "data": "17/04/2026",
       "resumo": "17/04/2026 - 2º Encontro das Mulheres Rurais reuniu mais de 140 participantes no patrimônio cultural tombado e debateu protagonismo feminino",
@@ -14,14 +22,6 @@
       "resumo": "17/04/2026 - Encontro combinou palestras e visitas guiadas voltadas ao patrimônio cultural capixaba",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-secretaria-de-educacao-de-vitoria-es-promovem-formacao-em-educacao-patrimonial-para-professores-da-rede-municipal/WhatsAppImage20260416at09.31.271.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-secretaria-de-educacao-de-vitoria-es-promovem-formacao-em-educacao-patrimonial-para-professores-da-rede-municipal",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "No Amazonas, Iphan e povos indígenas constroem juntos ações de salvaguarda",
-      "data": "16/04/2026",
-      "resumo": "16/04/2026 - Dois bens culturais receberam oficinas de salvaguarda com técnicos do Instituto",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-amazonas-iphan-e-povos-indigenas-constroem-juntos-acoes-de-salvaguarda/dsc07577-1-jpg.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-amazonas-iphan-e-povos-indigenas-constroem-juntos-acoes-de-salvaguarda",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
