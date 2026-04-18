@@ -1,6 +1,30 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan fiscaliza obras de restauração na Igreja São Benedito, em Antonina (PR)",
+      "data": "17/04/2026",
+      "resumo": "17/04/2026 - O trabalho foi realizado por uma equipe formada por servidores das áreas de arqueologia, patrimônio cultural edificado e imaterial",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-obras-de-restauracao-na-igreja-sao-benedito-em-antonina-pr/img_4871-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-obras-de-restauracao-na-igreja-sao-benedito-em-antonina-pr",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Projeto leva história da resistência negra na Cidade de Goiás (GO) a estudantes",
+      "data": "17/04/2026",
+      "resumo": "17/04/2026 - Entre os dias 7 e 9 de abril, Rota da Presença Negra em Goiás promoveu atividades educativas e culturais para jovens do ensino fundamental e médio",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-leva-historia-da-resistencia-negra-na-cidade-de-goias-go-a-estudantes/whatsapp-image-2026-04-14-at-15-47-56-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-leva-historia-da-resistencia-negra-na-cidade-de-goias-go-a-estudantes",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Sítio Roberto Burle Marx sedia debate sobre o agronegócio ornamental fluminense",
+      "data": "17/04/2026",
+      "resumo": "17/04/2026 - 2º Encontro das Mulheres Rurais reuniu mais de 140 participantes no patrimônio cultural tombado e debateu protagonismo feminino",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-sedia-debate-sobre-o-agronegocio-ornamental-fluminense/whatsapp-image-2026-04-16-at-16-53-15-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-sedia-debate-sobre-o-agronegocio-ornamental-fluminense",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Obra de Cidinha da Silva investiga a experiência de escritoras negras no mercado editorial",
       "data": "",
       "resumo": "Livro 'Quando borboletas furiosas se tornam mulheres negras: Nós e os livros' apresenta uma análise crítica das estruturas do sistema literário",
