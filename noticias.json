@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Cantor atração do Lollapalooza Brasil é acusado de homicídio por morte de adolescente de 14 anos nos EUA",
+      "data": "",
+      "resumo": "Desde então, o caso vinha sendo investigado de forma sigilosa por um júri, e o envolvimento do cantor só veio a público agora",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260420140456_61646841-ed0f-4666-9a62-4c2136d5dee4.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Livro de Darcy Ribeiro bomba na China",
       "data": "",
       "resumo": "Versão chinesa de ‘O Povo Brasileiro’ entra para os mais vendidos poucos dias após lançamento",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260418100456_75e7ff5a-c9b8-4d60-a3f7-f53e49cf2239.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260418100456_1f6ddb87-9372-4ea5-835a-58e19fe2b700.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026041809048_854c7ea690e5d04462f7f3fe9bddb59025b647944063e0d69ad18caa6d7b6531.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Obra de Cidinha da Silva investiga a experiência de escritoras negras no mercado editorial",
-      "data": "",
-      "resumo": "Livro 'Quando borboletas furiosas se tornam mulheres negras: Nós e os livros' apresenta uma análise crítica das estruturas do sistema literário",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260416090416_b0f89c092ed88d092f279743eda48aacfc17c2f7b643c1842a1645534f5a0633.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Acordos da CAPES financiam quase 10 mil artigos científicos em publicações estrangeiras",
-      "data": "17/04/2026",
-      "resumo": "17/04/2026 -\n                Parcerias com editoras internacionais beneficiam 7.380 autores de 271 instituições e ampliam a presença da ciência brasileira no cenário global",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_APC.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4296-acordos-da-capes-financiam-quase-10-mil-artigos-cientificos-em-publicacoes-estrangeiras.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Curso oferta vagas para bibliotecários da área da saúde",
-      "data": "07/04/2026",
-      "resumo": "07/04/2026 -\n                Inscrição para a capacitação da editora Wolters Kluwer Health será unicamente no dia 15 de abril, e aulas começam em 18 de junho",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_WoltersKluwer.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4294-curso-oferta-vagas-para-bibliotecarios-da-area-da-saude.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Oferecidos pela CAPES, os treinamentos dos Periódicos começam na primeira quinzena de abril",
-      "data": "30/03/2026",
-      "resumo": "30/03/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar ferramentas de escrita científica, inteligência artificial na saúde e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_primeira_quinzena_abril.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4293-oferecidos-pela-capes-os-treinamentos-dos-periodicos-comecam-na-primeira-quinzena-de-abril.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
