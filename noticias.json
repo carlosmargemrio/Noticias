@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Ilha da Boa Viagem, em Niterói (RJ), é tema de livro que revisita sua história e diferentes usos ao longo do tempo",
+      "data": "22/04/2026",
+      "resumo": "22/04/2026 - Projeto desenvolvido com participação do Iphan reforça iniciativas de proteção da memória e do patrimônio histórico local",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ilha-da-boa-viagem-em-niteroi-rj-e-tema-de-livro-que-revisita-sua-historia-e-diferentes-usos-ao-longo-do-tempo/xIlhadaBoaViagem11.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ilha-da-boa-viagem-em-niteroi-rj-e-tema-de-livro-que-revisita-sua-historia-e-diferentes-usos-ao-longo-do-tempo",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Inscrições do 39º Prêmio Rodrigo são prorrogadas até 10 de maio",
       "data": "22/04/2026",
       "resumo": "22/04/2026 - Iniciativa vai contemplar 18 vencedores, que receberão 40 mil cada",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan e UFMT entregam casa histórica restaurada em Cuiabá",
-      "data": "21/04/2026",
-      "resumo": "21/04/2026 - Conclusão da obra foi celebrada no último sábado (18) e marca uma das principais entregas do Programa Conviver na capital mato-grossense",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufmt-entregam-casa-historica-restaurada-em-cuiaba/conviver-cuiaba_carrossel_marla-fabrin_18042026.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufmt-entregam-casa-historica-restaurada-em-cuiaba",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Governo anuncia ações para leitura no Dia do Livro",
+      "data": "",
+      "resumo": "Lula entrega Prêmio Vivaleitura e ministros lançam PNLL 2026-2035 em Brasília",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240906080952_09f1b2a7-efda-46ae-8306-ca5dbeae212a.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Alfredo Ceschiatti, o gênio menos reverenciado de Brasília",
       "data": "",
       "resumo": "Escultor mineiro moldou a identidade estética da capital com obras monumentais, mas permanece subestimado na história da arte brasileira",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260422050452_f5f8b4a0-fda4-43f4-8e43-e364a48332ce.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260422050452_c35d60ba-74a1-4e2c-91ee-30b8db54f545.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20210216100220_a61d333f0dd4d7764e120151d1361497004a728bcf1323d07b88d20e71c9b751.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Artistas traduzem Brasília sem palavras",
-      "data": "",
-      "resumo": "Artistas traduzem Brasília em expressões que revelam identidade cultural da capital",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260421100440_67650ade675fc7d3b71998ad951cffb49eee1244ebbe7937eb395d0e590f503b.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Acordos da CAPES financiam quase 10 mil artigos científicos em publicações estrangeiras",
-      "data": "17/04/2026",
-      "resumo": "17/04/2026 -\n                Parcerias com editoras internacionais beneficiam 7.380 autores de 271 instituições e ampliam a presença da ciência brasileira no cenário global",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_APC.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4296-acordos-da-capes-financiam-quase-10-mil-artigos-cientificos-em-publicacoes-estrangeiras.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Curso oferta vagas para bibliotecários da área da saúde",
-      "data": "07/04/2026",
-      "resumo": "07/04/2026 -\n                Inscrição para a capacitação da editora Wolters Kluwer Health será unicamente no dia 15 de abril, e aulas começam em 18 de junho",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_WoltersKluwer.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4294-curso-oferta-vagas-para-bibliotecarios-da-area-da-saude.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Oferecidos pela CAPES, os treinamentos dos Periódicos começam na primeira quinzena de abril",
-      "data": "30/03/2026",
-      "resumo": "30/03/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar ferramentas de escrita científica, inteligência artificial na saúde e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_primeira_quinzena_abril.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4293-oferecidos-pela-capes-os-treinamentos-dos-periodicos-comecam-na-primeira-quinzena-de-abril.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
