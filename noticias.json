@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Alfredo Ceschiatti, o gênio menos reverenciado de Brasília",
+      "data": "",
+      "resumo": "Escultor mineiro moldou a identidade estética da capital com obras monumentais, mas permanece subestimado na história da arte brasileira",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260422050452_f5f8b4a0-fda4-43f4-8e43-e364a48332ce.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Você realmente sabe quem foi Tiradentes?",
       "data": "",
       "resumo": "Saiba como e por que ele foi transformado em herói nacional a partir da Proclamação da República",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20210216100220_9c71b4e92370384abdfaf27fa7f899baece8c3efb6127adac16788751ce82b8f.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20210216100220_a61d333f0dd4d7764e120151d1361497004a728bcf1323d07b88d20e71c9b751.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Cantor atração do Lollapalooza Brasil é acusado de homicídio por morte de adolescente de 14 anos nos EUA",
-      "data": "",
-      "resumo": "Desde então, o caso vinha sendo investigado de forma sigilosa por um júri, e o envolvimento do cantor só veio a público agora",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260420140456_f46761ce-fa42-460f-8eb6-65f3898f381f.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Acordos da CAPES financiam quase 10 mil artigos científicos em publicações estrangeiras",
+      "data": "17/04/2026",
+      "resumo": "17/04/2026 -\n                Parcerias com editoras internacionais beneficiam 7.380 autores de 271 instituições e ampliam a presença da ciência brasileira no cenário global",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_APC.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4296-acordos-da-capes-financiam-quase-10-mil-artigos-cientificos-em-publicacoes-estrangeiras.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Curso oferta vagas para bibliotecários da área da saúde",
+      "data": "07/04/2026",
+      "resumo": "07/04/2026 -\n                Inscrição para a capacitação da editora Wolters Kluwer Health será unicamente no dia 15 de abril, e aulas começam em 18 de junho",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_WoltersKluwer.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4294-curso-oferta-vagas-para-bibliotecarios-da-area-da-saude.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Oferecidos pela CAPES, os treinamentos dos Periódicos começam na primeira quinzena de abril",
+      "data": "30/03/2026",
+      "resumo": "30/03/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar ferramentas de escrita científica, inteligência artificial na saúde e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_primeira_quinzena_abril.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4293-oferecidos-pela-capes-os-treinamentos-dos-periodicos-comecam-na-primeira-quinzena-de-abril.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
