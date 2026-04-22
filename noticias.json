@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "CNFCP/Iphan celebra o Dia de São Jorge com evento no Rio (RJ)",
+      "data": "22/04/2026",
+      "resumo": "22/04/2026 - Programação acontece no sábado (25/4) e inclui o espetáculo gratuito \"A Saga de Jorge\" e a tradicional Feijoada da Tia Cida, do Quilombo Ferreira Diniz",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cnfcp-iphan-celebra-o-dia-de-sao-jorge-com-evento-no-rio-rj/xx2201.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cnfcp-iphan-celebra-o-dia-de-sao-jorge-com-evento-no-rio-rj",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Ilha da Boa Viagem, em Niterói (RJ), é tema de livro que revisita sua história e diferentes usos ao longo do tempo",
       "data": "22/04/2026",
       "resumo": "22/04/2026 - Projeto desenvolvido com participação do Iphan reforça iniciativas de proteção da memória e do patrimônio histórico local",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Em Roraima, Iphan conversa sobre patrimônio cultural com organizações indígenas",
-      "data": "22/04/2026",
-      "resumo": "22/04/2026 - Evento acontecerá no dia 28 de abril na Coordenação Regional da Funai em Boa Vista",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-roraima-iphan-conversa-sobre-patrimonio-cultural-com-organizacoes-indigenas/bannersite_iviphanparticipa-1.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-roraima-iphan-conversa-sobre-patrimonio-cultural-com-organizacoes-indigenas",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "MEC Livros ultrapassa meio milhão de usuários em pouco mais de duas semanas de funcionamento",
+      "data": "",
+      "resumo": "Plataforma lançada pelo Ministério da Educação reúne cerca de 8 mil obras e já registra mais de 263 mil empréstimos",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026040915040_f03b0d9f807a9d8973ed2acea17268109b85d892efa92db9fae77063abd1ca98.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Governo anuncia ações para leitura no Dia do Livro",
       "data": "",
       "resumo": "Lula entrega Prêmio Vivaleitura e ministros lançam PNLL 2026-2035 em Brasília",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240906080952_09f1b2a7-efda-46ae-8306-ca5dbeae212a.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240906080952_cd0f91be-797f-4ea1-8e88-169333e8d2ab.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "Escultor mineiro moldou a identidade estética da capital com obras monumentais, mas permanece subestimado na história da arte brasileira",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260422050452_c35d60ba-74a1-4e2c-91ee-30b8db54f545.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Você realmente sabe quem foi Tiradentes?",
-      "data": "",
-      "resumo": "Saiba como e por que ele foi transformado em herói nacional a partir da Proclamação da República",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20210216100220_a61d333f0dd4d7764e120151d1361497004a728bcf1323d07b88d20e71c9b751.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
