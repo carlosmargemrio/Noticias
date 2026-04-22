@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Em Roraima, Iphan conversa sobre patrimônio cultural com organizações indígenas",
+      "data": "22/04/2026",
+      "resumo": "22/04/2026 - Evento acontecerá no dia 28 de abril na Coordenação Regional da Funai em Boa Vista",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-roraima-iphan-conversa-sobre-patrimonio-cultural-com-organizacoes-indigenas/bannersite_iviphanparticipa-1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/em-roraima-iphan-conversa-sobre-patrimonio-cultural-com-organizacoes-indigenas",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e UFMT entregam casa histórica restaurada em Cuiabá",
       "data": "21/04/2026",
       "resumo": "21/04/2026 - Conclusão da obra foi celebrada no último sábado (18) e marca uma das principais entregas do Programa Conviver na capital mato-grossense",
@@ -14,14 +22,6 @@
       "resumo": "17/04/2026 - O trabalho foi realizado por uma equipe formada por servidores das áreas de arqueologia, patrimônio cultural edificado e imaterial",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-obras-de-restauracao-na-igreja-sao-benedito-em-antonina-pr/img_4871-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-obras-de-restauracao-na-igreja-sao-benedito-em-antonina-pr",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Projeto leva história da resistência negra na Cidade de Goiás (GO) a estudantes",
-      "data": "17/04/2026",
-      "resumo": "17/04/2026 - Entre os dias 7 e 9 de abril, Rota da Presença Negra em Goiás promoveu atividades educativas e culturais para jovens do ensino fundamental e médio",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-leva-historia-da-resistencia-negra-na-cidade-de-goias-go-a-estudantes/whatsapp-image-2026-04-14-at-15-47-56-2.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/projeto-leva-historia-da-resistencia-negra-na-cidade-de-goias-go-a-estudantes",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
