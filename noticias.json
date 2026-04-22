@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Inscrições do 39º Prêmio Rodrigo são prorrogadas até 10 de maio",
+      "data": "22/04/2026",
+      "resumo": "22/04/2026 - Iniciativa vai contemplar 18 vencedores, que receberão 40 mil cada",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-do-39o-premio-rodrigo-sao-prorrogadas-ate-10-de-maio/prmfa-26_banner-noticia-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-do-39o-premio-rodrigo-sao-prorrogadas-ate-10-de-maio",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Em Roraima, Iphan conversa sobre patrimônio cultural com organizações indígenas",
       "data": "22/04/2026",
       "resumo": "22/04/2026 - Evento acontecerá no dia 28 de abril na Coordenação Regional da Funai em Boa Vista",
@@ -14,14 +22,6 @@
       "resumo": "21/04/2026 - Conclusão da obra foi celebrada no último sábado (18) e marca uma das principais entregas do Programa Conviver na capital mato-grossense",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufmt-entregam-casa-historica-restaurada-em-cuiaba/conviver-cuiaba_carrossel_marla-fabrin_18042026.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufmt-entregam-casa-historica-restaurada-em-cuiaba",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan fiscaliza obras de restauração na Igreja São Benedito, em Antonina (PR)",
-      "data": "17/04/2026",
-      "resumo": "17/04/2026 - O trabalho foi realizado por uma equipe formada por servidores das áreas de arqueologia, patrimônio cultural edificado e imaterial",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-obras-de-restauracao-na-igreja-sao-benedito-em-antonina-pr/img_4871-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-fiscaliza-obras-de-restauracao-na-igreja-sao-benedito-em-antonina-pr",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
