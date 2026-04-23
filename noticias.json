@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa de atividade arqueológica com povos indígenas no Acre",
+      "data": "23/04/2026",
+      "resumo": "23/04/2026 - Iniciativa buscou aproximar os povos originários dos sítios arqueológicos do estado",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-atividade-arqueologica-com-povos-indigenas-no-acre-2/whatsapp-image-2026-04-23-at-13-55-48-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-atividade-arqueologica-com-povos-indigenas-no-acre-2",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Sítio Roberto Burle Marx abre inscrições para workshop de ilustração botânica",
       "data": "23/04/2026",
       "resumo": "23/04/2026 - Curso será ministrado pela ilustradora científica Dulce Nascimento, neste sábado (25/4); as vagas são limitadas",
@@ -14,14 +22,6 @@
       "resumo": "22/04/2026 - Programação acontece no sábado (25/4) e inclui o espetáculo gratuito \"A Saga de Jorge\" e a tradicional Feijoada da Tia Cida, do Quilombo Ferreira Diniz",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cnfcp-iphan-celebra-o-dia-de-sao-jorge-com-evento-no-rio-rj/xx2201.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cnfcp-iphan-celebra-o-dia-de-sao-jorge-com-evento-no-rio-rj",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Ilha da Boa Viagem, em Niterói (RJ), é tema de livro que revisita sua história e diferentes usos ao longo do tempo",
-      "data": "22/04/2026",
-      "resumo": "22/04/2026 - Projeto desenvolvido com participação do Iphan reforça iniciativas de proteção da memória e do patrimônio histórico local",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ilha-da-boa-viagem-em-niteroi-rj-e-tema-de-livro-que-revisita-sua-historia-e-diferentes-usos-ao-longo-do-tempo/xIlhadaBoaViagem11.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ilha-da-boa-viagem-em-niteroi-rj-e-tema-de-livro-que-revisita-sua-historia-e-diferentes-usos-ao-longo-do-tempo",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
