@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Sítio Roberto Burle Marx abre inscrições para workshop de ilustração botânica",
+      "data": "23/04/2026",
+      "resumo": "23/04/2026 - Curso será ministrado pela ilustradora científica Dulce Nascimento, neste sábado (25/4); as vagas são limitadas",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-abre-inscricoes-para-workshop-de-ilustracao-botanica/whatsapp-image-2026-04-22-at-15-58-29-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-abre-inscricoes-para-workshop-de-ilustracao-botanica",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "CNFCP/Iphan celebra o Dia de São Jorge com evento no Rio (RJ)",
       "data": "22/04/2026",
       "resumo": "22/04/2026 - Programação acontece no sábado (25/4) e inclui o espetáculo gratuito \"A Saga de Jorge\" e a tradicional Feijoada da Tia Cida, do Quilombo Ferreira Diniz",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Inscrições do 39º Prêmio Rodrigo são prorrogadas até 10 de maio",
-      "data": "22/04/2026",
-      "resumo": "22/04/2026 - Iniciativa vai contemplar 18 vencedores, que receberão 40 mil cada",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-do-39o-premio-rodrigo-sao-prorrogadas-ate-10-de-maio/prmfa-26_banner-noticia-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/inscricoes-do-39o-premio-rodrigo-sao-prorrogadas-ate-10-de-maio",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "A fé que luta: como \"oração a São Jorge\", de Gildo de Freitas, traduz a espiritualidade do trabalhador brasileiro",
+      "data": "",
+      "resumo": "Canção transformou devoção em linguagem popular e revelou uma teologia nascida da vida dura, onde a fé é proteção, resistência e esperança concreta",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260423100432_f7e2f943-5b6f-4f3c-8018-31c2679cd3d9.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Brasileira condenada na França com 5 kg de cocaína gravou vídeo prevendo o pior: \"seguimores, estou presa\"",
       "data": "",
       "resumo": "Flavia Hayasmim Leite Vieira Dias foi abordada por agentes da alfândega e presa na sequência",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026042307040_0b9cd194-216b-49bb-a1f2-68d3771ea2ee.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026042307040_1656a5c3-92c2-4745-b2f2-b73b287c82e6.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "Data homenageia o nascimento do mestre que moldou a identidade musical brasileira e consagra um gênero sofisticado, popular e profundamente nacional",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260423080432_0ab58844ebc0d42bf63378a2507d255e55f8becd72841c351cb6372f227f4403.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "23 de abril: o dia em que nasceu e morreu Shakespeare, o maior intérprete das paixões humanas e do poder",
-      "data": "",
-      "resumo": "Autor de clássicos como “Hamlet”, “Macbeth” e “Romeu e Julieta”, dramaturgo inglês atravessa séculos ao revelar ambição, amor, traição e dilemas universais",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260423080452_0e0fb1777b5d5eea154fe3052b169f977ec17410fa71ea251b144e01e6bb915d.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
