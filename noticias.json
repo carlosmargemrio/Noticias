@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "MEC Livros ampliará acervo para 25 mil títulos",
+      "data": "",
+      "resumo": "O Ministério da Educação também alterou as regras de empréstimo para tornar o uso mais flexível",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026042323044_1f97b7ed-f5d4-44e2-8424-19e2b48acd0a.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "A fé que luta: como \"oração a São Jorge\", de Gildo de Freitas, traduz a espiritualidade do trabalhador brasileiro",
       "data": "",
       "resumo": "Canção transformou devoção em linguagem popular e revelou uma teologia nascida da vida dura, onde a fé é proteção, resistência e esperança concreta",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260423100432_f7e2f943-5b6f-4f3c-8018-31c2679cd3d9.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260423100432_6b69e810acc1f07001765aef67242b543fedb85d0d8d10a8dad0ad71389ab0de.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026042307040_1656a5c3-92c2-4745-b2f2-b73b287c82e6.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Hoje é o dia de celebrar o choro, um dos grandes patrimônios do Brasil, e o gênio Pixinguinha",
-      "data": "",
-      "resumo": "Data homenageia o nascimento do mestre que moldou a identidade musical brasileira e consagra um gênero sofisticado, popular e profundamente nacional",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260423080432_0ab58844ebc0d42bf63378a2507d255e55f8becd72841c351cb6372f227f4403.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Acordos da CAPES financiam quase 10 mil artigos científicos em publicações estrangeiras",
-      "data": "17/04/2026",
-      "resumo": "17/04/2026 -\n                Parcerias com editoras internacionais beneficiam 7.380 autores de 271 instituições e ampliam a presença da ciência brasileira no cenário global",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_APC.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4296-acordos-da-capes-financiam-quase-10-mil-artigos-cientificos-em-publicacoes-estrangeiras.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Curso oferta vagas para bibliotecários da área da saúde",
-      "data": "07/04/2026",
-      "resumo": "07/04/2026 -\n                Inscrição para a capacitação da editora Wolters Kluwer Health será unicamente no dia 15 de abril, e aulas começam em 18 de junho",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_WoltersKluwer.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4294-curso-oferta-vagas-para-bibliotecarios-da-area-da-saude.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Oferecidos pela CAPES, os treinamentos dos Periódicos começam na primeira quinzena de abril",
-      "data": "30/03/2026",
-      "resumo": "30/03/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar ferramentas de escrita científica, inteligência artificial na saúde e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_primeira_quinzena_abril.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4293-oferecidos-pela-capes-os-treinamentos-dos-periodicos-comecam-na-primeira-quinzena-de-abril.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
