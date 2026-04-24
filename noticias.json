@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Abertura da exposição “Mulheres Guerreiras: arte com fogo”, nesta sexta-feira, na sede do Iphan",
+      "data": "24/04/2026",
+      "resumo": "24/04/2026 - A exposição estará aberta ao público externo e interno até 12 de junho",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/abertura-da-exposicao-201cmulheres-guerreiras-arte-com-fogo201d-nesta-sexta-feira-na-sede-do-iphan/img_0490.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/abertura-da-exposicao-201cmulheres-guerreiras-arte-com-fogo201d-nesta-sexta-feira-na-sede-do-iphan",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Espaço Expositivo de Gravuras Rupestres e Repositório Digital da Unir são inaugurados em Porto Velho (RO)",
       "data": "24/04/2026",
       "resumo": "24/04/2026 - Iniciativas são fruto de processo de negociação conduzido pelo Iphan junto à Jirau Energia como parte das medidas de compensação por impactos em bens acautelados",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan e feirantes debatem registro das tradições da feira do Mercado Ver-o-Peso em Belém (PA)",
-      "data": "23/04/2026",
-      "resumo": "23/04/2026 - Reunião técnica realizada no Solar da Beira discutiu a proposta de inscrição da Feira do Ver-o-Peso como Patrimônio Cultural Imaterial do Brasil",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-feirantes-debatem-registro-das-tradicoes-da-feira-do-mercado-ver-o-peso-em-belem-pa/51326728859_6efc27b7d8_b-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-feirantes-debatem-registro-das-tradicoes-da-feira-do-mercado-ver-o-peso-em-belem-pa",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Michael Jackson volta ao centro de acusações de abuso sexual",
+      "data": "",
+      "resumo": "Família que defendia o cantor agora o acusa e move processo contra espólio milionário",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260424120420_681279ce-7d06-41ee-bf8f-968838df7dae.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Seminário debate roteiro e IA no audiovisual brasileiro",
       "data": "",
       "resumo": "Evento reúne especialistas para discutir telenovela, inteligência artificial e narrativas contemporâneas",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260424090456_51153b99e74d7fa8eaf2dd78340ae2da532fefa0896f57b09cbb8a536c2f73da.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260424090456_e2f5dc44d5d36c1c2e78ba381c68783bdec3dae0f938a44bcbbbf88314cdb1f9.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20241222051256_2aa9ef65-175c-46f7-8249-ca21e5677aed.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "MEC Livros ampliará acervo para 25 mil títulos",
-      "data": "",
-      "resumo": "O Ministério da Educação também alterou as regras de empréstimo para tornar o uso mais flexível",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026042323044_775e3acf-d294-44f3-b653-bfbf7fb3304c.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Acordos da CAPES financiam quase 10 mil artigos científicos em publicações estrangeiras",
-      "data": "17/04/2026",
-      "resumo": "17/04/2026 -\n                Parcerias com editoras internacionais beneficiam 7.380 autores de 271 instituições e ampliam a presença da ciência brasileira no cenário global",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_APC.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4296-acordos-da-capes-financiam-quase-10-mil-artigos-cientificos-em-publicacoes-estrangeiras.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Curso oferta vagas para bibliotecários da área da saúde",
-      "data": "07/04/2026",
-      "resumo": "07/04/2026 -\n                Inscrição para a capacitação da editora Wolters Kluwer Health será unicamente no dia 15 de abril, e aulas começam em 18 de junho",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_WoltersKluwer.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4294-curso-oferta-vagas-para-bibliotecarios-da-area-da-saude.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Oferecidos pela CAPES, os treinamentos dos Periódicos começam na primeira quinzena de abril",
-      "data": "30/03/2026",
-      "resumo": "30/03/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar ferramentas de escrita científica, inteligência artificial na saúde e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_primeira_quinzena_abril.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4293-oferecidos-pela-capes-os-treinamentos-dos-periodicos-comecam-na-primeira-quinzena-de-abril.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
