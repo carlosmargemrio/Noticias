@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove atividades com alunos da rede pública de ensino do PR",
+      "data": "24/04/2026",
+      "resumo": "24/04/2026 - As ações, em Curitiba e em Paranaguá (PR), levaram crianças e jovens a explorarem espaços históricos e a refletir sobre memória, identidade e patrimônio cultural",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-atividades-com-alunos-da-rede-publica-de-ensino-do-pr/whatsapp-image-2026-04-24-at-16-32-46-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-atividades-com-alunos-da-rede-publica-de-ensino-do-pr",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Ibram e CNFCP celebram acordo para ampliação do espaço para acervo do Museu de Folclore Edison Carneiro",
       "data": "24/04/2026",
       "resumo": "24/04/2026 - Termo prevê cessão de área nos jardins do Museu da República para abrigar reserva técnica da instituição",
@@ -14,14 +22,6 @@
       "resumo": "24/04/2026 - A exposição estará aberta ao público externo e interno até 12 de junho",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/abertura-da-exposicao-201cmulheres-guerreiras-arte-com-fogo201d-nesta-sexta-feira-na-sede-do-iphan/img_0490.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/abertura-da-exposicao-201cmulheres-guerreiras-arte-com-fogo201d-nesta-sexta-feira-na-sede-do-iphan",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Espaço Expositivo de Gravuras Rupestres e Repositório Digital da Unir são inaugurados em Porto Velho (RO)",
-      "data": "24/04/2026",
-      "resumo": "24/04/2026 - Iniciativas são fruto de processo de negociação conduzido pelo Iphan junto à Jirau Energia como parte das medidas de compensação por impactos em bens acautelados",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/espaco-expositivo-de-gravuras-rupestres-e-repositorio-digital-da-unir-sao-inaugurados-em-porto-velho-ro/whatsapp-image-2026-04-23-at-15-42-38-1-2.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/espaco-expositivo-de-gravuras-rupestres-e-repositorio-digital-da-unir-sao-inaugurados-em-porto-velho-ro",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20241222051256_2aa9ef65-175c-46f7-8249-ca21e5677aed.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Acordos da CAPES financiam quase 10 mil artigos científicos em publicações estrangeiras",
+      "data": "17/04/2026",
+      "resumo": "17/04/2026 -\n                Parcerias com editoras internacionais beneficiam 7.380 autores de 271 instituições e ampliam a presença da ciência brasileira no cenário global",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_APC.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4296-acordos-da-capes-financiam-quase-10-mil-artigos-cientificos-em-publicacoes-estrangeiras.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Curso oferta vagas para bibliotecários da área da saúde",
+      "data": "07/04/2026",
+      "resumo": "07/04/2026 -\n                Inscrição para a capacitação da editora Wolters Kluwer Health será unicamente no dia 15 de abril, e aulas começam em 18 de junho",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_WoltersKluwer.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4294-curso-oferta-vagas-para-bibliotecarios-da-area-da-saude.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Oferecidos pela CAPES, os treinamentos dos Periódicos começam na primeira quinzena de abril",
+      "data": "30/03/2026",
+      "resumo": "30/03/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar ferramentas de escrita científica, inteligência artificial na saúde e acordos de leitura e publicação",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_primeira_quinzena_abril.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4293-oferecidos-pela-capes-os-treinamentos-dos-periodicos-comecam-na-primeira-quinzena-de-abril.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
