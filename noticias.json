@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Ibram e CNFCP celebram acordo para ampliação do espaço para acervo do Museu de Folclore Edison Carneiro",
+      "data": "24/04/2026",
+      "resumo": "24/04/2026 - Termo prevê cessão de área nos jardins do Museu da República para abrigar reserva técnica da instituição",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ibram-e-cnfcp-celebram-acordo-para-ampliacao-do-espaco-para-acervo-do-museu-de-folclore-edison-carneiro/c0669c88-bb18-4a45-9987-3b23db369264-1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ibram-e-cnfcp-celebram-acordo-para-ampliacao-do-espaco-para-acervo-do-museu-de-folclore-edison-carneiro",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Abertura da exposição “Mulheres Guerreiras: arte com fogo”, nesta sexta-feira, na sede do Iphan",
       "data": "24/04/2026",
       "resumo": "24/04/2026 - A exposição estará aberta ao público externo e interno até 12 de junho",
@@ -14,14 +22,6 @@
       "resumo": "24/04/2026 - Iniciativas são fruto de processo de negociação conduzido pelo Iphan junto à Jirau Energia como parte das medidas de compensação por impactos em bens acautelados",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/espaco-expositivo-de-gravuras-rupestres-e-repositorio-digital-da-unir-sao-inaugurados-em-porto-velho-ro/whatsapp-image-2026-04-23-at-15-42-38-1-2.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/espaco-expositivo-de-gravuras-rupestres-e-repositorio-digital-da-unir-sao-inaugurados-em-porto-velho-ro",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e PF promovem ação de combate ao tráfico de bens culturais",
-      "data": "23/04/2026",
-      "resumo": "23/04/2026 - Painéis digitais e telões distribuídos pelo aeroporto Internacional de São Paulo/Guarulhos vão orientar os viajantes sobre a prática criminosa",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-pf-promovem-acao-de-combate-ao-trafico-de-bens-culturais/banner-site-jpg.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-pf-promovem-acao-de-combate-ao-trafico-de-bens-culturais",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
