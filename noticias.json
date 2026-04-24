@@ -1,26 +1,50 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Espaço Expositivo de Gravuras Rupestres e Repositório Digital da Unir são inaugurados em Porto Velho (RO)",
+      "data": "24/04/2026",
+      "resumo": "24/04/2026 - Iniciativas são fruto de processo de negociação conduzido pelo Iphan junto à Jirau Energia como parte das medidas de compensação por impactos em bens acautelados",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/espaco-expositivo-de-gravuras-rupestres-e-repositorio-digital-da-unir-sao-inaugurados-em-porto-velho-ro/whatsapp-image-2026-04-23-at-15-42-38-1-2.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/espaco-expositivo-de-gravuras-rupestres-e-repositorio-digital-da-unir-sao-inaugurados-em-porto-velho-ro",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan e PF promovem ação de combate ao tráfico de bens culturais",
+      "data": "23/04/2026",
+      "resumo": "23/04/2026 - Painéis digitais e telões distribuídos pelo aeroporto Internacional de São Paulo/Guarulhos vão orientar os viajantes sobre a prática criminosa",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-pf-promovem-acao-de-combate-ao-trafico-de-bens-culturais/banner-site-jpg.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-pf-promovem-acao-de-combate-ao-trafico-de-bens-culturais",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan e feirantes debatem registro das tradições da feira do Mercado Ver-o-Peso em Belém (PA)",
+      "data": "23/04/2026",
+      "resumo": "23/04/2026 - Reunião técnica realizada no Solar da Beira discutiu a proposta de inscrição da Feira do Ver-o-Peso como Patrimônio Cultural Imaterial do Brasil",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-feirantes-debatem-registro-das-tradicoes-da-feira-do-mercado-ver-o-peso-em-belem-pa/51326728859_6efc27b7d8_b-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-feirantes-debatem-registro-das-tradicoes-da-feira-do-mercado-ver-o-peso-em-belem-pa",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Seminário debate roteiro e IA no audiovisual brasileiro",
+      "data": "",
+      "resumo": "Evento reúne especialistas para discutir telenovela, inteligência artificial e narrativas contemporâneas",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260424090456_51153b99e74d7fa8eaf2dd78340ae2da532fefa0896f57b09cbb8a536c2f73da.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Revelando SP 2026 confirma shows em Barretos",
+      "data": "",
+      "resumo": "Evento gratuito reúne música, artesanato e tradições paulistas entre 15 e 17 de maio",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20241222051256_2aa9ef65-175c-46f7-8249-ca21e5677aed.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "MEC Livros ampliará acervo para 25 mil títulos",
       "data": "",
       "resumo": "O Ministério da Educação também alterou as regras de empréstimo para tornar o uso mais flexível",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026042323044_1f97b7ed-f5d4-44e2-8424-19e2b48acd0a.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "A fé que luta: como \"oração a São Jorge\", de Gildo de Freitas, traduz a espiritualidade do trabalhador brasileiro",
-      "data": "",
-      "resumo": "Canção transformou devoção em linguagem popular e revelou uma teologia nascida da vida dura, onde a fé é proteção, resistência e esperança concreta",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260423100432_6b69e810acc1f07001765aef67242b543fedb85d0d8d10a8dad0ad71389ab0de.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Brasileira condenada na França com 5 kg de cocaína gravou vídeo prevendo o pior: \"seguimores, estou presa\"",
-      "data": "",
-      "resumo": "Flavia Hayasmim Leite Vieira Dias foi abordada por agentes da alfândega e presa na sequência",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026042307040_1656a5c3-92c2-4745-b2f2-b73b287c82e6.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026042323044_775e3acf-d294-44f3-b653-bfbf7fb3304c.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
