@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan e PM da Paraíba firmam parceria para reforçar segurança de imóveis tombados",
+      "data": "27/04/2026",
+      "resumo": "27/04/2026 - Colaboração lança plano que usa o próprio espaço físico como ferramenta de prevenção ao crime em bens tombados de João Pessoa",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-pm-da-paraiba-firmam-parceria-para-reforcar-seguranca-de-imoveis-tombados/whatsapp-image-2026-04-23-at-14-26-20-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-pm-da-paraiba-firmam-parceria-para-reforcar-seguranca-de-imoveis-tombados",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan promove atividades com alunos da rede pública de ensino do PR",
       "data": "24/04/2026",
       "resumo": "24/04/2026 - As ações, em Curitiba e em Paranaguá (PR), levaram crianças e jovens a explorarem espaços históricos e a refletir sobre memória, identidade e patrimônio cultural",
@@ -14,14 +22,6 @@
       "resumo": "24/04/2026 - Termo prevê cessão de área nos jardins do Museu da República para abrigar reserva técnica da instituição",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ibram-e-cnfcp-celebram-acordo-para-ampliacao-do-espaco-para-acervo-do-museu-de-folclore-edison-carneiro/c0669c88-bb18-4a45-9987-3b23db369264-1.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ibram-e-cnfcp-celebram-acordo-para-ampliacao-do-espaco-para-acervo-do-museu-de-folclore-edison-carneiro",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Abertura da exposição “Mulheres Guerreiras: arte com fogo”, nesta sexta-feira, na sede do Iphan",
-      "data": "24/04/2026",
-      "resumo": "24/04/2026 - A exposição estará aberta ao público externo e interno até 12 de junho",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/abertura-da-exposicao-201cmulheres-guerreiras-arte-com-fogo201d-nesta-sexta-feira-na-sede-do-iphan/img_0490.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/abertura-da-exposicao-201cmulheres-guerreiras-arte-com-fogo201d-nesta-sexta-feira-na-sede-do-iphan",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
