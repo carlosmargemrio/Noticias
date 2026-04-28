@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa da 2ª Conferência Nacional de Arquivos",
+      "data": "28/04/2026",
+      "resumo": "28/04/2026 - Evento discutiu a importância do tema para promoção da cidadania e democracia",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-2a-conferencia-nacional-de-arquivos-1/whatsapp-image-2026-04-28-at-15-08-51-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-da-2a-conferencia-nacional-de-arquivos-1",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "No RJ, Iphan recebe a exposição fotográfica “Olhos de Ver 2025”, que revela o cotidiano carioca através de portas e janelas",
       "data": "28/04/2026",
       "resumo": "28/04/2026 - Mostra promovida pelo Instituto Rio Patrimônio da Humanidade reúne 50 fotografias escolhidas pelo público",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Exposição de louças de barro chega à Sala do Artista Popular no dia 30 de abril",
-      "data": "27/04/2026",
-      "resumo": "27/04/2026 - Peças são feitas com matéria orgânica do solo amazônico seguindo conhecimentos indígenas e africanos",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/exposicao-de-loucas-de-barro-chega-a-sala-do-artista-popular-no-dia-30-de-abril/banner-site-maruanum-cnfcp-3.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/exposicao-de-loucas-de-barro-chega-a-sala-do-artista-popular-no-dia-30-de-abril",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Gonzaguinha, símbolo da resistência democrática e da dignidade popular na música brasileira",
+      "data": "",
+      "resumo": "Compositor enfrentou a ditadura com letras contundentes e construiu uma obra que segue atual ao denunciar desigualdades e defender o povo brasileiro",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260428150436_dbeb19a56aea2b48813b0a1f01389f66a53f0e21718ca8ec8f9fe8d23ff2ef9e.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Câmara do Recife barra homenagem a Wagner Moura por falta de votos",
       "data": "",
       "resumo": "Proposta não atingiu quórum qualificado e gerou debate entre vereadores sobre critérios para concessão de títulos honoríficos",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260122110120_55ade9e505e2b7d0c68906331b0ac0d140484348fcf8137961e02988d518932d.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260122110120_550ff6192d57337054dad7307b625e330d302e69e097d9353801d235b98e4ec7.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260427080420_5037e68c96dde3bde27208d3f3cf6df6e01b8f4e5e3a1503bceacddeab34d3c0.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Milton Hatoum toma posse na ABL e diz que 'não vivemos apenas no real, mas também no imaginário'",
-      "data": "",
-      "resumo": "O escritor sucede o jornalista Cícero Sandroni e tornou-se o primeiro representante do Amazonas na instituição",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2025081419084_57d1a709-328f-4eae-a393-40df0e6e7350.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Acordos da CAPES financiam quase 10 mil artigos científicos em publicações estrangeiras",
-      "data": "17/04/2026",
-      "resumo": "17/04/2026 -\n                Parcerias com editoras internacionais beneficiam 7.380 autores de 271 instituições e ampliam a presença da ciência brasileira no cenário global",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_APC.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4296-acordos-da-capes-financiam-quase-10-mil-artigos-cientificos-em-publicacoes-estrangeiras.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Curso oferta vagas para bibliotecários da área da saúde",
-      "data": "07/04/2026",
-      "resumo": "07/04/2026 -\n                Inscrição para a capacitação da editora Wolters Kluwer Health será unicamente no dia 15 de abril, e aulas começam em 18 de junho",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_WoltersKluwer.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4294-curso-oferta-vagas-para-bibliotecarios-da-area-da-saude.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Oferecidos pela CAPES, os treinamentos dos Periódicos começam na primeira quinzena de abril",
-      "data": "30/03/2026",
-      "resumo": "30/03/2026 -\n                Ciclo de eventos gratuitos, on-line e interativos irá abordar ferramentas de escrita científica, inteligência artificial na saúde e acordos de leitura e publicação",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_primeira_quinzena_abril.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4293-oferecidos-pela-capes-os-treinamentos-dos-periodicos-comecam-na-primeira-quinzena-de-abril.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
