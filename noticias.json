@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "No RJ, Iphan recebe a exposição fotográfica “Olhos de Ver 2025”, que revela o cotidiano carioca através de portas e janelas",
+      "data": "28/04/2026",
+      "resumo": "28/04/2026 - Mostra promovida pelo Instituto Rio Patrimônio da Humanidade reúne 50 fotografias escolhidas pelo público",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-rj-iphan-recebe-a-exposicao-fotografica-201colhos-de-ver-2025201d-que-revela-o-cotidiano-carioca-atraves-de-portas-e-janelas/xxxx20260427_200905140_iOS3.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/no-rj-iphan-recebe-a-exposicao-fotografica-201colhos-de-ver-2025201d-que-revela-o-cotidiano-carioca-atraves-de-portas-e-janelas",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan inicia Segundo Ciclo de Diálogos sobre Patrimônio Cultural e Ações Climáticas",
       "data": "27/04/2026",
       "resumo": "27/04/2026 - Nos dias 16 e 17 de abril, servidores do Instituto e gestores participaram da “Formação Institucional: Letramento Climático Aplicado ao Patrimônio Cultural”",
@@ -14,14 +22,6 @@
       "resumo": "27/04/2026 - Peças são feitas com matéria orgânica do solo amazônico seguindo conhecimentos indígenas e africanos",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/exposicao-de-loucas-de-barro-chega-a-sala-do-artista-popular-no-dia-30-de-abril/banner-site-maruanum-cnfcp-3.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/exposicao-de-loucas-de-barro-chega-a-sala-do-artista-popular-no-dia-30-de-abril",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e PM da Paraíba firmam parceria para reforçar segurança de imóveis tombados",
-      "data": "27/04/2026",
-      "resumo": "27/04/2026 - Colaboração lança plano que usa o próprio espaço físico como ferramenta de prevenção ao crime em bens tombados de João Pessoa",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-pm-da-paraiba-firmam-parceria-para-reforcar-seguranca-de-imoveis-tombados/whatsapp-image-2026-04-23-at-14-26-20-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-pm-da-paraiba-firmam-parceria-para-reforcar-seguranca-de-imoveis-tombados",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
