@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Chamada para financiamento do Fundo para a Diversidade Cultural da Unesco",
+      "data": "29/04/2026",
+      "resumo": "29/04/2026 - Com inscrições abertas até 6 de maio, chamada investe em iniciativas culturais de até US$ 100 mil",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/chamada-para-financiamento-do-fundo-para-a-diversidade-cultural-da-unesco/128c5883-1302-4061-a0c6-3d2e7bd0fff8-1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/chamada-para-financiamento-do-fundo-para-a-diversidade-cultural-da-unesco",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan participa da 2ª Conferência Nacional de Arquivos",
       "data": "28/04/2026",
       "resumo": "28/04/2026 - Evento discutiu a importância do tema para promoção da cidadania e democracia",
@@ -17,34 +25,26 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan inicia Segundo Ciclo de Diálogos sobre Patrimônio Cultural e Ações Climáticas",
-      "data": "27/04/2026",
-      "resumo": "27/04/2026 - Nos dias 16 e 17 de abril, servidores do Instituto e gestores participaram da “Formação Institucional: Letramento Climático Aplicado ao Patrimônio Cultural”",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-segundo-ciclo-de-dialogos-sobre-patrimonio-cultural-e-acoes-climaticas/pxl_20260416_125705577-mp-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-segundo-ciclo-de-dialogos-sobre-patrimonio-cultural-e-acoes-climaticas",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Lula sanciona lei que regulamenta profissionais da dança",
+      "data": "",
+      "resumo": "Nova lei garante direitos trabalhistas e autorais a bailarinos, coreógrafos, professores e demais profissionais da dança",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260429090420_0c05ead5-dc5d-4b99-acd0-29093a252150.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Daniela Mercury acusa Edson Gomes de violência contra mulher, artista rebate e evento acaba em tensão; assista",
+      "data": "",
+      "resumo": "Mesmo após o pedido de desculpas, o clima permaneceu tenso.",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20250304070312_7c082200-e924-4504-9d3a-3282aa0d4119.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Gonzaguinha, símbolo da resistência democrática e da dignidade popular na música brasileira",
       "data": "",
       "resumo": "Compositor enfrentou a ditadura com letras contundentes e construiu uma obra que segue atual ao denunciar desigualdades e defender o povo brasileiro",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260428150436_dbeb19a56aea2b48813b0a1f01389f66a53f0e21718ca8ec8f9fe8d23ff2ef9e.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Câmara do Recife barra homenagem a Wagner Moura por falta de votos",
-      "data": "",
-      "resumo": "Proposta não atingiu quórum qualificado e gerou debate entre vereadores sobre critérios para concessão de títulos honoríficos",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260122110120_550ff6192d57337054dad7307b625e330d302e69e097d9353801d235b98e4ec7.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Conheça Alfonsina Storni e seu legado feminista",
-      "data": "",
-      "resumo": "Escritora argentina transformou a literatura com crítica social e feminismo",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260427080420_5037e68c96dde3bde27208d3f3cf6df6e01b8f4e5e3a1503bceacddeab34d3c0.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260428150436_1e5600295a0bdbb3e019ccad5c03caa94d37ed90aa0f713c1b77b622f5cf7ac8.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
