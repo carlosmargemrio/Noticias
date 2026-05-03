@@ -25,10 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
+      "titulo": "Mais de 2 milhões de pessoas assistem ao show de Shakira em Copacabana",
+      "data": "",
+      "resumo": "As autoridades estimaram que o show de Shakira gerou cerca de R$ 800 milhões para a economia do Rio",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260503150516_400efc03-5575-43dc-9df7-0f1487be2719.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Grupo Estação transforma pré-estreia de O Diabo Veste Prada 2 em experiência cultural no RJ",
       "data": "",
       "resumo": "Evento no Estação Net Gávea reúne público em noite que mistura cinema, moda e participação coletiva",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260502170552_ebffe339281c88b74e306c8c0bdc126280461212ae945dd8173475dfb1f3f86c.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260502170552_ff99d5e6ca64f8dd91090773a8e7a60b31f5b727f6f9fd88fb1ae87bcf24f706.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -39,38 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20240618130612_fb1c17cc85888e3a9fc09121a941038fcc4ca2cfec9bd6f75f04ce8fbd825856.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "MST e Inimigos do Batente celebram o Dia do Trabalhador com Moacyr Luz e o legado de Beth Carvalho",
-      "data": "",
-      "resumo": "Entre música, culinária da terra e militância, série “O Samba da Minha Terra” entrega Medalha Beth Carvalho a Moacyr Luz",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2021092918090_35cb7ce0-6975-4c18-8c19-39de15abcd68.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES promove palestras sobre publicação em acesso aberto com o acordo IEEE",
-      "data": "29/04/2026",
-      "resumo": "29/04/2026 -\n                Evento terá quatro cursos presenciais realizados na Bahia, Pernambuco, Ceará e Pará nas respectivas universidades federais de cada estado",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_matria_IEEE_e_Capes.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4297-capes-promove-palestras-sobre-publicacao-em-acesso-aberto-com-o-acordo-ieee.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Acordos da CAPES financiam quase 10 mil artigos científicos em publicações estrangeiras",
-      "data": "17/04/2026",
-      "resumo": "17/04/2026 -\n                Parcerias com editoras internacionais beneficiam 7.380 autores de 271 instituições e ampliam a presença da ciência brasileira no cenário global",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_APC.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4296-acordos-da-capes-financiam-quase-10-mil-artigos-cientificos-em-publicacoes-estrangeiras.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Curso oferta vagas para bibliotecários da área da saúde",
-      "data": "07/04/2026",
-      "resumo": "07/04/2026 -\n                Inscrição para a capacitação da editora Wolters Kluwer Health será unicamente no dia 15 de abril, e aulas começam em 18 de junho",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_WoltersKluwer.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4294-curso-oferta-vagas-para-bibliotecarios-da-area-da-saude.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
