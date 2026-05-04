@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan promove atividades no ES para fortalecer a preservação do patrimônio arqueológico",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 - Articulação com instituições capixabas amplia ações de preservação e difusão dos acervos no estado",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-atividades-no-es-para-fortalecer-a-preservacao-do-patrimonio-arqueologico/xxWhatsAppImage20260429at12.17.031.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-atividades-no-es-para-fortalecer-a-preservacao-do-patrimonio-arqueologico",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "5 coisas que você vê na visita guiada ao Arquivo Central do Iphan, em Brasília (DF)",
       "data": "04/05/2026",
       "resumo": "04/05/2026 - Qualquer pessoa interessada pode agendar uma visita a partir do preenchimento de formulário on-line",
@@ -14,14 +22,6 @@
       "resumo": "04/05/2026 - A iniciativa busca incorporar demandas da sociedade cachoeirana diante das transformações urbanas, sociais e culturais",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-oficina-de-delimitacao-do-conjunto-tombado-de-cachoeira-na-bahia/whatsapp-image-2026-04-30-at-11-44-35-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-oficina-de-delimitacao-do-conjunto-tombado-de-cachoeira-na-bahia",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan promove oficina para fortalecer a proteção do patrimônio cultural de matriz africana no Pará",
-      "data": "30/04/2026",
-      "resumo": "30/04/2026 - Encontro resultou na criação de um Grupo de Trabalho com Baianas do Acarajé, lideranças de terreiros e representantes do poder público",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-para-fortalecer-a-protecao-do-patrimonio-cultural-de-matriz-africana-no-para/whatsapp-image-2026-04-28-at-18-31-16-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-oficina-para-fortalecer-a-protecao-do-patrimonio-cultural-de-matriz-africana-no-para",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260503150516_ca0ad479681c8c1befd5d6875a8dcc78810d00896551e0028bb2866ec20fec23.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES promove palestras sobre publicação em acesso aberto com o acordo IEEE",
-      "data": "29/04/2026",
-      "resumo": "29/04/2026 -\n                Evento terá quatro cursos presenciais realizados na Bahia, Pernambuco, Ceará e Pará nas respectivas universidades federais de cada estado",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_matria_IEEE_e_Capes.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4297-capes-promove-palestras-sobre-publicacao-em-acesso-aberto-com-o-acordo-ieee.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Acordos da CAPES financiam quase 10 mil artigos científicos em publicações estrangeiras",
-      "data": "17/04/2026",
-      "resumo": "17/04/2026 -\n                Parcerias com editoras internacionais beneficiam 7.380 autores de 271 instituições e ampliam a presença da ciência brasileira no cenário global",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_APC.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/96-divulga%C3%A7%C3%A3o-cient%C3%ADfica/4296-acordos-da-capes-financiam-quase-10-mil-artigos-cientificos-em-publicacoes-estrangeiras.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Curso oferta vagas para bibliotecários da área da saúde",
-      "data": "07/04/2026",
-      "resumo": "07/04/2026 -\n                Inscrição para a capacitação da editora Wolters Kluwer Health será unicamente no dia 15 de abril, e aulas começam em 18 de junho",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_WoltersKluwer.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/93-editores/4294-curso-oferta-vagas-para-bibliotecarios-da-area-da-saude.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
