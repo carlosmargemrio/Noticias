@@ -1,1 +1,10 @@
-
+{
+  "anuncios": [
+    {
+      "tipo": "imagem",
+      "src": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/noticias/anuncios/anuncie.webp",
+      "duracao": 12000,
+      "titulo": "Anuncie aqui"
+    }
+  ]
+}
