@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan realiza fiscalização de emergência em capelas históricas após alertas de chuvas intensas na Paraíba",
+      "data": "05/05/2026",
+      "resumo": "05/05/2026 - Monumentos do século 17 localizados na várzea do Rio Paraíba estão sob monitoramento diante da ameaça climática que já colocou mais de 30 municípios em emergência",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-fiscalizacao-de-emergencia-em-capelas-historicas-apos-alertas-de-chuvas-intensas-na-paraiba/whatsapp-image-2026-05-04-at-15-45-28-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-fiscalizacao-de-emergencia-em-capelas-historicas-apos-alertas-de-chuvas-intensas-na-paraiba",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Indígenas do Rio Negro aprovam plano de salvaguarda do Sistema Agrícola Tradicional",
       "data": "05/05/2026",
       "resumo": "05/05/2026 - Oficina realizada em São Gabriel da Cachoeira reuniu detentores, lideranças e instituições parceiras",
@@ -14,14 +22,6 @@
       "resumo": "05/05/2026 - Evento gratuito celebra as raízes da Baixada Cuiabana com grupos tradicionais de Cuiabá e Várzea Grande",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/festival-de-siriri-e-cururu-chega-a-17a-edicao-em-cuiaba-no-mato-grosso/viola-de-cocho-2-2.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/festival-de-siriri-e-cururu-chega-a-17a-edicao-em-cuiaba-no-mato-grosso",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan e comunidades indígenas aprovam plano de salvaguarda da Cachoeira de Iauaretê",
-      "data": "04/05/2026",
-      "resumo": "04/05/2026 - Oficina no Distrito de Iauaretê reuniu a comunidade para definir ações de proteção do lugar sagrado",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-comunidades-indigenas-aprovam-plano-de-salvaguarda-da-cachoeira-de-iauarete/140426-evento-iauarete-tarde-37-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-comunidades-indigenas-aprovam-plano-de-salvaguarda-da-cachoeira-de-iauarete",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
