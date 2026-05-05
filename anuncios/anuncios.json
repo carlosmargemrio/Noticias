@@ -5,6 +5,14 @@
       "src": "https://raw.githubusercontent.com/carlosmargemrio/Noticias/main/noticias/anuncios/anuncie.webp",
       "duracao": 12000,
       "titulo": "Anuncie aqui"
+    },
+    {
+      "tipo": "imagem",
+      "src": "https://tse2.mm.bing.net/th/id/OIP.8yX7pRzuMA6kq0ERZeolNwHaJQ?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "duracao": 12000,
+      "titulo": "dengue_campanha"
     }
+
+    
   ]
 }
