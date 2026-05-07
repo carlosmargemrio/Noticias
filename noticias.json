@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Centro Nacional de Arqueologia (CNA) completa 17 anos",
+      "data": "07/05/2026",
+      "resumo": "07/05/2026 - Unidade especial do Iphan tem avançado na modernização de seus instrumentos de gestão",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-nacional-de-arqueologia-cna-completa-17-anos/2009_ap_calcoene_parque-arqueologico_heitor-reali-11.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-nacional-de-arqueologia-cna-completa-17-anos",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Após mais de um século, vitrais da Igreja da Candelária (RJ) passam por restauração inédita",
       "data": "05/05/2026",
       "resumo": "05/05/2026 - Intervenção inclui medidas para reduzir a umidade e a condensação interna que prejudicam os vitrais",
@@ -14,14 +22,6 @@
       "resumo": "05/05/2026 - Monumentos do século 17 localizados na várzea do Rio Paraíba estão sob monitoramento diante da ameaça climática que já colocou mais de 30 municípios em emergência",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-fiscalizacao-de-emergencia-em-capelas-historicas-apos-alertas-de-chuvas-intensas-na-paraiba/whatsapp-image-2026-05-04-at-15-45-28-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-fiscalizacao-de-emergencia-em-capelas-historicas-apos-alertas-de-chuvas-intensas-na-paraiba",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Indígenas do Rio Negro aprovam plano de salvaguarda do Sistema Agrícola Tradicional",
-      "data": "05/05/2026",
-      "resumo": "05/05/2026 - Oficina realizada em São Gabriel da Cachoeira reuniu detentores, lideranças e instituições parceiras",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/indigenas-do-rio-negro-aprovam-plano-de-salvaguarda-do-sistema-agricola-tradicional/dsc08454-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/indigenas-do-rio-negro-aprovam-plano-de-salvaguarda-do-sistema-agricola-tradicional",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
