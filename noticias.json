@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Participe do processo de registro dos Lugares Sagrados de Juazeiro do Norte (CE)",
+      "data": "07/05/2026",
+      "resumo": "07/05/2026 - População tem até 6 de junho para enviar contribuições",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-processo-de-registro-dos-lugares-sagrados-de-juazeiro-do-norte-ce/patio-igreja-matriz-foto-rivelino-mourao-arquivo-cariri-filmes-1-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-processo-de-registro-dos-lugares-sagrados-de-juazeiro-do-norte-ce",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Centro Nacional de Arqueologia (CNA) completa 17 anos",
       "data": "07/05/2026",
       "resumo": "07/05/2026 - Unidade especial do Iphan tem avançado na modernização de seus instrumentos de gestão",
@@ -14,14 +22,6 @@
       "resumo": "05/05/2026 - Intervenção inclui medidas para reduzir a umidade e a condensação interna que prejudicam os vitrais",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/apos-mais-de-um-seculo-vitrais-da-igreja-da-candelaria-rj-passam-por-restauracao-inedita/xxxxWhatsAppImage20260505at14.45.193.png/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/apos-mais-de-um-seculo-vitrais-da-igreja-da-candelaria-rj-passam-por-restauracao-inedita",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan realiza fiscalização de emergência em capelas históricas após alertas de chuvas intensas na Paraíba",
-      "data": "05/05/2026",
-      "resumo": "05/05/2026 - Monumentos do século 17 localizados na várzea do Rio Paraíba estão sob monitoramento diante da ameaça climática que já colocou mais de 30 municípios em emergência",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-fiscalizacao-de-emergencia-em-capelas-historicas-apos-alertas-de-chuvas-intensas-na-paraiba/whatsapp-image-2026-05-04-at-15-45-28-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-fiscalizacao-de-emergencia-em-capelas-historicas-apos-alertas-de-chuvas-intensas-na-paraiba",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20231125121120_6b3cd554e6c9b6e1ea05cd24d4d3a09e6a437c8acd68b48369d74ebe2517e823.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 -\n                A funcionalidade de busca ficará indisponível por até uma hora",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4299-manutencao-no-sistema-de-busca-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Inscrições para Embaixadores Acadêmicos do CAS no Brasil são prorrogadas até 10 de maio",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 -\n                Programa selecionará cinco pesquisadores, um por região, para promover o uso de informação científica; selecionados terão acesso à plataforma disponível no Portal de Periódicos da CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Embaixadores_Acadmicos.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4298-inscricoes-para-embaixadores-academicos-do-cas-no-brasil-sao-prorrogadas-ate-10-de-maio.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES promove palestras sobre publicação em acesso aberto com o acordo IEEE",
+      "data": "29/04/2026",
+      "resumo": "29/04/2026 -\n                Evento terá quatro cursos presenciais realizados na Bahia, Pernambuco, Ceará e Pará nas respectivas universidades federais de cada estado",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_matria_IEEE_e_Capes.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4297-capes-promove-palestras-sobre-publicacao-em-acesso-aberto-com-o-acordo-ieee.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
