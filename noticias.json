@@ -1,6 +1,22 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan em SC exibe filme sobre Engenhos de Farinha de Mandioca",
+      "data": "08/05/2026",
+      "resumo": "08/05/2026 - O documentário Farinhar é fruto do dossiê de registro do bem como patrimônio imaterial do Brasil",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-em-sc-exibe-filme-sobre-engenhos-de-farinha-de-mandioca/floripa_engenho-do-adilson_05-07-24_credito-rancho-cultural_8598.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-em-sc-exibe-filme-sobre-engenhos-de-farinha-de-mandioca",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Iphan inicia restauração do Museu Arquidiocesano de Mariana, em Minas Gerais",
+      "data": "08/05/2026",
+      "resumo": "08/05/2026 - Obra é viabilizada pelo Novo PAC com investimento de R$ 2 milhões",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-restauracao-do-museu-arquidiocesano-de-mariana-em-minas-gerais/whatsapp-image-2026-05-08-at-14-20-31-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-restauracao-do-museu-arquidiocesano-de-mariana-em-minas-gerais",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan divulga distribuição de novas vagas para aprovados no CPNU-2",
       "data": "08/05/2026",
       "resumo": "08/05/2026 - Prazo para manifestar preferência por unidade de atuação vai até 15 de maio",
@@ -9,26 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan promove encontro para construção coletiva do plano de salvaguarda do Repente no Ceará",
-      "data": "08/05/2026",
-      "resumo": "08/05/2026 - A ação reuniu repentistas, pesquisadores e parceiros em formato híbrido, em Quixadá (CE), na Casa de Saberes Cego Aderaldo, e on-line via Google Meet",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-para-construcao-coletiva-do-plano-de-salvaguarda-do-repente-no-ceara/foto-02-davi-mello-2021-valdenor-almeida-e-donzilio-luiz-cantadores-e-cordelistas-durante-cantoria-de-repente-df_foto_21-scaled-1-1-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-para-construcao-coletiva-do-plano-de-salvaguarda-do-repente-no-ceara",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Participe do plano de conservação do centro histórico de Manaus (AM)",
-      "data": "08/05/2026",
-      "resumo": "08/05/2026 - Iphan promoverá encontros para ouvir quem trabalha e vive a cidade de perto",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-plano-de-conservacao-do-centro-historico-de-manaus-am/2015_am_manaus_cidade_jose-paulo-lacerda-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-plano-de-conservacao-do-centro-historico-de-manaus-am",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Revista Ouriço chega a BH com quarta edição dedicada à poesia, crítica e experimentação literária",
+      "data": "",
+      "resumo": "Nova edição da publicação coeditada pelas editoras Relicário e Macondo será apresentada na Quixote Livraria e reúne autores consagrados e novas vozes",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260508160512_8bdbd51f31b682927bdf3c1f32ce88835fd8ee82f2677bad33fbf240e75b69d5.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Dona do hit \"Total Eclipse of the Heart\", Bonnie Tyler é colocada em coma induzido após cirurgia",
       "data": "",
       "resumo": "Aos 74 anos, Bonnie Tyler foi internada em Portugal após complicação intestinal, segundo equipe da artista",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260508110552_fb8288f5ee48c0ca2b05ba3edad86c92d702278f9c1680aea78d3860e9797f11.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260508110552_a4e2322b0fd01703e626c404921569a63f932a8d78fc48a91d58195f7bc3858d.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "Parceiro histórico de Rita Lee, músico morreu em São Paulo",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260508100556_86f98854-224a-4c1d-9b2b-6ff5370e8418.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CCBB-RJ promove debate sobre biografia e memória com Ruy Castro e Heloisa Seixas",
-      "data": "",
-      "resumo": "Encontro de maio reúne autores para discutir memória, ficção e escrita como registro histórico",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260506170532_0c49768c5c18d6568d9cc8f961048c297f4d41caf524792866aa9e758f1731f2.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
