@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Participe do plano de conservação do centro histórico de Manaus (AM)",
+      "data": "08/05/2026",
+      "resumo": "08/05/2026 - Iphan promoverá encontros para ouvir quem trabalha e vive a cidade de perto",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-plano-de-conservacao-do-centro-historico-de-manaus-am/2015_am_manaus_cidade_jose-paulo-lacerda-2.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-plano-de-conservacao-do-centro-historico-de-manaus-am",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Igreja Nossa Senhora da Ajuda (ES) é entregue restaurada com o novo Centro de Interpretação Fazenda de Araçatiba",
       "data": "08/05/2026",
       "resumo": "08/05/2026 - Obra de restauro e readequação recebeu R$ 5 milhões via Lei Rouanet",
@@ -14,14 +22,6 @@
       "resumo": "07/05/2026 - População tem até 6 de junho para enviar contribuições",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-processo-de-registro-dos-lugares-sagrados-de-juazeiro-do-norte-ce/patio-igreja-matriz-foto-rivelino-mourao-arquivo-cariri-filmes-1-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/participe-do-processo-de-registro-dos-lugares-sagrados-de-juazeiro-do-norte-ce",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Centro Nacional de Arqueologia (CNA) completa 17 anos",
-      "data": "07/05/2026",
-      "resumo": "07/05/2026 - Unidade especial do Iphan tem avançado na modernização de seus instrumentos de gestão",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-nacional-de-arqueologia-cna-completa-17-anos/2009_ap_calcoene_parque-arqueologico_heitor-reali-11.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-nacional-de-arqueologia-cna-completa-17-anos",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260506170532_0c49768c5c18d6568d9cc8f961048c297f4d41caf524792866aa9e758f1731f2.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
-      "data": "04/05/2026",
-      "resumo": "04/05/2026 -\n                A funcionalidade de busca ficará indisponível por até uma hora",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4299-manutencao-no-sistema-de-busca-do-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Inscrições para Embaixadores Acadêmicos do CAS no Brasil são prorrogadas até 10 de maio",
-      "data": "04/05/2026",
-      "resumo": "04/05/2026 -\n                Programa selecionará cinco pesquisadores, um por região, para promover o uso de informação científica; selecionados terão acesso à plataforma disponível no Portal de Periódicos da CAPES",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Embaixadores_Acadmicos.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4298-inscricoes-para-embaixadores-academicos-do-cas-no-brasil-sao-prorrogadas-ate-10-de-maio.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES promove palestras sobre publicação em acesso aberto com o acordo IEEE",
-      "data": "29/04/2026",
-      "resumo": "29/04/2026 -\n                Evento terá quatro cursos presenciais realizados na Bahia, Pernambuco, Ceará e Pará nas respectivas universidades federais de cada estado",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_matria_IEEE_e_Capes.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4297-capes-promove-palestras-sobre-publicacao-em-acesso-aberto-com-o-acordo-ieee.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
