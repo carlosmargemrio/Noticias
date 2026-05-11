@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan divulga resultado da primeira etapa do Mestrado Profissional",
+      "data": "11/05/2026",
+      "resumo": "11/05/2026 - Processo seletivo de 2026 contabilizou mais de 300 inscrições de candidatos de diferentes estados do país",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-primeira-etapa-do-mestrado-profissional/cc0a6e2b1efa42028ddc6b01d2bb9459.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-primeira-etapa-do-mestrado-profissional",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan participa de seminário em Maragogipe (BA) que celebra 176 anos de emancipação política do município",
       "data": "11/05/2026",
       "resumo": "11/05/2026 - Encontro realizado no dia 5 de maio apresentou projeto de requalificação e restauro da Casa de Câmara e Cadeia de Maragogipe",
@@ -14,14 +22,6 @@
       "resumo": "11/05/2026 - População tem até 9 de junho para enviar contribuições sobre o bem cultural",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/contribua-para-o-registro-do-oficio-de-raizeiras-e-raizeiros-do-cerrado/still-2024-07-28-215907_1-859-1-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/contribua-para-o-registro-do-oficio-de-raizeiras-e-raizeiros-do-cerrado",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Paço Imperial (RJ) promove programação gratuita com artistas em cartaz no centro cultural",
-      "data": "11/05/2026",
-      "resumo": "11/05/2026 - Atividades incluíram conversa com os artistas Anna Bella Geiger e Luiz Áquila",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/paco-imperial-rj-promove-programacao-gratuita-com-artistas-em-cartaz-no-centro-cultural/WhatsAppImage20260511at09.39.342.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/paco-imperial-rj-promove-programacao-gratuita-com-artistas-em-cartaz-no-centro-cultural",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
