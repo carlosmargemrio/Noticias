@@ -1,34 +1,42 @@
 {
   "noticias_sites": [
     {
-      "titulo": "Iphan em SC exibe filme sobre Engenhos de Farinha de Mandioca",
-      "data": "08/05/2026",
-      "resumo": "08/05/2026 - O documentário Farinhar é fruto do dossiê de registro do bem como patrimônio imaterial do Brasil",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-em-sc-exibe-filme-sobre-engenhos-de-farinha-de-mandioca/floripa_engenho-do-adilson_05-07-24_credito-rancho-cultural_8598.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-em-sc-exibe-filme-sobre-engenhos-de-farinha-de-mandioca",
+      "titulo": "Contribua para o registro do Ofício de Raizeiras e Raizeiros do Cerrado",
+      "data": "11/05/2026",
+      "resumo": "11/05/2026 - População tem até 9 de junho para enviar contribuições sobre o bem cultural",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/contribua-para-o-registro-do-oficio-de-raizeiras-e-raizeiros-do-cerrado/still-2024-07-28-215907_1-859-1-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/contribua-para-o-registro-do-oficio-de-raizeiras-e-raizeiros-do-cerrado",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan inicia restauração do Museu Arquidiocesano de Mariana, em Minas Gerais",
-      "data": "08/05/2026",
-      "resumo": "08/05/2026 - Obra é viabilizada pelo Novo PAC com investimento de R$ 2 milhões",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-restauracao-do-museu-arquidiocesano-de-mariana-em-minas-gerais/whatsapp-image-2026-05-08-at-14-20-31-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-inicia-restauracao-do-museu-arquidiocesano-de-mariana-em-minas-gerais",
+      "titulo": "Paço Imperial (RJ) promove programação gratuita com artistas em cartaz no centro cultural",
+      "data": "11/05/2026",
+      "resumo": "11/05/2026 - Atividades incluíram conversa com os artistas Anna Bella Geiger e Luiz Áquila",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/paco-imperial-rj-promove-programacao-gratuita-com-artistas-em-cartaz-no-centro-cultural/WhatsAppImage20260511at09.39.342.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/paco-imperial-rj-promove-programacao-gratuita-com-artistas-em-cartaz-no-centro-cultural",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan divulga distribuição de novas vagas para aprovados no CPNU-2",
-      "data": "08/05/2026",
-      "resumo": "08/05/2026 - Prazo para manifestar preferência por unidade de atuação vai até 15 de maio",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-distribuicao-de-novas-vagas-para-aprovados-no-cpnu-2/faixada-32-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-distribuicao-de-novas-vagas-para-aprovados-no-cpnu-2",
+      "titulo": "Tombamento do Cerro de Porongos, em Pinheiro Machado (RS), avança no Iphan",
+      "data": "11/05/2026",
+      "resumo": "11/05/2026 - No mês de abril, equipe do Instituto visitou o município gaúcho para finalizar o parecer técnico do processo de reconhecimento do local como Patrimônio Cultural do Brasil",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tombamento-de-porongos-no-rio-grande-do-sul-avanca-no-iphan/copy_of_DSC0093721.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/tombamento-de-porongos-no-rio-grande-do-sul-avanca-no-iphan",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Museu oficial dos Beatles será inaugurado em Londres em 2027",
+      "data": "",
+      "resumo": "Prédio histórico da Savile Row, onde a banda fez seu último show, abrigará acervo inédito e experiências imersivas para fãs",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026051112050_092112ce-f5bc-4863-b415-fd0734110483.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Um diário aberto sobre a Palestina e a memória ferida",
       "data": "",
       "resumo": "Em livro publicado pela Cosac, Lena Bergstein une palavra, imagem e investigação histórica para refletir sobre a Nakba, o exílio e o silenciamento",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026051110054_269684da9bdb964bc56966e592d4f71b6195334ed86e2c59cb36fac287933bb4.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026051110054_ef11d8e28ff54114dc54f3a59fef026046d133d32169604f9ce93e6c6d5495db.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -41,12 +49,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "O diabo veste Prada 2: uma reflexão sobre a crise e os dilemas do jornalismo na era digital",
-      "data": "",
-      "resumo": "Sequência do clássico transforma revista de moda em metáfora do colapso da velha imprensa diante das big techs e dos bilionários da era digital",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260510080520_f7b6fad4-8f51-4f2e-90b3-57b5afcd39f1.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 -\n                A funcionalidade de busca ficará indisponível por até uma hora",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4299-manutencao-no-sistema-de-busca-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Inscrições para Embaixadores Acadêmicos do CAS no Brasil são prorrogadas até 10 de maio",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 -\n                Programa selecionará cinco pesquisadores, um por região, para promover o uso de informação científica; selecionados terão acesso à plataforma disponível no Portal de Periódicos da CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Embaixadores_Acadmicos.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4298-inscricoes-para-embaixadores-academicos-do-cas-no-brasil-sao-prorrogadas-ate-10-de-maio.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES promove palestras sobre publicação em acesso aberto com o acordo IEEE",
+      "data": "29/04/2026",
+      "resumo": "29/04/2026 -\n                Evento terá quatro cursos presenciais realizados na Bahia, Pernambuco, Ceará e Pará nas respectivas universidades federais de cada estado",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_matria_IEEE_e_Capes.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4297-capes-promove-palestras-sobre-publicacao-em-acesso-aberto-com-o-acordo-ieee.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
