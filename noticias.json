@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan apresenta tombamento do Quilombo Tia Eva em evento contra o racismo em MS",
+      "data": "12/05/2026",
+      "resumo": "12/05/2026 - Evento reuniu lideranças quilombolas, movimentos sociais e gestores públicos",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-tombamento-do-quilombo-tia-eva-em-evento-contra-o-racismo-em-ms/whatsapp-image-2026-05-12-at-14-20-44-2-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-tombamento-do-quilombo-tia-eva-em-evento-contra-o-racismo-em-ms",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Precisa falar com o Iphan? Saiba como fazer",
       "data": "12/05/2026",
       "resumo": "12/05/2026 - Ouvidoria-Geral é canal direto de atendimento à população",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan participa de seminário em Maragogipe (BA) que celebra 176 anos de emancipação política do município",
-      "data": "11/05/2026",
-      "resumo": "11/05/2026 - Encontro realizado no dia 5 de maio apresentou projeto de requalificação e restauro da Casa de Câmara e Cadeia de Maragogipe",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-seminario-em-maragogipe-ba-que-celebra-176-anos-de-emancipacao-politica-do-municipio/whatsapp-image-2026-05-11-at-15-04-52-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-seminario-em-maragogipe-ba-que-celebra-176-anos-de-emancipacao-politica-do-municipio",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Biblioteca Jorge Amado recebe feira literária infantojuvenil com foco em periferias do Rio",
+      "data": "",
+      "resumo": "Literatura, música e quadrinhos marcam programação da 1a edição do Palavra Viva – Feira Literária Infantojuvenil",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026051216050_86a0eaac36fc9611622b2555e12e586af6cf8e4af6ae4b204039bf4c6777170b.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Museu oficial dos Beatles será inaugurado em Londres em 2027",
       "data": "",
       "resumo": "Prédio histórico da Savile Row, onde a banda fez seu último show, abrigará acervo inédito e experiências imersivas para fãs",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026051112050_092112ce-f5bc-4863-b415-fd0734110483.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026051112050_9f5be6e0-3e70-4e5f-b5fa-ca855529edd7.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "Em livro publicado pela Cosac, Lena Bergstein une palavra, imagem e investigação histórica para refletir sobre a Nakba, o exílio e o silenciamento",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026051110054_ef11d8e28ff54114dc54f3a59fef026046d133d32169604f9ce93e6c6d5495db.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Mural em Gaza homenageia Thiago Ávila",
-      "data": "",
-      "resumo": "Imagem em Al-Rimal mostra reconhecimento palestino à atuação solidária do brasileiro. Vídeo",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260510160548_7b759cb2-ad04-4d87-8bba-fbad370b8755.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
