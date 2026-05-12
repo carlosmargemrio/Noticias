@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Precisa falar com o Iphan? Saiba como fazer",
+      "data": "12/05/2026",
+      "resumo": "12/05/2026 - Ouvidoria-Geral é canal direto de atendimento à população",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/precisa-falar-com-o-iphan-saiba-como-fazer/a9af02f1-fbca-454c-bac5-43b2c2e6e805.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/precisa-falar-com-o-iphan-saiba-como-fazer",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan divulga resultado da primeira etapa do Mestrado Profissional",
       "data": "11/05/2026",
       "resumo": "11/05/2026 - Processo seletivo de 2026 contabilizou mais de 300 inscrições de candidatos de diferentes estados do país",
@@ -14,14 +22,6 @@
       "resumo": "11/05/2026 - Encontro realizado no dia 5 de maio apresentou projeto de requalificação e restauro da Casa de Câmara e Cadeia de Maragogipe",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-seminario-em-maragogipe-ba-que-celebra-176-anos-de-emancipacao-politica-do-municipio/whatsapp-image-2026-05-11-at-15-04-52-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-seminario-em-maragogipe-ba-que-celebra-176-anos-de-emancipacao-politica-do-municipio",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Contribua para o registro do Ofício de Raizeiras e Raizeiros do Cerrado",
-      "data": "11/05/2026",
-      "resumo": "11/05/2026 - População tem até 9 de junho para enviar contribuições sobre o bem cultural",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/contribua-para-o-registro-do-oficio-de-raizeiras-e-raizeiros-do-cerrado/still-2024-07-28-215907_1-859-1-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/contribua-para-o-registro-do-oficio-de-raizeiras-e-raizeiros-do-cerrado",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260510160548_7b759cb2-ad04-4d87-8bba-fbad370b8755.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 -\n                A funcionalidade de busca ficará indisponível por até uma hora",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4299-manutencao-no-sistema-de-busca-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Inscrições para Embaixadores Acadêmicos do CAS no Brasil são prorrogadas até 10 de maio",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 -\n                Programa selecionará cinco pesquisadores, um por região, para promover o uso de informação científica; selecionados terão acesso à plataforma disponível no Portal de Periódicos da CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Embaixadores_Acadmicos.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4298-inscricoes-para-embaixadores-academicos-do-cas-no-brasil-sao-prorrogadas-ate-10-de-maio.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES promove palestras sobre publicação em acesso aberto com o acordo IEEE",
+      "data": "29/04/2026",
+      "resumo": "29/04/2026 -\n                Evento terá quatro cursos presenciais realizados na Bahia, Pernambuco, Ceará e Pará nas respectivas universidades federais de cada estado",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_matria_IEEE_e_Capes.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4297-capes-promove-palestras-sobre-publicacao-em-acesso-aberto-com-o-acordo-ieee.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
