@@ -1,27 +1,27 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Ponte Hercílio Luz chega aos 100 anos como símbolo de Santa Catarina",
+      "data": "13/05/2026",
+      "resumo": "13/05/2026 - Centenário é marcado por tombamento e restaurações",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ponte-hercilio-luz-chega-aos-100-anos-como-simbolo-de-santa-catarina/2016_sc_florianopolis_ponte-hercilio-luz_fotografo-desconhecido-2.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/ponte-hercilio-luz-chega-aos-100-anos-como-simbolo-de-santa-catarina",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
+      "titulo": "Sítio Roberto Burle Marx recebe crianças e adolescentes durante a 6ª Jornadinha de Pintura",
+      "data": "13/05/2026",
+      "resumo": "13/05/2026 - O projeto também contempla alunos de escolas públicas da região",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-recebe-criancas-e-adolescentes-durante-a-6a-jornadinha-de-pintura/whatsapp-image-2026-05-11-at-15-43-41-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/sitio-roberto-burle-marx-recebe-criancas-e-adolescentes-durante-a-6a-jornadinha-de-pintura",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan apresenta tombamento do Quilombo Tia Eva em evento contra o racismo em MS",
       "data": "12/05/2026",
       "resumo": "12/05/2026 - Evento reuniu lideranças quilombolas, movimentos sociais e gestores públicos",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-tombamento-do-quilombo-tia-eva-em-evento-contra-o-racismo-em-ms/whatsapp-image-2026-05-12-at-14-20-44-2-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-apresenta-tombamento-do-quilombo-tia-eva-em-evento-contra-o-racismo-em-ms",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Precisa falar com o Iphan? Saiba como fazer",
-      "data": "12/05/2026",
-      "resumo": "12/05/2026 - Ouvidoria-Geral é canal direto de atendimento à população",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/precisa-falar-com-o-iphan-saiba-como-fazer/a9af02f1-fbca-454c-bac5-43b2c2e6e805.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/precisa-falar-com-o-iphan-saiba-como-fazer",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan divulga resultado da primeira etapa do Mestrado Profissional",
-      "data": "11/05/2026",
-      "resumo": "11/05/2026 - Processo seletivo de 2026 contabilizou mais de 300 inscrições de candidatos de diferentes estados do país",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-primeira-etapa-do-mestrado-profissional/cc0a6e2b1efa42028ddc6b01d2bb9459.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-divulga-resultado-da-primeira-etapa-do-mestrado-profissional",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026051110054_ef11d8e28ff54114dc54f3a59fef026046d133d32169604f9ce93e6c6d5495db.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
-      "data": "04/05/2026",
-      "resumo": "04/05/2026 -\n                A funcionalidade de busca ficará indisponível por até uma hora",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4299-manutencao-no-sistema-de-busca-do-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Inscrições para Embaixadores Acadêmicos do CAS no Brasil são prorrogadas até 10 de maio",
-      "data": "04/05/2026",
-      "resumo": "04/05/2026 -\n                Programa selecionará cinco pesquisadores, um por região, para promover o uso de informação científica; selecionados terão acesso à plataforma disponível no Portal de Periódicos da CAPES",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Embaixadores_Acadmicos.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4298-inscricoes-para-embaixadores-academicos-do-cas-no-brasil-sao-prorrogadas-ate-10-de-maio.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES promove palestras sobre publicação em acesso aberto com o acordo IEEE",
-      "data": "29/04/2026",
-      "resumo": "29/04/2026 -\n                Evento terá quatro cursos presenciais realizados na Bahia, Pernambuco, Ceará e Pará nas respectivas universidades federais de cada estado",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_matria_IEEE_e_Capes.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4297-capes-promove-palestras-sobre-publicacao-em-acesso-aberto-com-o-acordo-ieee.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
