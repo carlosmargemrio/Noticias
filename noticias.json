@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa das comemorações dos 13 anos do Museu do Doce da Ufpel, em Pelotas (RS)",
+      "data": "15/05/2026",
+      "resumo": "15/05/2026 - Programação gratuita e aberta ao público vai de 18/05 a 24/05",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-das-comemoracoes-dos-13-anos-do-museu-do-doce-da-ufpel-em-pelotas-rs/51361065168_a37f5dd6d2_b-1.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-das-comemoracoes-dos-13-anos-do-museu-do-doce-da-ufpel-em-pelotas-rs",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan recebe pedido de tombamento do Sítio Histórico do Alto Santo (AC)",
       "data": "14/05/2026",
       "resumo": "14/05/2026 - Local abriga a antiga residência e o túmulo de Mestre Irineu, fundador da doutrina do Daime, que une tradição amazônica, espiritualidade e religiosidade",
@@ -14,14 +22,6 @@
       "resumo": "14/05/2026 - Dissertação será defendida nesta sexta-feira (15/5)",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/licenciamento-ambiental-e-patrimonio-imaterial-em-mg-sao-tema-de-pesquisa/b5f55f4e2bbc4ea3a75e712787894784.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/licenciamento-ambiental-e-patrimonio-imaterial-em-mg-sao-tema-de-pesquisa",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Escritório técnico do Iphan em São Cristóvão (SE) recebe oficinas artísticas",
-      "data": "14/05/2026",
-      "resumo": "14/05/2026 - Próxima atividade é nesta sexta-feira, 15; inscrições são gratuitas",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/escritorio-tecnico-do-iphan-em-sao-cristovao-se-recebe-oficinas-artisticas/51372761129_f26bc8ede5_b-1-2.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/escritorio-tecnico-do-iphan-em-sao-cristovao-se-recebe-oficinas-artisticas",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220217180216_5fe18f3d-064c-4ea2-9822-88d087b7a16a.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
-      "data": "04/05/2026",
-      "resumo": "04/05/2026 -\n                A funcionalidade de busca ficará indisponível por até uma hora",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4299-manutencao-no-sistema-de-busca-do-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Inscrições para Embaixadores Acadêmicos do CAS no Brasil são prorrogadas até 10 de maio",
-      "data": "04/05/2026",
-      "resumo": "04/05/2026 -\n                Programa selecionará cinco pesquisadores, um por região, para promover o uso de informação científica; selecionados terão acesso à plataforma disponível no Portal de Periódicos da CAPES",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Embaixadores_Acadmicos.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4298-inscricoes-para-embaixadores-academicos-do-cas-no-brasil-sao-prorrogadas-ate-10-de-maio.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES promove palestras sobre publicação em acesso aberto com o acordo IEEE",
-      "data": "29/04/2026",
-      "resumo": "29/04/2026 -\n                Evento terá quatro cursos presenciais realizados na Bahia, Pernambuco, Ceará e Pará nas respectivas universidades federais de cada estado",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_matria_IEEE_e_Capes.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4297-capes-promove-palestras-sobre-publicacao-em-acesso-aberto-com-o-acordo-ieee.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
