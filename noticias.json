@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20220217180216_5fe18f3d-064c-4ea2-9822-88d087b7a16a.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 -\n                A funcionalidade de busca ficará indisponível por até uma hora",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4299-manutencao-no-sistema-de-busca-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Inscrições para Embaixadores Acadêmicos do CAS no Brasil são prorrogadas até 10 de maio",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 -\n                Programa selecionará cinco pesquisadores, um por região, para promover o uso de informação científica; selecionados terão acesso à plataforma disponível no Portal de Periódicos da CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Embaixadores_Acadmicos.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4298-inscricoes-para-embaixadores-academicos-do-cas-no-brasil-sao-prorrogadas-ate-10-de-maio.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES promove palestras sobre publicação em acesso aberto com o acordo IEEE",
+      "data": "29/04/2026",
+      "resumo": "29/04/2026 -\n                Evento terá quatro cursos presenciais realizados na Bahia, Pernambuco, Ceará e Pará nas respectivas universidades federais de cada estado",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_matria_IEEE_e_Capes.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4297-capes-promove-palestras-sobre-publicacao-em-acesso-aberto-com-o-acordo-ieee.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
