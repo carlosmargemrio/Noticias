@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan avança na construção do Plano de Conservação do Centro Histórico de Manaus",
+      "data": "15/05/2026",
+      "resumo": "15/05/2026 - Escutas públicas realizadas em maio precedem as oficinas de conservação previstas para julho; processo vai culminar na elaboração do Plano de Conservação, Zeladoria e Educação Patrimonial do Centro Histórico da capital amazonense",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-avanca-na-construcao-do-plano-de-conservacao-do-centro-historico-de-manaus/whatsapp-image-2026-05-15-at-14-29-29-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-avanca-na-construcao-do-plano-de-conservacao-do-centro-historico-de-manaus",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Bembé do Mercado completa 137 anos de tradição em evento com participação do Iphan",
       "data": "15/05/2026",
       "resumo": "15/05/2026 - Manifestação é reconhecida como Patrimônio Cultural Imaterial do Brasil desde 2019",
@@ -14,14 +22,6 @@
       "resumo": "15/05/2026 - Seminário sobre documentação e informação histórica regional completa 50 anos e destaca patrimônio arqueológico e ação cultural no Nordeste",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-mediara-mesa-redonda-sobre-arqueologia-em-joao-pessoa-na-paraiba/whatsapp-image-2026-05-15-at-10-55-49-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-mediara-mesa-redonda-sobre-arqueologia-em-joao-pessoa-na-paraiba",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan participa das comemorações dos 13 anos do Museu do Doce da Ufpel, em Pelotas (RS)",
-      "data": "15/05/2026",
-      "resumo": "15/05/2026 - Programação gratuita e aberta ao público vai de 18/05 a 24/05",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-das-comemoracoes-dos-13-anos-do-museu-do-doce-da-ufpel-em-pelotas-rs/51361065168_a37f5dd6d2_b-1.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-das-comemoracoes-dos-13-anos-do-museu-do-doce-da-ufpel-em-pelotas-rs",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
