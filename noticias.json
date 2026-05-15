@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Bembé do Mercado completa 137 anos de tradição em evento com participação do Iphan",
+      "data": "15/05/2026",
+      "resumo": "15/05/2026 - Manifestação é reconhecida como Patrimônio Cultural Imaterial do Brasil desde 2019",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/bembe-do-mercado-completa-137-anos-de-tradicao-em-evento-com-participacao-do-iphan/WhatsAppImage20260515at13.12.59.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/bembe-do-mercado-completa-137-anos-de-tradicao-em-evento-com-participacao-do-iphan",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan mediará mesa-redonda sobre arqueologia em João Pessoa, na Paraíba",
       "data": "15/05/2026",
       "resumo": "15/05/2026 - Seminário sobre documentação e informação histórica regional completa 50 anos e destaca patrimônio arqueológico e ação cultural no Nordeste",
@@ -14,14 +22,6 @@
       "resumo": "15/05/2026 - Programação gratuita e aberta ao público vai de 18/05 a 24/05",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-das-comemoracoes-dos-13-anos-do-museu-do-doce-da-ufpel-em-pelotas-rs/51361065168_a37f5dd6d2_b-1.jpg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-das-comemoracoes-dos-13-anos-do-museu-do-doce-da-ufpel-em-pelotas-rs",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan recebe pedido de tombamento do Sítio Histórico do Alto Santo (AC)",
-      "data": "14/05/2026",
-      "resumo": "14/05/2026 - Local abriga a antiga residência e o túmulo de Mestre Irineu, fundador da doutrina do Daime, que une tradição amazônica, espiritualidade e religiosidade",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-pedido-de-tombamento-do-sitio-historico-do-alto-santo-ac/whatsapp-image-2026-05-14-at-13-59-25-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-recebe-pedido-de-tombamento-do-sitio-historico-do-alto-santo-ac",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
