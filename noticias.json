@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan e Governo do Maranhão celebram parceria para restauração de edificações no Centro Histórico de São Luís (MA)",
+      "data": "18/05/2026",
+      "resumo": "18/05/2026 - Cerimônia destacou investimentos de mais de R$ 41 milhões em obras de preservação do patrimônio cultural",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-governo-do-maranhao-celebram-parceria-para-restauracao-de-edificacoes-no-centro-historico-de-sao-luis-ma/mg_1397-jpg-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-governo-do-maranhao-celebram-parceria-para-restauracao-de-edificacoes-no-centro-historico-de-sao-luis-ma",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan marca presença no 26º Festival da Quitanda em Congonhas, em Minas Gerais",
       "data": "18/05/2026",
       "resumo": "18/05/2026 - O Ofício das Quitandeiras está em processo de instrução técnica para se tornar patrimônio cultural imaterial do Brasil",
@@ -14,14 +22,6 @@
       "resumo": "15/05/2026 - Escutas públicas realizadas em maio precedem as oficinas de conservação previstas para julho; processo vai culminar na elaboração do Plano de Conservação, Zeladoria e Educação Patrimonial do Centro Histórico da capital amazonense",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-avanca-na-construcao-do-plano-de-conservacao-do-centro-historico-de-manaus/whatsapp-image-2026-05-15-at-14-29-29-1.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-avanca-na-construcao-do-plano-de-conservacao-do-centro-historico-de-manaus",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Bembé do Mercado completa 137 anos de tradição em evento com participação do Iphan",
-      "data": "15/05/2026",
-      "resumo": "15/05/2026 - Manifestação é reconhecida como Patrimônio Cultural Imaterial do Brasil desde 2019",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/bembe-do-mercado-completa-137-anos-de-tradicao-em-evento-com-participacao-do-iphan/WhatsAppImage20260515at13.12.59.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/bembe-do-mercado-completa-137-anos-de-tradicao-em-evento-com-participacao-do-iphan",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
