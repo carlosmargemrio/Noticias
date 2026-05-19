@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan e UFG divulgam selecionados do projeto “Café e Cultura na Casa do Patrimônio”",
+      "data": "19/05/2026",
+      "resumo": "19/05/2026 - Programação gratuita percorre Cidade de Goiás, Goiânia e Pirenópolis com 11 apresentações artísticas e culturais ao longo de 2026",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufg-divulgam-selecionados-do-projeto-201ccafe-e-cultura-na-casa-do-patrimonio201d/whatsapp-image-2026-05-18-at-14-55-03-3.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-ufg-divulgam-selecionados-do-projeto-201ccafe-e-cultura-na-casa-do-patrimonio201d",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Iphan e Governo do Maranhão celebram parceria para restauração de edificações no Centro Histórico de São Luís (MA)",
       "data": "18/05/2026",
       "resumo": "18/05/2026 - Cerimônia destacou investimentos de mais de R$ 41 milhões em obras de preservação do patrimônio cultural",
@@ -14,14 +22,6 @@
       "resumo": "18/05/2026 - O Ofício das Quitandeiras está em processo de instrução técnica para se tornar patrimônio cultural imaterial do Brasil",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-marca-presenca-no-26o-festival-da-quitanda-em-congonhas-em-minas-gerais/quitandeiras.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-marca-presenca-no-26o-festival-da-quitanda-em-congonhas-em-minas-gerais",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Iphan avança na construção do Plano de Conservação do Centro Histórico de Manaus",
-      "data": "15/05/2026",
-      "resumo": "15/05/2026 - Escutas públicas realizadas em maio precedem as oficinas de conservação previstas para julho; processo vai culminar na elaboração do Plano de Conservação, Zeladoria e Educação Patrimonial do Centro Histórico da capital amazonense",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-avanca-na-construcao-do-plano-de-conservacao-do-centro-historico-de-manaus/whatsapp-image-2026-05-15-at-14-29-29-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-avanca-na-construcao-do-plano-de-conservacao-do-centro-historico-de-manaus",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,30 +47,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260517200516_a3d19609054a317f156207485cef9813f0060f54b9fe6b53f11e19b51186b6b3.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
-      "data": "04/05/2026",
-      "resumo": "04/05/2026 -\n                A funcionalidade de busca ficará indisponível por até uma hora",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4299-manutencao-no-sistema-de-busca-do-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Inscrições para Embaixadores Acadêmicos do CAS no Brasil são prorrogadas até 10 de maio",
-      "data": "04/05/2026",
-      "resumo": "04/05/2026 -\n                Programa selecionará cinco pesquisadores, um por região, para promover o uso de informação científica; selecionados terão acesso à plataforma disponível no Portal de Periódicos da CAPES",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Embaixadores_Acadmicos.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4298-inscricoes-para-embaixadores-academicos-do-cas-no-brasil-sao-prorrogadas-ate-10-de-maio.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES promove palestras sobre publicação em acesso aberto com o acordo IEEE",
-      "data": "29/04/2026",
-      "resumo": "29/04/2026 -\n                Evento terá quatro cursos presenciais realizados na Bahia, Pernambuco, Ceará e Pará nas respectivas universidades federais de cada estado",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_matria_IEEE_e_Capes.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4297-capes-promove-palestras-sobre-publicacao-em-acesso-aberto-com-o-acordo-ieee.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
