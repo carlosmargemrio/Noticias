@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Iphan participa de salão mundial de restauro",
+      "data": "20/05/2026",
+      "resumo": "20/05/2026 - Delegação brasileira esteve presente no evento RESTAURO 2026, em Ferrara (Itália), fortalecendo cooperação com o país europeu na preservação do patrimônio cultural",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-salao-mundial-de-restauro/whatsapp-image-2026-05-13-at-15-18-05-1.jpeg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-participa-de-salao-mundial-de-restauro",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Publicada retificação do resultado da primeira etapa do Mestrado Profissional 2026 para ampla concorrência",
       "data": "20/05/2026",
       "resumo": "20/05/2026 - Candidatos que tiveram seus recursos deferidos prosseguem para a segunda etapa",
@@ -14,14 +22,6 @@
       "resumo": "19/05/2026 - Iniciativa reúne Iphan, IFPI e UFPI com palestras, oficinas e inventário participativo ao bairro Vermelha, em Teresina, até junho",
       "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cafe-com-historia-projeto-na-igreja-de-nossa-senhora-de-lourdes-torna-espaco-vivo-palco-de-experiencia-em-educacao-patrimonial/whatsapp-image-2026-05-18-at-10-53-56-2.jpeg/@@images/image",
       "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/cafe-com-historia-projeto-na-igreja-de-nossa-senhora-de-lourdes-torna-espaco-vivo-palco-de-experiencia-em-educacao-patrimonial",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
-    },
-    {
-      "titulo": "Mostra celebra a cultura popular e a memória brasileira no CNFCP",
-      "data": "19/05/2026",
-      "resumo": "19/05/2026 - “Nobreza Popular – O Cinema de Beth Formaggini” integra a 24ª Semana Nacional de Museus",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mostra-celebra-a-cultura-popular-e-a-memoria-brasileira-no-cnfcp/mostra-nobreza-popular-programacao-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/mostra-celebra-a-cultura-popular-e-a-memoria-brasileira-no-cnfcp",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260519160532_bee3ecfa345151dd9e17a8260a60b851ed914532e11fb7c4e017a7e00b6eb1d5.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 -\n                A funcionalidade de busca ficará indisponível por até uma hora",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4299-manutencao-no-sistema-de-busca-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Inscrições para Embaixadores Acadêmicos do CAS no Brasil são prorrogadas até 10 de maio",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 -\n                Programa selecionará cinco pesquisadores, um por região, para promover o uso de informação científica; selecionados terão acesso à plataforma disponível no Portal de Periódicos da CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Embaixadores_Acadmicos.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4298-inscricoes-para-embaixadores-academicos-do-cas-no-brasil-sao-prorrogadas-ate-10-de-maio.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES promove palestras sobre publicação em acesso aberto com o acordo IEEE",
+      "data": "29/04/2026",
+      "resumo": "29/04/2026 -\n                Evento terá quatro cursos presenciais realizados na Bahia, Pernambuco, Ceará e Pará nas respectivas universidades federais de cada estado",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_matria_IEEE_e_Capes.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4297-capes-promove-palestras-sobre-publicacao-em-acesso-aberto-com-o-acordo-ieee.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
