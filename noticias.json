@@ -1,6 +1,14 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Publicada retificação do resultado da primeira etapa do Mestrado Profissional 2026 para ampla concorrência",
+      "data": "20/05/2026",
+      "resumo": "20/05/2026 - Candidatos que tiveram seus recursos deferidos prosseguem para a segunda etapa",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/publicada-retificacao-do-resultado-da-primeira-etapa-do-mestrado-profissional-2026-para-ampla-concorrencia/clc.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/publicada-retificacao-do-resultado-da-primeira-etapa-do-mestrado-profissional-2026-para-ampla-concorrencia",
+      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+    },
+    {
       "titulo": "Café com história: projeto na Igreja de Nossa Senhora de Lourdes torna espaço vivo palco de experiência em educação patrimonial",
       "data": "19/05/2026",
       "resumo": "19/05/2026 - Iniciativa reúne Iphan, IFPI e UFPI com palestras, oficinas e inventário participativo ao bairro Vermelha, em Teresina, até junho",
@@ -17,18 +25,18 @@
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan promove encontro com comunidade de São Lourenço (PE)",
-      "data": "19/05/2026",
-      "resumo": "19/05/2026 - Atividade reuniu moradores e comunidade quilombola para debater preservação da igreja local",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-com-comunidade-de-sao-lourenco-pe/xxxxWhatsAppImage20260518at20.22.421.png/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-encontro-com-comunidade-de-sao-lourenco-pe",
-      "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
+      "titulo": "Filme sobre Carolina Maria de Jesus vence prêmio em Cannes",
+      "data": "",
+      "resumo": "Longa dirigido por Jeferson De e estrelado por Maria Gal recebeu prêmio de 10 mil euros no Marché du Film do Festival de Cannes",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260520110532_1fe86bc1990e6a49d65916707a67980f54281fa632f8f7ecd46771d7319c3c5c.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
     },
     {
       "titulo": "Trailer de Dark Horse é divulgado em meio à pressão sobre Flávio Bolsonaro",
       "data": "",
       "resumo": "Filme sobre Jair Bolsonaro recebeu cifras milionárias de Daniel Vorcaro, preso por suspeita de fraudes bilionárias. Vídeo",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260519160540_da394aeb-361f-423e-95ac-b853ca1ed6e5.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260519160540_c165fdc6-cf53-452c-a7cb-2a4a9014edf7.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -37,14 +45,6 @@
       "data": "",
       "resumo": "Evento reunirá estudantes e cineastas de 15 países; curta produzido por alunas da Penha Circular representará o Brasil nos debates e exibições",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260519160532_bee3ecfa345151dd9e17a8260a60b851ed914532e11fb7c4e017a7e00b6eb1d5.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Cantora e compositora Paula Souto celebra 25 anos de carreira com show autoral e single que denuncia misoginia",
-      "data": "",
-      "resumo": "Lançamento do single \"Medo da Noite\" nas plataformas e show de músicas autorais acontecem, respectivamente, nos dias 25 e 28 de maio.",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260518130516_42f2db25c7570e2269be368e2f0362bc6a88020d2bab353c052d295ed58cdb8a.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
