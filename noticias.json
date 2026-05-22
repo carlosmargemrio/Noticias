@@ -1,27 +1,27 @@
 {
   "noticias_sites": [
     {
-      "titulo": "Iphan e OBEC Bahia realizam estudo no Território Indígena Wajãpi, no Amapá",
+      "titulo": "Santa Tereza (RS) avança na recuperação do patrimônio cultural com apoio do Iphan",
       "data": "22/05/2026",
-      "resumo": "22/05/2026 - Pesquisa procura contribuir para ações de salvaguarda e construção de subsídios que apoiem a continuidade e a proteção da Arte Kusiwa.",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-obec-bahia-realizam-estudo-no-territorio-indigena-wajapi-no-amapa/pesquisa_iphan_obec-ba_wajapi-10_carrossel.jpg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-e-obec-bahia-realizam-estudo-no-territorio-indigena-wajapi-no-amapa",
+      "resumo": "22/05/2026 - Imóveis da área tombada da cidade foram atingidos pelas enchentes que assolaram o estado em 2023 e 2024; Instituto atua na reconstrução por meio do Programa Conviver",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/santa-tereza-rs-avanca-na-recuperacao-do-patrimonio-cultural-com-apoio-do-iphan/centrohistoricosantaaterezars-2.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/santa-tereza-rs-avanca-na-recuperacao-do-patrimonio-cultural-com-apoio-do-iphan",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan promove I Seminário Mato-Grossense de Arquivos de Referência para o Patrimônio em Cuiabá",
+      "titulo": "Centro Nacional de Arqueologia promove webinário sobre mudanças climáticas; participe",
       "data": "22/05/2026",
-      "resumo": "22/05/2026 - Evento reuniu pesquisadores, estudantes e profissionais para debater gestão, preservação e função social dos arquivos patrimoniais",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-i-seminario-mato-grossense-de-arquivos-de-referencia-para-o-patrimonio-em-cuiaba/whatsapp-image-2026-05-21-at-15-56-45-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-promove-i-seminario-mato-grossense-de-arquivos-de-referencia-para-o-patrimonio-em-cuiaba",
+      "resumo": "22/05/2026 - Evento terá transmissão ao vivo no canal do Iphan no Youtube, no dia 2 de junho",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-nacional-de-arqueologia-promove-webinario-sobre-mudancas-climaticas-participe/women-standing-dry-soil-fishing-gear-global-warming-water-crisis-2.jpg/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/centro-nacional-de-arqueologia-promove-webinario-sobre-mudancas-climaticas-participe",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
-      "titulo": "Iphan realiza visita técnica em bens tombados de Acari, no RN",
-      "data": "21/05/2026",
-      "resumo": "21/05/2026 - Adjacências da Igreja de Nossa Senhora do Rosário e da antiga Casa de Câmara e Cadeia sofreram intervenções não autorizadas pelo Instituto",
-      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-visita-tecnica-em-bens-tombados-de-acari-no-rn/whatsapp-image-2026-05-21-at-16-37-18-1.jpeg/@@images/image",
-      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/iphan-realiza-visita-tecnica-em-bens-tombados-de-acari-no-rn",
+      "titulo": "Memória, transparência e cidadania: Iphan debate o papel estratégico dos arquivos públicos",
+      "data": "22/05/2026",
+      "resumo": "22/05/2026 - O Centro de Documentação do Patrimônio (CDP) reuniu gestores, pesquisadores e arquivistas em dois dias de discussão sobre políticas públicas de preservação documental",
+      "imagem": "https://www.gov.br/iphan/pt-br/assuntos/noticias/memoria-transparencia-e-cidadania-iphan-debate-o-papel-estrategico-dos-arquivos-publicos/seminario_arquivo_destaque-1.png/@@images/image",
+      "link": "https://www.gov.br/iphan/pt-br/assuntos/noticias/memoria-transparencia-e-cidadania-iphan-debate-o-papel-estrategico-dos-arquivos-publicos",
       "fonte": "https://www.gov.br/iphan/pt-br/assuntos/noticias"
     },
     {
@@ -47,6 +47,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260520110532_376b295f1eb6049d8c09e547c4fec79be7ed97ca6e1cbed522d2a2491ace2bcf.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 -\n                A funcionalidade de busca ficará indisponível por até uma hora",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4299-manutencao-no-sistema-de-busca-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Inscrições para Embaixadores Acadêmicos do CAS no Brasil são prorrogadas até 10 de maio",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 -\n                Programa selecionará cinco pesquisadores, um por região, para promover o uso de informação científica; selecionados terão acesso à plataforma disponível no Portal de Periódicos da CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Embaixadores_Acadmicos.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4298-inscricoes-para-embaixadores-academicos-do-cas-no-brasil-sao-prorrogadas-ate-10-de-maio.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES promove palestras sobre publicação em acesso aberto com o acordo IEEE",
+      "data": "29/04/2026",
+      "resumo": "29/04/2026 -\n                Evento terá quatro cursos presenciais realizados na Bahia, Pernambuco, Ceará e Pará nas respectivas universidades federais de cada estado",
+      "imagem": "https://www.periodicos.capes.gov.br/images/Imagem_matria_IEEE_e_Capes.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4297-capes-promove-palestras-sobre-publicacao-em-acesso-aberto-com-o-acordo-ieee.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
