@@ -1,10 +1,18 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Podcast Ritmo estreia com democracia, cultura e direitos humanos",
+      "data": "",
+      "resumo": "Programa do Instituto Commbne reúne artistas, influenciadores e humoristas para debater identidade, direitos, cultura popular e democracia",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260525170536_6cf3ed42b01f1615ececac72ccf44df6120635d9a8d16b7dbb768ed65467778b.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Como será a Tela Brasil, plataforma de streaming de filmes nacionais",
       "data": "",
       "resumo": "Serviço público de streaming será lançado pelo governo federal com catálogo gratuito de produções brasileiras e foco na valorização do audiovisual nacional",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260525140556_6dc39de5-eb8f-49b7-9bf2-ad7a59b280a2.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260525140556_14746cd0-0c15-4a34-81c8-d4ea4244e03c.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -17,12 +25,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Produtora de filme sobre Bolsonaro tentou captar R$ 8,6 milhões via Lei Rouanet",
-      "data": "",
-      "resumo": "Sócia da Go Up buscou incentivos culturais para quatro projetos e obteve R$ 107 mil para espetáculo de balé",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260519160540_c165fdc6-cf53-452c-a7cb-2a4a9014edf7.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "CAPES atualiza normas para pagamento de taxas de publicação em acesso aberto",
+      "data": "25/05/2026",
+      "resumo": "25/05/2026 -\n                Portaria simplifica fluxo do processo de pagamento de Taxas de Processamento de Artigos e estabelece critérios mais objetivos para pesquisadores",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_nova_portaria.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4300-capes-atualiza-normas-para-pagamento-de-taxas-de-publicacao-em-acesso-aberto.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 -\n                A funcionalidade de busca ficará indisponível por até uma hora",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4299-manutencao-no-sistema-de-busca-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Inscrições para Embaixadores Acadêmicos do CAS no Brasil são prorrogadas até 10 de maio",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 -\n                Programa selecionará cinco pesquisadores, um por região, para promover o uso de informação científica; selecionados terão acesso à plataforma disponível no Portal de Periódicos da CAPES",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Embaixadores_Acadmicos.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4298-inscricoes-para-embaixadores-academicos-do-cas-no-brasil-sao-prorrogadas-ate-10-de-maio.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
