@@ -1,10 +1,18 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Plataforma Tela Brasil: Lula lança streaming público e gratuito do audiovisual nacional",
+      "data": "",
+      "resumo": "Lançamento será realizado neste sábado (30), às 12h, na Cidade das Artes, na Barra da Tijuca, no Rio de Janeiro",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260523060544_d541b06b-9320-49f7-a5b1-f19401ff8497.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "BH recebe lançamento de \"O mestre e o moço: as cartas de Mário de Andrade & Wilson Castelo Branco\"",
       "data": "",
       "resumo": "Evento na Academia Mineira de Letras contará com uma conversa entre Maria Cristina Castello Branco, Henrique José Castelo Branco e João Pombo Barile",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260527160528_4eefdc46c71b2e04218ea7027580da6fa8b65d70aa764b52ad90fe924803aa8f.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260527160528_1396df1c81a7a4f4176d16de40bd063c6aa7edd9e02b1bda8de2130112cb6b7e.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -15,38 +23,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260527160512_caed45962d7f7e970730cc149390c953477b9eeb3c6482a2bb32aea7287206d2.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Podcast Ritmo estreia com democracia, cultura e direitos humanos",
-      "data": "",
-      "resumo": "Programa do Instituto Commbne reúne artistas, influenciadores e humoristas para debater identidade, direitos, cultura popular e democracia",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260525170536_d95a8d59468cb11bd6fdcbc7de601c6a2a6fb8eab3d2f0f6ae87ef1c38aebf2c.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES atualiza normas para pagamento de taxas de publicação em acesso aberto",
-      "data": "25/05/2026",
-      "resumo": "25/05/2026 -\n                Portaria simplifica fluxo do processo de pagamento de Taxas de Processamento de Artigos e estabelece critérios mais objetivos para pesquisadores",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_nova_portaria.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4300-capes-atualiza-normas-para-pagamento-de-taxas-de-publicacao-em-acesso-aberto.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
-      "data": "04/05/2026",
-      "resumo": "04/05/2026 -\n                A funcionalidade de busca ficará indisponível por até uma hora",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4299-manutencao-no-sistema-de-busca-do-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Inscrições para Embaixadores Acadêmicos do CAS no Brasil são prorrogadas até 10 de maio",
-      "data": "04/05/2026",
-      "resumo": "04/05/2026 -\n                Programa selecionará cinco pesquisadores, um por região, para promover o uso de informação científica; selecionados terão acesso à plataforma disponível no Portal de Periódicos da CAPES",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Embaixadores_Acadmicos.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/97-eventos/4298-inscricoes-para-embaixadores-academicos-do-cas-no-brasil-sao-prorrogadas-ate-10-de-maio.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
