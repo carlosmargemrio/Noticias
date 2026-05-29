@@ -23,6 +23,30 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260527160512_caed45962d7f7e970730cc149390c953477b9eeb3c6482a2bb32aea7287206d2.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Portal de Periódicos oferece treinamentos em junho",
+      "data": "28/05/2026",
+      "resumo": "28/05/2026 -\n                Treinamentos do Portal de Periódicos da CAPES acontecem a partir do dia 1º de junho, com atividades gratuitas ao longo do mês",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4301-portal-de-periodicos-oferece-treinamentos-em-junho.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES atualiza normas para pagamento de taxas de publicação em acesso aberto",
+      "data": "25/05/2026",
+      "resumo": "25/05/2026 -\n                Portaria simplifica fluxo do processo de pagamento de Taxas de Processamento de Artigos e estabelece critérios mais objetivos para pesquisadores",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_nova_portaria.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4300-capes-atualiza-normas-para-pagamento-de-taxas-de-publicacao-em-acesso-aberto.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
+      "data": "04/05/2026",
+      "resumo": "04/05/2026 -\n                A funcionalidade de busca ficará indisponível por até uma hora",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4299-manutencao-no-sistema-de-busca-do-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
