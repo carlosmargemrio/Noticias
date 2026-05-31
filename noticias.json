@@ -1,10 +1,18 @@
 {
   "noticias_sites": [
     {
+      "titulo": "A cultura faz a gente \"enxergar mais longe\", defende Lula",
+      "data": "",
+      "resumo": "Para o presidente, cultura deve ser política de Estado",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260531060536_5a455f70-2f62-434d-9ebb-13e98368db7b.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Lula lança Tela Brasil e exalta papel da cultura na soberania nacional",
       "data": "",
       "resumo": "Presidente participou do lançamento do streaming público de produções brasileiras e destacou impacto econômico e social da cultura",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260530150544_32e0b6c54a16a52c9bf2d428a9a523f244dd4d12266b61c5f6b663ee920f67c2.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260530150544_b746b7623acbede2e6ca8a872cb9b3386a0e0620905ab80431c894a528c38900.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -15,38 +23,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260530090536_a7ad0987cdbfb48e3e6d5ab3ae12a1e13efc56e72bea9046e56bc0303205b5d8.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Plataforma Tela Brasil: Lula lança streaming público e gratuito do audiovisual nacional",
-      "data": "",
-      "resumo": "Lançamento será realizado neste sábado (30), às 12h, na Cidade das Artes, na Barra da Tijuca, no Rio de Janeiro",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260523060544_952d70cc-8539-484d-ab71-cc8352b6e951.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Portal de Periódicos oferece treinamentos em junho",
-      "data": "28/05/2026",
-      "resumo": "28/05/2026 -\n                Treinamentos do Portal de Periódicos da CAPES acontecem a partir do dia 1º de junho, com atividades gratuitas ao longo do mês",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4301-portal-de-periodicos-oferece-treinamentos-em-junho.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES atualiza normas para pagamento de taxas de publicação em acesso aberto",
-      "data": "25/05/2026",
-      "resumo": "25/05/2026 -\n                Portaria simplifica fluxo do processo de pagamento de Taxas de Processamento de Artigos e estabelece critérios mais objetivos para pesquisadores",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_nova_portaria.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4300-capes-atualiza-normas-para-pagamento-de-taxas-de-publicacao-em-acesso-aberto.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
-      "data": "04/05/2026",
-      "resumo": "04/05/2026 -\n                A funcionalidade de busca ficará indisponível por até uma hora",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4299-manutencao-no-sistema-de-busca-do-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
