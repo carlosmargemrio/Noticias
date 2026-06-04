@@ -1,52 +1,28 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Marjane Satrapi morre aos 56 anos e deixa legado na cultura mundial",
+      "data": "",
+      "resumo": "Autora de \"Persépolis\" e pioneira no Oscar de animação faleceu na França; obra marcou gerações ao retratar o Irã pós-Revolução Islâmica",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260604080616_67326dde5e1ed908a84ab88095b7504ef7e684aad140d13fa0a567ebd16ca2aa.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Tela Brasil atinge 2,3 milhões de visualizações em dois dias",
+      "data": "",
+      "resumo": "Plataforma gratuita do Ministério da Cultura reúne 500 produções nacionais e teve pico de 53 mil usuários simultâneos",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260530090536_a7ad0987cdbfb48e3e6d5ab3ae12a1e13efc56e72bea9046e56bc0303205b5d8.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Marilyn Monroe completa 100 anos e é homenageada com mostra especial no MIS de São Paulo",
       "data": "",
       "resumo": "Museu exibe 12 filmes da estrela de Hollywood entre 2 e 7 de junho, em celebração ao centenário da atriz",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20190521010536_3891f4d5bd49fbf7c2b4a7b612ebc65bf1a3802da66dff11294f55910efd82b2.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20190521010536_0804b4a58c28a45622c94ca3fe8063ca77e2279fbdcab51ecb74f3b37aea38bc.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "A cultura faz a gente \"enxergar mais longe\", defende Lula",
-      "data": "",
-      "resumo": "Para o presidente, cultura deve ser política de Estado",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260531060532_8921ba9d10db7d6f7971bbf5645b15912c170314b198159b8f3457f7412ff453.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Lula lança Tela Brasil e exalta papel da cultura na soberania nacional",
-      "data": "",
-      "resumo": "Presidente participou do lançamento do streaming público de produções brasileiras e destacou impacto econômico e social da cultura",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260530150544_b746b7623acbede2e6ca8a872cb9b3386a0e0620905ab80431c894a528c38900.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Portal de Periódicos oferece treinamentos em junho",
-      "data": "28/05/2026",
-      "resumo": "28/05/2026 -\n                Treinamentos do Portal de Periódicos da CAPES acontecem a partir do dia 1º de junho, com atividades gratuitas ao longo do mês",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4301-portal-de-periodicos-oferece-treinamentos-em-junho.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES atualiza normas para pagamento de taxas de publicação em acesso aberto",
-      "data": "25/05/2026",
-      "resumo": "25/05/2026 -\n                Portaria simplifica fluxo do processo de pagamento de Taxas de Processamento de Artigos e estabelece critérios mais objetivos para pesquisadores",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_nova_portaria.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4300-capes-atualiza-normas-para-pagamento-de-taxas-de-publicacao-em-acesso-aberto.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
-      "data": "04/05/2026",
-      "resumo": "04/05/2026 -\n                A funcionalidade de busca ficará indisponível por até uma hora",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4299-manutencao-no-sistema-de-busca-do-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
