@@ -1,10 +1,18 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Portinari em Pequim: “o desenvolvimento da China é aquilo que meu pai sonhou para o Brasil”, diz João Candido Portinari",
+      "data": "",
+      "resumo": "Mostra apresenta a milhões de chineses o pintor que transformou trabalhadores e excluídos em protagonistas da arte brasileira",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260609010652_291ed36a-0ae1-4008-b9b7-4b324b05ce56.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Portinari em Pequim: quando a arte do povo brasileiro encontra o desenvolvimento socialista chinês",
       "data": "",
       "resumo": "Exposição histórica no Museu Nacional da China projeta ao mundo a obra do artista que transformou os trabalhadores e os excluídos em protagonistas",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260608200640_131b9737-0ce1-4a14-a8c0-02bffba900f1.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260608200640_c71a8ea8-0c3b-4a1a-8197-7b65571411fd.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -17,12 +25,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Nando Reis defende Renato Freitas após parecer por cassação",
-      "data": "",
-      "resumo": "Cantor presta solidariedade ao deputado do PT-PR após Conselho de Ética da Alep recomendar perda do mandato. Vídeo",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260604180636_51688301931a8fe0f70e3f285249a808ffb267287abb9b99520fa240de51a525.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "Portal de Periódicos da CAPES garante ao Brasil a liderança na democratização do acesso ao conhecimento científico",
+      "data": "08/06/2026",
+      "resumo": "08/06/2026 -\n                Em congresso de editores, foram apresentadas iniciativas voltadas à comunicação científica e à valorização das revistas acadêmicas brasileiras",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Capes_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4302-portal-de-periodicos-da-capes-garante-ao-brasil-a-lideranca-na-democratizacao-do-acesso-ao-conhecimento-cientifico.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Portal de Periódicos oferece treinamentos em junho",
+      "data": "28/05/2026",
+      "resumo": "28/05/2026 -\n                Treinamentos do Portal de Periódicos da CAPES acontecem a partir do dia 1º de junho, com atividades gratuitas ao longo do mês",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_junho.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4301-portal-de-periodicos-oferece-treinamentos-em-junho.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES atualiza normas para pagamento de taxas de publicação em acesso aberto",
+      "data": "25/05/2026",
+      "resumo": "25/05/2026 -\n                Portaria simplifica fluxo do processo de pagamento de Taxas de Processamento de Artigos e estabelece critérios mais objetivos para pesquisadores",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_nova_portaria.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4300-capes-atualiza-normas-para-pagamento-de-taxas-de-publicacao-em-acesso-aberto.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
