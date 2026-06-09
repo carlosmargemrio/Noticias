@@ -1,10 +1,18 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Portinari em Pequim: quando a arte do povo brasileiro encontra o desenvolvimento socialista chinês",
+      "data": "",
+      "resumo": "Exposição histórica no Museu Nacional da China projeta ao mundo a obra do artista que transformou os trabalhadores e os excluídos em protagonistas",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260608200640_131b9737-0ce1-4a14-a8c0-02bffba900f1.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Lula \"de carne e osso\", diz Fernando Morais, sobre biografia do presidente",
       "data": "",
       "resumo": "Escritor falou na Feira do Livro sobre a biografia de Lula e os desafios de narrar um personagem vivo",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20231125121120_f962f8eb7d9985bae84b3a4566bc98d99bea9c48a55aebc88c9c42c999664b5a.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20231125121120_6b3cd554e6c9b6e1ea05cd24d4d3a09e6a437c8acd68b48369d74ebe2517e823.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -13,14 +21,6 @@
       "data": "",
       "resumo": "Cantor presta solidariedade ao deputado do PT-PR após Conselho de Ética da Alep recomendar perda do mandato. Vídeo",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260604180636_51688301931a8fe0f70e3f285249a808ffb267287abb9b99520fa240de51a525.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Documentário Manguebit refaz a memória de um movimento que reinventou a cultura brasileira",
-      "data": "",
-      "resumo": "Documentário de Jura Capela revisita a memória do Manguebeat, articulando passado e presente de uma experiência estética e política",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20190523080512_20f1760187795ca1517ab680125d002f7bcf03f955c69d87f8363a0f2c393d4d.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
