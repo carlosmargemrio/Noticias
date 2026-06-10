@@ -1,10 +1,18 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Morre Orlando Senna, referência em cinema, TV pública e cultura",
+      "data": "",
+      "resumo": "Cineasta marcou o cinema brasileiro e latino-americano com obras como Iracema, Uma Transa Amazônica",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260609210648_487c7c56-8933-4da5-a738-f03033b93406.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Portinari emociona Pequim: discursos de João Candido Portinari e Luo Wenli celebram amizade entre Brasil e China",
       "data": "",
       "resumo": "Filho do artista e diretor do Museu Nacional da China destacam a arte como ponte entre civilizações, valor dos trabalhadores e a busca por desenvolvimento",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260609180612_6222f3e07acdf567babcacbeef954723fd092dee6e5ee77cb08e1c85eced65c0.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260609180612_ac1ef223-dafb-485c-9fea-3c15b14d2e9e.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -13,14 +21,6 @@
       "data": "",
       "resumo": "Regina Casé revelou detalhes sobre o processo de produção do documentário que vai reconstituir o acidente",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20210409210440_26d3807708144a51d27b0579e5d1ebcd0ecadae06aaec7012b35200b11d7dc1b.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Portinari em Pequim: “o desenvolvimento da China é aquilo que meu pai sonhou para o Brasil”, diz João Candido Portinari",
-      "data": "",
-      "resumo": "Mostra apresenta a milhões de chineses o pintor que transformou trabalhadores e excluídos em protagonistas da arte brasileira",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260609010652_7db56558-d3cc-4a15-a132-ebcd6e4626d3.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
