@@ -1,10 +1,18 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Colunista do 247 lança livro sobre a luta do povo do Saara Ocidental",
+      "data": "",
+      "resumo": "Livro é uma das mais abrangentes obras em língua portuguesa dedicadas à luta do povo do Saara Ocidental",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260612150620_592cad05-700a-494f-81c5-8b70d65af645.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Jennifer Lopez chora ao falar que 'Ainda Estou Aqui' a curou por dentro (vídeo)",
       "data": "",
       "resumo": "A cantora e atriz revelou ao podcast Films To Be Buried With que o filme de Fernanda Torres a transformou durante o divórcio de Ben Affleck",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260610210624_6da3f4c7-8d1e-453b-bd3d-6a64c04eefe1.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260610210624_74047224-bfa0-4b07-9412-170db65152a3.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -13,14 +21,6 @@
       "data": "",
       "resumo": "Cineasta marcou o cinema brasileiro e latino-americano com obras como Iracema, Uma Transa Amazônica",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260609210648_3090ea30-0496-4853-94ab-3564c9b2494f.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Portinari emociona Pequim: discursos de João Candido Portinari e Luo Wenli celebram amizade entre Brasil e China",
-      "data": "",
-      "resumo": "Filho do artista e diretor do Museu Nacional da China destacam a arte como ponte entre civilizações, valor dos trabalhadores e a busca por desenvolvimento",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260609180612_ac1ef223-dafb-485c-9fea-3c15b14d2e9e.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
