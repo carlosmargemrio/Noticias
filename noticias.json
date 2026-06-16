@@ -1,10 +1,18 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Morre aos 78 anos Raimundo Carrero, escritor pernambucano que criou a lenda da Perna Cabeluda",
+      "data": "",
+      "resumo": "Escritor pernambucano integrante do Movimento Armorial faleceu após enfrentar um câncer",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026061608064_03919b237ddbfde45bf168537f859442953f3b103f2280cc3940b9c919e560a2.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Colunista do 247 lança livro sobre a luta do povo do Saara Ocidental",
       "data": "",
       "resumo": "Livro é uma das mais abrangentes obras em língua portuguesa dedicadas à luta do povo do Saara Ocidental",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260612150620_592cad05-700a-494f-81c5-8b70d65af645.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260612150620_87ceb811-ffff-405e-ba0e-6955f714735f.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -15,38 +23,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260610210624_74047224-bfa0-4b07-9412-170db65152a3.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Morre Orlando Senna, referência em cinema, TV pública e cultura",
-      "data": "",
-      "resumo": "Cineasta marcou o cinema brasileiro e latino-americano com obras como Iracema, Uma Transa Amazônica",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260609210648_3090ea30-0496-4853-94ab-3564c9b2494f.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES promove treinamento sobre SciELO no dia 18 de junho",
-      "data": "12/06/2026",
-      "resumo": "12/06/2026 -\n                Treinamento integra ciclo “Fronteiras do Saber” e apresenta vantagens da publicação em acesso aberto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Curso_escrita_cientfica.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4303-capes-promove-treinamento-sobre-scielo-no-dia-18-de-junho.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos da CAPES garante ao Brasil a liderança na democratização do acesso ao conhecimento científico",
-      "data": "08/06/2026",
-      "resumo": "08/06/2026 -\n                Em congresso de editores, foram apresentadas iniciativas voltadas à comunicação científica e à valorização das revistas acadêmicas brasileiras",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_Capes_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4302-portal-de-periodicos-da-capes-garante-ao-brasil-a-lideranca-na-democratizacao-do-acesso-ao-conhecimento-cientifico.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Portal de Periódicos oferece treinamentos em junho",
-      "data": "28/05/2026",
-      "resumo": "28/05/2026 -\n                Treinamentos do Portal de Periódicos da CAPES acontecem a partir do dia 1º de junho, com atividades gratuitas ao longo do mês",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_treinamentos_junho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4301-portal-de-periodicos-oferece-treinamentos-em-junho.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
