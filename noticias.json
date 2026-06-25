@@ -1,10 +1,18 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Filme sobre Marília Mendonça é anunciado; saiba quem será a cantora",
+      "data": "",
+      "resumo": "O anúncio da escolha do elenco marca o início da fase de produção da obra",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20211107081136_ade359d1a259cdfaa9afab877743e159408b2696ba89fab28e9f5cecbe6da183.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Casa Oficial da Cultura Caiçara estreia durante a Flip e propõe que Paraty conte a própria história",
       "data": "",
       "resumo": "Iniciativa dedicada integralmente à cultura caiçara reúne literatura, memória, música, artes visuais, tradição oral e produção contemporânea",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026062510064_0ceb72c95c83d932e8325696914190677931d9fed903f6f544d6013eccbde010.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026062510064_1913586c4b0c91981ad8adf87b62a5ec5a3ec677a534332100e769326b482d74.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -17,12 +25,28 @@
       "fonte": "Brasil 247"
     },
     {
-      "titulo": "Entenda por que o mantra Hare Krishna é tão poderoso — mesmo para quem não compreende seu significado e só o escuta",
-      "data": "",
-      "resumo": "Tradição milenar ensina que o som do maha-mantra atua diretamente na consciência humana, promovendo transformação interior, serenidade e conexão espiritual",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260620210636_8665ba63-ba7f-4f61-8c86-7151346062ad.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
+      "titulo": "CAPES e Biblioteca Nacional firmam termo de adesão ao Portal de Periódicos",
+      "data": "23/06/2026",
+      "resumo": "23/06/2026 -\n                Parceria garante a inclusão da FBN no Programa de Apoio à Disseminação de Informação Científica e Tecnológica",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_biblioteca_nacional.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4305-capes-e-biblioteca-nacional-firmam-termo-de-adesao-ao-portal-de-periodicos.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
+      "data": "16/06/2026",
+      "resumo": "16/06/2026 -\n                A funcionalidade de busca ficará temporariamente indisponível por até uma hora",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4304-manutencao-no-sistema-de-busca-do-portal-de-periodicos-2.html",
+      "fonte": "Periódicos CAPES"
+    },
+    {
+      "titulo": "CAPES promove treinamento sobre SciELO no dia 18 de junho",
+      "data": "12/06/2026",
+      "resumo": "12/06/2026 -\n                Treinamento integra ciclo “Fronteiras do Saber” e apresenta vantagens da publicação em acesso aberto",
+      "imagem": "https://www.periodicos.capes.gov.br/images/news/Curso_escrita_cientfica.png",
+      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4303-capes-promove-treinamento-sobre-scielo-no-dia-18-de-junho.html",
+      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
