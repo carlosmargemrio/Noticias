@@ -1,10 +1,18 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Portinari emociona público chinês e fortalece laços culturais entre Brasil e China",
+      "data": "",
+      "resumo": "Exposição em Pequim apresenta a obra do artista brasileiro a milhões de visitantes e consolida a cultura como ponte entre os dois países",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260609010652_291ed36a-0ae1-4008-b9b7-4b324b05ce56.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "23º Cinemato: Migrações, clima e a homenagem a Amauri Tangará na UFMT",
       "data": "",
       "resumo": "Com foco em urgências contemporâneas e migrações, edição de 2026 reúne produções selecionadas entre 600 inscritos no Teatro da UFMT",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260626150616_c3d3c356febdf6de9c466a4052edc832447e043b676bb0f9b66ac5d6b0838ad4.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260626150616_320e758eec94d6183d75a0c0a06cbfe621a10583230bc07c26159213ddaa691d.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -13,14 +21,6 @@
       "data": "",
       "resumo": "Ho-Ho e o Som do Brasil será exibida na CCTV-14, canal infantil da televisão pública chinesa, e reforça a diplomacia cultural entre os dois países",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260626120632_f2717d44-e2cc-413f-ab81-b7aee0f8a87a.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Guimarães Rosa e a travessia eterna do Brasil profundo",
-      "data": "",
-      "resumo": "Aos 118 anos de seu nascimento, o autor de “Grande Sertão: Veredas” permanece como uma das vozes mais universais da literatura brasileira",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260626090636_fc528a7d-be9b-4604-893a-0e71183c982e.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
