@@ -1,10 +1,18 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Livro celebra 20 anos da CineOP e propõe reflexão ampliada sobre preservação e memória do cinema brasileiro",
+      "data": "",
+      "resumo": "Lançamento em Ouro Preto reflete sobre os desafios da memória audiovisual e propõe preservação expandida como resistência cultural",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260628170652_59c29f81-1d65-4b35-91cc-9507b3b2ac6f.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Beijing tem festa junina em clima de Copa do Mundo",
       "data": "",
       "resumo": "Festa junina em Beijing reúne brasileiros e chineses com comidas típicas, quadrilha, samba e referências à Copa do Mundo",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026062808068_caff941b63ba497d4feeaa80f2a0345fb73e16e4083b2a0574f6beb2ef5f5e57.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026062808068_7250f4677017caef77e7be61ae05154d651d39b3e34828c691d4fa17d15be8d8.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -15,38 +23,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026062723068_b92d7fe3-02b3-4e13-b8fd-b4567eff0abe.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Como os ragas indianos transformam a mente e desafiam a ciência moderna",
-      "data": "",
-      "resumo": "Tradição milenar da Índia ganha respaldo de pesquisas sobre cérebro, emoção e meditação e revela o poder da música como ferramenta de equilíbrio interior",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026062723060_18931ea2-a1ae-450e-a065-48b8ddcbf01b.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES e Biblioteca Nacional firmam termo de adesão ao Portal de Periódicos",
-      "data": "23/06/2026",
-      "resumo": "23/06/2026 -\n                Parceria garante a inclusão da FBN no Programa de Apoio à Disseminação de Informação Científica e Tecnológica",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_biblioteca_nacional.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4305-capes-e-biblioteca-nacional-firmam-termo-de-adesao-ao-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
-      "data": "16/06/2026",
-      "resumo": "16/06/2026 -\n                A funcionalidade de busca ficará temporariamente indisponível por até uma hora",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4304-manutencao-no-sistema-de-busca-do-portal-de-periodicos-2.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES promove treinamento sobre SciELO no dia 18 de junho",
-      "data": "12/06/2026",
-      "resumo": "12/06/2026 -\n                Treinamento integra ciclo “Fronteiras do Saber” e apresenta vantagens da publicação em acesso aberto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Curso_escrita_cientfica.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4303-capes-promove-treinamento-sobre-scielo-no-dia-18-de-junho.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
