@@ -1,52 +1,28 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Os quatro pilares da felicidade: o que a filosofia hindu ensina sobre riqueza, prazer, ética e liberdade",
+      "data": "",
+      "resumo": "Civilização indiana formulou uma das mais sofisticadas concepções sobre o sentido da existência, baseada no equilíbrio entre quatro objetivos fundamentais",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026062723068_6ca61cee-a446-4a68-9c73-b4879af468e4.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
+      "titulo": "Como os ragas indianos transformam a mente e desafiam a ciência moderna",
+      "data": "",
+      "resumo": "Tradição milenar da Índia ganha respaldo de pesquisas sobre cérebro, emoção e meditação e revela o poder da música como ferramenta de equilíbrio interior",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026062723060_18931ea2-a1ae-450e-a065-48b8ddcbf01b.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Portinari emociona público chinês e fortalece laços culturais entre Brasil e China",
       "data": "",
       "resumo": "Exposição em Pequim apresenta a obra do artista brasileiro a milhões de visitantes e consolida a cultura como ponte entre os dois países",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260609010652_291ed36a-0ae1-4008-b9b7-4b324b05ce56.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260609010652_7db56558-d3cc-4a15-a132-ebcd6e4626d3.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "23º Cinemato: Migrações, clima e a homenagem a Amauri Tangará na UFMT",
-      "data": "",
-      "resumo": "Com foco em urgências contemporâneas e migrações, edição de 2026 reúne produções selecionadas entre 600 inscritos no Teatro da UFMT",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260626150616_320e758eec94d6183d75a0c0a06cbfe621a10583230bc07c26159213ddaa691d.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Primeira coprodução de animação entre Brasil e China ganha destaque na imprensa chinesa e mira audiência histórica",
-      "data": "",
-      "resumo": "Ho-Ho e o Som do Brasil será exibida na CCTV-14, canal infantil da televisão pública chinesa, e reforça a diplomacia cultural entre os dois países",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260626120632_f2717d44-e2cc-413f-ab81-b7aee0f8a87a.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "CAPES e Biblioteca Nacional firmam termo de adesão ao Portal de Periódicos",
-      "data": "23/06/2026",
-      "resumo": "23/06/2026 -\n                Parceria garante a inclusão da FBN no Programa de Apoio à Disseminação de Informação Científica e Tecnológica",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_biblioteca_nacional.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4305-capes-e-biblioteca-nacional-firmam-termo-de-adesao-ao-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
-      "data": "16/06/2026",
-      "resumo": "16/06/2026 -\n                A funcionalidade de busca ficará temporariamente indisponível por até uma hora",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4304-manutencao-no-sistema-de-busca-do-portal-de-periodicos-2.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES promove treinamento sobre SciELO no dia 18 de junho",
-      "data": "12/06/2026",
-      "resumo": "12/06/2026 -\n                Treinamento integra ciclo “Fronteiras do Saber” e apresenta vantagens da publicação em acesso aberto",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Curso_escrita_cientfica.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4303-capes-promove-treinamento-sobre-scielo-no-dia-18-de-junho.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
