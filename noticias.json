@@ -1,10 +1,18 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Livro resgata legado da revolucionária Alexina Crêspo, mulher de Francisco Julião",
+      "data": "",
+      "resumo": "Obra organizada por Raul Calle de Paula reúne poemas, cartas e documentos da revolucionária pernambucana",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260630110636_a92b2ef6990770cb055183264218e7ee7cd7ec552c3b3aa6c370be26189893ea.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "Myrlla Muniz é destaque em grande homenagem a Chico Buarque no Clube do Choro",
       "data": "",
       "resumo": "Entre música, poesia e memória, elenco de excelência revisita a obra de Chico Buarque em noite que celebra um dos maiores criadores da cultura brasileira",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260629090648_2e6aafbb99bb53790a568eb1482f34b9892b3ca2394f0ed0356c729f2f23e216.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260629090648_4b0b6d32adf298f3113a6a450a324b1793bd6a0d56df08269f40d5efbe5fe1ce.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -13,14 +21,6 @@
       "data": "",
       "resumo": "Lançamento em Ouro Preto reflete sobre os desafios da memória audiovisual e propõe preservação expandida como resistência cultural",
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260628170652_d03f0f35-8b97-457f-b22c-f341d16a2271.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Beijing tem festa junina em clima de Copa do Mundo",
-      "data": "",
-      "resumo": "Festa junina em Beijing reúne brasileiros e chineses com comidas típicas, quadrilha, samba e referências à Copa do Mundo",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2026062808068_7250f4677017caef77e7be61ae05154d651d39b3e34828c691d4fa17d15be8d8.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     }
