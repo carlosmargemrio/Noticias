@@ -1,10 +1,18 @@
 {
   "noticias_sites": [
     {
+      "titulo": "Estudos inéditos apontam alcance nacional da Política Aldir Blanc de Fomento à Cultura",
+      "data": "",
+      "resumo": "Estudos inéditos do Ministério da Cultura mostram execução de R$ 3 bilhões, alcance nacional e impacto sobre mais de 167 mil agentes culturais",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260630180636_60cbf6e2-410e-4dd1-92b1-85290f26d48c.webp?w=3840&q=95",
+      "link": "",
+      "fonte": "Brasil 247"
+    },
+    {
       "titulo": "MEC Livros atinge marca de mais de 1 milhão de usuários cadastrados",
       "data": "",
       "resumo": "Plataforma reúne mais de 25 mil livros, soma 593.387 empréstimos e oferece acesso gratuito à literatura",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260630160616_5c6621c447515db49372ec7c03d9e57f99164bf504e17df2c2670b9bfce32c06.webp?w=3840&q=95",
+      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260630160616_0a730d5f9835d58f97e36481cccc8afcbd261013db3bd73316bdf37068f8f744.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
     },
@@ -15,38 +23,6 @@
       "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2024110809114_ca097f2d33d017394f222ad74520ba908916bd01a97d5b75acf1ea7d9e527cd2.webp?w=3840&q=95",
       "link": "",
       "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Livro resgata legado da revolucionária Alexina Crêspo, mulher de Francisco Julião",
-      "data": "",
-      "resumo": "Obra organizada por Raul Calle de Paula reúne poemas, cartas e documentos da revolucionária pernambucana",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260630110636_aa2a2dfd1ad5d2feabf62e411b73bd72b7498c4f3c5c5c9aad8c88999331b481.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Portal de Periódicos oferece treinamentos em julho",
-      "data": "29/06/2026",
-      "resumo": "29/06/2026 -\n                Programação inclui temas como currículo Lattes, redação científica, LGPD e preservação digital",
-      "imagem": "https://www.periodicos.capes.gov.br/images/Matria_Treinamentos_Julho.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/108-treinamentos/4306-portal-de-periodicos-oferece-treinamentos-em-julho.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "CAPES e Biblioteca Nacional firmam termo de adesão ao Portal de Periódicos",
-      "data": "23/06/2026",
-      "resumo": "23/06/2026 -\n                Parceria garante a inclusão da FBN no Programa de Apoio à Disseminação de Informação Científica e Tecnológica",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Matria_biblioteca_nacional.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/103-portal-de-peri%C3%B3dicos/4305-capes-e-biblioteca-nacional-firmam-termo-de-adesao-ao-portal-de-periodicos.html",
-      "fonte": "Periódicos CAPES"
-    },
-    {
-      "titulo": "Manutenção no sistema de busca do Portal de Periódicos",
-      "data": "16/06/2026",
-      "resumo": "16/06/2026 -\n                A funcionalidade de busca ficará temporariamente indisponível por até uma hora",
-      "imagem": "https://www.periodicos.capes.gov.br/images/news/Atualizao_Portal.png",
-      "link": "https://www.periodicos.capes.gov.br/index.php/informativos/107-suporte/4304-manutencao-no-sistema-de-busca-do-portal-de-periodicos-2.html",
-      "fonte": "Periódicos CAPES"
     }
   ],
   "noticias_escritorio": [
