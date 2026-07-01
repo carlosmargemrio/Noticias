@@ -1,30 +1,5 @@
 {
-  "noticias_sites": [
-    {
-      "titulo": "Estudos inéditos apontam alcance nacional da Política Aldir Blanc de Fomento à Cultura",
-      "data": "",
-      "resumo": "Estudos inéditos do Ministério da Cultura mostram execução de R$ 3 bilhões, alcance nacional e impacto sobre mais de 167 mil agentes culturais",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260630180636_60cbf6e2-410e-4dd1-92b1-85290f26d48c.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "MEC Livros atinge marca de mais de 1 milhão de usuários cadastrados",
-      "data": "",
-      "resumo": "Plataforma reúne mais de 25 mil livros, soma 593.387 empréstimos e oferece acesso gratuito à literatura",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/20260630160616_0a730d5f9835d58f97e36481cccc8afcbd261013db3bd73316bdf37068f8f744.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    },
-    {
-      "titulo": "Petrobras lança maior edital cultural da história com investimento de R$ 270 milhões",
-      "data": "",
-      "resumo": "Nova seleção pública destinará recursos a projetos culturais de todo o Brasil por meio da Lei Rouanet e da Lei do Audiovisual",
-      "imagem": "https://cdn.brasil247.com/pb-b247gcp/swp/jtjeq9/media/2024110809114_ca097f2d33d017394f222ad74520ba908916bd01a97d5b75acf1ea7d9e527cd2.webp?w=3840&q=95",
-      "link": "",
-      "fonte": "Brasil 247"
-    }
-  ],
+  "noticias_sites": [],
   "noticias_escritorio": [
     {
       "titulo": "ETSRN-PI Inicia Banco de Imagens  de Sítios  Arqueológicos",
